@@ -2629,7 +2629,7 @@
    "image": {
     "file": "natural--nero-cosmos-stargate--alt1.webp",
     "status": "slab",
-    "source": "mayfairgranite.co.uk",
+    "source": "web",
     "borrowedFrom": "shared natural image (natural--nero-cosmos-stargate)"
    },
    "genericId": "natural--nero-cosmos-stargate"
@@ -4005,7 +4005,7 @@
    "image": {
     "file": "natural--absolute-black--alt1.webp",
     "status": "slab",
-    "source": "mayfairgranite.co.uk",
+    "source": "web",
     "borrowedFrom": "shared natural image (natural--absolute-black)"
    },
    "genericId": "natural--absolute-black"
@@ -4025,7 +4025,7 @@
    "image": {
     "file": "natural--absolute-black--alt1.webp",
     "status": "slab",
-    "source": "mayfairgranite.co.uk",
+    "source": "web",
     "borrowedFrom": "shared natural image (natural--absolute-black-extra)"
    },
    "genericId": "natural--absolute-black-extra"
@@ -4063,8 +4063,8 @@
    "productUrl": "",
    "image": {
     "file": "bloomstones--amaranth.webp",
-    "status": "closeup-only",
-    "source": "onedrive-brands-folder",
+    "status": "slab",
+    "source": "static.wixstatic.com",
     "borrowedFrom": ""
    }
   },
@@ -4478,7 +4478,7 @@
    "image": {
     "file": "natural--black-galaxy--alt1.webp",
     "status": "slab",
-    "source": "affordablegranite.co.uk",
+    "source": "web",
     "borrowedFrom": "shared natural image (natural--black-galaxy)"
    },
    "genericId": "natural--black-galaxy"
@@ -6634,7 +6634,7 @@
    "image": {
     "file": "natural--polaris--alt1.webp",
     "status": "slab",
-    "source": "affordablegranite.co.uk",
+    "source": "mykitchenworktop.co.uk",
     "borrowedFrom": "shared natural image (natural--polaris)"
    },
    "genericId": "natural--polaris"
@@ -9242,7 +9242,7 @@
    "image": {
     "file": "natural--nero-angola--alt1.webp",
     "status": "slab",
-    "source": "affordablegranite.co.uk",
+    "source": "toucanstone.co.uk",
     "borrowedFrom": "shared natural image (natural--nero-angola)"
    },
    "genericId": "natural--nero-angola"
@@ -9754,7 +9754,7 @@
    "image": {
     "file": "natural--silk--alt1.webp",
     "status": "slab",
-    "source": "svws.co.uk",
+    "source": "primestones.com",
     "borrowedFrom": "shared natural image (natural--silk)"
    },
    "genericId": "natural--silk"
@@ -10487,8 +10487,8 @@
    "productUrl": "https://crlstone.co.uk/?s=Ananda+Blanco",
    "image": {
     "file": "crl--ananda-blanco.webp",
-    "status": "closeup-only",
-    "source": "crlstone.co.uk",
+    "status": "slab",
+    "source": "web",
     "borrowedFrom": ""
    }
   },
@@ -10681,7 +10681,7 @@
    "image": {
     "file": "crl--brazza-crema.webp",
     "status": "slab",
-    "source": "crlstone.co.uk",
+    "source": "web",
     "borrowedFrom": ""
    }
   },
@@ -10813,7 +10813,7 @@
    "image": {
     "file": "crl--clear-white.webp",
     "status": "slab",
-    "source": "crlstone.co.uk",
+    "source": "web",
     "borrowedFrom": ""
    }
   },
@@ -11851,7 +11851,7 @@
    "image": {
     "file": "crl--polar-white.webp",
     "status": "slab",
-    "source": "crlstone.co.uk",
+    "source": "web",
     "borrowedFrom": ""
    }
   },
@@ -12215,7 +12215,7 @@
    "image": {
     "file": "crl--statuario-verde.webp",
     "status": "slab",
-    "source": "crlstone.co.uk",
+    "source": "web",
     "borrowedFrom": ""
    }
   },
@@ -12254,7 +12254,7 @@
    "image": {
     "file": "crl--storm-gris.webp",
     "status": "slab",
-    "source": "crlstone.co.uk",
+    "source": "web",
     "borrowedFrom": ""
    }
   },
@@ -12274,7 +12274,7 @@
    "image": {
     "file": "crl--storm-negro.webp",
     "status": "slab",
-    "source": "crlstone.co.uk",
+    "source": "web",
     "borrowedFrom": ""
    }
   },
@@ -12392,8 +12392,8 @@
    "productUrl": "https://crlstone.co.uk/?s=Totem+Gris",
    "image": {
     "file": "crl--totem-gris.webp",
-    "status": "closeup-only",
-    "source": "crlstone.co.uk",
+    "status": "slab",
+    "source": "web",
     "borrowedFrom": ""
    }
   },
@@ -12664,7 +12664,7 @@
    "image": {
     "file": "caesarstone--andes-trail.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "caesarstone.co.uk",
     "borrowedFrom": ""
    }
   },
@@ -13633,7 +13633,7 @@
    "image": {
     "file": "caesarstone--sedara.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "caesarstone.co.uk",
     "borrowedFrom": ""
    }
   },
@@ -14559,8 +14559,8 @@
    "productUrl": "",
    "image": {
     "file": "clay-international--extra-statuario.webp",
-    "status": "closeup-only",
-    "source": "onedrive-brands-folder",
+    "status": "slab",
+    "source": "web",
     "borrowedFrom": ""
    }
   },
@@ -14879,7 +14879,7 @@
    "image": {
     "file": "clay-international--pigalle.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "clayinternational.co.uk",
     "borrowedFrom": ""
    }
   },
@@ -15236,8 +15236,8 @@
    "productUrl": "",
    "image": {
     "file": "clay-international--statuario-principe.webp",
-    "status": "closeup-only",
-    "source": "onedrive-brands-folder",
+    "status": "slab",
+    "source": "web",
     "borrowedFrom": ""
    }
   },
@@ -15254,8 +15254,8 @@
    "productUrl": "",
    "image": {
     "file": "clay-international--statuario-principe-vein-tech.webp",
-    "status": "closeup-only",
-    "source": "onedrive-brands-folder",
+    "status": "slab",
+    "source": "infinitysurfaces.it",
     "borrowedFrom": ""
    }
   },
@@ -15503,7 +15503,7 @@
    "image": {
     "file": "compac--absolute-blanc.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "en.compac.es",
     "borrowedFrom": ""
    }
   },
@@ -15521,7 +15521,7 @@
    "image": {
     "file": "compac--alaska.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "en.compac.es",
     "borrowedFrom": ""
    }
   },
@@ -15539,7 +15539,7 @@
    "image": {
     "file": "compac--arena.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "en.compac.es",
     "borrowedFrom": ""
    }
   },
@@ -15558,7 +15558,7 @@
    "image": {
     "file": "compac--carrara.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "en.compac.es",
     "borrowedFrom": ""
    }
   },
@@ -15576,7 +15576,7 @@
    "image": {
     "file": "compac--ceniza.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "en.compac.es",
     "borrowedFrom": ""
    }
   },
@@ -15595,7 +15595,7 @@
    "image": {
     "file": "compac--elegance-michelangelo.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "en.compac.es",
     "borrowedFrom": ""
    }
   },
@@ -15613,7 +15613,7 @@
    "image": {
     "file": "compac--glaciar.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "en.compac.es",
     "borrowedFrom": ""
    }
   },
@@ -15652,7 +15652,7 @@
    "image": {
     "file": "compac--ice-black-zero.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "en.compac.es",
     "borrowedFrom": "shared natural image (natural--ice-black-zero)"
    },
    "genericId": "natural--ice-black-zero"
@@ -15672,7 +15672,7 @@
    "image": {
     "file": "compac--ice-gold.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "en.compac.es",
     "borrowedFrom": ""
    }
   },
@@ -15691,7 +15691,7 @@
    "image": {
     "file": "compac--ice-green.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "en.compac.es",
     "borrowedFrom": ""
    }
   },
@@ -15709,7 +15709,7 @@
    "productUrl": "https://en.compac.es/?s=Ice+Ink",
    "image": {
     "file": "compac--ice-ink.webp",
-    "status": "closeup-only",
+    "status": "slab",
     "source": "en.compac.es",
     "borrowedFrom": ""
    }
@@ -15729,7 +15729,7 @@
    "image": {
     "file": "compac--ice-max-black-zero.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "en.compac.es",
     "borrowedFrom": "shared natural image (natural--ice-max-black-zero)"
    },
    "genericId": "natural--ice-max-black-zero"
@@ -15748,7 +15748,7 @@
    "productUrl": "https://en.compac.es/?s=Ice+Max+Gold",
    "image": {
     "file": "compac--ice-max-gold.webp",
-    "status": "closeup-only",
+    "status": "slab",
     "source": "en.compac.es",
     "borrowedFrom": ""
    }
@@ -15767,7 +15767,7 @@
    "productUrl": "https://en.compac.es/?s=Ice+Max+Green",
    "image": {
     "file": "compac--ice-max-green.webp",
-    "status": "closeup-only",
+    "status": "slab",
     "source": "en.compac.es",
     "borrowedFrom": ""
    }
@@ -15787,7 +15787,7 @@
    "image": {
     "file": "compac--ice-max-pure.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "en.compac.es",
     "borrowedFrom": ""
    }
   },
@@ -15805,7 +15805,7 @@
    "productUrl": "https://en.compac.es/?s=Ice+Max+Viola",
    "image": {
     "file": "compac--ice-max-viola.webp",
-    "status": "closeup-only",
+    "status": "slab",
     "source": "en.compac.es",
     "borrowedFrom": ""
    }
@@ -15825,7 +15825,7 @@
    "image": {
     "file": "compac--ice-viola.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "en.compac.es",
     "borrowedFrom": ""
    }
   },
@@ -15862,7 +15862,7 @@
    "image": {
     "file": "compac--luna.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "en.compac.es",
     "borrowedFrom": ""
    }
   },
@@ -15881,7 +15881,7 @@
    "image": {
     "file": "compac--luxury-borghini.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "en.compac.es",
     "borrowedFrom": ""
    }
   },
@@ -15899,7 +15899,7 @@
    "productUrl": "",
    "image": {
     "file": "compac--luxury-taj.webp",
-    "status": "slab",
+    "status": "closeup-only",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
    }
@@ -15918,7 +15918,7 @@
    "productUrl": "",
    "image": {
     "file": "compac--luxury-travertino.webp",
-    "status": "slab",
+    "status": "closeup-only",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
    }
@@ -15938,7 +15938,7 @@
    "image": {
     "file": "compac--luxury-vagli-macchia-vecchia.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "en.compac.es",
     "borrowedFrom": ""
    }
   },
@@ -15957,7 +15957,7 @@
    "image": {
     "file": "compac--luxury-vagli-oro.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "en.compac.es",
     "borrowedFrom": ""
    }
   },
@@ -15975,7 +15975,7 @@
    "image": {
     "file": "compac--moon.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "en.compac.es",
     "borrowedFrom": ""
    }
   },
@@ -15994,7 +15994,7 @@
    "image": {
     "file": "compac--nebulous-gold.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "en.compac.es",
     "borrowedFrom": ""
    }
   },
@@ -16012,7 +16012,7 @@
    "image": {
     "file": "compac--nocturno.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "en.compac.es",
     "borrowedFrom": ""
    }
   },
@@ -16030,7 +16030,7 @@
    "image": {
     "file": "compac--plomo.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "en.compac.es",
     "borrowedFrom": ""
    }
   },
@@ -16048,7 +16048,7 @@
    "image": {
     "file": "compac--snow.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "en.compac.es",
     "borrowedFrom": ""
    }
   },
@@ -16067,7 +16067,7 @@
    "image": {
     "file": "compac--unique-arabescato.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "en.compac.es",
     "borrowedFrom": ""
    }
   },
@@ -16105,7 +16105,7 @@
    "image": {
     "file": "compac--unique-calacatta-black.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "en.compac.es",
     "borrowedFrom": ""
    }
   },
@@ -16143,7 +16143,7 @@
    "image": {
     "file": "compac--unique-calacatta-macchia-vecchia.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "en.compac.es",
     "borrowedFrom": ""
    }
   },
@@ -17030,7 +17030,7 @@
    "image": {
     "file": "cosentino-dekton--keon.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "assetstools.cosentino.com",
     "borrowedFrom": ""
    }
   },
@@ -18161,8 +18161,8 @@
    "productUrl": "",
    "image": {
     "file": "cosentino-dekton--vk02-avorio.webp",
-    "status": "closeup-only",
-    "source": "onedrive-brands-folder",
+    "status": "slab",
+    "source": "assetstools.cosentino.com",
     "borrowedFrom": ""
    }
   },
@@ -18182,8 +18182,8 @@
    "productUrl": "",
    "image": {
     "file": "cosentino-dekton--vk04-grafite.webp",
-    "status": "closeup-only",
-    "source": "onedrive-brands-folder",
+    "status": "slab",
+    "source": "assetstools.cosentino.com",
     "borrowedFrom": ""
    }
   },
@@ -18242,8 +18242,8 @@
    "productUrl": "",
    "image": {
     "file": "cosentino-silestone--alpina-white-08.webp",
-    "status": "closeup-only",
-    "source": "onedrive-brands-folder",
+    "status": "slab",
+    "source": "assetstools.cosentino.com",
     "borrowedFrom": ""
    }
   },
@@ -18317,8 +18317,8 @@
    "productUrl": "",
    "image": {
     "file": "cosentino-silestone--bianco-calacatta.webp",
-    "status": "closeup-only",
-    "source": "onedrive-brands-folder",
+    "status": "slab",
+    "source": "assetstools.cosentino.com",
     "borrowedFrom": ""
    }
   },
@@ -18378,7 +18378,7 @@
    "image": {
     "file": "cosentino-silestone--blanco-norte14.webp",
     "status": "slab",
-    "source": "cosentino.com",
+    "source": "assetstools.cosentino.com",
     "borrowedFrom": ""
    }
   },
@@ -18395,8 +18395,8 @@
    "productUrl": "",
    "image": {
     "file": "cosentino-silestone--blanco-orion.webp",
-    "status": "closeup-only",
-    "source": "onedrive-brands-folder",
+    "status": "slab",
+    "source": "assetstools.cosentino.com",
     "borrowedFrom": ""
    }
   },
@@ -18570,8 +18570,8 @@
    "productUrl": "",
    "image": {
     "file": "cosentino-silestone--chateau-brown.webp",
-    "status": "closeup-only",
-    "source": "onedrive-brands-folder",
+    "status": "slab",
+    "source": "assetstools.cosentino.com",
     "borrowedFrom": ""
    }
   },
@@ -18608,8 +18608,8 @@
    "productUrl": "",
    "image": {
     "file": "cosentino-silestone--classic-white.webp",
-    "status": "closeup-only",
-    "source": "onedrive-brands-folder",
+    "status": "slab",
+    "source": "marble.co.uk",
     "borrowedFrom": ""
    }
   },
@@ -18998,8 +18998,8 @@
    "productUrl": "",
    "image": {
     "file": "cosentino-silestone--iconic-white.webp",
-    "status": "closeup-only",
-    "source": "onedrive-brands-folder",
+    "status": "slab",
+    "source": "assetstools.cosentino.com",
     "borrowedFrom": ""
    }
   },
@@ -19055,8 +19055,8 @@
    "productUrl": "",
    "image": {
     "file": "cosentino-silestone--kensho.webp",
-    "status": "closeup-only",
-    "source": "onedrive-brands-folder",
+    "status": "slab",
+    "source": "assetstools.cosentino.com",
     "borrowedFrom": ""
    }
   },
@@ -19151,8 +19151,8 @@
    "productUrl": "",
    "image": {
     "file": "cosentino-silestone--lusso.webp",
-    "status": "closeup-only",
-    "source": "onedrive-brands-folder",
+    "status": "slab",
+    "source": "assetstools.cosentino.com",
     "borrowedFrom": ""
    }
   },
@@ -19464,8 +19464,8 @@
    "productUrl": "",
    "image": {
     "file": "cosentino-silestone--raw-g.webp",
-    "status": "closeup-only",
-    "source": "onedrive-brands-folder",
+    "status": "slab",
+    "source": "assetstools.cosentino.com",
     "borrowedFrom": ""
    }
   },
@@ -19965,7 +19965,7 @@
    "image": {
     "file": "fugen--calacatta-salvatore.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "fugenstone.co.uk",
     "borrowedFrom": "shared natural image (natural--calacatta-salvatore)"
    },
    "genericId": "natural--calacatta-salvatore"
@@ -21553,7 +21553,7 @@
    "image": {
     "file": "nile-stone--bianco-romano.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "istones.co.uk",
     "borrowedFrom": "shared natural image (natural--bianco-romano)"
    },
    "genericId": "natural--bianco-romano"
@@ -21801,7 +21801,7 @@
    "productUrl": "",
    "image": {
     "file": "international-stones-iq--calacatta-magma-gold.webp",
-    "status": "slab",
+    "status": "closeup-only",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
    }
@@ -21859,7 +21859,7 @@
    "image": {
     "file": "international-stones-iq--calacatta-skylight.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "finchgranite.com",
     "borrowedFrom": ""
    }
   },
@@ -22376,7 +22376,7 @@
    "image": {
     "file": "natural--crystal-blue.webp",
     "status": "slab",
-    "source": "onedrive-granite-folder",
+    "source": "stonegalleria.in",
     "borrowedFrom": "shared natural image (natural--crystal-blue)"
    },
    "genericId": "natural--crystal-blue"
@@ -22835,7 +22835,7 @@
    "image": {
     "file": "international-stones-iq--grey-shell.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "istones.co.uk",
     "borrowedFrom": ""
    }
   },
@@ -23522,7 +23522,7 @@
    "image": {
     "file": "natural--nero-cosmos-stargate--alt1.webp",
     "status": "slab",
-    "source": "mayfairgranite.co.uk",
+    "source": "web",
     "borrowedFrom": "shared natural image (natural--nero-cosmos-stargate)"
    },
    "genericId": "natural--nero-cosmos-stargate"
@@ -25828,7 +25828,7 @@
    "image": {
     "file": "natural--cosmic-gold-titanium--alt1.webp",
     "status": "slab",
-    "source": "svws.co.uk",
+    "source": "web",
     "borrowedFrom": "shared natural image (natural--cosmic-gold-titanium)"
    },
    "genericId": "natural--cosmic-gold-titanium"
@@ -25847,7 +25847,7 @@
    "image": {
     "file": "natural--cosmic-gold-titanium--alt1.webp",
     "status": "slab",
-    "source": "svws.co.uk",
+    "source": "web",
     "borrowedFrom": "shared natural image (natural--cosmic-gold-titanium-leather)"
    },
    "genericId": "natural--cosmic-gold-titanium-leather"
@@ -25944,7 +25944,7 @@
    "image": {
     "file": "natural--diamond-galaxy-leathered--alt1.webp",
     "status": "slab",
-    "source": "mayfairgranite.co.uk",
+    "source": "ksguk.co.uk",
     "borrowedFrom": "shared natural image (natural--diamond-galaxy-leathered)"
    },
    "genericId": "natural--diamond-galaxy-leathered"
@@ -26254,7 +26254,7 @@
    "image": {
     "file": "natural--ivory-spice--alt1.webp",
     "status": "slab",
-    "source": "mayfairgranite.co.uk",
+    "source": "web",
     "borrowedFrom": "shared natural image (natural--ivory-spice)"
    },
    "genericId": "natural--ivory-spice"
@@ -27454,7 +27454,7 @@
    "image": {
     "file": "kingstone--statuario-gold.webp",
     "status": "slab",
-    "source": "kingstonequartz.co.uk",
+    "source": "web",
     "borrowedFrom": ""
    }
   },
@@ -27701,7 +27701,7 @@
    "image": {
     "file": "lumina-stone--coral-metro.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "luminastoneuk.com",
     "borrowedFrom": ""
    }
   },
@@ -27720,7 +27720,7 @@
    "image": {
     "file": "lumina-stone--coral-naturale.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "luminastoneuk.com",
     "borrowedFrom": ""
    }
   },
@@ -28403,7 +28403,7 @@
    "image": {
     "file": "neolith--arabesque.webp",
     "status": "slab",
-    "source": "neolith.com",
+    "source": "a.storyblok.com",
     "borrowedFrom": ""
    }
   },
@@ -28638,7 +28638,7 @@
    "image": {
     "file": "neolith--calacatta-royale.webp",
     "status": "slab",
-    "source": "neolith.com",
+    "source": "a.storyblok.com",
     "borrowedFrom": ""
    }
   },
@@ -28698,7 +28698,7 @@
    "image": {
     "file": "neolith--colorado-dunes.webp",
     "status": "slab",
-    "source": "neolith.com",
+    "source": "a.storyblok.com",
     "borrowedFrom": ""
    }
   },
@@ -29250,7 +29250,7 @@
    "image": {
     "file": "natural--absolute-black--alt1.webp",
     "status": "slab",
-    "source": "mayfairgranite.co.uk",
+    "source": "web",
     "borrowedFrom": "shared natural image (natural--absolute-black-extra)"
    },
    "genericId": "natural--absolute-black-extra"
@@ -29270,7 +29270,7 @@
    "image": {
     "file": "natural--absolute-black-honed-extra--alt1.webp",
     "status": "slab",
-    "source": "mayfairgranite.co.uk",
+    "source": "nerostein.com",
     "borrowedFrom": "shared natural image (natural--absolute-black-honed-extra)"
    },
    "genericId": "natural--absolute-black-honed-extra"
@@ -29627,7 +29627,7 @@
    "image": {
     "file": "nile-stone--bianco-antico-artic-white.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "web",
     "borrowedFrom": "shared natural image (natural--bianco-antico-artic-white)"
    },
    "genericId": "natural--bianco-antico-artic-white"
@@ -29647,7 +29647,7 @@
    "image": {
     "file": "nile-stone--bianco-crystal.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "igranites.com",
     "borrowedFrom": "shared natural image (natural--bianco-crystal)"
    },
    "genericId": "natural--bianco-crystal"
@@ -29667,7 +29667,7 @@
    "image": {
     "file": "nile-stone--bianco-eclypsia-calacatta.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "web",
     "borrowedFrom": "shared natural image (natural--bianco-eclypsia-calacatta)"
    },
    "genericId": "natural--bianco-eclypsia-calacatta"
@@ -29687,7 +29687,7 @@
    "image": {
     "file": "nile-stone--bianco-eclypsia-calacatta-leather-honed.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "imperialstonegroup.com",
     "borrowedFrom": "shared natural image (natural--bianco-eclypsia-calacatta-leather-honed)"
    },
    "genericId": "natural--bianco-eclypsia-calacatta-leather-honed"
@@ -29707,7 +29707,7 @@
    "image": {
     "file": "nile-stone--bianco-glacier.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "marblesystems.com",
     "borrowedFrom": ""
    }
   },
@@ -29726,7 +29726,7 @@
    "image": {
     "file": "nile-stone--bianco-romano.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "istones.co.uk",
     "borrowedFrom": "shared natural image (natural--bianco-romano)"
    },
    "genericId": "natural--bianco-romano"
@@ -29746,7 +29746,7 @@
    "image": {
     "file": "nile-stone--bianco-sardo.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "web",
     "borrowedFrom": "shared natural image (natural--bianco-sardo)"
    },
    "genericId": "natural--bianco-sardo"
@@ -29902,7 +29902,7 @@
    "image": {
     "file": "nile-stone--blue-lagoon.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "web",
     "borrowedFrom": ""
    }
   },
@@ -30271,7 +30271,7 @@
    "image": {
     "file": "nile-stone--calacatta-supreme.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "intrepidrocks.com",
     "borrowedFrom": ""
    }
   },
@@ -30694,7 +30694,7 @@
    "image": {
     "file": "natural--cosmos-star-gate--alt1.webp",
     "status": "slab",
-    "source": "mayfairgranite.co.uk",
+    "source": "countystonegranite.co.uk",
     "borrowedFrom": "shared natural image (natural--cosmos-star-gate)"
    },
    "genericId": "natural--cosmos-star-gate"
@@ -31248,7 +31248,7 @@
    "image": {
     "file": "natural--labrador-antiq--alt1.webp",
     "status": "slab",
-    "source": "affordablegranite.co.uk",
+    "source": "web",
     "borrowedFrom": "shared natural image (natural--labrador-antiq)"
    },
    "genericId": "natural--labrador-antiq"
@@ -31877,7 +31877,7 @@
    "image": {
     "file": "nile-stone--snow-white.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "georgestones.com",
     "borrowedFrom": ""
    }
   },
@@ -31916,7 +31916,7 @@
    "image": {
     "file": "nile-stone--statuario.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "acemarstone.com",
     "borrowedFrom": ""
    }
   },
@@ -31996,7 +31996,7 @@
    "image": {
     "file": "nile-stone--taj-mahal-elagance.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "web",
     "borrowedFrom": ""
    }
   },
@@ -32015,7 +32015,7 @@
    "image": {
     "file": "nile-stone--taj-mahal-leather-honed.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "web",
     "borrowedFrom": "shared natural image (natural--taj-mahal-leather-honed)"
    },
    "genericId": "natural--taj-mahal-leather-honed"
@@ -33191,7 +33191,7 @@
    "image": {
     "file": "picasso-surfaces--thunder-gold.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "picassostones.com",
     "borrowedFrom": ""
    }
   },
@@ -38412,8 +38412,8 @@
    "productUrl": "https://www.ukstonecompany.com/?s=Elegant+Frost",
    "image": {
     "file": "uk-stone-company--elegant-frost.webp",
-    "status": "closeup-only",
-    "source": "ukstonecompany.com",
+    "status": "slab",
+    "source": "web",
     "borrowedFrom": ""
    }
   },
@@ -38602,7 +38602,7 @@
    "image": {
     "file": "uk-stone-company--oceano-gold.webp",
     "status": "slab",
-    "source": "ukstonecompany.com",
+    "source": "web",
     "borrowedFrom": ""
    }
   },
@@ -39081,7 +39081,7 @@
    "image": {
     "file": "unistone--cinza.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "cdn.pimber.ly",
     "borrowedFrom": ""
    }
   },
@@ -39294,7 +39294,7 @@
    "image": {
     "file": "unistone--statuario.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "cdn.pimber.ly",
     "borrowedFrom": ""
    }
   },
@@ -42062,7 +42062,7 @@
    "image": {
     "file": "natural--nero-cosmos-stargate--alt1.webp",
     "status": "slab",
-    "source": "mayfairgranite.co.uk",
+    "source": "web",
     "borrowedFrom": ""
    },
    "suppliers": [
@@ -42902,7 +42902,7 @@
    "image": {
     "file": "natural--absolute-black--alt1.webp",
     "status": "slab",
-    "source": "mayfairgranite.co.uk",
+    "source": "web",
     "borrowedFrom": ""
    },
    "suppliers": [
@@ -42924,7 +42924,7 @@
    "image": {
     "file": "natural--absolute-black--alt1.webp",
     "status": "slab",
-    "source": "mayfairgranite.co.uk",
+    "source": "web",
     "borrowedFrom": "Bloomstones Absolute Black"
    },
    "suppliers": [
@@ -43073,7 +43073,7 @@
    "image": {
     "file": "natural--black-galaxy--alt1.webp",
     "status": "slab",
-    "source": "affordablegranite.co.uk",
+    "source": "web",
     "borrowedFrom": ""
    },
    "suppliers": [
@@ -43920,7 +43920,7 @@
    "image": {
     "file": "natural--polaris--alt1.webp",
     "status": "slab",
-    "source": "affordablegranite.co.uk",
+    "source": "mykitchenworktop.co.uk",
     "borrowedFrom": ""
    },
    "suppliers": [
@@ -45439,7 +45439,7 @@
    "image": {
     "file": "natural--nero-angola--alt1.webp",
     "status": "slab",
-    "source": "affordablegranite.co.uk",
+    "source": "toucanstone.co.uk",
     "borrowedFrom": ""
    },
    "suppliers": [
@@ -45855,7 +45855,7 @@
    "image": {
     "file": "natural--silk--alt1.webp",
     "status": "slab",
-    "source": "svws.co.uk",
+    "source": "primestones.com",
     "borrowedFrom": ""
    },
    "suppliers": [
@@ -46433,7 +46433,7 @@
    "image": {
     "file": "compac--ice-black-zero.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "en.compac.es",
     "borrowedFrom": ""
    },
    "suppliers": [
@@ -46455,7 +46455,7 @@
    "image": {
     "file": "compac--ice-max-black-zero.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "en.compac.es",
     "borrowedFrom": ""
    },
    "suppliers": [
@@ -46798,7 +46798,7 @@
    "image": {
     "file": "fugen--calacatta-salvatore.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "fugenstone.co.uk",
     "borrowedFrom": ""
    },
    "suppliers": [
@@ -47342,7 +47342,7 @@
    "image": {
     "file": "nile-stone--bianco-romano.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "istones.co.uk",
     "borrowedFrom": ""
    },
    "suppliers": [
@@ -47624,7 +47624,7 @@
    "image": {
     "file": "natural--crystal-blue.webp",
     "status": "slab",
-    "source": "onedrive-granite-folder",
+    "source": "stonegalleria.in",
     "borrowedFrom": "International Stones (IQ) Crystal Blue"
    },
    "suppliers": [
@@ -49247,7 +49247,7 @@
    "image": {
     "file": "natural--cosmic-gold-titanium--alt1.webp",
     "status": "slab",
-    "source": "svws.co.uk",
+    "source": "web",
     "borrowedFrom": ""
    },
    "suppliers": [
@@ -49268,7 +49268,7 @@
    "image": {
     "file": "natural--cosmic-gold-titanium--alt1.webp",
     "status": "slab",
-    "source": "svws.co.uk",
+    "source": "web",
     "borrowedFrom": "KSG Cosmic Gold (Titanium)"
    },
    "suppliers": [
@@ -49356,7 +49356,7 @@
    "image": {
     "file": "natural--diamond-galaxy-leathered--alt1.webp",
     "status": "slab",
-    "source": "mayfairgranite.co.uk",
+    "source": "ksguk.co.uk",
     "borrowedFrom": ""
    },
    "suppliers": [
@@ -49507,7 +49507,7 @@
    "image": {
     "file": "natural--ivory-spice--alt1.webp",
     "status": "slab",
-    "source": "mayfairgranite.co.uk",
+    "source": "web",
     "borrowedFrom": ""
    },
    "suppliers": [
@@ -49900,7 +49900,7 @@
    "image": {
     "file": "natural--absolute-black-honed-extra--alt1.webp",
     "status": "slab",
-    "source": "mayfairgranite.co.uk",
+    "source": "nerostein.com",
     "borrowedFrom": ""
    },
    "suppliers": [
@@ -50119,7 +50119,7 @@
    "image": {
     "file": "nile-stone--bianco-antico-artic-white.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "web",
     "borrowedFrom": ""
    },
    "suppliers": [
@@ -50141,7 +50141,7 @@
    "image": {
     "file": "nile-stone--bianco-crystal.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "igranites.com",
     "borrowedFrom": ""
    },
    "suppliers": [
@@ -50163,7 +50163,7 @@
    "image": {
     "file": "nile-stone--bianco-eclypsia-calacatta.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "web",
     "borrowedFrom": ""
    },
    "suppliers": [
@@ -50185,7 +50185,7 @@
    "image": {
     "file": "nile-stone--bianco-eclypsia-calacatta-leather-honed.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "imperialstonegroup.com",
     "borrowedFrom": ""
    },
    "suppliers": [
@@ -50207,7 +50207,7 @@
    "image": {
     "file": "nile-stone--bianco-sardo.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "web",
     "borrowedFrom": ""
    },
    "suppliers": [
@@ -50463,7 +50463,7 @@
    "image": {
     "file": "natural--cosmos-star-gate--alt1.webp",
     "status": "slab",
-    "source": "mayfairgranite.co.uk",
+    "source": "countystonegranite.co.uk",
     "borrowedFrom": ""
    },
    "suppliers": [
@@ -50851,7 +50851,7 @@
    "image": {
     "file": "natural--labrador-antiq--alt1.webp",
     "status": "slab",
-    "source": "affordablegranite.co.uk",
+    "source": "web",
     "borrowedFrom": ""
    },
    "suppliers": [
@@ -51318,7 +51318,7 @@
    "image": {
     "file": "nile-stone--taj-mahal-leather-honed.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
+    "source": "web",
     "borrowedFrom": ""
    },
    "suppliers": [
