@@ -24,6 +24,7 @@ def slug(s):
 
 def main():
     db = json.loads(SLABS_JSON.read_text(encoding="utf-8"))
+    prev_generics = {s["id"]: s for s in db["slabs"] if s["supplier"] == "Natural Stone"}
     slabs = [s for s in db["slabs"] if s["supplier"] != "Natural Stone"]  # idempotent
     groups = {}
     for s in slabs:
@@ -45,6 +46,10 @@ def main():
         gid = f"natural--{slug(name)}"
         image = dict(best[1]) if best else {"file": "", "status": "missing", "source": "", "borrowedFrom": ""}
         image["borrowedFrom"] = ""
+        prev = prev_generics.get(gid)
+        if prev:  # keep hand-curated primary + gallery from earlier runs
+            if prev["image"]["file"]:
+                image = dict(prev["image"])
         generics.append({
             "id": gid,
             "supplier": "Natural Stone",
@@ -56,6 +61,7 @@ def main():
             "productUrl": next((m["productUrl"] for m in members if m.get("productUrl")), ""),
             "image": image,
             "suppliers": sorted({m["supplier"] for m in members}),
+            **({"images": prev["images"]} if prev and prev.get("images") else {}),
         })
         for m in members:
             m["genericId"] = gid
