@@ -51,6 +51,7 @@
   <select id="fMat"><option value="">All materials</option></select>
   <input type="search" id="fQ" placeholder="Search colour…">
   <label style="font-size:13px"><input type="checkbox" id="fImg" checked> with images only</label>
+  <label style="font-size:13px" title="Natural stone: show one generic card per colour name instead of per-supplier duplicates"><input type="checkbox" id="fGeneric" checked> group naturals</label>
   <span class="count" id="count"></span>
 </div>
 <div class="grid" id="grid"></div>
@@ -66,14 +67,16 @@ fetch('slabs.json').then(r => r.json()).then(db => {
   for (const m of mats) $('fMat').insertAdjacentHTML('beforeend', `<option>${m}</option>`);
   render();
 });
-for (const id of ['fSup','fStatus','fMat','fQ','fImg']) $(id).addEventListener('input', render);
+for (const id of ['fSup','fStatus','fMat','fQ','fImg','fGeneric']) $(id).addEventListener('input', render);
 function render() {
   const sup = $('fSup').value, st = $('fStatus').value, mat = $('fMat').value,
-        q = $('fQ').value.toLowerCase(), imgOnly = $('fImg').checked;
+        q = $('fQ').value.toLowerCase(), imgOnly = $('fImg').checked, grp = $('fGeneric').checked;
   const rows = DATA.filter(s =>
     (!sup || s.supplier === sup) && (!st || s.image.status === st) &&
     (!mat || s.material === mat) && (!q || s.colour.toLowerCase().includes(q)) &&
-    (!imgOnly || s.image.file));
+    (!imgOnly || s.image.file) &&
+    // "group naturals": hide per-supplier natural duplicates unless that supplier is explicitly selected
+    (!grp || !s.genericId || (sup && sup !== 'Natural Stone')));
   $('count').textContent = `${rows.length} of ${DATA.length}`;
   $('grid').innerHTML = rows.slice(0, 400).map(s => `
     <div class="card">
@@ -84,6 +87,7 @@ function render() {
       <div class="body">
         <div class="name">${esc(s.colour)}</div>
         <div class="meta">${esc(s.supplier)} · ${esc(s.material)} · ${s.thicknesses.join('/')}mm</div>
+        ${s.suppliers ? `<div class="meta">sold by: ${s.suppliers.map(esc).join(', ')}</div>` : ''}
         <div class="badges">
           <span class="b ${s.image.status}">${s.image.status}</span>
           ${s.naturalStone ? '<span class="b natural">natural stone</span>' : ''}
