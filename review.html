@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Slab Library — Review</title>
+<style>
+  :root { --bg:#f5f4f2; --card:#fff; --ink:#26221c; --mut:#8a8378; --line:#e3e0da; }
+  * { box-sizing:border-box; margin:0; }
+  body { font:15px/1.5 system-ui,Segoe UI,sans-serif; background:var(--bg); color:var(--ink); padding:20px; }
+  h1 { font-size:20px; margin-bottom:4px; }
+  .sub { color:var(--mut); margin-bottom:16px; font-size:13px; }
+  .bar { display:flex; gap:10px; flex-wrap:wrap; margin-bottom:18px; align-items:center; }
+  select,input[type=search] { padding:7px 10px; border:1px solid var(--line); border-radius:8px; font-size:14px; background:#fff; }
+  input[type=search] { min-width:220px; }
+  .count { color:var(--mut); font-size:13px; margin-left:auto; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(270px,1fr)); gap:14px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:10px; overflow:hidden; }
+  .imgwrap { aspect-ratio:2/1; background:#eceae6; position:relative; cursor:zoom-in; }
+  .imgwrap img { width:100%; height:100%; object-fit:cover; display:block; }
+  .noimg { display:flex; align-items:center; justify-content:center; height:100%; color:var(--mut); font-size:13px; }
+  .body { padding:10px 12px 12px; }
+  .name { font-weight:600; font-size:14px; }
+  .meta { color:var(--mut); font-size:12px; margin-top:2px; }
+  .badges { display:flex; gap:5px; flex-wrap:wrap; margin-top:8px; }
+  .b { font-size:11px; padding:2px 8px; border-radius:99px; border:1px solid var(--line); background:#faf9f7; }
+  .b.slab { background:#e8f2e6; border-color:#bcd8b6; color:#2c5e24; }
+  .b.closeup-only { background:#fdf3e0; border-color:#ecd39f; color:#7a5a12; }
+  .b.missing { background:#f7e8e6; border-color:#e0b8b2; color:#8c2f22; }
+  .b.natural { background:#eef; border-color:#c5c8ee; color:#38408e; }
+  .warn { font-size:11px; color:#8c5a12; background:#fdf6e4; border:1px solid #eeddae; border-radius:6px; padding:4px 8px; margin-top:8px; }
+  a { color:#4a5fae; font-size:12px; }
+  dialog { border:none; border-radius:10px; padding:0; max-width:min(1620px,96vw); }
+  dialog img { width:100%; display:block; }
+  dialog::backdrop { background:rgba(20,18,14,.7); }
+  .dcap { padding:10px 14px; font-size:14px; }
+</style>
+</head>
+<body>
+<h1>Slab Library — Review</h1>
+<div class="sub">Click any image to view full size. Prices are never stored here — join locally from the price book.</div>
+<div class="bar">
+  <select id="fSup"><option value="">All suppliers</option></select>
+  <select id="fStatus">
+    <option value="">All statuses</option>
+    <option value="slab">slab</option>
+    <option value="closeup-only">closeup-only</option>
+    <option value="representative">representative</option>
+    <option value="missing">missing</option>
+  </select>
+  <select id="fMat"><option value="">All materials</option></select>
+  <input type="search" id="fQ" placeholder="Search colour…">
+  <label style="font-size:13px"><input type="checkbox" id="fImg" checked> with images only</label>
+  <span class="count" id="count"></span>
+</div>
+<div class="grid" id="grid"></div>
+<dialog id="dlg"><img id="dlgImg" alt=""><div class="dcap" id="dlgCap"></div></dialog>
+<script>
+let DATA = [];
+const $ = id => document.getElementById(id);
+fetch('slabs.json').then(r => r.json()).then(db => {
+  DATA = db.slabs;
+  const sups = [...new Set(DATA.map(s => s.supplier))].sort();
+  const mats = [...new Set(DATA.map(s => s.material))].sort();
+  for (const s of sups) $('fSup').insertAdjacentHTML('beforeend', `<option>${s}</option>`);
+  for (const m of mats) $('fMat').insertAdjacentHTML('beforeend', `<option>${m}</option>`);
+  render();
+});
+for (const id of ['fSup','fStatus','fMat','fQ','fImg']) $(id).addEventListener('input', render);
+function render() {
+  const sup = $('fSup').value, st = $('fStatus').value, mat = $('fMat').value,
+        q = $('fQ').value.toLowerCase(), imgOnly = $('fImg').checked;
+  const rows = DATA.filter(s =>
+    (!sup || s.supplier === sup) && (!st || s.image.status === st) &&
+    (!mat || s.material === mat) && (!q || s.colour.toLowerCase().includes(q)) &&
+    (!imgOnly || s.image.file));
+  $('count').textContent = `${rows.length} of ${DATA.length}`;
+  $('grid').innerHTML = rows.slice(0, 400).map(s => `
+    <div class="card">
+      <div class="imgwrap" ${s.image.file ? `onclick="zoom('${s.image.file}','${esc(s.supplier)} — ${esc(s.colour)}')"` : ''}>
+        ${s.image.file ? `<img loading="lazy" src="images/${s.image.file}" alt="${esc(s.colour)}">`
+                       : '<div class="noimg">no image yet</div>'}
+      </div>
+      <div class="body">
+        <div class="name">${esc(s.colour)}</div>
+        <div class="meta">${esc(s.supplier)} · ${esc(s.material)} · ${s.thicknesses.join('/')}mm</div>
+        <div class="badges">
+          <span class="b ${s.image.status}">${s.image.status}</span>
+          ${s.naturalStone ? '<span class="b natural">natural stone</span>' : ''}
+          ${s.image.borrowedFrom ? `<span class="b">from: ${esc(s.image.borrowedFrom)}</span>` : ''}
+        </div>
+        ${s.illustrationOnly && s.image.file ? '<div class="warn">⚠ Illustration only — natural stone varies; not the actual slab your worktop will be cut from.</div>' : ''}
+        ${s.productUrl ? `<div style="margin-top:6px"><a href="${s.productUrl}" target="_blank" rel="noopener">product page ↗</a></div>` : ''}
+      </div>
+    </div>`).join('') + (rows.length > 400 ? '<p>Showing first 400 — narrow the filters.</p>' : '');
+}
+function esc(s) { return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/'/g,'&#39;').replace(/"/g,'&quot;'); }
+function zoom(file, cap) { $('dlgImg').src = 'images/' + file; $('dlgCap').textContent = cap; $('dlg').showModal(); }
+$('dlg').addEventListener('click', () => $('dlg').close());
+</script>
+</body>
+</html>
