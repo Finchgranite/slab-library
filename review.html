@@ -18,6 +18,13 @@
   .card { background:var(--card); border:1px solid var(--line); border-radius:10px; overflow:hidden; }
   .imgwrap { aspect-ratio:2/1; background:#eceae6; position:relative; cursor:zoom-in; }
   .imgwrap img { width:100%; height:100%; object-fit:cover; display:block; }
+  .nav { position:absolute; top:50%; transform:translateY(-50%); width:30px; height:44px;
+         border:none; background:rgba(20,18,14,.45); color:#fff; font-size:20px; cursor:pointer;
+         display:flex; align-items:center; justify-content:center; border-radius:6px; }
+  .nav:hover { background:rgba(20,18,14,.7); }
+  .nav.prev { left:6px; } .nav.next { right:6px; }
+  .galcount { position:absolute; bottom:6px; right:8px; background:rgba(20,18,14,.55);
+              color:#fff; font-size:11px; padding:2px 7px; border-radius:99px; }
   .noimg { display:flex; align-items:center; justify-content:center; height:100%; color:var(--mut); font-size:13px; }
   .body { padding:10px 12px 12px; }
   .name { font-weight:600; font-size:14px; }
@@ -78,11 +85,17 @@ function render() {
     // "group naturals": hide per-supplier natural duplicates unless that supplier is explicitly selected
     (!grp || !s.genericId || (sup && sup !== 'Natural Stone')));
   $('count').textContent = `${rows.length} of ${DATA.length}`;
-  $('grid').innerHTML = rows.slice(0, 400).map(s => `
+  $('grid').innerHTML = rows.slice(0, 400).map(s => {
+    const gal = (s.images && s.images.length > 1) ? s.images : null;
+    if (gal) GAL[s.id] = gal.map(g => g.file);
+    return `
     <div class="card">
-      <div class="imgwrap" ${s.image.file ? `onclick="zoom('${s.image.file}','${esc(s.supplier)} — ${esc(s.colour)}')"` : ''}>
+      <div class="imgwrap" id="w-${s.id}" data-idx="0" ${s.image.file ? `onclick="zoomCard(event,'${s.id}','${esc(s.supplier)} — ${esc(s.colour)}','${s.image.file}')"` : ''}>
         ${s.image.file ? `<img loading="lazy" src="images/${s.image.file}" alt="${esc(s.colour)}">`
                        : '<div class="noimg">no image yet</div>'}
+        ${gal ? `<button class="nav prev" onclick="rot(event,'${s.id}',-1)">‹</button>
+                 <button class="nav next" onclick="rot(event,'${s.id}',1)">›</button>
+                 <span class="galcount" id="c-${s.id}">1/${gal.length}</span>` : ''}
       </div>
       <div class="body">
         <div class="name">${esc(s.colour)}</div>
@@ -96,7 +109,21 @@ function render() {
         ${s.illustrationOnly && s.image.file ? '<div class="warn">⚠ Illustration only — natural stone varies; not the actual slab your worktop will be cut from.</div>' : ''}
         ${s.productUrl ? `<div style="margin-top:6px"><a href="${s.productUrl}" target="_blank" rel="noopener">product page ↗</a></div>` : ''}
       </div>
-    </div>`).join('') + (rows.length > 400 ? '<p>Showing first 400 — narrow the filters.</p>' : '');
+    </div>`}).join('') + (rows.length > 400 ? '<p>Showing first 400 — narrow the filters.</p>' : '');
+}
+const GAL = {};
+function rot(ev, id, dir) {
+  ev.stopPropagation();
+  const files = GAL[id], w = document.getElementById('w-' + id);
+  let i = (parseInt(w.dataset.idx) + dir + files.length) % files.length;
+  w.dataset.idx = i;
+  w.querySelector('img').src = 'images/' + files[i];
+  document.getElementById('c-' + id).textContent = (i + 1) + '/' + files.length;
+}
+function zoomCard(ev, id, cap, fallback) {
+  const files = GAL[id], w = document.getElementById('w-' + id);
+  const f = files ? files[parseInt(w.dataset.idx) || 0] : fallback;
+  zoom(f, cap);
 }
 function esc(s) { return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/'/g,'&#39;').replace(/"/g,'&quot;'); }
 function zoom(file, cap) { $('dlgImg').src = 'images/' + file; $('dlgCap').textContent = cap; $('dlg').showModal(); }
