@@ -10227,7 +10227,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Antonella",
+   "productUrl": "https://crlstone.co.uk/surfaces/antonella/",
    "image": {
     "file": "crl--antonella.webp",
     "status": "slab",
@@ -10246,7 +10246,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Arabescato+Vagli",
+   "productUrl": "https://crlstone.co.uk/surfaces/arabescato-vagli/",
    "image": {
     "file": "crl--arabescato-vagli.webp",
     "status": "slab",
@@ -10265,7 +10265,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Arctic+Shimmer",
+   "productUrl": "https://crlstone.co.uk/surfaces/arctic-shimmer/",
    "image": {
     "file": "crl--arctic-shimmer.webp",
     "status": "slab",
@@ -10283,7 +10283,7 @@
    "thicknesses": [
     12
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Armani+Gris",
+   "productUrl": "https://crlstone.co.uk/surfaces/armani-gris/",
    "image": {
     "file": "crl--armani-gris.webp",
     "status": "slab",
@@ -10304,7 +10304,7 @@
     12,
     20
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Atalaia+Super+Blanco",
+   "productUrl": "https://crlstone.co.uk/surfaces/atalaia-super-blanco/",
    "image": {
     "file": "crl--atalaia-super-blanco.webp",
     "status": "slab",
@@ -10323,7 +10323,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Atlantic+Gris",
+   "productUrl": "https://crlstone.co.uk/surfaces/atlantic-gris/",
    "image": {
     "file": "crl--atlantic-gris.webp",
     "status": "slab",
@@ -10343,10 +10343,10 @@
     6,
     12
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Azalai+Negro",
+   "productUrl": "https://crlstone.co.uk/surfaces/azalai-negro/",
    "image": {
     "file": "crl--azalai-negro.webp",
-    "status": "closeup-only",
+    "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
    }
@@ -10362,7 +10362,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Barletta",
+   "productUrl": "https://crlstone.co.uk/surfaces/barletta/",
    "image": {
     "file": "crl--barletta.webp",
     "status": "slab",
@@ -10381,7 +10381,7 @@
     12,
     20
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Belvedere+Black",
+   "productUrl": "https://crlstone.co.uk/surfaces/belvedere-black/",
    "image": {
     "file": "crl--belvedere-black.webp",
     "status": "slab",
@@ -10420,7 +10420,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Calacatta",
+   "productUrl": "https://crlstone.co.uk/surfaces/calacatta/",
    "image": {
     "file": "crl--calacatta.webp",
     "status": "slab",
@@ -10439,7 +10439,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Calacatta+Dorado",
+   "productUrl": "https://crlstone.co.uk/surfaces/calacatta-dorado/",
    "image": {
     "file": "crl--calacatta-dorado.webp",
     "status": "slab",
@@ -10458,10 +10458,10 @@
     12,
     20
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Calacatta+Extreme",
+   "productUrl": "https://crlstone.co.uk/surfaces/calacatta-extreme/",
    "image": {
     "file": "crl--calacatta-extreme.webp",
-    "status": "closeup-only",
+    "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
    }
@@ -10477,7 +10477,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Carrara",
+   "productUrl": "https://crlstone.co.uk/surfaces/carrara/",
    "image": {
     "file": "crl--carrara.webp",
     "status": "slab",
@@ -10496,7 +10496,7 @@
     12,
     20
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Carrara+Vagli",
+   "productUrl": "https://crlstone.co.uk/surfaces/carrara-vagli/",
    "image": {
     "file": "crl--carrara-vagli.webp",
     "status": "slab",
@@ -10515,7 +10515,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Chalk",
+   "productUrl": "https://crlstone.co.uk/surfaces/chalk/",
    "image": {
     "file": "crl--chalk.webp",
     "status": "slab",
@@ -10552,7 +10552,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Colorado",
+   "productUrl": "https://crlstone.co.uk/surfaces/colorado/",
    "image": {
     "file": "crl--colorado.webp",
     "status": "slab",
@@ -10570,10 +10570,10 @@
    "thicknesses": [
     12
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Cosmopolitan+Grey",
+   "productUrl": "https://crlstone.co.uk/surfaces/cosmopolitan-grey/",
    "image": {
     "file": "crl--cosmopolitan-grey.webp",
-    "status": "closeup-only",
+    "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
    }
@@ -10589,7 +10589,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Cristallo+Azure",
+   "productUrl": "https://crlstone.co.uk/surfaces/cristallo-azure/",
    "image": {
     "file": "crl--cristallo-azure.webp",
     "status": "slab",
@@ -10608,7 +10608,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Cristallo+Gris",
+   "productUrl": "https://crlstone.co.uk/surfaces/cristallo-gris/",
    "image": {
     "file": "crl--cristallo-gris.webp",
     "status": "slab",
@@ -10646,7 +10646,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Cristallo+Platino",
+   "productUrl": "https://crlstone.co.uk/surfaces/cristallo-platino/",
    "image": {
     "file": "crl--cristallo-platino.webp",
     "status": "slab",
@@ -10665,7 +10665,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Cristallo+Verde",
+   "productUrl": "https://crlstone.co.uk/surfaces/cristallo-verde/",
    "image": {
     "file": "crl--cristallo-verde.webp",
     "status": "slab",
@@ -10683,7 +10683,7 @@
    "thicknesses": [
     12
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Crystal+Lux+Blanco",
+   "productUrl": "https://crlstone.co.uk/surfaces/crystal-lux-blanco/",
    "image": {
     "file": "crl--crystal-lux-blanco.webp",
     "status": "slab",
@@ -10758,7 +10758,7 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Forest",
+   "productUrl": "https://crlstone.co.uk/surfaces/forest/",
    "image": {
     "file": "crl--forest.webp",
     "status": "slab",
@@ -10778,7 +10778,7 @@
     6,
     12
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Geo+Crema",
+   "productUrl": "https://crlstone.co.uk/surfaces/geo-crema/",
    "image": {
     "file": "crl--geo-crema.webp",
     "status": "slab",
@@ -10798,7 +10798,7 @@
     6,
     12
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Geo+Gris",
+   "productUrl": "https://crlstone.co.uk/surfaces/geo-gris-2/",
    "image": {
     "file": "crl--geo-gris.webp",
     "status": "slab",
@@ -10836,7 +10836,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Grey+Shimmer",
+   "productUrl": "https://crlstone.co.uk/surfaces/grey-shimmer/",
    "image": {
     "file": "crl--grey-shimmer.webp",
     "status": "slab",
@@ -10856,7 +10856,7 @@
     6,
     12
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Iseo+Gris",
+   "productUrl": "https://crlstone.co.uk/surfaces/iseo-gris/",
    "image": {
     "file": "crl--iseo-gris.webp",
     "status": "slab",
@@ -10914,7 +10914,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Kalahari",
+   "productUrl": "https://crlstone.co.uk/surfaces/kalahari/",
    "image": {
     "file": "crl--kalahari.webp",
     "status": "slab",
@@ -10952,7 +10952,7 @@
    "thicknesses": [
     12
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Labradorite",
+   "productUrl": "https://crlstone.co.uk/surfaces/labradorite-royal-blue/",
    "image": {
     "file": "crl--labradorite.webp",
     "status": "slab",
@@ -10991,7 +10991,7 @@
     12,
     20
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Laurent+Black",
+   "productUrl": "https://crlstone.co.uk/surfaces/laurent-black/",
    "image": {
     "file": "crl--laurent-black.webp",
     "status": "slab",
@@ -11010,7 +11010,7 @@
     12,
     20
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Lucca+Oro",
+   "productUrl": "https://crlstone.co.uk/surfaces/lucca-oro/",
    "image": {
     "file": "crl--lucca-oro.webp",
     "status": "slab",
@@ -11029,7 +11029,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Luna+Bianco",
+   "productUrl": "https://crlstone.co.uk/surfaces/luna-bianco-super-honed/",
    "image": {
     "file": "crl--luna-bianco.webp",
     "status": "slab",
@@ -11068,7 +11068,7 @@
     12,
     20
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Macchia+Vecchia",
+   "productUrl": "https://crlstone.co.uk/surfaces/macchia-vecchia/",
    "image": {
     "file": "crl--macchia-vecchia.webp",
     "status": "slab",
@@ -11086,7 +11086,7 @@
    "thicknesses": [
     12
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Marquina",
+   "productUrl": "https://crlstone.co.uk/surfaces/ceralsio-marquina/",
    "image": {
     "file": "crl--marquina.webp",
     "status": "slab",
@@ -11223,7 +11223,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Mercurio",
+   "productUrl": "https://crlstone.co.uk/surfaces/mercurio-super-honed/",
    "image": {
     "file": "crl--mercurio.webp",
     "status": "slab",
@@ -11242,7 +11242,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Messina",
+   "productUrl": "https://crlstone.co.uk/surfaces/messina/",
    "image": {
     "file": "crl--messina.webp",
     "status": "slab",
@@ -11261,7 +11261,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Messina+Gold",
+   "productUrl": "https://crlstone.co.uk/surfaces/messina-gold/",
    "image": {
     "file": "crl--messina-gold.webp",
     "status": "slab",
@@ -11282,7 +11282,7 @@
     12,
     20
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Meteora+Gris",
+   "productUrl": "https://crlstone.co.uk/surfaces/meteora-gris/",
    "image": {
     "file": "crl--meteora-gris.webp",
     "status": "slab",
@@ -11301,7 +11301,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Milano",
+   "productUrl": "https://crlstone.co.uk/surfaces/milano/",
    "image": {
     "file": "crl--milano.webp",
     "status": "slab",
@@ -11320,7 +11320,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Modena",
+   "productUrl": "https://crlstone.co.uk/surfaces/modena/",
    "image": {
     "file": "crl--modena.webp",
     "status": "slab",
@@ -11339,7 +11339,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Monte+Bianco",
+   "productUrl": "https://crlstone.co.uk/surfaces/monte-bianco/",
    "image": {
     "file": "crl--monte-bianco.webp",
     "status": "slab",
@@ -11358,7 +11358,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Mystic+Grey",
+   "productUrl": "https://crlstone.co.uk/surfaces/mystic-grey/",
    "image": {
     "file": "crl--mystic-grey.webp",
     "status": "slab",
@@ -11377,7 +11377,7 @@
     12,
     20
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Nebula+Marron",
+   "productUrl": "https://crlstone.co.uk/surfaces/nebula-marron/",
    "image": {
     "file": "crl--nebula-marron.webp",
     "status": "slab",
@@ -11398,7 +11398,7 @@
     12,
     20
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Pacific+Blanco+Plus",
+   "productUrl": "https://crlstone.co.uk/surfaces/pacific-blanco/",
    "image": {
     "file": "crl--pacific-blanco-plus.webp",
     "status": "slab",
@@ -11417,7 +11417,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Pacific+Grey",
+   "productUrl": "https://crlstone.co.uk/surfaces/pacific-grey/",
    "image": {
     "file": "crl--pacific-grey.webp",
     "status": "slab",
@@ -11437,7 +11437,7 @@
     6,
     12
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Pacific+Gris",
+   "productUrl": "https://crlstone.co.uk/surfaces/pacific-gris/",
    "image": {
     "file": "crl--pacific-gris.webp",
     "status": "slab",
@@ -11456,7 +11456,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Palermo",
+   "productUrl": "https://crlstone.co.uk/surfaces/palermo/",
    "image": {
     "file": "crl--palermo.webp",
     "status": "slab",
@@ -11475,7 +11475,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Pantheon+Bronze",
+   "productUrl": "https://crlstone.co.uk/surfaces/pantheon-bronze/",
    "image": {
     "file": "crl--pantheon-bronze.webp",
     "status": "slab",
@@ -11494,7 +11494,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Pantheon+Grey",
+   "productUrl": "https://crlstone.co.uk/surfaces/pantheon-grey/",
    "image": {
     "file": "crl--pantheon-grey.webp",
     "status": "slab",
@@ -11513,7 +11513,7 @@
     12,
     20
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Patagonia",
+   "productUrl": "https://crlstone.co.uk/surfaces/patagonia/",
    "image": {
     "file": "crl--patagonia.webp",
     "status": "slab",
@@ -11534,10 +11534,10 @@
     12,
     20
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Petra+Crema",
+   "productUrl": "https://crlstone.co.uk/surfaces/petra-crema/",
    "image": {
     "file": "crl--petra-crema.webp",
-    "status": "closeup-only",
+    "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
    }
@@ -11552,10 +11552,10 @@
    "thicknesses": [
     12
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Pietra+Grey",
+   "productUrl": "https://crlstone.co.uk/surfaces/pietra-grey/",
    "image": {
     "file": "crl--pietra-grey.webp",
-    "status": "closeup-only",
+    "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
    }
@@ -11590,11 +11590,11 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://crlstone.co.uk/surfaces/portland-limestone/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "crl--portland-limestone.webp",
+    "status": "slab",
+    "source": "crlstone.co.uk",
     "borrowedFrom": ""
    }
   },
@@ -11609,7 +11609,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Quartz+Reflection",
+   "productUrl": "https://crlstone.co.uk/surfaces/quartz-reflection/",
    "image": {
     "file": "crl--quartz-reflection.webp",
     "status": "slab",
@@ -11627,7 +11627,7 @@
    "thicknesses": [
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Regency+White",
+   "productUrl": "https://crlstone.co.uk/surfaces/regency-white/",
    "image": {
     "file": "crl--regency-white.webp",
     "status": "slab",
@@ -11646,7 +11646,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=River+White",
+   "productUrl": "https://crlstone.co.uk/surfaces/river-white/",
    "image": {
     "file": "crl--river-white.webp",
     "status": "slab",
@@ -11664,7 +11664,7 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Sahara",
+   "productUrl": "https://crlstone.co.uk/surfaces/sahara/",
    "image": {
     "file": "crl--sahara.webp",
     "status": "slab",
@@ -11683,7 +11683,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Savannah",
+   "productUrl": "https://crlstone.co.uk/surfaces/savannah/",
    "image": {
     "file": "crl--savannah.webp",
     "status": "slab",
@@ -11702,7 +11702,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Siena+Honed",
+   "productUrl": "https://crlstone.co.uk/surfaces/siena-honed/",
    "image": {
     "file": "crl--siena-honed.webp",
     "status": "slab",
@@ -11743,7 +11743,7 @@
     6,
     12
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Silk+Camel",
+   "productUrl": "https://crlstone.co.uk/surfaces/silk-camel/",
    "image": {
     "file": "crl--silk-camel.webp",
     "status": "slab",
@@ -11784,7 +11784,7 @@
     12,
     20
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Silk+Negro",
+   "productUrl": "https://crlstone.co.uk/surfaces/silk-negro/",
    "image": {
     "file": "crl--silk-negro.webp",
     "status": "slab",
@@ -11803,7 +11803,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Silver+Shimmer",
+   "productUrl": "https://crlstone.co.uk/surfaces/silver-shimmer/",
    "image": {
     "file": "crl--silver-shimmer.webp",
     "status": "slab",
@@ -11822,7 +11822,7 @@
     12,
     20
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Soft+Black",
+   "productUrl": "https://crlstone.co.uk/surfaces/soft-black/",
    "image": {
     "file": "crl--soft-black.webp",
     "status": "slab",
@@ -11841,10 +11841,10 @@
     12,
     20
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Soft+White",
+   "productUrl": "https://crlstone.co.uk/surfaces/soft-white/",
    "image": {
     "file": "crl--soft-white.webp",
-    "status": "closeup-only",
+    "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
    }
@@ -11859,7 +11859,7 @@
    "thicknesses": [
     12
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Statuario",
+   "productUrl": "https://crlstone.co.uk/surfaces/statuario/",
    "image": {
     "file": "crl--statuario.webp",
     "status": "slab",
@@ -11878,7 +11878,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Statuario+Bianco",
+   "productUrl": "https://crlstone.co.uk/surfaces/statuario-bianco/",
    "image": {
     "file": "crl--statuario-bianco.webp",
     "status": "slab",
@@ -11897,7 +11897,7 @@
     12,
     20
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Statuario+Extreme",
+   "productUrl": "https://crlstone.co.uk/surfaces/statuario-extreme/",
    "image": {
     "file": "crl--statuario-extreme.webp",
     "status": "slab",
@@ -11916,7 +11916,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Statuario+Oro",
+   "productUrl": "https://crlstone.co.uk/surfaces/statuario-oro/",
    "image": {
     "file": "crl--statuario-oro.webp",
     "status": "slab",
@@ -11954,7 +11954,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Stella+Gris",
+   "productUrl": "https://crlstone.co.uk/surfaces/stella-gris-super-honed/",
    "image": {
     "file": "crl--stella-gris.webp",
     "status": "slab",
@@ -12013,7 +12013,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Taj+Mahal",
+   "productUrl": "https://crlstone.co.uk/surfaces/taj-mahal/",
    "image": {
     "file": "crl--taj-mahal.webp",
     "status": "slab",
@@ -12034,7 +12034,7 @@
     12,
     20
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Terra+Marron",
+   "productUrl": "https://crlstone.co.uk/surfaces/terra-marron/",
    "image": {
     "file": "crl--terra-marron.webp",
     "status": "slab",
@@ -12092,7 +12092,7 @@
    "thicknesses": [
     12
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Tivoli",
+   "productUrl": "https://crlstone.co.uk/surfaces/tivoli/",
    "image": {
     "file": "crl--tivoli.webp",
     "status": "slab",
@@ -12133,7 +12133,7 @@
     6,
     12
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Touche+Super+Blanco+Gris",
+   "productUrl": "https://crlstone.co.uk/surfaces/touche-super-blanco-gris/",
    "image": {
     "file": "crl--touche-super-blanco-gris.webp",
     "status": "slab",
@@ -12154,10 +12154,10 @@
     12,
     20
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Umbra+Marron",
+   "productUrl": "https://crlstone.co.uk/surfaces/umbra-marron/",
    "image": {
     "file": "crl--umbra-marron.webp",
-    "status": "closeup-only",
+    "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
    }
@@ -12173,7 +12173,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Venetian+Grande",
+   "productUrl": "https://crlstone.co.uk/surfaces/venetian-grande/",
    "image": {
     "file": "crl--venetian-grande.webp",
     "status": "slab",
@@ -12192,7 +12192,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Verona",
+   "productUrl": "https://crlstone.co.uk/surfaces/verona/",
    "image": {
     "file": "crl--verona.webp",
     "status": "slab",
@@ -12211,7 +12211,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Verona+Gold",
+   "productUrl": "https://crlstone.co.uk/surfaces/verona-gold/",
    "image": {
     "file": "crl--verona-gold.webp",
     "status": "slab",
@@ -12230,7 +12230,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Vicenza",
+   "productUrl": "https://crlstone.co.uk/surfaces/vicenza/",
    "image": {
     "file": "crl--vicenza.webp",
     "status": "slab",
@@ -12251,7 +12251,7 @@
     12,
     20
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Vint+Gris",
+   "productUrl": "https://crlstone.co.uk/surfaces/vint-gris/",
    "image": {
     "file": "crl--vint-gris.webp",
     "status": "slab",
@@ -12270,7 +12270,7 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=White+Water",
+   "productUrl": "https://crlstone.co.uk/surfaces/white-water/",
    "image": {
     "file": "crl--white-water.webp",
     "status": "slab",
