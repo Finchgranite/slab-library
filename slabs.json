@@ -92,7 +92,7 @@
    "image": {
     "file": "akg-surfaces--barents.webp",
     "status": "slab",
-    "source": "res.cloudinary.com",
+    "source": "imperialworktops.co.uk (Graham-supplied)",
     "borrowedFrom": ""
    }
   },
@@ -700,7 +700,7 @@
    "image": {
     "file": "akg-surfaces--misterio-oro.webp",
     "status": "slab",
-    "source": "res.cloudinary.com",
+    "source": "svws.co.uk (Graham-supplied)",
     "borrowedFrom": ""
    }
   },
@@ -964,10 +964,10 @@
    ],
    "productUrl": "https://bstoneuk.co.uk/?s=Ambiente+Cemento",
    "image": {
-    "file": "b-stone--ambiente-cemento.webp",
-    "status": "closeup-only",
-    "source": "bstoneuk.co.uk",
-    "borrowedFrom": ""
+    "file": "b-stone--ambiente-cemento-matt.webp",
+    "status": "representative",
+    "source": "onedrive-brands-folder",
+    "borrowedFrom": "B-Stone Ambiente Cemento matt"
    }
   },
   {
