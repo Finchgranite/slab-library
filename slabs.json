@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-19",
+ "generated": "2026-07-20",
  "slabs": [
   {
    "id": "akg-surfaces--adira-bronze",
@@ -3535,9 +3535,9 @@
    }
   },
   {
-   "id": "bqs--avanza",
+   "id": "bqs--avenza",
    "supplier": "BQS",
-   "colour": "Avanza",
+   "colour": "Avenza",
    "material": "Quartz",
    "naturalStone": false,
    "illustrationOnly": false,
@@ -3547,9 +3547,9 @@
    ],
    "productUrl": "",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "bqs--avenza.webp",
+    "status": "slab",
+    "source": "onedrive-brands-folder",
     "borrowedFrom": ""
    }
   },
@@ -3592,6 +3592,63 @@
    }
   },
   {
+   "id": "bqs--bianco-massa",
+   "supplier": "BQS",
+   "colour": "Bianco Massa",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "",
+   "image": {
+    "file": "bqs--bianco-massa.webp",
+    "status": "slab",
+    "source": "onedrive-brands-folder",
+    "borrowedFrom": ""
+   }
+  },
+  {
+   "id": "bqs--bianco-venatino",
+   "supplier": "BQS",
+   "colour": "Bianco Venatino",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "",
+   "image": {
+    "file": "bqs--bianco-venatino.webp",
+    "status": "slab",
+    "source": "onedrive-brands-folder",
+    "borrowedFrom": ""
+   }
+  },
+  {
+   "id": "bqs--black-mirrorlux",
+   "supplier": "BQS",
+   "colour": "Black Mirrorlux",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "",
+   "image": {
+    "file": "bqs--black-mirrorlux.webp",
+    "status": "slab",
+    "source": "onedrive-brands-folder",
+    "borrowedFrom": ""
+   }
+  },
+  {
    "id": "bqs--blanco-mist",
    "supplier": "BQS",
    "colour": "Blanco Mist",
@@ -3605,6 +3662,25 @@
    "productUrl": "",
    "image": {
     "file": "bqs--blanco-mist.webp",
+    "status": "slab",
+    "source": "onedrive-brands-folder",
+    "borrowedFrom": ""
+   }
+  },
+  {
+   "id": "bqs--borealis-green",
+   "supplier": "BQS",
+   "colour": "Borealis Green",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "",
+   "image": {
+    "file": "bqs--borealis-green.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
@@ -3706,6 +3782,138 @@
    }
   },
   {
+   "id": "bqs--carrara-extra",
+   "supplier": "BQS",
+   "colour": "Carrara Extra",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "",
+   "image": {
+    "file": "bqs--carrara-extra.webp",
+    "status": "slab",
+    "source": "onedrive-brands-folder",
+    "borrowedFrom": ""
+   }
+  },
+  {
+   "id": "bqs--carrara-minari",
+   "supplier": "BQS",
+   "colour": "Carrara Minari",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "",
+   "image": {
+    "file": "bqs--carrara-minari.webp",
+    "status": "slab",
+    "source": "onedrive-brands-folder",
+    "borrowedFrom": ""
+   }
+  },
+  {
+   "id": "bqs--carrara-shimmer",
+   "supplier": "BQS",
+   "colour": "Carrara Shimmer",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20
+   ],
+   "productUrl": "",
+   "image": {
+    "file": "",
+    "status": "missing",
+    "source": "",
+    "borrowedFrom": ""
+   }
+  },
+  {
+   "id": "bqs--caverno-beige",
+   "supplier": "BQS",
+   "colour": "Caverno Beige",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "",
+   "image": {
+    "file": "",
+    "status": "missing",
+    "source": "",
+    "borrowedFrom": ""
+   }
+  },
+  {
+   "id": "bqs--crema-fiore",
+   "supplier": "BQS",
+   "colour": "Crema Fiore",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "",
+   "image": {
+    "file": "bqs--crema-fiore.webp",
+    "status": "slab",
+    "source": "onedrive-brands-folder",
+    "borrowedFrom": ""
+   }
+  },
+  {
+   "id": "bqs--elegant-grey",
+   "supplier": "BQS",
+   "colour": "Elegant Grey",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "",
+   "image": {
+    "file": "bqs--elegant-grey.webp",
+    "status": "slab",
+    "source": "onedrive-brands-folder",
+    "borrowedFrom": ""
+   }
+  },
+  {
+   "id": "bqs--glacier",
+   "supplier": "BQS",
+   "colour": "Glacier",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "",
+   "image": {
+    "file": "bqs--glacier.webp",
+    "status": "slab",
+    "source": "onedrive-brands-folder",
+    "borrowedFrom": ""
+   }
+  },
+  {
    "id": "bqs--gracious",
    "supplier": "BQS",
    "colour": "Gracious",
@@ -3795,6 +4003,101 @@
    "productUrl": "",
    "image": {
     "file": "bqs--midas-gold.webp",
+    "status": "slab",
+    "source": "onedrive-brands-folder",
+    "borrowedFrom": ""
+   }
+  },
+  {
+   "id": "bqs--neo-calacatta",
+   "supplier": "BQS",
+   "colour": "Neo Calacatta",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "",
+   "image": {
+    "file": "bqs--neo-calacatta.webp",
+    "status": "slab",
+    "source": "onedrive-brands-folder",
+    "borrowedFrom": ""
+   }
+  },
+  {
+   "id": "bqs--opus-white",
+   "supplier": "BQS",
+   "colour": "Opus White",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "",
+   "image": {
+    "file": "bqs--opus-white.webp",
+    "status": "slab",
+    "source": "onedrive-brands-folder",
+    "borrowedFrom": ""
+   }
+  },
+  {
+   "id": "bqs--pearl-white",
+   "supplier": "BQS",
+   "colour": "Pearl White",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "",
+   "image": {
+    "file": "bqs--pearl-white.webp",
+    "status": "slab",
+    "source": "onedrive-brands-folder",
+    "borrowedFrom": ""
+   }
+  },
+  {
+   "id": "bqs--permafrost",
+   "supplier": "BQS",
+   "colour": "Permafrost",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "",
+   "image": {
+    "file": "bqs--permafrost.webp",
+    "status": "slab",
+    "source": "onedrive-brands-folder",
+    "borrowedFrom": ""
+   }
+  },
+  {
+   "id": "bqs--pietra-modena",
+   "supplier": "BQS",
+   "colour": "Pietra Modena",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "",
+   "image": {
+    "file": "bqs--pietra-modena.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
@@ -3930,6 +4233,25 @@
     "file": "bqs--taj-mahal.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
+    "borrowedFrom": ""
+   }
+  },
+  {
+   "id": "bqs--vintessa-cream",
+   "supplier": "BQS",
+   "colour": "Vintessa Cream",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "",
+   "image": {
+    "file": "",
+    "status": "missing",
+    "source": "",
     "borrowedFrom": ""
    }
   },
