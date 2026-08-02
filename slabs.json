@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-02T13:42:05Z",
+ "generated": "2026-08-02T13:43:08Z",
  "slabs": [
   {
    "id": "akg-surfaces--adira-bronze",
@@ -52621,9 +52621,9 @@
    }
   },
   {
-   "id": "bloomstones--calacatta-gold-polished-and-matt",
+   "id": "bloomstones--calacatta-gold-porcelain",
    "supplier": "Bloomstones",
-   "colour": "Calacatta Gold Polished and Matt",
+   "colour": "Calacatta Gold",
    "material": "Porcelain",
    "naturalStone": false,
    "illustrationOnly": false,
@@ -52632,7 +52632,7 @@
    ],
    "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/calacatta-gold-polished-and-matt-",
    "image": {
-    "file": "bloomstones--calacatta-gold-polished-and-matt.webp",
+    "file": "bloomstones--calacatta-gold-porcelain.webp",
     "status": "slab",
     "source": "https://static.wixstatic.com/media/3e3672_b3f8809b308e497a9b00e9cf7078ddf7~mv2.jpg",
     "borrowedFrom": "",
