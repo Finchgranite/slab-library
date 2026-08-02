@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-02T11:18:51Z",
+ "generated": "2026-08-02T11:27:31Z",
  "slabs": [
   {
    "id": "akg-surfaces--adira-bronze",
@@ -3654,8 +3654,10 @@
     "file": "bqs--arctic.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--aurora-dune",
@@ -3673,8 +3675,10 @@
     "file": "bqs--aurora-dune.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--avenza",
@@ -3692,8 +3696,10 @@
     "file": "bqs--avenza.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--beige-mirrorlux",
@@ -3711,8 +3717,10 @@
     "file": "bqs--beige-mirrorlux.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--bianco-fontana",
@@ -3730,8 +3738,10 @@
     "file": "bqs--bianco-fontana.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--bianco-massa",
@@ -3749,8 +3759,10 @@
     "file": "bqs--bianco-massa.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--bianco-venatino",
@@ -3768,8 +3780,10 @@
     "file": "bqs--bianco-venatino.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--black-mirrorlux",
@@ -3787,8 +3801,10 @@
     "file": "bqs--black-mirrorlux.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--blanco-mist",
@@ -3806,8 +3822,10 @@
     "file": "bqs--blanco-mist.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--borealis-green",
@@ -3825,8 +3843,10 @@
     "file": "bqs--borealis-green.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--calacatta-aurora",
@@ -3844,8 +3864,10 @@
     "file": "bqs--calacatta-aurora.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--calacatta-forte",
@@ -3863,8 +3885,10 @@
     "file": "bqs--calacatta-forte.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--calacatta-viola",
@@ -3882,8 +3906,10 @@
     "file": "bqs--calacatta-viola.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--canaletto",
@@ -3901,8 +3927,10 @@
     "file": "bqs--canaletto.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--capri",
@@ -3920,8 +3948,10 @@
     "file": "bqs--capri.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--carrara-extra",
@@ -3939,8 +3969,10 @@
     "file": "bqs--carrara-extra.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--carrara-minari",
@@ -3958,8 +3990,10 @@
     "file": "bqs--carrara-minari.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--carrara-shimmer",
@@ -3977,7 +4011,8 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600"
   },
   {
    "id": "bqs--caverno-beige",
@@ -3996,7 +4031,8 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--crema-fiore",
@@ -4014,8 +4050,10 @@
     "file": "bqs--crema-fiore.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--elegant-grey",
@@ -4033,8 +4071,10 @@
     "file": "bqs--elegant-grey.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--glacier",
@@ -4052,8 +4092,10 @@
     "file": "bqs--glacier.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--gracious",
@@ -4071,8 +4113,10 @@
     "file": "bqs--gracious.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--grey-mirrorlux",
@@ -4090,8 +4134,10 @@
     "file": "bqs--grey-mirrorlux.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--grey-shimmer",
@@ -4109,8 +4155,10 @@
     "file": "bqs--grey-shimmer.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--lumen-ice",
@@ -4128,8 +4176,10 @@
     "file": "bqs--lumen-ice.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--midas-gold",
@@ -4147,8 +4197,10 @@
     "file": "bqs--midas-gold.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--neo-calacatta",
@@ -4166,8 +4218,10 @@
     "file": "bqs--neo-calacatta.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--opus-white",
@@ -4185,8 +4239,10 @@
     "file": "bqs--opus-white.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--pearl-white",
@@ -4204,8 +4260,10 @@
     "file": "bqs--pearl-white.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--permafrost",
@@ -4223,8 +4281,10 @@
     "file": "bqs--permafrost.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--pietra-modena",
@@ -4242,8 +4302,10 @@
     "file": "bqs--pietra-modena.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--rapture",
@@ -4261,8 +4323,10 @@
     "file": "bqs--rapture.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--roma",
@@ -4280,8 +4344,10 @@
     "file": "bqs--roma.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--siberia",
@@ -4299,8 +4365,10 @@
     "file": "bqs--siberia.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--statuario-gold",
@@ -4318,8 +4386,10 @@
     "file": "bqs--statuario-gold.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--statuario-grey",
@@ -4337,8 +4407,10 @@
     "file": "bqs--statuario-grey.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--super-white-plus",
@@ -4356,8 +4428,10 @@
     "file": "bqs--super-white-plus.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--taj-mahal",
@@ -4375,8 +4449,10 @@
     "file": "bqs--taj-mahal.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--vintessa-cream",
@@ -4395,7 +4471,8 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--white-almond",
@@ -4413,8 +4490,10 @@
     "file": "bqs--white-almond.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--white-mirrorlux",
@@ -4432,8 +4511,10 @@
     "file": "bqs--white-mirrorlux.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bqs--white-shimmer",
@@ -4451,8 +4532,10 @@
     "file": "bqs--white-shimmer.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
   },
   {
    "id": "bloomstones--absolute-black",
