@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-02T11:27:31Z",
+ "generated": "2026-08-02T13:24:48Z",
  "slabs": [
   {
    "id": "akg-surfaces--adira-bronze",
@@ -4588,13 +4588,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/alabasta",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--alabasta.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_6e422611f1144479b16bd0ab1cf3224a~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--amaranth",
@@ -4607,13 +4609,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/amaranth",
    "image": {
     "file": "bloomstones--amaranth.webp",
     "status": "slab",
-    "source": "static.wixstatic.com",
-    "borrowedFrom": ""
-   }
+    "source": "https://static.wixstatic.com/media/3e3672_31ba75eb62904e30b18931264d1c0940~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--amasia",
@@ -4644,13 +4648,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/arabescato-bianco",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--arabescato-bianco.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_97d0c1ebcab640f296e90850e6155a47~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--arctic-wave",
@@ -4700,13 +4706,14 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/aurora-beige-",
    "image": {
     "file": "",
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--azul-palomino",
@@ -4794,13 +4801,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/bianco-arizona",
    "image": {
     "file": "bloomstones--bianco-arizona.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "source": "https://static.wixstatic.com/media/e9822b_0112561b66fe4f4e9f68103769ca16e3~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--bianco-calacatta",
@@ -4813,13 +4822,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/bianco-calcatta",
    "image": {
     "file": "bloomstones--bianco-calacatta.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "source": "https://static.wixstatic.com/media/e9822b_74cf0832bca84597af8f2b3edc5f7a89~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--bianco-galaxy",
@@ -4832,13 +4843,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/bianco-galaxy",
    "image": {
     "file": "bloomstones--bianco-galaxy.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "source": "https://static.wixstatic.com/media/e9822b_45b3effbe07e449e8c3d0ed9e9654d54~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--bianco-glitter",
@@ -4851,13 +4864,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/bianco-glitter",
    "image": {
     "file": "bloomstones--bianco-glitter.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "source": "https://static.wixstatic.com/media/e9822b_db3a8a628abb4c8d97f61a773bf10251~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--bianco-macaubus",
@@ -4889,13 +4904,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/bianco-merino",
    "image": {
     "file": "bloomstones--bianco-merino.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "source": "https://static.wixstatic.com/media/e9822b_4416fb168a314fcba58387700c83a375~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--bianco-royale",
@@ -4927,13 +4944,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/bianco-sparkle",
    "image": {
     "file": "bloomstones--bianco-sparkle.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "source": "https://static.wixstatic.com/media/e9822b_a4223b8904a34dcbb632abda439e2657~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--bianco-statuario",
@@ -4983,13 +5002,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/bianco-white",
    "image": {
     "file": "bloomstones--bianco-white.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "source": "https://static.wixstatic.com/media/3e3672_621ac57787434bdf8d15d25c6d41bc62~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--black-forest",
@@ -5233,13 +5254,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/breccia-gold",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--breccia-gold.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_b18bafa7cc144f5d91cb3e6b52615a1b~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--calacatta-aurelia",
@@ -5289,13 +5312,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/calacatta-classico-",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--calacatta-classico.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_6bf446e04bbc4b7e80e34ce7a4603144~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--calacatta-glacier",
@@ -5308,13 +5333,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/calacutta-glacier",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--calacatta-glacier.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_a1c49c41bc8146eda90955e922914449~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--calacatta-gold",
@@ -5327,13 +5354,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/calcutta-gold",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--calacatta-gold.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/e9822b_59a4977c1e794886bc679af96e0efce7~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3500x2000 / 30mm: 3500x2000"
   },
   {
    "id": "bloomstones--calacatta-gold-x",
@@ -5383,13 +5412,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/calacatta-lusso",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--calacatta-lusso.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_26e0f18cc8c94bc2ad30f09665720d7b~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--calacatta-macchia-vecchia",
@@ -5494,13 +5525,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/calacatta-ragno",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--calacatta-ragno.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/fcef59_f054ac5abe124610be20b72776f6ca99~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--calacatta-royale",
@@ -5531,13 +5564,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/calacatta-vena-",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--calacatta-vena.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/fcef59_ca10631d2a48452a876b8f54a190dd9f~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--calacatta-verde",
@@ -5587,13 +5622,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/carrara-dove",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--carrara-dove.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/e9822b_79bf8b5a00cf4d07b478c763a00b95e1~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--carrara-extra",
@@ -5606,13 +5643,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/carrara-extra",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--carrara-extra.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_8279f72f927b43a2bc415f6af087a8d1~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--carrara-glacier",
@@ -5625,13 +5664,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/carrara-glacier",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--carrara-glacier.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/e9822b_cf12ce833e154764a02690e31e44372f~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--carrara-gold",
@@ -5776,13 +5817,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/crema-ice",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--crema-ice.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/fcef59_9c9dcd46be3e43c3a5a9f126edcd06cd~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--crema-travertine",
@@ -5927,13 +5970,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/danube",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--danube.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_d03f880c4cbf4acbb025e5fcfe3aac12~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--dublin",
@@ -5946,13 +5991,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/dublin",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--dublin.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_fa8303cd82fa47d097703163808d834e~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--elysium",
@@ -6038,13 +6085,15 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/everest",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--everest.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/e9822b_528b8f7af32544cb8e4635db0a431e42~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630"
   },
   {
    "id": "bloomstones--excalibur",
@@ -6227,13 +6276,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/grigio-sparkle-dark",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--grigio-sparkle-dark.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/e9822b_6cf2d3619cd0420cbca87ffdac7e418a~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--grigio-sparkle-light",
@@ -6246,13 +6297,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/grigio-sparkle-light",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--grigio-sparkle-light.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/e9822b_0e1dbc8ac648400589c6530f16b4441a~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--ice-jade",
@@ -6339,13 +6392,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/iron-grey",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--iron-grey.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_3e98c73d5b38477992f4a5d70ae09b79~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--jadore",
@@ -6377,13 +6432,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/kasha",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--kasha.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/e9822b_459e9f29fb224d748e1562d69540f780~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--klitkin",
@@ -6524,13 +6581,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/lincoln",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--lincoln.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/e9822b_b0faf8275eab4b9b94436722294f141e~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--liquid-black",
@@ -6542,13 +6601,15 @@
    "thicknesses": [
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/liquid-black",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--liquid-black.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/fcef59_987455e9818942439cb95c0b5f856c8f~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "30mm: 3230x1630"
   },
   {
    "id": "bloomstones--liquid-grey",
@@ -6560,13 +6621,15 @@
    "thicknesses": [
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/liquid-grey",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--liquid-grey.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/fcef59_d720aa65f38c48b7a9a3b46ef103c7f4~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "30mm: 3230x1630"
   },
   {
    "id": "bloomstones--luxury-white",
@@ -6672,13 +6735,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/milano-grey",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--milano-grey.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_7f2422ce5d874eab806eefa8ae36ff95~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--moldavite-crystal",
@@ -6729,13 +6794,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/morganton",
    "image": {
     "file": "bloomstones--morganton.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "source": "https://static.wixstatic.com/media/3e3672_1617d811ace641ed8ebdaa866de0eb7b~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--native-fog",
@@ -6804,13 +6871,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/nero-sparkle",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--nero-sparkle.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/e9822b_1b8380e7c0df428a8c50fcf1ea433d5c~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--nevada",
@@ -6823,13 +6892,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/nevada",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--nevada.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_b73c7a1f9fff4c4bbe48e997a69a78c0~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--new-carrara",
@@ -6842,13 +6913,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/new-carrara",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--new-carrara.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/e9822b_1ac0ed2cad944f609f84de8c879b96af~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--nuage-fusion",
@@ -6934,13 +7007,15 @@
    "thicknesses": [
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/orkney-white",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--orkney-white.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/fcef59_d4191077359b468c8c89e215d0c95c0d~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "30mm: 3230x1630"
   },
   {
    "id": "bloomstones--oro-extra",
@@ -6953,13 +7028,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/oro-extra-",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--oro-extra.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/fcef59_88afcb20f77446f2bc35445a31e57b3a~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--pablo",
@@ -7048,13 +7125,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/perla-gold-honed",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--perla-gold.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_3ff75669ebc346b9a524e38b81c943fe~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--perola",
@@ -7067,13 +7146,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/perola",
    "image": {
     "file": "bloomstones--perola.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "source": "https://static.wixstatic.com/media/3e3672_f116235d08b9494aa2f092bcdeafa695~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--piasentina-mud",
@@ -7252,13 +7333,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/red-sparkle",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--red-sparkle.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/e9822b_69ecf3a241bb4142b77c8712e7491e67~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--sensa-taj-mahal",
@@ -7346,13 +7429,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/snowdon",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--snowdon.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/e9822b_7e8f0865802d4640937e577e2752a7b6~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--sodalite-nera",
@@ -7402,13 +7487,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/statuario-gold",
    "image": {
     "file": "bloomstones--statuario-gold.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "source": "https://static.wixstatic.com/media/3e3672_814604dca25843caa3c1c769ba935b47~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--statuario-light",
@@ -7439,13 +7526,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/statuario-premium",
    "image": {
     "file": "bloomstones--statuario-premium.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "source": "https://static.wixstatic.com/media/e9822b_836b698d72d74431ba9095005c58a8f5~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--statuario-versilia",
@@ -7593,13 +7682,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/titan-gold",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--titan-gold.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_08aa3d2172df4ef4bced4602e64f000a~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--titanium",
@@ -7761,13 +7852,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/viola-leathered-",
    "image": {
     "file": "bloomstones--viola.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "source": "https://static.wixstatic.com/media/3e3672_2003e336948c4a8395fc531b0ec8ed5b~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "bloomstones--volga-blue-extra-spectrolite",
@@ -7819,13 +7912,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/windermere",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--windermere.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_db15ec92fe93487fb97dda2fa6b3394d~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
    "id": "brachot--andromeda",
@@ -52411,6 +52506,67 @@
    },
    "slabSizes": "20mm: 3300x1640 / 30mm: 3300x1640",
    "details": "Sempre range. Size: 3300 x 1640 mm. Thickness: 20mm / 30mm. Finishes: Polished"
+  },
+  {
+   "id": "bloomstones--calacatta-verde",
+   "supplier": "Bloomstones",
+   "colour": "Calacatta Verde",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/calacatta-verde",
+   "image": {
+    "file": "bloomstones--calacatta-verde.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_4fb57d9de1b941c5b540271803daeb27~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+  },
+  {
+   "id": "bloomstones--oakham",
+   "supplier": "Bloomstones",
+   "colour": "Oakham",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/oakham",
+   "image": {
+    "file": "bloomstones--oakham.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/e9822b_9f3ee1cc2b6f46d59b48659d03764e20~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   }
+  },
+  {
+   "id": "bloomstones--vagli-leathered",
+   "supplier": "Bloomstones",
+   "colour": "Vagli leathered",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/vagli-leathered",
+   "image": {
+    "file": "bloomstones--vagli-leathered.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_bce59c5ae9c84cfa85fffc5f0434f57b~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   }
   }
  ]
 }
