@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-02T13:24:48Z",
+ "generated": "2026-08-02T13:42:05Z",
  "slabs": [
   {
    "id": "akg-surfaces--adira-bronze",
@@ -4629,13 +4629,15 @@
    "thicknesses": [
     12
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/amasia",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--amasia.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_610fd1fbfcb547ce9601ed3f6945f19a~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "12mm: 3200x1600"
   },
   {
    "id": "bloomstones--arabescato-bianco",
@@ -4687,13 +4689,15 @@
    "thicknesses": [
     12
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/atlantis-smoke",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--atlantis-smoke.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/fcef59_4341bacc11ff4857b3f90b06f8f9c8bc~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "12mm: 3200x1600"
   },
   {
    "id": "bloomstones--aurora-beige",
@@ -5293,13 +5297,15 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/calacatta-borghini-fullvein3d",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--calacatta-borghini.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_4361c0c090844a6ebdad5384d3ae3c13~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600"
   },
   {
    "id": "bloomstones--calacatta-classico",
@@ -5393,13 +5399,15 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/calacatta-grey-polished-and-matt-",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--calacatta-grey.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_c9e56c3ec9264727b310d1f77ccaa764~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600"
   },
   {
    "id": "bloomstones--calacatta-lusso",
@@ -5432,13 +5440,15 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/calacatta-macchia-vecchia-polished-and-matt-",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--calacatta-macchia-vecchia.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_5579abe638b84219b54bd4870454515f~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600"
   },
   {
    "id": "bloomstones--calacatta-michaelangelo",
@@ -5451,13 +5461,15 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/calacatta-michelangelo",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--calacatta-michaelangelo.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/fcef59_7cfe262ee59f4d748ae3c8facd556187~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600"
   },
   {
    "id": "bloomstones--calacatta-nile",
@@ -5488,13 +5500,15 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/calacatta-oro-3d-full-vein-polished-and-matt",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--calacatta-oro.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_e22a9b2dcb3f4fa085dc2b7c29742aaf~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600"
   },
   {
    "id": "bloomstones--calacatta-panda",
@@ -5837,13 +5851,15 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/calacatta-gold-x",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--crema-travertine.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_657aa3e9dd284854b752bc2911902cc6~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600"
   },
   {
    "id": "bloomstones--cristallo-extra",
@@ -6049,13 +6065,15 @@
    "thicknesses": [
     12
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/emperador-brown-",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--emperador-brown.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_c8b14d5f1d664575b667cea2f42e5bb3~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "12mm: 3200x1600"
   },
   {
    "id": "bloomstones--empire-grey",
@@ -6257,13 +6275,15 @@
    "thicknesses": [
     12
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/grigio-siena-polished",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--grigio-siena.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_d3a2d3ccccb642438983ceea5e33b7c9~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "12mm: 3200x1600"
   },
   {
    "id": "bloomstones--grigio-sparkle-dark",
@@ -6373,13 +6393,15 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/invisible-pearl-matt",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--invisible-pearl.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_66fdb86e05724830b48747ff204f990c~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600"
   },
   {
    "id": "bloomstones--iron-grey",
@@ -6470,13 +6492,15 @@
    "thicknesses": [
     12
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/labradorite-polished-",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--labradorite.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_0c137b30f46b41aab1fd2b7978695b15~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "12mm: 3200x1600"
   },
   {
    "id": "bloomstones--lavender-blue",
@@ -6526,13 +6550,15 @@
    "thicknesses": [
     12
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/lilac-grey-polished",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--lilac-grey.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_fbe453ed3e484d2c95218431eead06fa~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "12mm: 3200x1600"
   },
   {
    "id": "bloomstones--limestone-cream",
@@ -6562,13 +6588,15 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/limestone-greige",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--limestone-greige.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/fcef59_7fb30e7ecdaa4b45b3c2f54331a42be3~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600"
   },
   {
    "id": "bloomstones--lincoln",
@@ -6697,13 +6725,15 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/marquinia-select",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--marquina-select.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_0dc5027c266a4e0ea42d4f1bcba9e113~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600"
   },
   {
    "id": "bloomstones--midnight-crystal",
@@ -6814,13 +6844,15 @@
    "thicknesses": [
     12
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/native-fog-fullbody3d",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--native-fog.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_38d4d022f8524cbbb2377d89dc9c0b52~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "12mm: 3200x1600"
   },
   {
    "id": "bloomstones--natural-taj-mahal",
@@ -6830,15 +6862,17 @@
    "naturalStone": false,
    "illustrationOnly": false,
    "thicknesses": [
-    20
+    12
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/taj-mahal-polished-and-matt",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--natural-taj-mahal.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_cced06522236478f8c19f5373b00a4ed~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "12mm: 3200x1600"
   },
   {
    "id": "bloomstones--nero-assoluto",
@@ -7166,13 +7200,15 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/piasentina-mud-fullbody3d",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--piasentina-mud.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_c0ac013655224d8ebb58b6fabddb0859~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600"
   },
   {
    "id": "bloomstones--pietra-grey",
@@ -7184,13 +7220,15 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/pietra-grey-polished-",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--pietra-grey.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_a828950282ac426d98fc2d0e439b2d50~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600"
   },
   {
    "id": "bloomstones--piracema-white",
@@ -7222,13 +7260,15 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/pirenei-ecru-fullbody3d",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--pirenei-ecru.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_6c75d02668d447bdb621be4ebfadc132~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600"
   },
   {
    "id": "bloomstones--pirenei-grey",
@@ -7240,13 +7280,15 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/pirenei-grey-fullbody3d",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--pirenei-grey.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_893b7a5b104a436fa1ffd94071189ef9~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600"
   },
   {
    "id": "bloomstones--polaris",
@@ -7296,13 +7338,15 @@
    "thicknesses": [
     12
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/port-gold",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--port-gold.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_0f6dd66e64f947ddb777f25998d908ba~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "12mm: 3200x1600"
   },
   {
    "id": "bloomstones--precious-black",
@@ -7314,13 +7358,15 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/precious-black",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--precious-black.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/fcef59_58ddb95393764fcf9cb07ec2cb475e80~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600"
   },
   {
    "id": "bloomstones--red-sparkle",
@@ -7468,13 +7514,15 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/statuario-fantastico-3d",
    "image": {
     "file": "bloomstones--statuario-fantastico.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "source": "https://static.wixstatic.com/media/3e3672_40ffaee2a3244a33952c56ad34ea89e8~mv2.png",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600"
   },
   {
    "id": "bloomstones--statuario-gold",
@@ -7546,13 +7594,15 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/statuario-versilia-3d-full-vein-polished-and-matt",
    "image": {
     "file": "bloomstones--statuario-versilia.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "source": "https://static.wixstatic.com/media/3e3672_46d91b47f0a5413bbd030c29b7090589~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600"
   },
   {
    "id": "bloomstones--steel-grey",
@@ -7740,13 +7790,15 @@
    "thicknesses": [
     12
    ],
-   "productUrl": "",
+   "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/titanium-black-polished-and-matt",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "bloomstones--titanium-black.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_231828d461b44cb3989a959c413f5fde~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "12mm: 3200x1600"
   },
   {
    "id": "bloomstones--touramaline",
@@ -52564,6 +52616,66 @@
     "file": "bloomstones--vagli-leathered.webp",
     "status": "slab",
     "source": "https://static.wixstatic.com/media/3e3672_bce59c5ae9c84cfa85fffc5f0434f57b~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   }
+  },
+  {
+   "id": "bloomstones--calacatta-gold-polished-and-matt",
+   "supplier": "Bloomstones",
+   "colour": "Calacatta Gold Polished and Matt",
+   "material": "Porcelain",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20
+   ],
+   "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/calacatta-gold-polished-and-matt-",
+   "image": {
+    "file": "bloomstones--calacatta-gold-polished-and-matt.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_b3f8809b308e497a9b00e9cf7078ddf7~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3200x1600"
+  },
+  {
+   "id": "bloomstones--interno-9-silver",
+   "supplier": "Bloomstones",
+   "colour": "Interno 9 Silver",
+   "material": "Porcelain",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    12,
+    20
+   ],
+   "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/interno-9-silver",
+   "image": {
+    "file": "bloomstones--interno-9-silver.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/fcef59_c8fbc7c0ab574e8184845444239b5e9e~mv2.jpg",
+    "borrowedFrom": "",
+    "scale": "true"
+   }
+  },
+  {
+   "id": "bloomstones--interno-rust-natural",
+   "supplier": "Bloomstones",
+   "colour": "Interno Rust Natural",
+   "material": "Porcelain",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    12,
+    20
+   ],
+   "productUrl": "https://www.bloomstoneslondon.com/porcelaine-slabs/interno-rust-natural-",
+   "image": {
+    "file": "bloomstones--interno-rust-natural.webp",
+    "status": "slab",
+    "source": "https://static.wixstatic.com/media/3e3672_9aca52a447d840b19d0e16e3d2ac9686~mv2.jpg",
     "borrowedFrom": "",
     "scale": "true"
    }
