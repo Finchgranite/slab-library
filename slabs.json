@@ -12,13 +12,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://akgsurfaces.co.uk/products/coante-arteo-3d-range/adira-bronze/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "akg-surfaces--adira-bronze.webp",
+    "status": "slab",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_1536,h_748,c_scale/f_auto,q_auto/v1776774065/10201-Adira-Bronze-Low-V.-Slab-1/10201-Adira-Bronze-Low-V.-Slab-1.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1640 / 30mm: 3300x1640",
+   "details": "Coante Arteo 3D range. Size: 3300 x 1640 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--alba-via-p",
@@ -31,13 +33,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://akgsurfaces.co.uk/products/coante/alba-via/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "akg-surfaces--alba-via-p.webp",
+    "status": "slab",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1252,c_scale/f_auto,q_auto/v1776778226/5507-Alba-Via-Slab_21930f7d7/5507-Alba-Via-Slab_21930f7d7.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1640 / 30mm: 3300x1640",
+   "details": "Coante range. Size: 3300 x 1640 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--arabescato-gold",
@@ -50,13 +54,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Arabescato+Gold",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre/arabescato-gold/",
    "image": {
     "file": "akg-surfaces--arabescato-gold.webp",
     "status": "slab",
-    "source": "res.cloudinary.com",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1280,c_scale/f_auto,q_auto/v1776777221/718-Arabescato-Gold/718-Arabescato-Gold.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--aurora-gold",
@@ -69,13 +75,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://akgsurfaces.co.uk/products/coante/calacatta-aurora-gold-slab/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "akg-surfaces--aurora-gold.webp",
+    "status": "slab",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_1024,h_509,c_scale/f_auto,q_auto/v1776768894/CALACATTA-AURORA-GOLD-SLAB/CALACATTA-AURORA-GOLD-SLAB.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1640 / 30mm: 3300x1640 (price book)",
+   "details": "Coante range"
   },
   {
    "id": "akg-surfaces--barents",
@@ -88,13 +96,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Barents",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre/barents/",
    "image": {
     "file": "akg-surfaces--barents.webp",
     "status": "slab",
-    "source": "imperialworktops.co.uk (Graham-supplied)",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1181,c_scale/f_auto,q_auto/v1776775268/955-Barents-1/955-Barents-1.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--bianco-carrara",
@@ -107,13 +117,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Bianco+Carrara",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre/bianco-carrara/",
    "image": {
     "file": "akg-surfaces--bianco-carrara.webp",
     "status": "slab",
-    "source": "res.cloudinary.com",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2452,h_2560,c_scale/f_auto,q_auto/v1776777071/936-Bianco-Carrara-Kitchen_228949b0f/936-Bianco-Carrara-Kitchen_228949b0f.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--bianco-eclipsia",
@@ -126,13 +138,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Bianco+Eclipsia",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre-printed-full-body-range/bianco-eclipsia/",
    "image": {
     "file": "akg-surfaces--bianco-eclipsia.webp",
     "status": "slab",
-    "source": "res.cloudinary.com",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1706,c_scale/f_auto,q_auto/v1776775068/02-Bianco-Eclipsia/02-Bianco-Eclipsia.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre Printed Full Body range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--brittanica",
@@ -145,13 +159,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Brittanica",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre/brittanica/",
    "image": {
     "file": "akg-surfaces--brittanica.webp",
     "status": "slab",
-    "source": "res.cloudinary.com",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1292,c_scale/f_auto,q_auto/v1776775412/235-Britannica-HQ/235-Britannica-HQ.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--calacatta-arlena",
@@ -164,13 +180,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://akgsurfaces.co.uk/products/coante-arteo-3d-range/calacatta-arlena/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "akg-surfaces--calacatta-arlena.webp",
+    "status": "slab",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1255,c_scale/f_auto,q_auto/v1776778563/10121-Calacatta-Arlena-High-V.-Slab-1_215665594/10121-Calacatta-Arlena-High-V.-Slab-1_215665594.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1640 / 30mm: 3300x1640",
+   "details": "Coante Arteo 3D range. Size: 3300 x 1640 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--calacatta-aspen",
@@ -183,13 +201,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Calacatta+Aspen",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre-printed-full-body-range/calacatta-aspen/",
    "image": {
     "file": "akg-surfaces--calacatta-aspen.webp",
     "status": "slab",
-    "source": "res.cloudinary.com",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1280,c_scale/f_auto,q_auto/v1776775094/01-Calacatta-Aspen/01-Calacatta-Aspen.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre Printed Full Body range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--calacatta-claire",
@@ -202,13 +222,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://akgsurfaces.co.uk/products/coante-arteo-3d-range/calacatta-claire/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "akg-surfaces--calacatta-claire.webp",
+    "status": "slab",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1270,c_scale/f_auto,q_auto/v1776778530/10103-Calacatta-Claire-Low-V.-Slab-1_2161b7ed5/10103-Calacatta-Claire-Low-V.-Slab-1_2161b7ed5.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1640 / 30mm: 3300x1640",
+   "details": "Coante Arteo 3D range. Size: 3300 x 1640 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--calacatta-clara",
@@ -221,13 +243,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Calacatta+Clara",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre/calacatta-clara/",
    "image": {
     "file": "akg-surfaces--calacatta-clara.webp",
     "status": "slab",
-    "source": "res.cloudinary.com",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1280,c_scale/f_auto,q_auto/v1776776987/937-Calacatta-Clara_22985f1d6/937-Calacatta-Clara_22985f1d6.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--calacatta-edera-low-silica",
@@ -240,13 +264,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://akgsurfaces.co.uk/products/coante/calacatta-edera/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "akg-surfaces--calacatta-edera-low-silica.webp",
+    "status": "slab",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1263,c_scale/f_auto,q_auto/v1776778060/7701-Calacatta-Edera-Slab_220923c65/7701-Calacatta-Edera-Slab_220923c65.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1640 / 30mm: 3300x1640",
+   "details": "Coante range. Size: 3300 x 1640 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--calacatta-encore",
@@ -259,13 +285,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Calacatta+Encore",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre/calacatta-encore/",
    "image": {
     "file": "akg-surfaces--calacatta-encore.webp",
     "status": "slab",
-    "source": "res.cloudinary.com",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1254,c_scale/f_auto,q_auto/v1776776945/956-Calacatta-Encore_230130312/956-Calacatta-Encore_230130312.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--calacatta-lucia",
@@ -278,13 +306,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Calacatta+Lucia",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre/calacatta-lucia/",
    "image": {
     "file": "akg-surfaces--calacatta-lucia.webp",
     "status": "slab",
-    "source": "res.cloudinary.com",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1920,c_scale/f_auto,q_auto/v1776775535/978-Calacatta-Lucia/978-Calacatta-Lucia.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--calacatta-magnifico",
@@ -297,13 +327,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre/calacatta-magnificio/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "akg-surfaces--calacatta-magnifico.webp",
+    "status": "slab",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1440,c_scale/f_auto,q_auto/v1776776941/910-Calacatta-Magnificio-Pattern_2308511d4/910-Calacatta-Magnificio-Pattern_2308511d4.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--calacatta-marbella",
@@ -316,13 +348,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Calacatta+Marbella",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre/calacatta-marbella/",
    "image": {
     "file": "akg-surfaces--calacatta-marbella.webp",
     "status": "slab",
-    "source": "res.cloudinary.com",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1280,c_scale/f_auto,q_auto/v1776776813/970-Calacatta-Marbella_2310f6247/970-Calacatta-Marbella_2310f6247.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--calacatta-mystic",
@@ -335,13 +369,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Calacatta+Mystic",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre-printed-full-body-range/calacatta-mystic/",
    "image": {
     "file": "akg-surfaces--calacatta-mystic.webp",
     "status": "slab",
-    "source": "res.cloudinary.com",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1280,c_scale/f_auto,q_auto/v1776777410/03-Calacatta-Mystic-1_2269e608b/03-Calacatta-Mystic-1_2269e608b.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre Printed Full Body range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--calacatta-nuvo",
@@ -354,13 +390,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Calacatta+Nuvo",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre/calacatta-nuvo/",
    "image": {
     "file": "akg-surfaces--calacatta-nuvo.webp",
     "status": "slab",
-    "source": "res.cloudinary.com",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1920,c_scale/f_auto,q_auto/v1776776744/932-Calacatta-Nuvo-Kitchen-4_2316f652d/932-Calacatta-Nuvo-Kitchen-4_2316f652d.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--calacatta-venato",
@@ -373,13 +411,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Calacatta+Venato",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre/calacatta-venato/",
    "image": {
     "file": "akg-surfaces--calacatta-venato.webp",
     "status": "slab",
-    "source": "res.cloudinary.com",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_768,h_768,c_fill,g_auto/f_auto,q_auto/v1776776127/920-Calacatta-Venato-Kitchen-2/920-Calacatta-Venato-Kitchen-2.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--calacatta-verona",
@@ -392,13 +432,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Calacatta+Verona",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre-printed-full-body-range/calacatta-verona/",
    "image": {
     "file": "akg-surfaces--calacatta-verona.webp",
     "status": "slab",
-    "source": "res.cloudinary.com",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1275,c_scale/f_auto,q_auto/v1776777335/06-Calacatta-Verona_2275b6d1b/06-Calacatta-Verona_2275b6d1b.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre Printed Full Body range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--calacatta-vicenza",
@@ -411,13 +453,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Calacatta+Vicenza",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre/calacatta-vicenza/",
    "image": {
     "file": "akg-surfaces--calacatta-vicenza.webp",
     "status": "slab",
-    "source": "res.cloudinary.com",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1705,c_scale/f_auto,q_auto/v1776775827/981-Calacatta-Vicenza-Kitchen_2323d8845/981-Calacatta-Vicenza-Kitchen_2323d8845.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--calacatta-vivaldi-gold",
@@ -430,13 +474,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://akgsurfaces.co.uk/products/coante/calacatta-vivaldi-gold/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "akg-surfaces--calacatta-vivaldi-gold.webp",
+    "status": "slab",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1261,c_scale/f_auto,q_auto/v1776774563/9091-Calacatta-Vivaldi-Gold-Slab/9091-Calacatta-Vivaldi-Gold-Slab.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1640 / 30mm: 3300x1640",
+   "details": "Coante range. Size: 3300 x 1640 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--carrara-enigma",
@@ -449,13 +495,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Carrara+Enigma",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre/carrara-enigma/",
    "image": {
     "file": "akg-surfaces--carrara-enigma.webp",
     "status": "slab",
-    "source": "res.cloudinary.com",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1304,c_scale/f_auto,q_auto/v1776775935/180-Carrara-Enigma-HQ/180-Carrara-Enigma-HQ.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--cathara-bronze",
@@ -468,13 +516,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://akgsurfaces.co.uk/products/coante-arteo-3d-range/cathara-bronze/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "akg-surfaces--cathara-bronze.webp",
+    "status": "slab",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_1536,h_750,c_scale/f_auto,q_auto/v1776778486/10202-Cathara-Bronze-Low-V.-Slab-1_216628ef6/10202-Cathara-Bronze-Low-V.-Slab-1_216628ef6.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1640 / 30mm: 3300x1640",
+   "details": "Coante Arteo 3D range. Size: 3300 x 1640 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--cemento-matte",
@@ -487,13 +537,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Cemento+Matte",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre/cemento-matte/",
    "image": {
     "file": "akg-surfaces--cemento-matte.webp",
     "status": "slab",
-    "source": "res.cloudinary.com",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1705,c_scale/f_auto,q_auto/v1776775987/972-Cemento-Matte-Kitchen/972-Cemento-Matte-Kitchen.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Matte / Polished"
   },
   {
    "id": "akg-surfaces--concrete-terreno",
@@ -506,13 +558,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Concrete+Terreno",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre/concrete-terreno/",
    "image": {
     "file": "akg-surfaces--concrete-terreno.webp",
     "status": "slab",
-    "source": "res.cloudinary.com",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1182,c_scale/f_auto,q_auto/v1776776023/785-Concrete-Terreno/785-Concrete-Terreno.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Matte"
   },
   {
    "id": "akg-surfaces--cortina",
@@ -525,13 +579,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Cortina",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre/cortina/",
    "image": {
     "file": "akg-surfaces--cortina.webp",
     "status": "slab",
-    "source": "res.cloudinary.com",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1536,c_scale/f_auto,q_auto/v1776776078/143-Cortina-Marketing_233634fe1/143-Cortina-Marketing_233634fe1.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--cremo-jade",
@@ -544,13 +600,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Cremo+Jade",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre/cremo-jade/",
    "image": {
     "file": "akg-surfaces--cremo-jade.webp",
     "status": "slab",
-    "source": "res.cloudinary.com",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1299,c_scale/f_auto,q_auto/v1776776132/164-Cremo-Jade/164-Cremo-Jade.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--elvare",
@@ -563,13 +621,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://akgsurfaces.co.uk/products/coante-arteo-3d-range/elvare/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "akg-surfaces--elvare.webp",
+    "status": "slab",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1284,c_scale/f_auto,q_auto/v1776774193/10306-Elvare-Low-V.-Slab-1_216905587/10306-Elvare-Low-V.-Slab-1_216905587.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1640 / 30mm: 3300x1640",
+   "details": "Coante Arteo 3D range. Size: 3300 x 1640 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--golden-veil",
@@ -582,13 +642,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Golden+Veil",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre/golden-veil/",
    "image": {
     "file": "akg-surfaces--golden-veil.webp",
     "status": "slab",
-    "source": "res.cloudinary.com",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1280,c_scale/f_auto,q_auto/v1776776159/726-Golden-Veil/726-Golden-Veil.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--hielo",
@@ -601,13 +663,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://akgsurfaces.co.uk/products/coante/hielo/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "akg-surfaces--hielo.webp",
+    "status": "slab",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1243,c_scale/f_auto,q_auto/v1776777858/3313-Hielo-Slab_222690782/3313-Hielo-Slab_222690782.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1640 / 30mm: 3300x1640",
+   "details": "Coante range. Size: 3300 x 1640 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--iceberg-mist",
@@ -620,13 +684,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Iceberg+Mist",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre/iceberg-mist/",
    "image": {
     "file": "akg-surfaces--iceberg-mist.webp",
     "status": "slab",
-    "source": "res.cloudinary.com",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1303,c_scale/f_auto,q_auto/v1776776209/660-Iceberg-Mist_23443cbd1/660-Iceberg-Mist_23443cbd1.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--lapland",
@@ -639,13 +705,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Lapland",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre/lapland/",
    "image": {
     "file": "akg-surfaces--lapland.webp",
-    "status": "closeup-only",
-    "source": "res.cloudinary.com",
+    "status": "slab",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1182,c_scale/f_auto,q_auto/v1776776285/900-Lapland_234696ae2/900-Lapland_234696ae2.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--lux-grey",
@@ -658,13 +726,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Lux+Grey",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre-printed-full-body-range/lux-grey/",
    "image": {
     "file": "akg-surfaces--lux-grey.webp",
     "status": "slab",
-    "source": "res.cloudinary.com",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1280,c_scale/f_auto,q_auto/v1776777296/04-Lux-Grey_22782f782/04-Lux-Grey_22782f782.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre Printed Full Body range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--majestic-brown-ultra",
@@ -677,13 +747,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://akgsurfaces.co.uk/products/coante/majestic-brown-ultra/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "akg-surfaces--majestic-brown-ultra.webp",
+    "status": "slab",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1273,c_scale/f_auto,q_auto/v1776777629/9003-Majestic-Brown-Ultra-Slab_224598767/9003-Majestic-Brown-Ultra-Slab_224598767.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1640 / 30mm: 3300x1640",
+   "details": "Coante range. Size: 3300 x 1640 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--misterio-oro",
@@ -696,13 +768,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Misterio+Oro",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre/misterio-oro/",
    "image": {
     "file": "akg-surfaces--misterio-oro.webp",
     "status": "slab",
-    "source": "svws.co.uk (Graham-supplied)",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1412,c_scale/f_auto,q_auto/v1776776284/145-Misterio-Oro-Kitchen/145-Misterio-Oro-Kitchen.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--nebula",
@@ -715,13 +789,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Nebula",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre/nebula/",
    "image": {
     "file": "akg-surfaces--nebula.webp",
     "status": "slab",
-    "source": "res.cloudinary.com",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1707,c_scale/f_auto,q_auto/v1776776300/925-Nebula-Kitchen/925-Nebula-Kitchen.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--petra-taj-low-silica",
@@ -734,13 +810,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://akgsurfaces.co.uk/products/coante-arteo-3d-range/petra-taj/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "akg-surfaces--petra-taj-low-silica.webp",
+    "status": "slab",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_1536,h_754,c_scale/f_auto,q_auto/v1776778436/10335-Petra-Taj-Full-Plaka_2173971b7/10335-Petra-Taj-Full-Plaka_2173971b7.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1640 / 30mm: 3300x1640",
+   "details": "Coante Arteo 3D range. Size: 3300 x 1640 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--sierra",
@@ -753,13 +831,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Sierra",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre/sierra/",
    "image": {
     "file": "akg-surfaces--sierra.webp",
     "status": "slab",
-    "source": "res.cloudinary.com",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1621,c_scale/f_auto,q_auto/v1776776408/160-Sierra-Kitchen/160-Sierra-Kitchen.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--sineda",
@@ -772,13 +852,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Sineda",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre/sineda/",
    "image": {
     "file": "akg-surfaces--sineda.webp",
     "status": "slab",
-    "source": "res.cloudinary.com",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1920,c_scale/f_auto,q_auto/v1776776424/990-Sineda/990-Sineda.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--solesta",
@@ -791,13 +873,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://akgsurfaces.co.uk/products/coante-arteo-3d-range/solesta/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "akg-surfaces--solesta.webp",
+    "status": "slab",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1254,c_scale/f_auto,q_auto/v1776778394/10117-Solesta-Low-V.-Slab_2178981a0/10117-Solesta-Low-V.-Slab_2178981a0.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1640 / 30mm: 3300x1640",
+   "details": "Coante Arteo 3D range. Size: 3300 x 1640 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--strataveris",
@@ -810,13 +894,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://akgsurfaces.co.uk/products/coante-arteo-3d-range/strataveris/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "akg-surfaces--strataveris.webp",
+    "status": "slab",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1255,c_scale/f_auto,q_auto/v1776778367/10111-Strataveris-Low-V.-Slab_2181eacbc/10111-Strataveris-Low-V.-Slab_2181eacbc.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1640 / 30mm: 3300x1640",
+   "details": "Coante Arteo 3D range. Size: 3300 x 1640 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--taj-mahal",
@@ -829,13 +915,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Taj+Mahal",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre-printed-full-body-range/taj-mahal/",
    "image": {
     "file": "akg-surfaces--taj-mahal.webp",
     "status": "slab",
-    "source": "res.cloudinary.com",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1537,c_scale/f_auto,q_auto/v1776775188/05-Taj-Mahal/05-Taj-Mahal.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre Printed Full Body range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--taj-mahal-supreme",
@@ -848,13 +936,15 @@
     20,
     30
    ],
-   "productUrl": "https://akgsurfaces.co.uk/?s=Taj+Mahal+Supreme",
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre-printed-full-body-range/taj-mahal-supreme/",
    "image": {
     "file": "akg-surfaces--taj-mahal-supreme.webp",
     "status": "slab",
-    "source": "res.cloudinary.com",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1315,c_scale/f_auto,q_auto/v1776775216/06-Taj-Mahal-Supreme/06-Taj-Mahal-Supreme.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Sempre Printed Full Body range. Size: 3200 x 1600 mm. Thickness: 20mm / 30mm. Finishes: Silk Finish"
   },
   {
    "id": "akg-surfaces--valiente-black-low-silica",
@@ -867,13 +957,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://akgsurfaces.co.uk/products/coante/valiente-black/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "akg-surfaces--valiente-black-low-silica.webp",
+    "status": "slab",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_1024,h_499,c_scale/f_auto,q_auto/v1776768841/11Valiente-Black-Full-Slab/11Valiente-Black-Full-Slab.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1640 / 30mm: 3300x1640",
+   "details": "Coante range. Size: 3300 x 1640 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "akg-surfaces--velare-gold",
@@ -905,13 +997,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://akgsurfaces.co.uk/products/coante/zenit/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "akg-surfaces--zenit.webp",
+    "status": "slab",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1264,c_scale/f_auto,q_auto/v1776775050/7709-Zenit-Slab_22628593c/7709-Zenit-Slab_22628593c.jpg?_i=AA",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1640 / 30mm: 3300x1640",
+   "details": "Coante range. Size: 3300 x 1640 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   },
   {
    "id": "b-stone--aegean",
@@ -52164,6 +52258,27 @@
    "suppliers": [
     "Stone Enterprises"
    ]
+  },
+  {
+   "id": "akg-surfaces--everest",
+   "supplier": "AKG Surfaces",
+   "colour": "Everest",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://akgsurfaces.co.uk/products/sempre/everest/",
+   "image": {
+    "file": "akg-surfaces--everest.webp",
+    "status": "slab",
+    "source": "https://res.cloudinary.com/dmkefwyve/images/w_2560,h_1260,c_scale/f_auto,q_auto/v1776776696/781-Everest-Slab_23415535b/781-Everest-Slab_23415535b.jpg?_i=AA",
+    "borrowedFrom": ""
+   },
+   "slabSizes": "20mm: 3300x1640 / 30mm: 3300x1640",
+   "details": "Sempre range. Size: 3300 x 1640 mm. Thickness: 20mm / 30mm. Finishes: Polished"
   }
  ]
 }
