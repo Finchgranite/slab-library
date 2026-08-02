@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-02T13:43:08Z",
+ "generated": "2026-08-02T14:21:24Z",
  "slabs": [
   {
    "id": "akg-surfaces--adira-bronze",
@@ -16337,13 +16337,16 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/absolute-blanc/",
    "image": {
     "file": "compac--absolute-blanc.webp",
     "status": "slab",
-    "source": "en.compac.es",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/absolute-blanc/",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Functional, Quartz Collection"
   },
   {
    "id": "compac--alaska",
@@ -16355,13 +16358,16 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/alaska/",
    "image": {
     "file": "compac--alaska.webp",
     "status": "slab",
-    "source": "en.compac.es",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/alaska/",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3030x1440",
+   "details": "Functional, Quartz Collection"
   },
   {
    "id": "compac--arena",
@@ -16373,13 +16379,16 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/arena/",
    "image": {
     "file": "compac--arena.webp",
     "status": "slab",
-    "source": "en.compac.es",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/arena/",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "20mm: 3030x1440",
+   "details": "Functional, Quartz Collection"
   },
   {
    "id": "compac--carrara",
@@ -16392,13 +16401,16 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/carrara/",
    "image": {
     "file": "compac--carrara.webp",
     "status": "slab",
-    "source": "en.compac.es",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/carrara/",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Functional, Quartz Collection"
   },
   {
    "id": "compac--ceniza",
@@ -16410,13 +16422,16 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/ceniza/",
    "image": {
     "file": "compac--ceniza.webp",
     "status": "slab",
-    "source": "en.compac.es",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/ceniza/",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "20mm: 3030x1440",
+   "details": "Functional, Quartz Collection"
   },
   {
    "id": "compac--elegance-michelangelo",
@@ -16429,13 +16444,16 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/elegance-michelangelo/",
    "image": {
     "file": "compac--elegance-michelangelo.webp",
     "status": "slab",
-    "source": "en.compac.es",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/elegance-michelangelo/",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Elegance, Quartz Collection"
   },
   {
    "id": "compac--glaciar",
@@ -16447,13 +16465,16 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/glaciar/",
    "image": {
     "file": "compac--glaciar.webp",
     "status": "slab",
-    "source": "en.compac.es",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/glaciar/",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "20mm: 3030x1440",
+   "details": "Functional, Quartz Collection"
   },
   {
    "id": "compac--hps-petra-lioz-zero",
@@ -16466,14 +16487,17 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/hps-petra-lioz-zero/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
+    "file": "compac--hps-petra-lioz-zero.webp",
+    "status": "slab",
+    "source": "https://en.compac.es/color/hps-petra-lioz-zero/",
+    "borrowedFrom": "",
+    "scale": "true"
    },
-   "genericId": "natural--hps-petra-lioz-zero"
+   "genericId": "natural--hps-petra-lioz-zero",
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "HPS, Obsidiana, Petra Collection"
   },
   {
    "id": "compac--ice-black-zero",
@@ -16486,14 +16510,17 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/ice-black/",
    "image": {
     "file": "compac--ice-black-zero.webp",
     "status": "slab",
-    "source": "en.compac.es",
-    "borrowedFrom": "shared natural image (natural--ice-black-zero)"
+    "source": "https://en.compac.es/color/ice-black/",
+    "borrowedFrom": "",
+    "scale": "approx"
    },
-   "genericId": "natural--ice-black-zero"
+   "genericId": "natural--ice-black-zero",
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Genesis, Quartz Collection"
   },
   {
    "id": "compac--ice-gold",
@@ -16506,13 +16533,16 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/ice-gold/",
    "image": {
     "file": "compac--ice-gold.webp",
     "status": "slab",
-    "source": "en.compac.es",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/ice-gold/",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Genesis, Quartz Collection"
   },
   {
    "id": "compac--ice-green",
@@ -16525,13 +16555,16 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/ice-green/",
    "image": {
     "file": "compac--ice-green.webp",
     "status": "slab",
-    "source": "en.compac.es",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/ice-green/",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Genesis, Quartz Collection"
   },
   {
    "id": "compac--ice-ink",
@@ -16544,13 +16577,16 @@
     20,
     30
    ],
-   "productUrl": "https://en.compac.es/?s=Ice+Ink",
+   "productUrl": "https://en.compac.es/color/ice-ink/",
    "image": {
     "file": "compac--ice-ink.webp",
     "status": "slab",
-    "source": "en.compac.es",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/ice-ink/",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Genesis, Quartz Collection"
   },
   {
    "id": "compac--ice-max-black-zero",
@@ -16563,14 +16599,17 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/ice-max-black/",
    "image": {
     "file": "compac--ice-max-black-zero.webp",
     "status": "slab",
-    "source": "en.compac.es",
-    "borrowedFrom": "shared natural image (natural--ice-max-black-zero)"
+    "source": "https://en.compac.es/color/ice-max-black/",
+    "borrowedFrom": "",
+    "scale": "true"
    },
-   "genericId": "natural--ice-max-black-zero"
+   "genericId": "natural--ice-max-black-zero",
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Genesis, Quartz Collection"
   },
   {
    "id": "compac--ice-max-gold",
@@ -16583,13 +16622,16 @@
     20,
     30
    ],
-   "productUrl": "https://en.compac.es/?s=Ice+Max+Gold",
+   "productUrl": "https://en.compac.es/color/ice-max-gold/",
    "image": {
     "file": "compac--ice-max-gold.webp",
     "status": "slab",
-    "source": "en.compac.es",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/ice-max-gold/",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Genesis, Quartz Collection"
   },
   {
    "id": "compac--ice-max-green",
@@ -16602,13 +16644,16 @@
     20,
     30
    ],
-   "productUrl": "https://en.compac.es/?s=Ice+Max+Green",
+   "productUrl": "https://en.compac.es/color/ice-max-green/",
    "image": {
     "file": "compac--ice-max-green.webp",
     "status": "slab",
-    "source": "en.compac.es",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/ice-max-green/",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Genesis, Quartz Collection"
   },
   {
    "id": "compac--ice-max-pure",
@@ -16621,13 +16666,16 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/ice-max-pure/",
    "image": {
     "file": "compac--ice-max-pure.webp",
     "status": "slab",
-    "source": "en.compac.es",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/ice-max-pure/",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Genesis, Quartz Collection"
   },
   {
    "id": "compac--ice-max-viola",
@@ -16640,13 +16688,16 @@
     20,
     30
    ],
-   "productUrl": "https://en.compac.es/?s=Ice+Max+Viola",
+   "productUrl": "https://en.compac.es/color/ice-max-viola/",
    "image": {
     "file": "compac--ice-max-viola.webp",
     "status": "slab",
-    "source": "en.compac.es",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/ice-max-viola/",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Genesis, Quartz Collection"
   },
   {
    "id": "compac--ice-viola",
@@ -16659,13 +16710,16 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/ice-viola/",
    "image": {
     "file": "compac--ice-viola.webp",
     "status": "slab",
-    "source": "en.compac.es",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/ice-viola/",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Genesis, Quartz Collection"
   },
   {
    "id": "compac--ice-white",
@@ -16678,13 +16732,16 @@
     20,
     30
    ],
-   "productUrl": "https://en.compac.es/?s=Ice+White",
+   "productUrl": "https://en.compac.es/color/ice-white/",
    "image": {
     "file": "compac--ice-white.webp",
     "status": "slab",
-    "source": "en.compac.es",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/ice-white/",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Genesis, Quartz Collection"
   },
   {
    "id": "compac--luna",
@@ -16696,13 +16753,16 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/luna/",
    "image": {
     "file": "compac--luna.webp",
     "status": "slab",
-    "source": "en.compac.es",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/luna/",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "20mm: 3030x1440",
+   "details": "Functional, Quartz Collection"
   },
   {
    "id": "compac--luxury-borghini",
@@ -16715,13 +16775,16 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/luxury-borghini/",
    "image": {
     "file": "compac--luxury-borghini.webp",
     "status": "slab",
-    "source": "en.compac.es",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/luxury-borghini/",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Luxury, Quartz Collection"
   },
   {
    "id": "compac--luxury-taj",
@@ -16772,13 +16835,16 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/luxury-vagli-macchia-vecchia/",
    "image": {
     "file": "compac--luxury-vagli-macchia-vecchia.webp",
     "status": "slab",
-    "source": "en.compac.es",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/luxury-vagli-macchia-vecchia/",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Luxury, Quartz Collection"
   },
   {
    "id": "compac--luxury-vagli-oro",
@@ -16791,13 +16857,16 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/luxury-vagli-oro/",
    "image": {
     "file": "compac--luxury-vagli-oro.webp",
     "status": "slab",
-    "source": "en.compac.es",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/luxury-vagli-oro/",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Luxury, Quartz Collection"
   },
   {
    "id": "compac--moon",
@@ -16809,13 +16878,16 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/moon/",
    "image": {
     "file": "compac--moon.webp",
     "status": "slab",
-    "source": "en.compac.es",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/moon/",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "20mm: 3030x1440",
+   "details": "Functional, Quartz Collection"
   },
   {
    "id": "compac--nebulous-gold",
@@ -16828,13 +16900,16 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/nebulous-gold/",
    "image": {
     "file": "compac--nebulous-gold.webp",
     "status": "slab",
-    "source": "en.compac.es",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/nebulous-gold/",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Genesis, Quartz Collection"
   },
   {
    "id": "compac--nocturno",
@@ -16846,13 +16921,16 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/nocturno/",
    "image": {
     "file": "compac--nocturno.webp",
     "status": "slab",
-    "source": "en.compac.es",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/nocturno/",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "20mm: 3030x1440",
+   "details": "Functional, Quartz Collection"
   },
   {
    "id": "compac--plomo",
@@ -16864,13 +16942,16 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/plomo/",
    "image": {
     "file": "compac--plomo.webp",
     "status": "slab",
-    "source": "en.compac.es",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/plomo/",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3030x1440",
+   "details": "Functional, Quartz Collection"
   },
   {
    "id": "compac--snow",
@@ -16882,13 +16963,16 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/snow/",
    "image": {
     "file": "compac--snow.webp",
     "status": "slab",
-    "source": "en.compac.es",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/snow/",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "20mm: 3030x1440",
+   "details": "Functional, Quartz Collection"
   },
   {
    "id": "compac--unique-arabescato",
@@ -16901,13 +16985,16 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/unique-arabescato/",
    "image": {
     "file": "compac--unique-arabescato.webp",
     "status": "slab",
-    "source": "en.compac.es",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/unique-arabescato/",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Quartz, Unique Collection"
   },
   {
    "id": "compac--unique-calacatta",
@@ -16920,13 +17007,16 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/unique-calacatta/",
    "image": {
     "file": "compac--unique-calacatta.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/unique-calacatta/",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Quartz, Unique Collection"
   },
   {
    "id": "compac--unique-calacatta-black",
@@ -16939,13 +17029,16 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/unique-calacatta-black/",
    "image": {
     "file": "compac--unique-calacatta-black.webp",
     "status": "slab",
-    "source": "en.compac.es",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/unique-calacatta-black/",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Quartz, Unique Collection"
   },
   {
    "id": "compac--unique-calacatta-gold",
@@ -16958,13 +17051,16 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/unique-calacatta-gold/",
    "image": {
     "file": "compac--unique-calacatta-gold.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/unique-calacatta-gold/",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Quartz, Unique Collection"
   },
   {
    "id": "compac--unique-calacatta-macchia-vecchia",
@@ -16977,13 +17073,14 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/unique-calacatta-macchia-vecchia/",
    "image": {
     "file": "compac--unique-calacatta-macchia-vecchia.webp",
     "status": "slab",
     "source": "en.compac.es",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630"
   },
   {
    "id": "compac--unique-marquina-zero",
@@ -16996,14 +17093,17 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/unique-marquina-zero/",
    "image": {
     "file": "compac--unique-marquina-zero.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
-    "borrowedFrom": "shared natural image (natural--unique-marquina-zero)"
+    "source": "https://en.compac.es/color/unique-marquina-zero/",
+    "borrowedFrom": "",
+    "scale": "approx"
    },
-   "genericId": "natural--unique-marquina-zero"
+   "genericId": "natural--unique-marquina-zero",
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Obsidiana, Unique Collection"
   },
   {
    "id": "compac--unique-taj",
@@ -17035,13 +17135,16 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/unique-venatino/",
    "image": {
     "file": "compac--unique-venatino.webp",
     "status": "slab",
-    "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
-   }
+    "source": "https://en.compac.es/color/unique-venatino/",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Quartz, Unique Collection"
   },
   {
    "id": "compac--unique-warm",
@@ -17073,14 +17176,17 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/volcano-cloud-zero/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
+    "file": "compac--volcano-cloud-zero.webp",
+    "status": "slab",
+    "source": "https://en.compac.es/color/volcano-cloud-zero/",
+    "borrowedFrom": "",
+    "scale": "true"
    },
-   "genericId": "natural--volcano-cloud-zero"
+   "genericId": "natural--volcano-cloud-zero",
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Obsidiana, Volcano Collection"
   },
   {
    "id": "compac--volcano-cool-zero",
@@ -17093,14 +17199,17 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/volcano-cool-zero/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
+    "file": "compac--volcano-cool-zero.webp",
+    "status": "slab",
+    "source": "https://en.compac.es/color/volcano-cool-zero/",
+    "borrowedFrom": "",
+    "scale": "true"
    },
-   "genericId": "natural--volcano-cool-zero"
+   "genericId": "natural--volcano-cool-zero",
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Obsidiana, Volcano Collection"
   },
   {
    "id": "compac--volcano-dark-zero",
@@ -17113,14 +17222,17 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/volcano-dark-zero/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
+    "file": "compac--volcano-dark-zero.webp",
+    "status": "slab",
+    "source": "https://en.compac.es/color/volcano-dark-zero/",
+    "borrowedFrom": "",
+    "scale": "true"
    },
-   "genericId": "natural--volcano-dark-zero"
+   "genericId": "natural--volcano-dark-zero",
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Obsidiana, Volcano Collection"
   },
   {
    "id": "compac--volcano-dim-zero",
@@ -17133,14 +17245,17 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/volcano-dim-zero/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
+    "file": "compac--volcano-dim-zero.webp",
+    "status": "slab",
+    "source": "https://en.compac.es/color/volcano-dim-zero/",
+    "borrowedFrom": "",
+    "scale": "true"
    },
-   "genericId": "natural--volcano-dim-zero"
+   "genericId": "natural--volcano-dim-zero",
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Obsidiana, Volcano Collection"
   },
   {
    "id": "compac--volcano-grey-zero",
@@ -17153,14 +17268,17 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/volcano-grey-zero/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
+    "file": "compac--volcano-grey-zero.webp",
+    "status": "slab",
+    "source": "https://en.compac.es/color/volcano-grey-zero/",
+    "borrowedFrom": "",
+    "scale": "true"
    },
-   "genericId": "natural--volcano-grey-zero"
+   "genericId": "natural--volcano-grey-zero",
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Obsidiana, Volcano Collection"
   },
   {
    "id": "compac--volcano-light-zero",
@@ -17173,14 +17291,17 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/volcano-light-zero/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
+    "file": "compac--volcano-light-zero.webp",
+    "status": "slab",
+    "source": "https://en.compac.es/color/volcano-light-zero/",
+    "borrowedFrom": "",
+    "scale": "true"
    },
-   "genericId": "natural--volcano-light-zero"
+   "genericId": "natural--volcano-light-zero",
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Obsidiana, Volcano Collection"
   },
   {
    "id": "compac--volcano-pearl-zero",
@@ -17193,14 +17314,17 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/volcano-pearl-zero/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
+    "file": "compac--volcano-pearl-zero.webp",
+    "status": "slab",
+    "source": "https://en.compac.es/color/volcano-pearl-zero/",
+    "borrowedFrom": "",
+    "scale": "true"
    },
-   "genericId": "natural--volcano-pearl-zero"
+   "genericId": "natural--volcano-pearl-zero",
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Obsidiana, Volcano Collection"
   },
   {
    "id": "compac--volcano-warm-zero",
@@ -17213,14 +17337,17 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://en.compac.es/color/volcano-warm-zero/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
+    "file": "compac--volcano-warm-zero.webp",
+    "status": "slab",
+    "source": "https://en.compac.es/color/volcano-warm-zero/",
+    "borrowedFrom": "",
+    "scale": "true"
    },
-   "genericId": "natural--volcano-warm-zero"
+   "genericId": "natural--volcano-warm-zero",
+   "slabSizes": "20mm: 3250x1630 / 30mm: 3250x1630",
+   "details": "Obsidiana, Volcano Collection"
   },
   {
    "id": "cosentino-dekton--adia",
@@ -52679,6 +52806,27 @@
     "borrowedFrom": "",
     "scale": "true"
    }
+  },
+  {
+   "id": "compac--unique-argento",
+   "supplier": "Compac",
+   "colour": "Unique Argento",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://en.compac.es/color/unique-argento/",
+   "image": {
+    "file": "compac--unique-argento.webp",
+    "status": "slab",
+    "source": "https://en.compac.es/color/unique-argento/",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "details": "Quartz, Unique Collection"
   }
  ]
 }
