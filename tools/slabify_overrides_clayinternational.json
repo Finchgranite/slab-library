@@ -1,0 +1,92 @@
+{
+ "Arabescato Diva": {
+  "corners": "flat"
+ },
+ "Calacatta Magnifico": {
+  "corners": "flat"
+ },
+ "Calacatta Viola": {
+  "corners": "flat"
+ },
+ "Cammeo": {
+  "corners": "flat"
+ },
+ "Cipollino": {
+  "corners": "flat"
+ },
+ "Orobico Luxe": {
+  "corners": "flat"
+ },
+ "Rosso Domus": {
+  "corners": "flat"
+ },
+ "Sahara Noir": {
+  "corners": "flat"
+ },
+ "Santos": {
+  "corners": "flat"
+ },
+ "Verde France": {
+  "corners": "flat"
+ },
+ "Calacatta Hermitage Vein Tech": {
+  "corners": [
+   [
+    0.004,
+    0.138
+   ],
+   [
+    0.996,
+    0.118
+   ],
+   [
+    0.995,
+    0.878
+   ],
+   [
+    0.006,
+    0.874
+   ]
+  ]
+ },
+ "Calacatta Magnifico Vein Tech": {
+  "corners": [
+   [
+    0.004,
+    0.138
+   ],
+   [
+    0.996,
+    0.118
+   ],
+   [
+    0.995,
+    0.878
+   ],
+   [
+    0.006,
+    0.874
+   ]
+  ]
+ },
+ "Statuario Principe Vein Tech": {
+  "corners": [
+   [
+    0.006,
+    0.148
+   ],
+   [
+    0.996,
+    0.128
+   ],
+   [
+    0.997,
+    0.852
+   ],
+   [
+    0.006,
+    0.868
+   ]
+  ]
+ }
+}

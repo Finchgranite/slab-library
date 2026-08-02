@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-02T14:21:24Z",
+ "generated": "2026-08-02T18:19:55Z",
  "slabs": [
   {
    "id": "akg-surfaces--adira-bronze",
@@ -14726,7 +14726,8 @@
     "file": "clay-international--absolute-black.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/absolute-black-1.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "approx"
    },
    "slabSizes": "12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity SC02. 12mm: Matt (Non-Rectified); Colours: Black"
@@ -14748,7 +14749,8 @@
     "file": "clay-international--absolute-white.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/SC01-Absolute.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "approx"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified) / 20mm: 3240x1590 (Non-Rectified)",
    "details": "Infinity SC01. 6mm: Matt (Rectified); 12mm: Polished, Matt (Non-Rectified); 20mm: Matt (Non-Rectified); Colours: White"
@@ -14768,7 +14770,8 @@
     "file": "clay-international--aegan-blue.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/11/Infinity_HL04_Aegean_Blue_160x320_6mm-1024x512.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified)",
    "details": "6mm: Mosaic (Rectified); Colours: Blue"
@@ -14788,7 +14791,8 @@
     "file": "clay-international--andaman-emerald.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/11/Infinity_HL03_Andaman_Emerald_160x320_6mm-1024x512.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified)",
    "details": "6mm: Mosaic (Rectified); Colours: Green"
@@ -14809,7 +14813,8 @@
     "file": "clay-international--andromeda.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2025/02/androm.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "approx"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity OC08. 6mm: Polished (Rectified); 12mm: Polished, Pat (Non-Rectified); Colours: Black, Brown"
@@ -14848,7 +14853,8 @@
     "file": "clay-international--arabescato-diva.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2025/10/Arabescato-Diva.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "approx"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity MB29. 6mm: Levigato Pearl, Satin, Polished (Rectified); 12mm: Levigato Pearl, Satin, Polished (Non-Rectified); Colours: Beige, Gold, White"
@@ -14888,7 +14894,8 @@
     "file": "clay-international--buxy-select.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/BuxySelect_SE07.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity SE07. 6mm: Matt (Rectified); 12mm: Matt (Non-Rectified); Colours: Grey"
@@ -14910,7 +14917,8 @@
     "file": "clay-international--calacatta-brasile.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2025/02/Brasile-1024x514.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified) / 20mm: 3240x1590 (Non-Rectified)",
    "details": "Infinity MB27. 6mm: Satin, (Rectified); 12mm: Satin, (Non-Rectified); 20mm: Satin (Non-Rectified); Colours: White"
@@ -14932,7 +14940,8 @@
     "file": "clay-international--calacatta-glory.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/MB07_Glory.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified) / 20mm: 3240x1590 (Non-Rectified)",
    "details": "Infinity MB07. 6mm: Polished (Rectified); 12mm: Satin, Polished, Lev (Non-Rectified); 20mm: Polished (Non-Rectified); Colours: White"
@@ -14953,7 +14962,8 @@
     "file": "clay-international--calacatta-hermitage.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_MB17_Calacatta-Hermitage_160X320_12mm_1.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity MB17. 6mm: Satin, Polished (Rectified); 12mm: Satin, Polished (Non-Rectified); Vein Tech 20mm: Satin, Polished (Non-Rectified) Random veining, Not book match; Colours: Beige, Gold"
@@ -14973,7 +14983,8 @@
     "file": "clay-international--calacatta-hermitage-vein-tech.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    }
   },
   {
@@ -14992,7 +15003,8 @@
     "file": "clay-international--calacatta-magnifico.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/INFINITY-CalacattaMagnifico-MB16.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity MB16. 6mm: Satin, Polished (Rectified); 12mm: Satin, Polished (Non-Rectified); Vein Tech 20mm: Satin, Polished (Non-Rectified) Random veining, Not book match; Colours: White"
@@ -15012,7 +15024,8 @@
     "file": "clay-international--calacatta-magnifico-vein-tech.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    }
   },
   {
@@ -15032,7 +15045,8 @@
     "file": "clay-international--calacatta-oro.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_MB06_Calacatta_Oro_160x320_12mm.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified) / 20mm: 3240x1590 (Non-Rectified)",
    "details": "Infinity MB06. 6mm: Satin, Polished (Rectified); 12mm: Satin, Polished (Non-Rectified); 20mm: Satin, Polished (Non-Rectified); Colours: Gold, White"
@@ -15053,7 +15067,8 @@
     "file": "clay-international--calacatta-viola.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_MB22_Calacatta_Viola_160x320_6mm_A-1024x512.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity MB22. 6mm: Polished (Rectified); 12mm: Polished, Lev (Non-Rectified); Colours: White"
@@ -15074,7 +15089,8 @@
     "file": "clay-international--cammeo.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2025/02/cammeo-h--1024x510.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
    "details": "6mm: Polished Glam (Rectified); 12mm: Polished Glam (Non-Rectified); Colours: Brown, Grey"
@@ -15095,7 +15111,8 @@
     "file": "clay-international--ceppo-romano.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_SE12_Ceppo_Romano_160x320_12mm_02-1024x516.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity SE12. 6mm: Matt (Rectified); 12mm: Matt (Non-Rectified); Colours: Beige"
@@ -15117,7 +15134,8 @@
     "file": "clay-international--chianca-di-ostuni.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_SE01_Chianca_di_Ostuni_160x320_12mm.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified) / 20mm: 3240x1590 (Non-Rectified)",
    "details": "Infinity SE01. 6mm: Matt (Rectified); 12mm: Matt (Non-Rectified); 20mm: Matt (Non-Rectified); Colours: Beige"
@@ -15138,7 +15156,8 @@
     "file": "clay-international--cipollino.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_MB25_Cipollino_160x320_6mm_A-1024x516.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity MB25. 6mm: Polished, Lev (Rectified); 12mm: Polished, Lev (Non-Rectified); Colours: Blue"
@@ -15158,7 +15177,8 @@
     "file": "clay-international--classic-statuario.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_MB03_Classic_Statuario_160x320_12mm_A-2-1024x513.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity MB03. 6mm: Satin (Rectified) Discontinued – Limited Availability; 12mm: Satin, Polished (Non-Rectified); Colours: White"
@@ -15180,7 +15200,8 @@
     "file": "clay-international--concrete-grey.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_CE02_Concrete_Grey_160x320_12mm.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified) / 20mm: 3240x1590 (Non-Rectified)",
    "details": "Infinity CE02. 6mm: Matt (Rectified); 12mm: Matt (Non-Rectified); 20mm: Matt (Non-Rectified); Colours: Grey"
@@ -15201,7 +15222,8 @@
     "file": "clay-international--concrete-light.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_CE01_Concrete_Light_160x320_12mm.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity CE01. 6mm: Matt (Rectified); 12mm: Matt (Non-Rectified); Colours: Grey"
@@ -15222,7 +15244,8 @@
     "file": "clay-international--crystal-clear.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2025/10/crystal-clear.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "approx"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity OC11. 6mm: Levigato Pearl, Polished (Rectified); 12mm: Levigato Pearl, Polished (Non-Rectified); Colours: Beige, White"
@@ -15243,7 +15266,8 @@
     "file": "clay-international--crystal-ice.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/CrystalIce-OC01-1.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity OC01. 6mm: Polished (Rectified); 12mm: Polished, Lev (Non-Rectified); Colours: White"
@@ -15263,7 +15287,8 @@
     "file": "clay-international--defense.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2025/10/Infinity-Defense.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "approx"
    },
    "slabSizes": "12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity NU07. 12mm: Satin, Polished (Non-Rectified); Colours: Beige, Grey, White"
@@ -15283,7 +15308,8 @@
     "file": "clay-international--doro.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2025/02/Untitled-3-1024x508.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified)",
    "details": "Infinity HL10. 6mm: Matt (Rectified); Colours: Beige"
@@ -15303,7 +15329,8 @@
     "file": "clay-international--extra-statuario.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_new_MB04_Extra_Statuario_160x320_12mm.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity MB04. 6mm: Satin, Polished (Rectified) *Discontinued – Limited Availability; 12mm: Satin, Polished (Non-Rectified); Colours: White"
@@ -15324,7 +15351,8 @@
     "file": "clay-international--fossil.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2025/10/Infinity-Arkeon-Fossil-GB01.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "approx"
    },
    "slabSizes": "6mm: 3200x1600 / 12mm: 3240x1620",
    "details": "Infinity GB01. 6mm: Matt; 12mm: Matt; Colours: White"
@@ -15344,7 +15372,8 @@
     "file": "clay-international--fossil-row.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2025/10/Infinity-Arkeon-Fossil-Row-GB03.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "approx"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified)",
    "details": "Infinity GB03. 6mm: Matt (Rectified); Colours: White"
@@ -15364,7 +15393,8 @@
     "file": "clay-international--fossil-tartan.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2025/10/Infinity-Arkeon-Fossil-Tartan-GB02.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "approx"
    },
    "slabSizes": "6mm: 3200x1600",
    "details": "Infinity GB02. 6mm: Matt; Colours: White"
@@ -15402,7 +15432,8 @@
     "file": "clay-international--hyams-white.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_HL01_Hyams_White_160x320_6mm-1024x512.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified)",
    "details": "6mm: Mosaic (Rectified); Colours: White"
@@ -15424,7 +15455,8 @@
     "file": "clay-international--magellano.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_OC04_Magellano_120X280_6mm-1024x515.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified) / 20mm: 3240x1590 (Non-Rectified)",
    "details": "Infinity OC04. 6mm: Polished (Rectified); 12mm: Polished (Non-Rectified); 20mm: Polished (Non-Rectified); Colours: Beige"
@@ -15444,7 +15476,8 @@
     "file": "clay-international--metal-corten.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_ME03_Metal_Corten_160x320_12mm.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified)",
    "details": "Infinity ME03. 6mm: Matt (Rectified); Colours: Red"
@@ -15465,7 +15498,8 @@
     "file": "clay-international--metal-dark.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_ME02_Metal_Dark_160x320_12mm.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity ME02. 6mm: Matt (Rectified); 12mm: Matt (Non-Rectified); Colours: Black"
@@ -15485,7 +15519,8 @@
     "file": "clay-international--midori.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2025/02/Midori-H.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified)",
    "details": "Infinity HL11. 6mm: Matt (Rectified); Colours: Green"
@@ -15507,7 +15542,8 @@
     "file": "clay-international--milan-stone.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_SE03_Milan_Stone_160x320_12mm.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified) / 20mm: 3240x1590 (Non-Rectified)",
    "details": "Infinity SE03. 6mm: Matt (Rectified); 12mm: Matt (Non-Rectified); 20mm: Matt (Non-Rectified); Colours: Grey"
@@ -15528,7 +15564,8 @@
     "file": "clay-international--nero-marquinia.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2025/08/Nero-Marquinia-slab-e1755003697845.jpg",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity MB11. 6mm: Satin, Polished (Rectified); 12mm: Satin, Polished (Non-Rectified); Colours: Black"
@@ -15549,7 +15586,8 @@
     "file": "clay-international--onyx-white.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_OC07_Onix_Pearl_160x320_12mm.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity OC07. 6mm: Polished (Rectified); 12mm: Polished, Lev (Non-Rectified); Colours: White"
@@ -15570,7 +15608,8 @@
     "file": "clay-international--orobico-luxe.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_MB19_Orobico_Luxe_120X280_6mm-1024x515.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity MB19. 6mm: Polished (Rectified); 12mm: Polished (Non-Rectified); Colours: Brown"
@@ -15591,7 +15630,8 @@
     "file": "clay-international--palladium-ivory.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_SE11_Palladium_Ivory_160x320_12mm_02-1024x516.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity SE11. 6mm: Matt (Rectified); 12mm: Matt (Non-Rectified); Colours: Ivory"
@@ -15612,7 +15652,8 @@
     "file": "clay-international--panda-white.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_MB18-PANDA-WHITE_160X320_12mm_A-1-1024x515.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity MB18. 6mm: Polished (Rectified); 12mm: Polished (Non-Rectified); Colours: White"
@@ -15634,7 +15675,8 @@
     "file": "clay-international--pietra-grey.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_MB09_Pietra_Grey160x320_12mm.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified) / 20mm: 3240x1590 (Non-Rectified)",
    "details": "Infinity MB09. 6mm: Satin (Rectified); 12mm: Satin (Non-Rectified); 20mm: Satin (Non-Rectified); Colours: Grey"
@@ -15654,7 +15696,8 @@
     "file": "clay-international--pigalle.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_RE13_Pigalle_160x320_6mm-1024x512.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "12mm: 3240x1620",
    "details": "Infinity RE13. 20mm: PAT (Non-Rectified) *Discontinued – Limited Availability; Colours: Black"
@@ -15675,7 +15718,8 @@
     "file": "clay-international--plaster-ash.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2025/10/Infinity-Arkeon-Plaster-Ash-GB25.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "approx"
    },
    "slabSizes": "6mm: 3200x1600 / 12mm: 3240x1620",
    "details": "Infinity GB25. 6mm: Matt; 12mm: Matt; Colours: Brown"
@@ -15696,7 +15740,8 @@
     "file": "clay-international--plaster-bone.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2025/10/Infinity-Arkeon-Plaster-Bone-GB23.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "approx"
    },
    "slabSizes": "6mm: 3200x1600 / 12mm: 3240x1620",
    "details": "Infinity GB23. 6mm: Matt; 12mm: Matt; Colours: Beige"
@@ -15717,7 +15762,8 @@
     "file": "clay-international--plaster-ground.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2025/10/Infinity-Arkeon-Plaster-Ground-GB24.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "approx"
    },
    "slabSizes": "6mm: 3200x1600 / 12mm: 3240x1620",
    "details": "Infinity GB24. 6mm: Matt; 12mm: Matt; Colours: Beige"
@@ -15738,7 +15784,8 @@
     "file": "clay-international--plaster-sand.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2025/10/Infinity-Arkeon-Plaster-Sand-GB22.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "approx"
    },
    "slabSizes": "6mm: 3200x1600 / 12mm: 3240x1620",
    "details": "Infinity GB22. 6mm: Matt; 12mm: Matt; Colours: Beige"
@@ -15759,7 +15806,8 @@
     "file": "clay-international--plaster-snow.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2025/10/Infinity-Arkeon-Plaster-Snow-GB21.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "approx"
    },
    "slabSizes": "6mm: 3200x1600 / 12mm: 3240x1620",
    "details": "Infinity GB21. 6mm: Matt; 12mm: Matt; Colours: Beige"
@@ -15780,7 +15828,8 @@
     "file": "clay-international--plaster-warm.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2025/10/Infinity-Arkeon-Plaster-Warm-GB26.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "approx"
    },
    "slabSizes": "6mm: 3200x1600 / 12mm: 3240x1620",
    "details": "Infinity GB26. 6mm: Matt; 12mm: Matt; Colours: Brown"
@@ -15801,7 +15850,8 @@
     "file": "clay-international--provencale.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2025/02/Provencale-H-1024x514.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity MA10. 6mm: Matt (Rectified); 12mm: Matt (Non-Rectified); Colours: Beige"
@@ -15822,7 +15872,8 @@
     "file": "clay-international--pulpis-brown.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_MB08_Pulpis_Brown_160x320_12mm.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity MB08. 6mm: Satin (Rectified); 12mm: Satin (Non-Rectified); Colours: Brown"
@@ -15843,7 +15894,8 @@
     "file": "clay-international--rosso-domus.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_MB26_Rosso_Domus_160x320_12mm_A-1024x512.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity MB26. 6mm: Polished (Rectified); 12mm: Polished (Non-Rectified); Colours: Red"
@@ -15864,7 +15916,8 @@
     "file": "clay-international--royal.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_MB24_Royal_160x320_12mm_A-1024x512.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity NU08. 6mm: Polished (Rectified); 12mm: Satin, Polished (Non-Rectified); Colours: Black"
@@ -15885,7 +15938,8 @@
     "file": "clay-international--royal-peacock.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_MB20_Royal_Peackock_120X280_6mm-1024x515.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity MB20. 6mm: Polished (Rectified); 12mm: Polished (Non-Rectified); Colours: Green"
@@ -15905,7 +15959,8 @@
     "file": "clay-international--sahara-noir.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_MB10_Sahara_Noir_160x320_12mm.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity MB10. 6mm: Polished (Rectified) Discontinued – Limited Availability; 12mm: Satin, Polished (Non-Rectified) *Polished Discontinued – Limited Availability; Book Match / End Match: Available in Book Match; Colours: Black"
@@ -15926,7 +15981,8 @@
     "file": "clay-international--sandstone-gray.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2025/10/Infinity-Arkeon-Sandstone-Gray-GB12.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "approx"
    },
    "slabSizes": "6mm: 3200x1600 / 12mm: 3240x1620",
    "details": "Infinity GB12. 6mm: Matt; 12mm: Matt; Colours: Grey"
@@ -15947,7 +16003,8 @@
     "file": "clay-international--sandstone-light.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2025/10/Infinity-Arkeon-Sandstone-Light-GB14.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "approx"
    },
    "slabSizes": "6mm: 3200x1600 / 12mm: 3240x1620",
    "details": "Infinity GB14. 6mm: Matt; 12mm: Matt; Colours: Grey"
@@ -15968,7 +16025,8 @@
     "file": "clay-international--sandstone-silver.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2025/10/Infinity-Arkeon-Sandstone-Silver-GB13.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "approx"
    },
    "slabSizes": "6mm: 3200x1600 / 12mm: 3240x1620",
    "details": "Infinity GB13. 6mm: Matt; 12mm: Matt; Colours: Grey"
@@ -15989,7 +16047,8 @@
     "file": "clay-international--sandstone-warm.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2025/10/Infinity-Arkeon-Sandstone-Warm_.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "approx"
    },
    "slabSizes": "6mm: 3200x1600 / 12mm: 3240x1620",
    "details": "Infinity GB11. 6mm: Matt; 12mm: Matt; Colours: Grey"
@@ -16010,7 +16069,8 @@
     "file": "clay-international--santos.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_OC06_Santos_160x320_12mm-1024x512.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity OC06. 6mm: Polished Glam (Rectified); 12mm: Polished Glam (Non-Rectified); Colours: Blue, Green"
@@ -16030,7 +16090,8 @@
     "file": "clay-international--sorario.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2025/02/Sorario-h.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified)",
    "details": "Infinity HL12. 6mm: Matt (Rectified); Colours: Blue"
@@ -16050,7 +16111,8 @@
     "file": "clay-international--statuario-principe.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_MB21_Statuario_Principe_160x320_6mm_A.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity MB21. 6mm: Polished (Rectified) *Discontinued – Limited Availability; 12mm: Satin, Polished (Non-Rectified); Vein Tech 20mm: Polished (Non-Rectified) Random veining, Not book match; Colours: White"
@@ -16070,7 +16132,8 @@
     "file": "clay-international--statuario-principe-vein-tech.webp",
     "status": "slab",
     "source": "infinitysurfaces.it",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    }
   },
   {
@@ -16090,7 +16153,8 @@
     "file": "clay-international--taj-mahal.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2025/02/Taj-Mahal-H-1024x507.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified) / 20mm: 3240x1590 (Non-Rectified)",
    "details": "Infinity OC10. 6mm: Polished (Rectified); 12mm: Satin, Polished (Non-Rectified); 20mm: Satin, Polished (Non-Rectified); Colours: Beige"
@@ -16110,7 +16174,8 @@
     "file": "clay-international--terrazzo-white.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_MA01_Terrazzo_White_160x320_12mm.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity MA01. 12mm: Matt (Non-Rectified); Colours: White"
@@ -16130,7 +16195,8 @@
     "file": "clay-international--total-grey.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_RE03_Total_Grey_160x320_12mm-1.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity RE03. 12mm: Satin (Non-Rectified); Colours: Grey"
@@ -16151,7 +16217,8 @@
     "file": "clay-international--total-white.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_RE01_Total_White_160x320_12mm.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity RE01. 6mm: Satin (Rectified); 12mm: Satin (Non-Rectified); Colours: White"
@@ -16172,7 +16239,8 @@
     "file": "clay-international--travertine-bianco.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2025/02/bianco-h--1024x507.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity SE13. 6mm: Matt (Rectified); 12mm: Matt (Non-Rectified); Colours: White"
@@ -16194,7 +16262,8 @@
     "file": "clay-international--travertine-chiaro.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_SE09_Travertino_Chiaro_160x320_6mm_01-1024x513.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified) / 20mm: 3240x1590 (Non-Rectified)",
    "details": "Infinity SE09. 6mm: Matt (Rectified); 12mm: Matt (Non-Rectified); 20mm: Matt (Non-Rectified); Colours: Beige"
@@ -16215,7 +16284,8 @@
     "file": "clay-international--travertine-grey.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/TravertinoGrey-SE06.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity SE06. 6mm: Matt (Rectified); 12mm: Matt (Non-Rectified); Colours: Grey"
@@ -16237,7 +16307,8 @@
     "file": "clay-international--travertine-trilogy.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2025/10/travertine-trilogy.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "approx"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified) / 20mm: 3240x1590 (Non-Rectified)",
    "details": "Infinity SE14. 6mm: Matte (Rectified); 12mm: Matte (Non-Rectified); Colours: White; 20mm: Matte (Non-Rectified) – Vein Tech"
@@ -16258,7 +16329,8 @@
     "file": "clay-international--tundra-select.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/TundraSelect-MB13-1.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity MB13. 6mm: Polished (Rectified); 12mm: Satin, Polished (Non-Rectified); Colours: Grey"
@@ -16279,7 +16351,8 @@
     "file": "clay-international--verde-france.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/INFINITY-VerdeFrance-MB15.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
    "details": "Infinity MB15. 6mm: Polished, Lev (Rectified); 12mm: Polished, Lev (Non-Rectified); Colours: Green"
@@ -16299,7 +16372,8 @@
     "file": "clay-international--vik-black.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2024/12/Infinity_HL02_Vik_Black_160x320_6mm-1024x512.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified)",
    "details": "6mm: Mosaic (Rectified); Colours: Black"
@@ -16321,7 +16395,8 @@
     "file": "clay-international--white-macaubas.webp",
     "status": "slab",
     "source": "https://clayinternational.co.uk/wp-content/uploads/2025/02/Macaubus-MB28-H-1024x510.png",
-    "borrowedFrom": ""
+    "borrowedFrom": "",
+    "scale": "true"
    },
    "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified) / 20mm: 3240x1590 (Non-Rectified)",
    "details": "Infinity MB28. 6mm: Satin, Polished (Rectified); 12mm: Satin, Polished (Non-Rectified); 20mm: Satin (Non-Rectified); Colours: White"

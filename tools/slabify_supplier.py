@@ -96,6 +96,8 @@ for r in rows:
             else:
                 break
         img = img[:max(1, cut - round(img.shape[0] * 0.012))]
+    elif ov == "flat":
+        quad = None                     # edge-to-edge render: never warp
     elif isinstance(ov, list):
         h, w = img.shape[:2]
         quad = np.array([[x * w, y * h] for x, y in ov], dtype=np.float32)
