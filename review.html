@@ -111,6 +111,7 @@ function render() {
           <span class="b ${s.image.status}">${s.image.status}</span>
           ${s.naturalStone ? '<span class="b natural">natural stone</span>' : ''}
           ${s.image.borrowedFrom ? `<span class="b">from: ${esc(s.image.borrowedFrom)}</span>` : ''}
+          ${s.image.scale === 'approx' ? '<span class="b" style="background:#fdf1d0">pattern approx — not to scale</span>' : ''}
         </div>
         ${s.illustrationOnly && s.image.file ? '<div class="warn">⚠ Illustration only — natural stone varies; not the actual slab your worktop will be cut from.</div>' : ''}
         ${s.productUrl ? `<div style="margin-top:6px"><a href="${s.productUrl}" target="_blank" rel="noopener">product page ↗</a></div>` : ''}
