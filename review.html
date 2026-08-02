@@ -101,6 +101,8 @@ function render() {
         <div class="name">${esc(s.colour)}</div>
         <div class="meta">${esc(s.supplier)} · ${esc(s.material)} · ${s.thicknesses.join('/')}mm</div>
         ${s.suppliers ? `<div class="meta">sold by: ${s.suppliers.map(esc).join(', ')}</div>` : ''}
+        ${s.slabSizes ? `<div class="meta">sizes: ${esc(s.slabSizes)}</div>` : ''}
+        ${s.details ? `<div class="meta">${esc(s.details)}</div>` : ''}
         <div class="badges">
           <span class="b ${s.image.status}">${s.image.status}</span>
           ${s.naturalStone ? '<span class="b natural">natural stone</span>' : ''}

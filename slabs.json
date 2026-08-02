@@ -14461,13 +14461,15 @@
     6,
     12
    ],
-   "productUrl": "",
+   "productUrl": "https://clayinternational.co.uk/product/new-arabescato-diva-mb29/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "clay-international--arabescato-diva.webp",
+    "status": "slab",
+    "source": "https://clayinternational.co.uk/wp-content/uploads/2025/10/Arabescato-Diva.png",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1600 (Rectified) / 12mm: 3240x1620 (Non-Rectified)",
+   "details": "Infinity MB29. 6mm: Levigato Pearl, Satin, Polished (Rectified); 12mm: Levigato Pearl, Satin, Polished (Non-Rectified). Colours: Beige, Gold, White. Bookmatch available."
   },
   {
    "id": "clay-international--bercy",
