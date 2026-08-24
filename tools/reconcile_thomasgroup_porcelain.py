@@ -1,9 +1,12 @@
 """Reconcile tools/thomasgroup-porcelain-harvest.json with slab-library.
 Supplier "Thomas Group (Surfaces Collection)", Material "Porcelain" (Atlas
-Plan). Every one of the 76 price-book colours is NEW (none exist in the
-library yet) -- this always adds, never matches an existing entry. --report
-prints the plan and changes nothing; --apply downloads originals, writes
-webps, and applies via harvest_lib.patch_library (bumps `generated`).
+Plan). All 76 price-book colours belong to us (this script only ever
+touches its own `thomas-group-surfaces-collection--*` ids) -- re-running
+UPDATES an existing entry in place (fresh image/gallery/details/slabSizes
+from the current manifest) rather than skipping it, so a harvest-logic fix
+can be repaired with a plain re-run. --report prints the plan and changes
+nothing; --apply downloads originals, writes webps, and applies via
+harvest_lib.patch_library (bumps `generated`).
 
 Rules (HARVEST-SPEC.md + orchestrator Decisions 2026-08-24):
   - entry id = thomas-group-surfaces-collection--{colour-slug}
@@ -73,12 +76,10 @@ for colour in por_colours:
     slab_url = rec["slab"] if rec else None
     n_cu = len(rec["closeups"]) if rec else 0
     n_rm = len(rec["rooms"]) if rec else 0
-    status = "SKIP (already in library!)" if already else ("NEW w/ slab" if slab_url else "NEW no-image")
+    status = ("UPDATE w/ slab" if slab_url else "UPDATE no-image") if already else \
+             ("NEW w/ slab" if slab_url else "NEW no-image")
     rows_out.append((colour, eid, status, rec["source"] if rec else "-", f"{n_cu}cu/{n_rm}rm",
                       hl.format_slab_sizes(pbinfo["sizes"])))
-
-    if already:
-        continue
 
     entry = {
         "id": eid, "supplier": SUPPLIER, "colour": colour, "material": MATERIAL,
@@ -90,17 +91,17 @@ for colour in por_colours:
     if pbinfo["sizes"]:
         entry["slabSizes"] = hl.format_slab_sizes(pbinfo["sizes"])
     entry["details"] = blurb[:400]
-    plan.append((colour, entry, rec))
+    plan.append((colour, entry, rec, already))
 
 w = [max((len(str(r[i])) for r in rows_out), default=8) for i in range(6)]
 for r in rows_out:
     print(" | ".join(f"{str(r[i]):<{w[i]}}" for i in range(6)))
 
-n_new_slab = sum(1 for _, _, s in plan if s and s.get("slab"))
-n_new_noimg = sum(1 for _, _, s in plan if not (s and s.get("slab")))
-print(f"\nprice-book colours: {len(por_colours)} | to add: {len(plan)} "
-      f"(with slab image: {n_new_slab}, no image found: {n_new_noimg}) | "
-      f"already in library (skipped): {sum(1 for r in rows_out if 'SKIP' in r[2])}")
+n_new_slab = sum(1 for _, e, s, already in plan if not already and s and s.get("slab"))
+n_upd = sum(1 for _, e, s, already in plan if already)
+n_noimg = sum(1 for _, e, s, already in plan if not (s and s.get("slab")))
+print(f"\nprice-book colours: {len(por_colours)} | to add: {len(plan) - n_upd} | to update (repair pass): {n_upd} "
+      f"| no image found: {n_noimg}")
 
 if not apply_mode:
     print("\n--report only, nothing written. Re-run with --apply to write images/ + slabs.json.")
@@ -123,10 +124,11 @@ def dl(url, colour, tag):
     return hl.save_original(data, DEST_ROOT, colour, fn)
 
 
-n_added = n_closeups = n_rooms = n_dl_fail = 0
+n_added = n_updated = n_closeups = n_rooms = n_dl_fail = 0
 new_entries = []
+updated_entries = []  # (id, entry) to splice into existing lib['slabs'] positions
 
-for colour, entry, rec in plan:
+for colour, entry, rec, already in plan:
     if rec and rec.get("slab"):
         p = dl(rec["slab"], colour, "slab")
         if p and os.path.exists(p):
@@ -165,18 +167,27 @@ for colour, entry, rec in plan:
     if len(gallery) > 1:
         entry["images"] = gallery
 
-    new_entries.append(entry)
-    n_added += 1
+    if already:
+        updated_entries.append(entry)
+        n_updated += 1
+    else:
+        new_entries.append(entry)
+        n_added += 1
 
 
 def apply(lib_):
+    by_id = {u["id"]: u for u in updated_entries}
+    for i, s in enumerate(lib_["slabs"]):
+        if s["id"] in by_id:
+            lib_["slabs"][i] = by_id[s["id"]]
     lib_["slabs"].extend(new_entries)
-    return {"added": len(new_entries)}
+    return {"added": len(new_entries), "updated": len(updated_entries)}
 
 
 result = hl.patch_library(apply, supplier=SUPPLIER)
 print(f"\nAPPLIED via patch_library: {result}")
-print(f"entries added: {n_added} | mains downloaded: {sum(1 for _,p,_ in mains_sheet if p)} | "
+print(f"entries added: {n_added} | entries updated (repair pass): {n_updated} | "
+      f"mains downloaded: {sum(1 for _,p,_ in mains_sheet if p)} | "
       f"main download failures: {n_dl_fail} | closeups: {n_closeups} | rooms: {n_rooms}")
 
 m1 = hl.contact_sheet(mains_sheet, os.path.join(hl.REPORTS_DIR, "thomasgroup-porcelain-mains.png"), cols=8)
@@ -184,19 +195,22 @@ m2 = hl.contact_sheet(gallery_sheet, os.path.join(hl.REPORTS_DIR, "thomasgroup-p
 print("contact sheets:", m1, m2)
 
 report_path = os.path.join(hl.REPORTS_DIR, "thomasgroup-porcelain-REPORT.md")
-no_image_colours = [c for c, e, r in plan if not (r and r.get("slab"))]
+no_image_colours = [c for c, e, r, a in plan if not (r and r.get("slab"))]
 n_resolved_atlas = sum(1 for r in manifest if r.get("source") == "atlasplan.com")
 n_resolved_tsc = sum(1 for r in manifest if r.get("source") == "thesurfacecollection.co.uk")
 n_not_found = sum(1 for r in manifest if not r.get("source"))
 not_found_names = sorted(r["colour"] for r in manifest if not r.get("source"))
-n_closeup_only = sum(1 for _, e, r in plan if r and r.get("slab_is_closeup"))
+n_closeup_only = sum(1 for _, e, r, a in plan if r and r.get("slab_is_closeup"))
 with open(report_path, "w", encoding="utf-8") as f:
     f.write(f"""# Thomas Group (Surfaces Collection) -- Porcelain (Atlas Plan) harvest report
 
 Supplier string: `{SUPPLIER}` | Material: Porcelain | Brand: Atlas Plan (an Atlas
 Concorde brand), sold in the UK exclusively via Thomas Group / The Surface
-Collection. Every one of these 76 price-book colours was ABSENT from the
-library before this run -- all {n_added} are new entries.
+Collection. All 76 price-book colours were ABSENT from the library before the
+first run of this script; this pass touched {n_added + n_updated} of them
+({n_added} newly added, {n_updated} updated in place -- a repair pass fixing
+a slab/room-photo misclassification bug found via the mains contact sheet
+after the first apply, see Assumptions).
 
 Primary source: atlasplan.com per-colour pages (`/en/large-format-porcelain-slabs/{{slug}}/`,
 storage.atlasplan.com CDN, curl OK, no bot protection). Colour->slug mapping
@@ -235,6 +249,7 @@ stripped), plus the site's one-line meta description where available.
 - Resolved via thesurfacecollection.co.uk fallback (slab photo only): {n_resolved_tsc}
 - Not found on either site: {n_not_found} -- {not_found_names}
 - Library entries added: {n_added}
+- Library entries updated in place this pass (repair, see Assumptions): {n_updated}
 - Mains (slab) downloaded: {sum(1 for _,p,_ in mains_sheet if p)}
 - Main download failures: {n_dl_fail}
 - Mains sourced from a bookmatch crop (no separate full-slab photo existed; `image.status: "closeup-only"`): {n_closeup_only}
@@ -249,14 +264,33 @@ stripped), plus the site's one-line meta description where available.
   library entry pointing at the same underlying atlasplan.com product page --
   the price book, not the site, is the naming authority, and these are kept
   as distinct SKUs/rows rather than merged.
-- atlasplan.com's numbered lifestyle photos (`01-...`, `02-...` etc) are
-  classified as `room`; the `-bookmatch` slab crop and any filename containing
-  "detail"/"texture"/"surface" as `closeup`; the un-suffixed `atlas-plan-epic-
-  {{slug}}-{{finish}}-{{size}}-{{thickness}}mm` file as the main `slab`; a
-  `{{slug}}-warehouse-...` generic photo is always skipped.
-- Images are fetched at their true original resolution by stripping the
-  responsive `-clamp_W_H_Q`/`-clip_W_H_Q` CDN suffix (verified the unsuffixed
-  original is directly fetchable on storage.atlasplan.com).
+- Slab-photo classification is a two-pass, order-independent scan: pass 1
+  looks for a filename carrying a printed slab-size token (`162x324`,
+  `160x320` etc) without "bookmatch" -- that is always the main `slab`;
+  `-bookmatch` filenames are the `closeup` crop (or, for the 2 colours with
+  no non-bookmatch size-tagged photo at all -- Calacatta Extra, Statuario
+  Supremo -- the first bookmatch crop is promoted to `slab` with
+  `image.status: "closeup-only"`). Pass 2 classifies everything left over as
+  `closeup`/`room` by weaker filename/alt hints. **Fix (this repair pass):**
+  the first apply used a single order-dependent pass whose fallback trusted
+  `harvest_lib.classify_kind()`'s bare-word-"slab" filename match -- which
+  wrongly picked numbered lifestyle photos as the main slab for a few
+  colours (e.g. Appennino's `01-appennino-...-slab-atlas-plan` is actually a
+  kitchen photo) whenever they preceded the real size-tagged photo in the
+  page's DOM order. Caught via the mains contact sheet, not the numeric
+  counts (all of which looked normal) -- **always eyeball
+  `thomasgroup-porcelain-mains.png` before trusting a harvest, counts alone
+  don't catch a wrong-but-present image.** The two-pass rewrite here fixes
+  it for every colour, not just the ones spotted by eye.
+- `{{slug}}-warehouse-...` generic photos are always skipped.
+- Closeup/room gallery images use the raw CDN url straight off the live page
+  (a `-clamp_W_H_Q`/`-clip_W_H_Q` responsive variant, 960-1920px -- already
+  exceeding the library's max_w=1600 webp target, and guaranteed to exist
+  since it's literally referenced in the page HTML). Only the main slab photo
+  gets a quick HEAD-check upgrade attempt to its unsuffixed "true original"
+  filename (succeeds for most colours; falls back to the same raw CDN url,
+  no retry cost, when it 404s -- e.g. Appennino's original 404s but its CDN
+  variant is still full quality).
 
 ## Re-run
 ```

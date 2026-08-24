@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-24T19:37:20Z",
+ "generated": "2026-08-24T19:43:38Z",
  "slabs": [
   {
    "id": "akg-surfaces--adira-bronze",
@@ -60437,7 +60437,7 @@
    "productUrl": "https://www.atlasplan.com/en/large-format-porcelain-slabs/appennino/",
    "image": {
     "file": "thomas-group-surfaces-collection--appennino.webp",
-    "status": "representative",
+    "status": "slab",
     "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/appennino/",
     "borrowedFrom": ""
    },
@@ -60709,13 +60709,6 @@
      "kind": "room",
      "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/black-atlantis/",
      "borrowedFrom": ""
-    },
-    {
-     "file": "thomas-group-surfaces-collection--black-atlantis--room5.webp",
-     "status": "representative",
-     "kind": "room",
-     "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/black-atlantis/",
-     "borrowedFrom": ""
     }
    ]
   },
@@ -60795,8 +60788,8 @@
    ],
    "productUrl": "https://www.atlasplan.com/en/large-format-porcelain-slabs/black-tempest/",
    "image": {
-    "file": "thomas-group-surfaces-collection--black-tempest--closeup1.webp",
-    "status": "closeup-only",
+    "file": "thomas-group-surfaces-collection--black-tempest.webp",
+    "status": "slab",
     "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/black-tempest/",
     "borrowedFrom": ""
    },
@@ -60804,18 +60797,18 @@
    "details": "Atlas Plan · Marble Look · Silk — Explore the sophisticated Black Tempest slab by Atlas Plan, with black marble effect and white and grey veining, ideal for luxury coverings. Go to website!",
    "images": [
     {
+     "file": "thomas-group-surfaces-collection--black-tempest.webp",
+     "status": "slab",
+     "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/black-tempest/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
      "file": "thomas-group-surfaces-collection--black-tempest--closeup1.webp",
      "status": "closeup",
      "kind": "closeup",
      "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/black-tempest/",
      "borrowedFrom": ""
-    },
-    {
-     "file": "thomas-group-surfaces-collection--black-tempest.webp",
-     "status": "slab",
-     "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/black-tempest/",
-     "borrowedFrom": "",
-     "kind": "room"
     },
     {
      "file": "thomas-group-surfaces-collection--black-tempest--closeup2.webp",
@@ -61052,7 +61045,7 @@
    ],
    "productUrl": "https://www.atlasplan.com/en/large-format-porcelain-slabs/boost-icor-dune/",
    "image": {
-    "file": "thomas-group-surfaces-collection--boost-icor-dune--room1.webp",
+    "file": "thomas-group-surfaces-collection--boost-icor-dune.webp",
     "status": "slab",
     "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/boost-icor-dune/",
     "borrowedFrom": ""
@@ -61061,18 +61054,11 @@
    "details": "Atlas Plan · Stone Look · Hammered — Explore the Boost Icor Dune by Atlas Plan slab, with stone effect and sand colour, ideal for elegant, inviting interiors. Full details on the website!",
    "images": [
     {
-     "file": "thomas-group-surfaces-collection--boost-icor-dune--room1.webp",
-     "status": "representative",
-     "kind": "slab",
-     "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/boost-icor-dune/",
-     "borrowedFrom": ""
-    },
-    {
      "file": "thomas-group-surfaces-collection--boost-icor-dune.webp",
      "status": "slab",
      "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/boost-icor-dune/",
      "borrowedFrom": "",
-     "kind": "room"
+     "kind": "slab"
     },
     {
      "file": "thomas-group-surfaces-collection--boost-icor-dune--closeup1.webp",
@@ -61082,7 +61068,7 @@
      "borrowedFrom": ""
     },
     {
-     "file": "thomas-group-surfaces-collection--boost-icor-dune--room2.webp",
+     "file": "thomas-group-surfaces-collection--boost-icor-dune--room1.webp",
      "status": "representative",
      "kind": "room",
      "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/boost-icor-dune/",
@@ -61610,13 +61596,6 @@
      "kind": "room",
      "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-apuano/",
      "borrowedFrom": ""
-    },
-    {
-     "file": "thomas-group-surfaces-collection--calacatta-apuano--room2.webp",
-     "status": "representative",
-     "kind": "room",
-     "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-apuano/",
-     "borrowedFrom": ""
     }
    ]
   },
@@ -61684,8 +61663,8 @@
    ],
    "productUrl": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-delicato/",
    "image": {
-    "file": "thomas-group-surfaces-collection--calacatta-delicato--closeup1.webp",
-    "status": "representative",
+    "file": "thomas-group-surfaces-collection--calacatta-delicato.webp",
+    "status": "slab",
     "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-delicato/",
     "borrowedFrom": ""
    },
@@ -61693,18 +61672,18 @@
    "details": "Atlas Plan · Marble Look · Silk — Calacatta Delicato: ideal for stoneware surfaces with the effect of the Apuan marble Calacatta Michelangelo. Explore sizes, thicknesses and finishes!",
    "images": [
     {
-     "file": "thomas-group-surfaces-collection--calacatta-delicato--closeup1.webp",
-     "status": "closeup",
-     "kind": "room",
-     "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-delicato/",
-     "borrowedFrom": ""
-    },
-    {
      "file": "thomas-group-surfaces-collection--calacatta-delicato.webp",
      "status": "slab",
      "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-delicato/",
      "borrowedFrom": "",
-     "kind": "room"
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--calacatta-delicato--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-delicato/",
+     "borrowedFrom": ""
     }
    ]
   },
@@ -61850,13 +61829,6 @@
      "kind": "room",
      "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-gold/",
      "borrowedFrom": ""
-    },
-    {
-     "file": "thomas-group-surfaces-collection--calacatta-gold--room6.webp",
-     "status": "representative",
-     "kind": "room",
-     "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-gold/",
-     "borrowedFrom": ""
     }
    ]
   },
@@ -61872,7 +61844,7 @@
    ],
    "productUrl": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-imperiale/",
    "image": {
-    "file": "thomas-group-surfaces-collection--calacatta-imperial--closeup1.webp",
+    "file": "thomas-group-surfaces-collection--calacatta-imperial.webp",
     "status": "closeup-only",
     "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-imperiale/",
     "borrowedFrom": ""
@@ -61881,6 +61853,13 @@
    "details": "Atlas Plan · Marble Look · Matt, Matt Natural Vein — Atlas Plan Calacatta Imperiale: a marble-effect porcelain stoneware surface for classic and modern indoor application. Find out all the details!",
    "images": [
     {
+     "file": "thomas-group-surfaces-collection--calacatta-imperial.webp",
+     "status": "closeup-only",
+     "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-imperiale/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
      "file": "thomas-group-surfaces-collection--calacatta-imperial--closeup1.webp",
      "status": "closeup",
      "kind": "closeup",
@@ -61888,21 +61867,7 @@
      "borrowedFrom": ""
     },
     {
-     "file": "thomas-group-surfaces-collection--calacatta-imperial.webp",
-     "status": "slab",
-     "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-imperiale/",
-     "borrowedFrom": "",
-     "kind": "room"
-    },
-    {
      "file": "thomas-group-surfaces-collection--calacatta-imperial--closeup2.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-imperiale/",
-     "borrowedFrom": ""
-    },
-    {
-     "file": "thomas-group-surfaces-collection--calacatta-imperial--closeup3.webp",
      "status": "closeup",
      "kind": "closeup",
      "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-imperiale/",
@@ -61931,7 +61896,7 @@
    ],
    "productUrl": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-imperiale/",
    "image": {
-    "file": "thomas-group-surfaces-collection--calacatta-imperiale--closeup1.webp",
+    "file": "thomas-group-surfaces-collection--calacatta-imperiale.webp",
     "status": "closeup-only",
     "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-imperiale/",
     "borrowedFrom": ""
@@ -61940,6 +61905,13 @@
    "details": "Atlas Plan · Marble Look · Polished, Polished Natura Vein, Satin, Silk, Silk Natura Vein — Atlas Plan Calacatta Imperiale: a marble-effect porcelain stoneware surface for classic and modern indoor application. Find out all the details!",
    "images": [
     {
+     "file": "thomas-group-surfaces-collection--calacatta-imperiale.webp",
+     "status": "closeup-only",
+     "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-imperiale/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
      "file": "thomas-group-surfaces-collection--calacatta-imperiale--closeup1.webp",
      "status": "closeup",
      "kind": "closeup",
@@ -61947,21 +61919,7 @@
      "borrowedFrom": ""
     },
     {
-     "file": "thomas-group-surfaces-collection--calacatta-imperiale.webp",
-     "status": "slab",
-     "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-imperiale/",
-     "borrowedFrom": "",
-     "kind": "room"
-    },
-    {
      "file": "thomas-group-surfaces-collection--calacatta-imperiale--closeup2.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-imperiale/",
-     "borrowedFrom": ""
-    },
-    {
-     "file": "thomas-group-surfaces-collection--calacatta-imperiale--closeup3.webp",
      "status": "closeup",
      "kind": "closeup",
      "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-imperiale/",
@@ -61989,8 +61947,8 @@
    ],
    "productUrl": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-prestigio/",
    "image": {
-    "file": "thomas-group-surfaces-collection--calacatta-prestigo--closeup1.webp",
-    "status": "representative",
+    "file": "thomas-group-surfaces-collection--calacatta-prestigo.webp",
+    "status": "slab",
     "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-prestigio/",
     "borrowedFrom": ""
    },
@@ -61998,23 +61956,16 @@
    "details": "Atlas Plan · Marble Look · Polished, Silk — Calacatta Prestigio: marble-effect porcelain stoneware surface also available for open vein applications. Discover about the slab on the website!",
    "images": [
     {
-     "file": "thomas-group-surfaces-collection--calacatta-prestigo--closeup1.webp",
-     "status": "closeup",
-     "kind": "room",
-     "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-prestigio/",
-     "borrowedFrom": ""
-    },
-    {
      "file": "thomas-group-surfaces-collection--calacatta-prestigo.webp",
      "status": "slab",
      "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-prestigio/",
      "borrowedFrom": "",
-     "kind": "room"
+     "kind": "slab"
     },
     {
-     "file": "thomas-group-surfaces-collection--calacatta-prestigo--room1.webp",
-     "status": "representative",
-     "kind": "room",
+     "file": "thomas-group-surfaces-collection--calacatta-prestigo--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
      "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-prestigio/",
      "borrowedFrom": ""
     }
@@ -62169,13 +62120,6 @@
     },
     {
      "file": "thomas-group-surfaces-collection--calacattta-meraviglia--room4.webp",
-     "status": "representative",
-     "kind": "room",
-     "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-meraviglia/",
-     "borrowedFrom": ""
-    },
-    {
-     "file": "thomas-group-surfaces-collection--calacattta-meraviglia--room5.webp",
      "status": "representative",
      "kind": "room",
      "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-meraviglia/",
@@ -62470,13 +62414,6 @@
     },
     {
      "file": "thomas-group-surfaces-collection--exotic-green--room4.webp",
-     "status": "representative",
-     "kind": "room",
-     "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/exotic-green/",
-     "borrowedFrom": ""
-    },
-    {
-     "file": "thomas-group-surfaces-collection--exotic-green--room5.webp",
      "status": "representative",
      "kind": "room",
      "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/exotic-green/",
@@ -63243,13 +63180,6 @@
      "borrowedFrom": ""
     },
     {
-     "file": "thomas-group-surfaces-collection--onyx-white--closeup2.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/onyx-white/",
-     "borrowedFrom": ""
-    },
-    {
      "file": "thomas-group-surfaces-collection--onyx-white--room1.webp",
      "status": "representative",
      "kind": "room",
@@ -63556,7 +63486,7 @@
    ],
    "productUrl": "https://www.atlasplan.com/en/large-format-porcelain-slabs/statuario-supremo/",
    "image": {
-    "file": "thomas-group-surfaces-collection--statuario-supremo--closeup1.webp",
+    "file": "thomas-group-surfaces-collection--statuario-supremo.webp",
     "status": "closeup-only",
     "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/statuario-supremo/",
     "borrowedFrom": ""
@@ -63565,18 +63495,18 @@
    "details": "Atlas Plan · Marble Look · Matt Natura Vein, Polished Natura Vein, Satin, Silk, Silk Natura Vein — Statuario Supremo by Atlas Plan: large-size statuario marble-effect porcelain stoneware slab. Discover the elegance of this ceramic slab!",
    "images": [
     {
+     "file": "thomas-group-surfaces-collection--statuario-supremo.webp",
+     "status": "closeup-only",
+     "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/statuario-supremo/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
      "file": "thomas-group-surfaces-collection--statuario-supremo--closeup1.webp",
      "status": "closeup",
      "kind": "closeup",
      "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/statuario-supremo/",
      "borrowedFrom": ""
-    },
-    {
-     "file": "thomas-group-surfaces-collection--statuario-supremo.webp",
-     "status": "closeup-only",
-     "source": "https://www.atlasplan.com/en/large-format-porcelain-slabs/statuario-supremo/",
-     "borrowedFrom": "",
-     "kind": "room"
     },
     {
      "file": "thomas-group-surfaces-collection--statuario-supremo--closeup2.webp",

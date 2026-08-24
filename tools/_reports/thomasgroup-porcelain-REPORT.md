@@ -2,8 +2,11 @@
 
 Supplier string: `Thomas Group (Surfaces Collection)` | Material: Porcelain | Brand: Atlas Plan (an Atlas
 Concorde brand), sold in the UK exclusively via Thomas Group / The Surface
-Collection. Every one of these 76 price-book colours was ABSENT from the
-library before this run -- all 76 are new entries.
+Collection. All 76 price-book colours were ABSENT from the library before the
+first run of this script; this pass touched 76 of them
+(0 newly added, 76 updated in place -- a repair pass fixing
+a slab/room-photo misclassification bug found via the mains contact sheet
+after the first apply, see Assumptions).
 
 Primary source: atlasplan.com per-colour pages (`/en/large-format-porcelain-slabs/{slug}/`,
 storage.atlasplan.com CDN, curl OK, no bot protection). Colour->slug mapping
@@ -41,12 +44,13 @@ stripped), plus the site's one-line meta description where available.
 - Resolved to a live atlasplan.com product page: 66
 - Resolved via thesurfacecollection.co.uk fallback (slab photo only): 7
 - Not found on either site: 3 -- ['Carrara Pure', 'Grigio Intenso', 'Kone Grey']
-- Library entries added: 76
+- Library entries added: 0
+- Library entries updated in place this pass (repair, see Assumptions): 76
 - Mains (slab) downloaded: 73
 - Main download failures: 0
-- Mains sourced from a bookmatch crop (no separate full-slab photo existed; `image.status: "closeup-only"`): 2
-- Closeup gallery images added: 88
-- Room gallery images added: 216
+- Mains sourced from a bookmatch crop (no separate full-slab photo existed; `image.status: "closeup-only"`): 4
+- Closeup gallery images added: 85
+- Room gallery images added: 209
 - Entries with no image at all (status "missing"): 3 -- ['Carrara Pure', 'Grigio Intenso', 'Kone Grey']
 
 ## Assumptions
@@ -56,19 +60,33 @@ stripped), plus the site's one-line meta description where available.
   library entry pointing at the same underlying atlasplan.com product page --
   the price book, not the site, is the naming authority, and these are kept
   as distinct SKUs/rows rather than merged.
-- atlasplan.com's numbered lifestyle photos (`01-...`, `02-...` etc) are
-  classified as `room`; the `-bookmatch` slab crop and any filename containing
-  "detail"/"texture"/"surface" as `closeup`; the un-suffixed `atlas-plan-epic-
-  {slug}-{finish}-{size}-{thickness}mm` file as the main `slab`; a
-  `{slug}-warehouse-...` generic photo is always skipped.
-- Images: the raw CDN url straight off the live page (a `-clamp_W_H_Q`/
-  `-clip_W_H_Q` responsive variant, 960-1920px -- already exceeding the
-  library's max_w=1600 webp target) is always used for closeups/rooms since
-  it's guaranteed to exist. For the main slab photo only, a quick HEAD check
-  is tried first against the unsuffixed "true original" filename (this
-  worked for most colours, e.g. Alpinus, Baobab) and falls back to the raw
-  CDN variant when that 404s (e.g. Appennino, Calacatta Extra) -- avoids
-  wasting slow retry/backoff cycles chasing an original that doesn't exist.
+- Slab-photo classification is a two-pass, order-independent scan: pass 1
+  looks for a filename carrying a printed slab-size token (`162x324`,
+  `160x320` etc) without "bookmatch" -- that is always the main `slab`;
+  `-bookmatch` filenames are the `closeup` crop (or, for the 2 colours with
+  no non-bookmatch size-tagged photo at all -- Calacatta Extra, Statuario
+  Supremo -- the first bookmatch crop is promoted to `slab` with
+  `image.status: "closeup-only"`). Pass 2 classifies everything left over as
+  `closeup`/`room` by weaker filename/alt hints. **Fix (this repair pass):**
+  the first apply used a single order-dependent pass whose fallback trusted
+  `harvest_lib.classify_kind()`'s bare-word-"slab" filename match -- which
+  wrongly picked numbered lifestyle photos as the main slab for a few
+  colours (e.g. Appennino's `01-appennino-...-slab-atlas-plan` is actually a
+  kitchen photo) whenever they preceded the real size-tagged photo in the
+  page's DOM order. Caught via the mains contact sheet, not the numeric
+  counts (all of which looked normal) -- **always eyeball
+  `thomasgroup-porcelain-mains.png` before trusting a harvest, counts alone
+  don't catch a wrong-but-present image.** The two-pass rewrite here fixes
+  it for every colour, not just the ones spotted by eye.
+- `{slug}-warehouse-...` generic photos are always skipped.
+- Closeup/room gallery images use the raw CDN url straight off the live page
+  (a `-clamp_W_H_Q`/`-clip_W_H_Q` responsive variant, 960-1920px -- already
+  exceeding the library's max_w=1600 webp target, and guaranteed to exist
+  since it's literally referenced in the page HTML). Only the main slab photo
+  gets a quick HEAD-check upgrade attempt to its unsuffixed "true original"
+  filename (succeeds for most colours; falls back to the same raw CDN url,
+  no retry cost, when it 404s -- e.g. Appennino's original 404s but its CDN
+  variant is still full quality).
 
 ## Re-run
 ```

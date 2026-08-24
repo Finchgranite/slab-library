@@ -157,7 +157,7 @@ def harvest_atlas_colour(colour, slug):
     description = hl.H.unescape(m.group(1)).strip() if m else ""
 
     imgs = hl.extract_images(html_text, url)
-    slab, closeups, rooms = None, [], []
+    own = []  # [(url, filename, im)] for this colour's own (deduped, non-warehouse) images
     seen_base = set()
     for im in imgs:
         u = im["url"]
@@ -165,24 +165,47 @@ def harvest_atlas_colour(colour, slug):
             continue
         fn = u.rsplit("/", 1)[-1]
         base = re.sub(r'-(?:clamp|clip)_\d+_\d+_\d+(?=\.[a-zA-Z0-9]+$)', '', fn)
-        if base in seen_base:
+        if base in seen_base or _WAREHOUSE_RE.search(fn):
             continue
         seen_base.add(base)
-        # closeups/rooms use the raw CDN url as-is (960-1920px, already
-        # exceeds the library's max_w=1600 webp target, and it's directly
-        # off the live page so it's guaranteed to exist -- no guessing).
-        # Only the main slab photo is worth a quick "true original" probe.
-        if _WAREHOUSE_RE.search(fn):
-            continue
-        has_size = _SIZE_TOKEN_RE.search(fn)
+        own.append((u, fn, im))
+
+    # Pass 1 -- order-independent, high-confidence signals only. A filename
+    # carrying a printed slab-size token (162x324, 160x320 etc) without
+    # "bookmatch" is the branded full-slab photo; iteration order matters
+    # (numbered lifestyle shots like "01-..." often appear earlier in the
+    # DOM and, being marketing copy, frequently contain the bare word
+    # "slab" too -- e.g. "01-appennino-...-slab-atlas-plan" is actually a
+    # KITCHEN photo -- so this pass must scan every image for the strong
+    # size-token signal before any weaker fallback gets a chance to claim
+    # `slab` first).
+    slab = None
+    bookmatches = []
+    for u, fn, im in own:
         if _BOOKMATCH_RE.search(fn):
-            closeups.append(u)
-        elif has_size and not slab:
-            # any filename carrying a printed slab-size token (162x324 etc)
-            # and not "bookmatch" is the main full-slab photo, regardless of
-            # what other descriptive words (often "kitchen") it also carries
+            bookmatches.append(u)
+        elif _SIZE_TOKEN_RE.search(fn) and not slab:
             slab = _best_slab_url(u)
-        elif _DETAIL_RE.search(fn):
+
+    slab_is_closeup = False
+    if not slab and bookmatches:
+        # some colours only have bookmatch shots, no separate non-bookmatch
+        # full-slab photo -- promote the first bookmatch crop to `slab` (it
+        # is still a genuine photo of the physical slab) and mark it so the
+        # reconciler can set image.status "closeup-only" rather than "slab"
+        slab = bookmatches.pop(0)
+        slab_is_closeup = True
+
+    # Pass 2 -- everything not already claimed as slab/bookmatch-closeup.
+    # closeups/rooms use the raw CDN url as-is (960-1920px, already exceeds
+    # the library's max_w=1600 webp target, and it's directly off the live
+    # page so it's guaranteed to exist -- no guessing needed here).
+    closeups, rooms = list(bookmatches), []
+    for u, fn, im in own:
+        if _BOOKMATCH_RE.search(fn) or _SIZE_TOKEN_RE.search(fn):
+            continue  # already handled in pass 1 (the slab pick, or a
+                       # redundant second size-labelled dupe -- skip either way)
+        if _DETAIL_RE.search(fn):
             closeups.append(u)
         elif _ROOM_RE.search(im["alt"] + " " + fn):
             rooms.append(u)
@@ -192,17 +215,10 @@ def harvest_atlas_colour(colour, slug):
                 closeups.append(u)
             elif kind == "room":
                 rooms.append(u)
-            elif kind == "slab" and not slab:
-                slab = _best_slab_url(u)
-
-    slab_is_closeup = False
-    if not slab and closeups:
-        # some colours only have bookmatch shots, no separate non-bookmatch
-        # full-slab photo -- promote the first bookmatch crop to `slab` (it
-        # is still a genuine photo of the physical slab) and mark it so the
-        # reconciler can set image.status "closeup-only" rather than "slab"
-        slab = closeups.pop(0)
-        slab_is_closeup = True
+            # deliberately NOT trusting a "slab" classify_kind() fallback
+            # here -- harvest_lib's SLAB_HINTS matches the bare word "slab"
+            # in filenames that are actually room/lifestyle photos (see
+            # Appennino above); `slab` is only ever set in pass 1.
 
     return {
         "colour": colour, "slug": slug, "url": url, "source": "atlasplan.com",
