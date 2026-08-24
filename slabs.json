@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-24T20:29:43Z",
+ "generated": "2026-08-24T20:41:10Z",
  "slabs": [
   {
    "id": "akg-surfaces--adira-bronze",
@@ -4596,7 +4596,32 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--alabasta.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_6e422611f1144479b16bd0ab1cf3224a~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--alabasta--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/3e3672_4376814d40aa4421873105e41136d4e1~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--alabasta--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/3e3672_e4659daba247469ca4a46d15623ca8a5~mv2.jpg",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--amaranth",
@@ -4617,7 +4642,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Leathered",
+   "images": [
+    {
+     "file": "bloomstones--amaranth.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_31ba75eb62904e30b18931264d1c0940~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--amasia",
@@ -4637,7 +4673,32 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "12mm: 3200x1600"
+   "slabSizes": "12mm: 3200x1600",
+   "details": "Bloomstones · Porcelain · Embossed",
+   "images": [
+    {
+     "file": "bloomstones--amasia.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_610fd1fbfcb547ce9601ed3f6945f19a~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--amasia--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/3e3672_23cd64ca55af49f78ec24d10fdfe3fbd~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--amasia--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/3e3672_2e2eb8e074914093ade40e792cce9812~mv2.jpg",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--arabescato-bianco",
@@ -4658,7 +4719,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--arabescato-bianco.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_97d0c1ebcab640f296e90850e6155a47~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--arctic-wave",
@@ -4697,7 +4769,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "12mm: 3200x1600"
+   "slabSizes": "12mm: 3200x1600",
+   "details": "Bloomstones · Porcelain · Natural",
+   "images": [
+    {
+     "file": "bloomstones--atlantis-smoke.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/fcef59_4341bacc11ff4857b3f90b06f8f9c8bc~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--aurora-beige",
@@ -4717,7 +4800,8 @@
     "source": "",
     "borrowedFrom": ""
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished"
   },
   {
    "id": "bloomstones--azul-palomino",
@@ -4813,7 +4897,25 @@
     "borrowedFrom": "",
     "scale": "approx"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--bianco-arizona.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/e9822b_0112561b66fe4f4e9f68103769ca16e3~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--bianco-arizona--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/3e3672_f256cb3b6ca9484b94274c311009f0a6~mv2.jpg",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--bianco-calacatta",
@@ -4834,7 +4936,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--bianco-calacatta.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/e9822b_74cf0832bca84597af8f2b3edc5f7a89~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--bianco-galaxy",
@@ -4855,7 +4968,39 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--bianco-galaxy.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/e9822b_45b3effbe07e449e8c3d0ed9e9654d54~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--bianco-galaxy--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/e9822b_8de31dcf0aed452bb5cc6b35dd1bf84e~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--bianco-galaxy--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/e9822b_4d30a913e8224ffe9a7b0ce8df54d7c1~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--bianco-galaxy--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/e9822b_3394396b504b4c999a81712643ee6e15~mv2.jpg",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--bianco-glitter",
@@ -4876,7 +5021,32 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--bianco-glitter.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/e9822b_db3a8a628abb4c8d97f61a773bf10251~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--bianco-glitter--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/e9822b_b443c569507846bba96ca86e978165b5~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--bianco-glitter--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/e9822b_a95b423e1e78421a8b4fc7af2b879bdf~mv2.jpg",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--bianco-macaubus",
@@ -4916,7 +5086,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--bianco-merino.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/e9822b_4416fb168a314fcba58387700c83a375~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--bianco-merino--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/e9822b_0ad2f7d802144c3384e45a7918011a01~mv2.jpg",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--bianco-royale",
@@ -4956,7 +5144,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--bianco-sparkle.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/e9822b_a4223b8904a34dcbb632abda439e2657~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--bianco-sparkle--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/3e3672_3c7f9b0c3ba9485dae3d53fd631fca2b~mv2.jpg",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--bianco-statuario",
@@ -5014,7 +5220,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--bianco-white.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_621ac57787434bdf8d15d25c6d41bc62~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--black-forest",
@@ -5266,7 +5483,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--breccia-gold.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_b18bafa7cc144f5d91cb3e6b52615a1b~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--calacatta-aurelia",
@@ -5305,7 +5533,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600",
+   "details": "Bloomstones · Porcelain · FullVein3D Soft",
+   "images": [
+    {
+     "file": "bloomstones--calacatta-borghini.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_4361c0c090844a6ebdad5384d3ae3c13~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--calacatta-classico",
@@ -5326,7 +5565,39 @@
     "borrowedFrom": "",
     "scale": "approx"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--calacatta-classico.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_6bf446e04bbc4b7e80e34ce7a4603144~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--calacatta-classico--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/3e3672_745cee010f174cf7b90adfb756245360~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--calacatta-classico--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/3e3672_46d1cec0b54c411cbb890394f7bfc083~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--calacatta-classico--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/3e3672_e2fe3f4eb63e4f308f34ca2ebd314f55~mv2.jpg",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--calacatta-glacier",
@@ -5347,7 +5618,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--calacatta-glacier.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_a1c49c41bc8146eda90955e922914449~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--calacatta-gold",
@@ -5368,7 +5650,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3500x2000 / 30mm: 3500x2000"
+   "slabSizes": "20mm: 3500x2000 / 30mm: 3500x2000",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--calacatta-gold.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/e9822b_59a4977c1e794886bc679af96e0efce7~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--calacatta-gold-x",
@@ -5407,7 +5700,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600",
+   "details": "Bloomstones · Porcelain · Polished/Soft",
+   "images": [
+    {
+     "file": "bloomstones--calacatta-grey.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_c9e56c3ec9264727b310d1f77ccaa764~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--calacatta-lusso",
@@ -5428,7 +5732,32 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--calacatta-lusso.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_26e0f18cc8c94bc2ad30f09665720d7b~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--calacatta-lusso--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/3e3672_c10ca254c1234cb98677d6e0678d107d~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--calacatta-lusso--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/3e3672_cbacf0a697504d92b5789dec62ab5d24~mv2.jpg",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--calacatta-macchia-vecchia",
@@ -5448,7 +5777,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600",
+   "details": "Bloomstones · Porcelain · Polished/Soft",
+   "images": [
+    {
+     "file": "bloomstones--calacatta-macchia-vecchia.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_5579abe638b84219b54bd4870454515f~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--calacatta-michaelangelo",
@@ -5469,7 +5809,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600"
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Bloomstones · Porcelain · Soft",
+   "images": [
+    {
+     "file": "bloomstones--calacatta-michaelangelo.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/fcef59_7cfe262ee59f4d748ae3c8facd556187~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--calacatta-nile",
@@ -5508,7 +5859,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600",
+   "details": "Bloomstones · Porcelain · Full Vein Soft/FullVein3D Polished/FullVein3D Soft",
+   "images": [
+    {
+     "file": "bloomstones--calacatta-oro.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_e22a9b2dcb3f4fa085dc2b7c29742aaf~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--calacatta-panda",
@@ -5547,7 +5909,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--calacatta-ragno.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/fcef59_f054ac5abe124610be20b72776f6ca99~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--calacatta-ragno--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/fcef59_9fc92be617c54d89991f81a7ea93bde8~mv2.jpg",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--calacatta-royale",
@@ -5586,7 +5966,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--calacatta-vena.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/fcef59_ca10631d2a48452a876b8f54a190dd9f~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--calacatta-verde-porcelain",
@@ -5644,7 +6035,39 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--carrara-dove.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/e9822b_79bf8b5a00cf4d07b478c763a00b95e1~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--carrara-dove--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/e9822b_4da76f3a1f234fb2b6df1c8939277892~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--carrara-dove--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/e9822b_6081284f7f6d448fb7298aa3cf035526~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--carrara-dove--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/e9822b_ca2deab4ef4a432a9c0e9a3c85ba350e~mv2.jpg",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--carrara-extra",
@@ -5665,7 +6088,39 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--carrara-extra.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_8279f72f927b43a2bc415f6af087a8d1~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--carrara-extra--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/3e3672_7ac3fd633db04966be6f7ab4bd602ed4~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--carrara-extra--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/3e3672_4fc7d0f6dbac4b9a8eca19642cee17e8~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--carrara-extra--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/3e3672_e6c1a02a55814537a7be7c2f641a0e89~mv2.jpg",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--carrara-glacier",
@@ -5686,7 +6141,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--carrara-glacier.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/e9822b_cf12ce833e154764a02690e31e44372f~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--carrara-gold",
@@ -5839,7 +6305,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Leathered/Polished",
+   "images": [
+    {
+     "file": "bloomstones--crema-ice.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/fcef59_9c9dcd46be3e43c3a5a9f126edcd06cd~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--crema-ice--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/fcef59_f63bebeec73849eeaff609e2ee8890c1~mv2.jpeg",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--crema-travertine",
@@ -5859,7 +6343,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600",
+   "details": "Bloomstones · Porcelain · 3D Surface",
+   "images": [
+    {
+     "file": "bloomstones--crema-travertine.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_657aa3e9dd284854b752bc2911902cc6~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--crema-travertine--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/3e3672_7372b36b000045a5b99950974be31ee0~mv2.jpg",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--cristallo-extra",
@@ -5994,7 +6496,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--danube.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_d03f880c4cbf4acbb025e5fcfe3aac12~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--dublin",
@@ -6015,7 +6528,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Leathered",
+   "images": [
+    {
+     "file": "bloomstones--dublin.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_fa8303cd82fa47d097703163808d834e~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--elysium",
@@ -6073,7 +6597,32 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "12mm: 3200x1600"
+   "slabSizes": "12mm: 3200x1600",
+   "details": "Bloomstones · Porcelain · Soft",
+   "images": [
+    {
+     "file": "bloomstones--emperador-brown.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_c8b14d5f1d664575b667cea2f42e5bb3~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--emperador-brown--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/3e3672_d2837a8fb6c34131b5367f2084b0252b~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--emperador-brown--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/3e3672_c6c4af63bb38460dbe8c14fe4557a606~mv2.jpg",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--empire-grey",
@@ -6111,7 +6660,46 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--everest.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/e9822b_528b8f7af32544cb8e4635db0a431e42~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--everest--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/e9822b_b521ad0196e5494b8238341f928b3cfa~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--everest--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/e9822b_80fa1f5095fe43f2ba7499fcca947ba3~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--everest--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/e9822b_c10f9000eeea4c2ba4e7aab223f0e8fd~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--everest--closeup4.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/e9822b_ac116540028140b7a9ffbd43aa99689f~mv2.jpg",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--excalibur",
@@ -6283,7 +6871,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "12mm: 3200x1600"
+   "slabSizes": "12mm: 3200x1600",
+   "details": "Bloomstones · Porcelain · Polished",
+   "images": [
+    {
+     "file": "bloomstones--grigio-siena.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_d3a2d3ccccb642438983ceea5e33b7c9~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--grigio-sparkle-dark",
@@ -6304,7 +6903,25 @@
     "borrowedFrom": "",
     "scale": "approx"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--grigio-sparkle-dark.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/e9822b_6cf2d3619cd0420cbca87ffdac7e418a~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--grigio-sparkle-dark--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/e9822b_d4094c53cb754fb2b7a359a346e3df8c~mv2.jpg",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--grigio-sparkle-light",
@@ -6325,7 +6942,39 @@
     "borrowedFrom": "",
     "scale": "approx"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--grigio-sparkle-light.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/e9822b_0e1dbc8ac648400589c6530f16b4441a~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--grigio-sparkle-light--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/e9822b_0149a667afdc41749289c0196a6e40fd~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--grigio-sparkle-light--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/e9822b_406b34bb355646ef8ae28cda1e10e43e~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--grigio-sparkle-light--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/e9822b_c38ac64bbbb943c1a809bdf03809e331~mv2.jpg",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--ice-jade",
@@ -6401,7 +7050,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600",
+   "details": "Bloomstones · Porcelain · Soft",
+   "images": [
+    {
+     "file": "bloomstones--invisible-pearl.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_66fdb86e05724830b48747ff204f990c~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--iron-grey",
@@ -6422,7 +7082,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Leathered",
+   "images": [
+    {
+     "file": "bloomstones--iron-grey.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_3e98c73d5b38477992f4a5d70ae09b79~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--jadore",
@@ -6462,7 +7133,25 @@
     "borrowedFrom": "",
     "scale": "approx"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--kasha.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/e9822b_459e9f29fb224d748e1562d69540f780~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--kasha--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/e9822b_f750d14106f94ee4b360ac0886fc1310~mv2.jpg",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--klitkin",
@@ -6500,7 +7189,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "12mm: 3200x1600"
+   "slabSizes": "12mm: 3200x1600",
+   "details": "Bloomstones · Porcelain · Polished",
+   "images": [
+    {
+     "file": "bloomstones--labradorite.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_0c137b30f46b41aab1fd2b7978695b15~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--lavender-blue",
@@ -6558,7 +7258,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "12mm: 3200x1600"
+   "slabSizes": "12mm: 3200x1600",
+   "details": "Bloomstones · Porcelain · Polished",
+   "images": [
+    {
+     "file": "bloomstones--lilac-grey.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_fbe453ed3e484d2c95218431eead06fa~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--limestone-cream",
@@ -6596,7 +7307,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600",
+   "details": "Bloomstones · Porcelain · Natural",
+   "images": [
+    {
+     "file": "bloomstones--limestone-greige.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/fcef59_7fb30e7ecdaa4b45b3c2f54331a42be3~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--lincoln",
@@ -6617,7 +7339,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--lincoln.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/e9822b_b0faf8275eab4b9b94436722294f141e~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--lincoln--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/e9822b_c2e05ef08d6246e3ab5611d9ef77c9aa~mv2.jpg",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--liquid-black",
@@ -6637,7 +7377,18 @@
     "borrowedFrom": "",
     "scale": "approx"
    },
-   "slabSizes": "30mm: 3230x1630"
+   "slabSizes": "30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--liquid-black.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/fcef59_987455e9818942439cb95c0b5f856c8f~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--liquid-grey",
@@ -6657,7 +7408,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "30mm: 3230x1630"
+   "slabSizes": "30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--liquid-grey.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/fcef59_d720aa65f38c48b7a9a3b46ef103c7f4~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--liquid-grey--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/fcef59_2ed497433b4543bebc1443a3e494f4bc~mv2.jpg",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--luxury-white",
@@ -6733,7 +7502,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600",
+   "details": "Bloomstones · Porcelain · Soft",
+   "images": [
+    {
+     "file": "bloomstones--marquina-select.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_0dc5027c266a4e0ea42d4f1bcba9e113~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--midnight-crystal",
@@ -6773,7 +7553,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--milano-grey.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_7f2422ce5d874eab806eefa8ae36ff95~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--moldavite-crystal",
@@ -6832,7 +7623,18 @@
     "borrowedFrom": "",
     "scale": "approx"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--morganton.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_1617d811ace641ed8ebdaa866de0eb7b~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--native-fog",
@@ -6852,7 +7654,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "12mm: 3200x1600"
+   "slabSizes": "12mm: 3200x1600",
+   "details": "Bloomstones · Porcelain · Natural",
+   "images": [
+    {
+     "file": "bloomstones--native-fog.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_38d4d022f8524cbbb2377d89dc9c0b52~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--natural-taj-mahal",
@@ -6872,7 +7685,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "12mm: 3200x1600"
+   "slabSizes": "12mm: 3200x1600",
+   "details": "Bloomstones · Porcelain · Polished/Soft",
+   "images": [
+    {
+     "file": "bloomstones--natural-taj-mahal.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_cced06522236478f8c19f5373b00a4ed~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--nero-assoluto",
@@ -6913,7 +7737,32 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--nero-sparkle.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/e9822b_1b8380e7c0df428a8c50fcf1ea433d5c~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--nero-sparkle--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/e9822b_3850954742ab453785ee7cfcab91790a~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--nero-sparkle--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/e9822b_9a061aea602246e9b703bce6da1ca1c5~mv2.jpg",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--nevada",
@@ -6934,7 +7783,18 @@
     "borrowedFrom": "",
     "scale": "approx"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--nevada.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_b73c7a1f9fff4c4bbe48e997a69a78c0~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--new-carrara",
@@ -6955,7 +7815,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--new-carrara.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/e9822b_1ac0ed2cad944f609f84de8c879b96af~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--nuage-fusion",
@@ -7049,7 +7920,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "30mm: 3230x1630"
+   "slabSizes": "30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--orkney-white.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/fcef59_d4191077359b468c8c89e215d0c95c0d~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--oro-extra",
@@ -7070,7 +7952,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--oro-extra.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/fcef59_88afcb20f77446f2bc35445a31e57b3a~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--oro-extra--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/3e3672_6d5cac586b9c4496803fbc9df1d42eb0~mv2.jpg",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--pablo",
@@ -7167,7 +8067,18 @@
     "borrowedFrom": "",
     "scale": "approx"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Honed",
+   "images": [
+    {
+     "file": "bloomstones--perla-gold.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_3ff75669ebc346b9a524e38b81c943fe~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--perola",
@@ -7188,7 +8099,18 @@
     "borrowedFrom": "",
     "scale": "approx"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--perola.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_f116235d08b9494aa2f092bcdeafa695~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--piasentina-mud",
@@ -7208,7 +8130,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600",
+   "details": "Bloomstones · Porcelain · FullBody3D Natural",
+   "images": [
+    {
+     "file": "bloomstones--piasentina-mud.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_c0ac013655224d8ebb58b6fabddb0859~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--pietra-grey",
@@ -7228,7 +8161,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600",
+   "details": "Bloomstones · Porcelain · Polished",
+   "images": [
+    {
+     "file": "bloomstones--pietra-grey.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_a828950282ac426d98fc2d0e439b2d50~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--piracema-white",
@@ -7268,7 +8212,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600"
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Bloomstones · Porcelain · FullBody3D Natural/Natural",
+   "images": [
+    {
+     "file": "bloomstones--pirenei-ecru.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_6c75d02668d447bdb621be4ebfadc132~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--pirenei-grey",
@@ -7288,7 +8243,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600",
+   "details": "Bloomstones · Porcelain · FullBody3D Natural",
+   "images": [
+    {
+     "file": "bloomstones--pirenei-grey.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_893b7a5b104a436fa1ffd94071189ef9~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--polaris",
@@ -7346,7 +8312,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "12mm: 3200x1600"
+   "slabSizes": "12mm: 3200x1600",
+   "details": "Bloomstones · Porcelain · Soft",
+   "images": [
+    {
+     "file": "bloomstones--port-gold.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_0f6dd66e64f947ddb777f25998d908ba~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--precious-black",
@@ -7366,7 +8343,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600",
+   "details": "Bloomstones · Porcelain · Soft",
+   "images": [
+    {
+     "file": "bloomstones--precious-black.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/fcef59_58ddb95393764fcf9cb07ec2cb475e80~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--red-sparkle",
@@ -7387,7 +8375,25 @@
     "borrowedFrom": "",
     "scale": "approx"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--red-sparkle.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/e9822b_69ecf3a241bb4142b77c8712e7491e67~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--red-sparkle--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/e9822b_01f15067dbf84542b53e2ae64668f5bd~mv2.jpg",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--sensa-taj-mahal",
@@ -7483,7 +8489,46 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--snowdon.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/e9822b_7e8f0865802d4640937e577e2752a7b6~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--snowdon--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/e9822b_861dbe18dddf4145bd8a9c4c6065e6a5~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--snowdon--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/e9822b_b7cc90cf67cf4a9f87c40e415e88f619~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--snowdon--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/e9822b_a0d02b181dfb4bc690569b4eab7aa7db~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--snowdon--closeup4.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/e9822b_6ee9e7b199944f1d9e8da03da05d8d8a~mv2.jpg",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--sodalite-nera",
@@ -7522,7 +8567,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600",
+   "details": "Bloomstones · Porcelain · Soft3D Soft",
+   "images": [
+    {
+     "file": "bloomstones--statuario-fantastico.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_40ffaee2a3244a33952c56ad34ea89e8~mv2.png",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--statuario-gold",
@@ -7543,7 +8599,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--statuario-gold.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_814604dca25843caa3c1c769ba935b47~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--statuario-light",
@@ -7582,7 +8649,32 @@
     "borrowedFrom": "",
     "scale": "approx"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--statuario-premium.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/e9822b_836b698d72d74431ba9095005c58a8f5~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--statuario-premium--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/e9822b_a135ef5319814d79b5b149c75f5ba32b~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--statuario-premium--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/e9822b_e45a664915374b5dbab6c21a7d6b7bfc~mv2.jpg",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--statuario-versilia",
@@ -7602,7 +8694,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600",
+   "details": "Bloomstones · Porcelain · FullVein3D Soft/Soft",
+   "images": [
+    {
+     "file": "bloomstones--statuario-versilia.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_46d91b47f0a5413bbd030c29b7090589~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--statuario-versilia--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://static.wixstatic.com/media/3e3672_b56268bda07b4f1cb602ad6897b1e1be~mv2.jpg",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--steel-grey",
@@ -7740,7 +8850,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--titan-gold.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_08aa3d2172df4ef4bced4602e64f000a~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--titanium",
@@ -7798,7 +8919,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "12mm: 3200x1600"
+   "slabSizes": "12mm: 3200x1600",
+   "details": "Bloomstones · Porcelain · Polished/Soft",
+   "images": [
+    {
+     "file": "bloomstones--titanium-black.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_231828d461b44cb3989a959c413f5fde~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--touramaline",
@@ -7912,7 +9044,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Leathered",
+   "images": [
+    {
+     "file": "bloomstones--viola.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_2003e336948c4a8395fc531b0ec8ed5b~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--volga-blue-extra-spectrolite",
@@ -7972,7 +9115,32 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--windermere.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_db15ec92fe93487fb97dda2fa6b3394d~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--windermere--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/3e3672_a7f1ae489500467f966318321ab87b59~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--windermere--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/3e3672_8d08729c6fcf4df78dc0531059aada30~mv2.jpg",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "brachot--andromeda",
@@ -59100,7 +60268,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--calacatta-verde.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_4fb57d9de1b941c5b540271803daeb27~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--oakham",
@@ -59120,7 +60299,25 @@
     "source": "https://static.wixstatic.com/media/e9822b_9f3ee1cc2b6f46d59b48659d03764e20~mv2.jpg",
     "borrowedFrom": "",
     "scale": "true"
-   }
+   },
+   "details": "Bloomstones · Quartz",
+   "images": [
+    {
+     "file": "bloomstones--oakham.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/e9822b_9f3ee1cc2b6f46d59b48659d03764e20~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--oakham--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://static.wixstatic.com/media/e9822b_c848e6af164f4c748291d6dc89af4538~mv2.jpg",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--vagli-leathered",
@@ -59140,7 +60337,18 @@
     "source": "https://static.wixstatic.com/media/3e3672_bce59c5ae9c84cfa85fffc5f0434f57b~mv2.jpg",
     "borrowedFrom": "",
     "scale": "true"
-   }
+   },
+   "details": "Bloomstones · Quartz",
+   "images": [
+    {
+     "file": "bloomstones--vagli-leathered.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_bce59c5ae9c84cfa85fffc5f0434f57b~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--calacatta-gold-porcelain",
@@ -59160,7 +60368,18 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600",
+   "details": "Bloomstones · Porcelain · Soft",
+   "images": [
+    {
+     "file": "bloomstones--calacatta-gold-porcelain.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_b3f8809b308e497a9b00e9cf7078ddf7~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--interno-9-silver",
@@ -59180,7 +60399,18 @@
     "source": "https://static.wixstatic.com/media/fcef59_c8fbc7c0ab574e8184845444239b5e9e~mv2.jpg",
     "borrowedFrom": "",
     "scale": "true"
-   }
+   },
+   "details": "Bloomstones · Porcelain",
+   "images": [
+    {
+     "file": "bloomstones--interno-9-silver.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/fcef59_c8fbc7c0ab574e8184845444239b5e9e~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--interno-rust-natural",
@@ -59200,7 +60430,18 @@
     "source": "https://static.wixstatic.com/media/3e3672_9aca52a447d840b19d0e16e3d2ac9686~mv2.jpg",
     "borrowedFrom": "",
     "scale": "true"
-   }
+   },
+   "details": "Bloomstones · Porcelain",
+   "images": [
+    {
+     "file": "bloomstones--interno-rust-natural.webp",
+     "status": "slab",
+     "source": "https://static.wixstatic.com/media/3e3672_9aca52a447d840b19d0e16e3d2ac9686~mv2.jpg",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "compac--unique-argento",
