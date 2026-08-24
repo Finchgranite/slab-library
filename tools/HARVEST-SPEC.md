@@ -101,3 +101,10 @@ Several supplier agents run AT THE SAME TIME. `slabs.json` is shared. Therefore:
 - Image files are per-entry-named so they never collide; page caches are per-supplier.
 - The Caesarstone pilot (`tools/harvest_caesarstone.py` + `reconcile_caesarstone.py`) is the
   worked example: sitemap → per-page harvest JSON → `--report` → `--apply`.
+
+## Budget rule (added 2026-08-24 ~21:00 after the no-URL discovery spent ~575k tokens)
+- **Do NOT spawn sub-agents.** One agent = one supplier = one context. Sub-agents tripled the
+  cost of a discovery pass with no better result. If the job is too big for one context,
+  finish what you can, write the report, and say what's left.
+- Fetch only what you need: one listing/sitemap pass, then one page per colour. Do not
+  re-fetch cached pages; do not view contact-sheet images at full size more than once.

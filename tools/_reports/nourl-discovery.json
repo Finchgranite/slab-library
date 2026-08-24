@@ -1,0 +1,3417 @@
+[
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--arabescato-capri",
+    "library_colour": "Arabescato  Capri",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book; site prints no size)"
+    ],
+    "notes": "Matched single-space 'ARABESCATO CAPRI', site id 53. Own-brand Nile Quartz Surfaces catalogue. Site is an Angular SPA (curl gets empty shell); product data (id/title/images[]) is baked into the compiled JS bundle client/main.*.js, not a per-colour URL — item reached only via in-page modal(53). Images live at https://www.nilestone.co.uk/assets/quartz-surfaces/{filename}, confirmed fetchable with curl (200, image/jpeg) even though the HTML page itself is JS-rendered."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--arabescato-elegance",
+    "library_colour": "Arabescato  Elegance",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Matched single-space 'ARABESCATO ELEGANCE', site id 42. Double-space in price book/library name confirmed as a data-entry artifact."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--bianco-glacier",
+    "library_colour": "Bianco Glacier",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 24 'BIANCO GLACIER'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--bianco-starlight",
+    "library_colour": "Bianco Starlight",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 26 'BIANCO STARLIGHT'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--black",
+    "library_colour": "Black",
+    "material": "Porcelain",
+    "product_url": "https://www.nilestone.co.uk/top-marazzi",
+    "image_kinds_seen": [
+      "slab(generic, low count)"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620, code MNH9, 3D Ink Natural (price book)"
+    ],
+    "notes": "Marazzi 'The Top' rebrand CONFIRMED (Nile Trading UK Ltd is Marazzi's sole UK distributor for The Top, per stonespecialist.com). Not found as an individual SKU on marazzitile.co.uk's 'Grande Solid Color' collection page (only 'Solid Color White' Lux M11Z is listed there) — fall back to nilestone.co.uk's own /top-marazzi SPA catalogue, id 53 'SOLID COLOUR - BLACK', image assets/top-marazzi/SOLID COLOUR - BLACK - Satin.jpg. Single generic image only; worth a direct marazzitile.co.uk site-search or PDF brochure check for better photography before harvest."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--blue-lagoon",
+    "library_colour": "Blue Lagoon",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 20 'BLUE LAGOON'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--borghini-royal",
+    "library_colour": "Borghini Royal",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 51 ' BORGHINI ROYAL ' (padded spaces in title, strip before matching). Library image status MISSING — this resolves it, ready for harvest."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--calacatta",
+    "library_colour": "Calacatta",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab(multiple variants)",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 1 'CALACATTA', unusually rich image set (5 filenames incl. Calacatta-1/2/3-min) — good candidate for a strong main image."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--calacatta-alaska",
+    "library_colour": "Calacatta Alaska",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 3 'CALACATTA ALASKA'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--calacatta-black-fusion",
+    "library_colour": "Calacatta Black Fusion",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 9 'CALACATTA BLACK FUSION'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--calacatta-exotic",
+    "library_colour": "Calacatta Exotic",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab(multiple)",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 2 'CALACATTA EXOTIC', 4+ image filenames seen incl. plain 'CALACATTA EXOTIC 1/3/5.jpg'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--calacatta-extra",
+    "library_colour": "Calacatta Extra",
+    "material": "Porcelain",
+    "product_url": "https://www.marazzitile.co.uk/collections/grande-marble-look-collections/",
+    "image_kinds_seen": [
+      "slab",
+      "room(project photo, captioned 'Stone Look Calacatta Extra')"
+    ],
+    "slab_sizes_seen": [
+      "160x320cm 6mm RT (Grande Lux SKU seen on page; price book states 3240x1620mm 12/20mm 'Marazzi The Top Platinum')"
+    ],
+    "notes": "Primary source = Marazzi's own site (better photography + room shots) per HARVEST-SPEC brand-priority rule; marazzitile.co.uk fetched fine with curl (897KB, no bot protection). Also present generically on nilestone.co.uk/top-marazzi id 5 'MARBLE LOOK - CALACATTA EXTRA' as fallback/verifier. Note: Grande collection page prints 160x320cm/6mm SKUs (tile-range) which differ from the thicker 12/20mm slab SKUs Nile actually stocks per price book — verify thickness/size on the specific product before harvest, don't assume the 6mm Grande photo represents the 12/20mm slab dimensions."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--calacatta-fantastico",
+    "library_colour": "Calacatta Fantastico",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 50 'CALACATTA FANTASTICO'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--calacatta-gold",
+    "library_colour": "Calacatta Gold",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 5 'CALACATTA GOLD'. Distinct from id 49 'CALACATTA GOLD SHIMMER' (a Nile colour not in our library — do not confuse)."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--calacatta-gold-soft",
+    "library_colour": "Calacatta Gold Soft",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 41 'CALACATTA GOLD SOFT'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--calacatta-oro",
+    "library_colour": "Calacatta Oro",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 37 'CALACATTA ORO'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--calacatta-oro-satin",
+    "library_colour": "Calacatta Oro Satin",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 44 'CALACATTA ORO SATIN'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--calacatta-supreme",
+    "library_colour": "Calacatta Supreme",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 4 'CALACATTA SUPREME'. NOTE: Marazzi's porcelain 'The Top'/Grande Marble Look range ALSO has a 'Calacatta Supreme' SKU (seen on marazzitile.co.uk /the-top/) — coincidental name overlap between two different products/materials; our library's Calacatta Supreme is Nile's own QUARTZ colour, unrelated to the Marazzi porcelain one. Do not cross-wire images."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--calacatta-vena-vecchia",
+    "library_colour": "Calacatta Vena Vecchia",
+    "material": "Porcelain",
+    "product_url": "https://www.marazzitile.co.uk/collections/grande-marble-look-collections/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "160x320cm 6mm RT, code M7GF (Grande Lux SKU on page); price book: 3240x1620mm (thickness col shows 12/20mm implicitly via 'The Top Platinum' range — verify exact printed size for the slab SKU, not the 6mm tile SKU)"
+    ],
+    "notes": "Confirmed exact heading 'GRANDE MARBLE LOOK CALACATTA VENA VECCHIA LUX RT 6MM', code M7GF, full-res slab image at https://www.marazzitile.co.uk/app/uploads/collezioni/grande-marble-look-m7gf/marazzi_grande_marble_look_m7gf.jpg (WordPress uploads path, multiple width variants available, use the un-suffixed original). Fallback: nilestone.co.uk/top-marazzi id 6."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--calacatta-venatino",
+    "library_colour": "Calacatta Venatino",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 38 'CALACATTA VENATINO'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--calacatta-verde",
+    "library_colour": "Calacatta Verde",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 45 'CALACATTA VERDE'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--calacatta-viola-wow",
+    "library_colour": "Calacatta Viola Wow",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 43 \"CALACATTA VIOLA 'WOW'\" (base). A second site entry id 56 \"CALACATTA VIOLA 'WOW' SATIN\" also exists — a finish variant, not in our library (our price book row for this colour is Polished); use id 43's images, ignore id 56 unless a Satin SKU is added later."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--calacatta-volakas",
+    "library_colour": "Calacatta Volakas",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 47 'CALACATTA VOLAKAS'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--capraia",
+    "library_colour": "Capraia",
+    "material": "Porcelain",
+    "product_url": "https://www.marazzitile.co.uk/collections/grande-marble-look-collections/",
+    "image_kinds_seen": [
+      "slab",
+      "room(project photo, captioned 'Marble Look Capraia, Solid Color White')"
+    ],
+    "slab_sizes_seen": [
+      "price book: 3240x1620mm, Marazzi The Top Platinum range"
+    ],
+    "notes": "Present on the Grande Marble Look collection page (heading context around 'Capraia' matches, slab image + room photo confirmed via /the-top/ project gallery). Library image status MISSING — this resolves it. Fallback: nilestone.co.uk/top-marazzi id 7 'MARBLE LOOK - CAPRAIA', image 'MARBLE LOOK - CAPRAIA - Lux.jpg', ALSO used as the contact-us page hero image (assets/contact-us/Marazzi_Grande_Marble_Look_Capraia_015-768x1024.jpg) — a second good full-res source."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--carrara",
+    "library_colour": "Carrara",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 13 'CARRARA'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--carrara-mist",
+    "library_colour": "Carrara Mist",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 23 'CARRARA MIST'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--carrara-satin",
+    "library_colour": "Carrara Satin",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 15 'CARRARA SATIN'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--carrara-spring",
+    "library_colour": "Carrara Spring",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 21 'CARRARA SPRING'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--classic-white",
+    "library_colour": "Classic White",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 31 'CLASSIC WHITE'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--cloud-burst",
+    "library_colour": "Cloud Burst",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 18 'CLOUD BURST'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--concrete-earth",
+    "library_colour": "Concrete Earth",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 17 'CONCRETE EARTH'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--concrete-oyster",
+    "library_colour": "Concrete Oyster",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 16 'CONCRETE OYSTER'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--cristal-white",
+    "library_colour": "Cristal White",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 34 'CRISTAL WHITE'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--emerald-green",
+    "library_colour": "Emerald Green",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 19 'EMERALD GREEN'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--golden-white",
+    "library_colour": "Golden White",
+    "material": "Porcelain",
+    "product_url": "https://www.marazzitile.co.uk/collections/grande-marble-look-collections/",
+    "image_kinds_seen": [
+      "slab",
+      "room(project photos, 2 seen: 'Santo Cocktail Bar', 'Catulle Mendes')"
+    ],
+    "slab_sizes_seen": [
+      "price book: 3240x1620mm, Marazzi The Top Platinum range"
+    ],
+    "notes": "Confirmed present with slab image on the Grande Marble Look collection page, plus TWO room/project photos on marazzitile.co.uk/the-top/ (good depth). Library image status MISSING — this resolves it. Fallback: nilestone.co.uk/top-marazzi id 14 'MARBLE LOOK - GOLDEN WHITE'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--grigio-fantasy",
+    "library_colour": "Grigio Fantasy",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 39 'GRIGIO FANTASY'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--grigio-starlight",
+    "library_colour": "Grigio Starlight",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 27 'GRIGIO STARLIGHT'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--ice-white",
+    "library_colour": "Ice White",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop, filename 'ICE-WHITE-WORKTOP-300x225.jpg')",
+      "detail(2 uuid-named images, kind unconfirmed)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 11 'ICE WHITE' — used as the worked example confirming the 4-image pattern (thumb slab, WORKTOP-suffix room shot, 2 further uuid-named images) that likely repeats across most quartz colours."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--lavender",
+    "library_colour": "Lavender",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 12 'LAVENDER'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--limestone-sand",
+    "library_colour": "Limestone Sand",
+    "material": "Porcelain",
+    "product_url": "https://www.nilestone.co.uk/top-marazzi",
+    "image_kinds_seen": [
+      "slab(generic)"
+    ],
+    "slab_sizes_seen": [
+      "price book: 3240x1620mm, Marazzi The Top Platinum range"
+    ],
+    "notes": "NOT found on marazzitile.co.uk's Grande Stone Look collection page (checked; only sibling 'Limestone Ivory' area present, 'Limestone Sand' itself absent from that specific page — may be a Top-only SKU not carried in the general Grande tile range, or discontinued from marazzitile.co.uk while still sold via Nile's own list). Resolved via nilestone.co.uk/top-marazzi id 40 'STONE LOOK - LIMESTONE SAND', image 'STONE LOOK - LIMESTON[E SAND].jpg'. Library image status MISSING — this at least gives a usable single image; worth a follow-up search of Marazzi's PDF catalogues/other national sites for a better shot."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--london-grey",
+    "library_colour": "London Grey",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 32 'LONDON GREY'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--nero-starlight",
+    "library_colour": "Nero Starlight",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 28 'NERO STARLIGHT'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--royal-grey",
+    "library_colour": "Royal Grey",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 33 'ROYAL GREY'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--saint-laurent",
+    "library_colour": "Saint Laurent",
+    "material": "Porcelain",
+    "product_url": "https://www.marazzitile.co.uk/collections/grande-marble-look-collections/",
+    "image_kinds_seen": [
+      "slab",
+      "room(project photo, 'Cucina Custom, Turati Cucine')"
+    ],
+    "slab_sizes_seen": [
+      "price book: 3240x1620mm, Marazzi The Top Platinum range"
+    ],
+    "notes": "Confirmed slab + room photo on marazzitile.co.uk. Library image status MISSING — this resolves it. Fallback/verifier: nilestone.co.uk/top-marazzi id 25 'MARBLE LOOK - SAINT LAURENT'. Also note: themarblestore.co.uk sells this exact product as 'Nilestone Marazzi Saint Laurent' confirming the rebrand chain end-to-end."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--silver-root-grey",
+    "library_colour": "Silver Root Grey",
+    "material": "Porcelain",
+    "product_url": "https://www.marazzitile.co.uk/the-top/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "160x320cm 6mm RT (Grande SKU seen); price book: 3240x1620mm 12/20mm code MFEE, 3D Ink Satin Puro"
+    ],
+    "notes": "Marazzi actually sells 'Silver Root' as TWO separate colourways — Grey and White — each with its own slab photo; confirmed heading 'GRANDE STONE LOOK SILVER ROOT GREY SATIN 3D INK RT 6MM' appears distinctly from the White one on /the-top/ (both on the same page, multiple times, i.e. genuinely two different product cards, not a naming quirk). nilestone.co.uk/top-marazzi only has ONE generic 'MARBLE LOOK - SILVER ROOT' image (id 58) that does not distinguish Grey/White — use marazzitile.co.uk as primary for correct colourway-specific photography."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--silver-root-white",
+    "library_colour": "Silver Root White",
+    "material": "Porcelain",
+    "product_url": "https://www.marazzitile.co.uk/the-top/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "160x320cm 6mm RT, code MQ6N (Grande SKU seen); price book: 3240x1620mm 12/20mm code MPZN, 3D Ink Satin Puro"
+    ],
+    "notes": "See Silver Root Grey note — confirmed distinct heading 'GRANDE STONE LOOK SILVER ROOT WHITE SATIN 3D INK RT 6MM', code MQ6N, image https://www.marazzitile.co.uk/app/uploads/collezioni/grande-stone-look-mq6n/marazzi_grande_stone_look_mq6n.jpg. Note the price-book code (MPZN) differs from the Grande-page SKU code (MQ6N) — likely a thickness/format variant (6mm tile vs 12/20mm slab) of the same design; verify before harvest that the photographed slab matches the stocked thickness."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--snow-white",
+    "library_colour": "Snow White",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 22 'SNOW WHITE'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--statuario",
+    "library_colour": "Statuario",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 7 'STATUARIO'. NOTE: marazzitile.co.uk porcelain range also has a room photo captioned 'Marble Look Statuario' (Marazzi's own porcelain design) — coincidental name overlap with Nile's quartz Statuario, different products/materials, do not cross-wire."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--taj-mahal-elagance",
+    "library_colour": "Taj Mahal Elagance",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 40 'TAJ MAHAL ELEGANCE' — note site spells 'ELEGANCE' correctly; library/price-book spelling 'Elagance' is a typo, matched anyway. Distinct from Nile's exotic-stone-range 'TAJ MAHAL' (id 22 in a different array, a natural-stone-look item, out of scope) and Marazzi porcelain's 'MARBLE LOOK - TAJ MAHAL' (id 59) — three different same-named products across ranges, keep separate."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--travertino-classico",
+    "library_colour": "Travertino Classico",
+    "material": "Porcelain",
+    "product_url": "https://www.marazzitile.co.uk/the-top/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "160x320cm 6mm RT (Grande SKU seen); price book: 3240x1620mm, Marazzi The Top Platinum range"
+    ],
+    "notes": "Confirmed heading 'GRANDE STONE LOOK TRAVERTINO CLASSICO SATIN 3D INK RT 6MM' appearing 3x on /the-top/ (multiple gallery contexts, same product). Library image status MISSING — this resolves it. Fallback: nilestone.co.uk/top-marazzi id 45. IMPORTANT DUPLICATE FLAG: a different supplier, Brachot (Uniceramica ceramic line), also has a library colour named 'Travertino Classico'. Checked: Brachot's is filed under a distinct Uniceramica ceramic range (different manufacturer, different product family from Marazzi's stoneware 'Stone Look' line) — visual style (travertine-effect) is a generic look both manufacturers offer independently under the same common Italian name; no evidence of them being the same physical product. Treat as two separate library entries (as they already are), not a duplicate — but flag to the orchestrator to eyeball both photos once harvested, since 'Travertino Classico' is an extremely generic marble-effect name and misassignment risk is real if filenames get mixed during harvest."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--white",
+    "library_colour": "White",
+    "material": "Porcelain",
+    "product_url": "https://www.marazzitile.co.uk/collections/grande-solid-color-collections/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "160x320cm 6mm RT, code M11Z, Lux finish (Grande SKU seen); price book: 3240x1620mm 12/20mm code MC7X/MCDP, Matt/Natural finish"
+    ],
+    "notes": "Confirmed 'GRANDE SOLID COLOR LOOK WHITE LUX RT 6MM' on marazzitile.co.uk, image https://www.marazzitile.co.uk/app/uploads/collezioni/grande-solid-color-m11z/marazzi_grande_solid_color_look_m11z.jpg. NOTE finish mismatch: the marazzitile.co.uk SKU found (M11Z) is Lux/polished, whereas the price-book row Nile actually stocks is Matt/Natural finish (code MC7X/MCDP) — same design family, different surface. A close-up shot of a Lux White slab may look glossier than what Finch actually gets; flag for the harvest agent to prefer a Natural/Matt-finish photo if marazzitile.co.uk's tile pages (not just Grande collections) have one, else caption the finish difference. Fallback: nilestone.co.uk/top-marazzi id 54 'SOLID COLOUR - WHITE'."
+  },
+  {
+    "supplier": "Nile Stone",
+    "library_id": "nile-stone--white-eclypse",
+    "library_colour": "White Eclypse",
+    "material": "Quartz",
+    "product_url": "https://www.nilestone.co.uk/quartz-surfaces",
+    "image_kinds_seen": [
+      "slab",
+      "room(worktop)",
+      "detail(unclassified)"
+    ],
+    "slab_sizes_seen": [
+      "3220x1620 (price book)"
+    ],
+    "notes": "Site id 10 'WHITE ECLPYSE' (site typo for Eclypse, matches anyway); a duplicate id 35 with the same title also exists in the array — same product listed twice, use id 10's images, ignore id 35 to avoid re-downloading the same set."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--arabescato-calacatta",
+    "library_colour": "Arabescato Calacatta",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxarc/arabescato-calacatta-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(texture flat)",
+      "room(kitchen/bathroom)"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm (324x162cm, printed brand-wide spec)"
+    ],
+    "notes": "Confirmed via sitemap-en.xml. Site also has -A/-B batch-variant codes (ksxarca/ksxarcb) — same design, different quarry batch; not separate colours."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--arabescato-orobico",
+    "library_colour": "Arabescato Orobico",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxaro/arabescato-orobico-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(texture flat)",
+      "room(kitchen/bathroom)"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap. -A/-B batch variants also exist (ksxaroa/ksxarob)."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--arabescato-vagli",
+    "library_colour": "Arabescato Vagli",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxara/arabescato-vagli-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(texture flat)",
+      "room(kitchen/bathroom)"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap. SAME DESIGN NAME as unistone--arabescato-vagli (csarva/arabescato-vagli-unistone) but this is porcelain (a Marble-Look Uniceramica pattern) and Unistone's is quartz — different physical material/manufacturing process, both made by Brachot, both riffing on the same Arabescato Vagli marble quarry look. Not the same product; do not share images."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--ardesia-autumn",
+    "library_colour": "Ardesia Autumn",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxart/ardesia-autumn-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--ardesia-beige",
+    "library_colour": "Ardesia Beige",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxarb/ardesia-beige-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--basalto-grigio",
+    "library_colour": "Basalto Grigio",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxbag/basalto-grigio-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap. B-grade variant also listed (ksybag)."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--basalto-nero",
+    "library_colour": "Basalto Nero",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxban/basalto-nero-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap. B-grade variant also listed (ksyban)."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--bianco-assoluto",
+    "library_colour": "Bianco Assoluto",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxwhi/bianco-assoluto-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap. SAME DESIGN NAME as unistone--bianco-assoluto (cspwhi/bianco-assoluto-unistone, plus UniQ variant czpwhi) but porcelain vs quartz — different physical product, not shareable. B-grade variant ksywhi also listed."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--breccia-aurora",
+    "library_colour": "Breccia Aurora",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxbrb/breccia-aurora-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--breccia-taupe",
+    "library_colour": "Breccia Taupe",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxbrt/breccia-taupe-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--calacatta-oro",
+    "library_colour": "Calacatta Oro",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxcao/calacatta-oro-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--calacatta-royal",
+    "library_colour": "Calacatta Royal",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxcr/calacatta-royal-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--calacatta-viola",
+    "library_colour": "Calacatta Viola",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxcav/calacatta-viola-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--caliza-avorio",
+    "library_colour": "Caliza Avorio",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxavo/caliza-avorio-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--caliza-crema",
+    "library_colour": "Caliza Crema",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxcacr/caliza-crema-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--capraia",
+    "library_colour": "Capraia",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxcal/capraia-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap. There is ALSO a separate 'ksxmca/marble-capraia-uniceramica' listing — likely a duplicate/renamed SKU for the same design; verify which one has the current live images before harvesting, prefer ksxcal (matches price-book name exactly)."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--crystallo",
+    "library_colour": "Crystallo",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxcrq/crystallo-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap (page fetched, curl OK). There is ALSO 'ksxcri/cristallo-uniceramica' (alt spelling, no 'y') — same design, likely legacy code; use ksxcrq (spelling matches price book 'Crystallo')."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--jade-green",
+    "library_colour": "Jade Green",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxjag/jade-green-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--jura-beige",
+    "library_colour": "Jura Beige",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxjube/jura-beige-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap. unistone--jura-grey (csjugr) is a related-sounding name from the Jura limestone quarry family but a different Brachot quartz range colour — not the same product, just a shared 'Jura' geological reference used independently on both ranges."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--lincoln-dorato",
+    "library_colour": "Lincoln Dorato",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxlid/lincoln-dorato-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap; site copy calls this one of Uniceramica's popular colours."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--marmo-antico",
+    "library_colour": "Marmo Antico",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxman/marmo-antico-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--nero-assoluto",
+    "library_colour": "Nero Assoluto",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxzim/nero-assoluto-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap; code 'zim' (Zimbabwe black granite look). SAME DESIGN NAME as unistone quartz colour 'Nero Assoluto' (cspbla/nero-assoluto-unistone) — different material, do not share."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--oro-fantastico",
+    "library_colour": "Oro Fantastico",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxof/oro-fantastico-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--patagonia",
+    "library_colour": "Patagonia",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxpst/patagonia-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap; site's own product example imagery (uc-marmo-antico-kitchen-worktop.png style CMS shots) appeared cross-linked on the Statuario page too — those Storyblok CMS images are generic cross-sell/marketing shots reused site-wide, NOT per-colour room photos; the per-colour room/kitchen shots are the cdn.pimber.ly ones tagged with the material code (e.g. KSXSTA_..._kitchen)."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--perla-avorio",
+    "library_colour": "Perla Avorio",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxpea/perla-avorio-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--portoro",
+    "library_colour": "Portoro",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxpor/portoro-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap. Related 'Portoro L' (ksxporl, light variant) also exists as a separate SKU, not in our price book — ignore."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--sahara-grey",
+    "library_colour": "Sahara Grey",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxsag/sahara-grey-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap. A near-duplicate code 'ksxaga/sahara-grey-a-uniceramica' also exists (batch variant, not a separate colour)."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--statuario",
+    "library_colour": "Statuario",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxsta/statuario-uniceramica/",
+    "image_kinds_seen": [
+      "slab (chevalet/display + flat texture)",
+      "closeup(flat texture)",
+      "room(kitchen KSXSTA_abdij_kitchen + bathroom KSXSTA_house_bathroom)"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm (324x162cm)"
+    ],
+    "notes": "FULLY VERIFIED by direct page fetch (tools/_cache/brachot/statuario-uniceramica.html). Images at cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/.../Statuario Uniceramica_KSXSTAA_1920x1080_naturale_chevalet.png (slab), Statuario_Naturale_KSXSTAA_1920x962.png (slab/texture), KSXSTA_abdij_kitchen (8).jpg.jpeg + KSXSTA_house_bathroom (4).jpg.jpeg (room). Finish shown: Naturale. SAME DESIGN NAME as unistone--statuario (csstat/statuario-unistone, verified separately) — different material (porcelain vs quartz), do not share images."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--statuario-extra",
+    "library_colour": "Statuario Extra",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxste/statuario-extra-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap. Watch for price-book naming quirk 'Statuario Extra' vs some suppliers' 'Extra Statuario' (HARVEST-SPEC known quirk) — Brachot's own slug already says 'statuario-extra', matches directly."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--taj-mahal",
+    "library_colour": "Taj Mahal",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxtama/taj-mahal-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "FULLY VERIFIED by direct page fetch (tools/_cache/brachot/taj-mahal-uniceramica.html, valid page, title OK). Duplicate code 'ksxtma/taj-mahal-uniceramica' also exists, same slug/name — pick either, ksxtama used here. SAME DESIGN NAME as unistone--taj-mahal (cstajm/taj-mahal-unistone, plus UniQ cztajm) — different material, do not share."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--travertino-argento",
+    "library_colour": "Travertino Argento",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxtt/travertino-argento-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--travertino-bianco",
+    "library_colour": "Travertino Bianco",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxtb/travertino-bianco-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--travertino-classico",
+    "library_colour": "Travertino Classico",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxtc/travertino-classico-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "FULLY VERIFIED by direct page fetch (tools/_cache/brachot/travertino-classico-uniceramica.html; title 'TRAVERTINO CLASSICO UNICERAMICA | PORCELAIN SLABS | BRACHOT'). Re: Nile Stone's colour of the same name — 'Travertino Classico' is a generic Italian quarry/trade term used industry-wide for the most common/compact-structure travertine grade (confirmed via web search — dozens of unrelated stone yards worldwide sell a 'Travertino Classico'). Nile Stone's is natural travertine (out of scope for this phase per HARVEST-SPEC anyway); Brachot's is a porcelain reproduction. NO evidence of a shared manufacturer — coincidental generic name only, do not merge/share."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--travertino-light",
+    "library_colour": "Travertino Light",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxtl/travertino-light-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Brachot",
+    "library_id": "brachot--travertino-navona",
+    "library_colour": "Travertino Navona",
+    "material": "Porcelain",
+    "product_url": "https://www.brachot.com/en/materials/ksxtna/travertino-navona-uniceramica/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "3240x1620mm"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--adamello",
+    "library_colour": "Adamello",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/csadam/adamello-unistone/",
+    "image_kinds_seen": [
+      "slab (chevalet + flat texture)",
+      "room(house/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "price-book: 3000x1400 / 3200x1600 / 3300x1650mm (variant picker on-page, not printed as static text — dimension is a client-side dropdown 'Choose the dimension (cm)')"
+    ],
+    "notes": "Confirmed via sitemap-en.xml crawl (same brachot.com site as Uniceramica). Same URL pattern as Brachot pages: /en/materials/{code}/{slug}/."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--alaska-white",
+    "library_colour": "Alaska White",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/csalwh/alaska-white-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--arabescato-vagli",
+    "library_colour": "Arabescato Vagli",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/csarva/arabescato-vagli-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "FULLY VERIFIED by direct page fetch (tools/_cache/unistone/arabescato-vagli-unistone.html, title OK). SAME DESIGN NAME as brachot--arabescato-vagli (ksxara/arabescato-vagli-uniceramica) — both are Brachot products (Uniceramica porcelain vs Unistone quartz) drawing on the same Arabescato Vagli marble look, but physically different materials/manufacturing. Do NOT share images between the two entries."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--arabescato-viola",
+    "library_colour": "Arabescato Viola",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/csarvi/arabescato-viola-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "Confirmed via sitemap. UniQ silica-free version also exists at czarvi/arabescato-viola-unistone-uniq — same design, alt product line (see UniQ note in supplier notes)."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--argento",
+    "library_colour": "Argento",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/csarge/argento-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--bianco",
+    "library_colour": "Bianco",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/cswhit/bianco-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "Confirmed via sitemap. UniQ version also exists at czwhit/bianco-unistone-uniq."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--bianco-assoluto",
+    "library_colour": "Bianco Assoluto",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/cspwhi/bianco-assoluto-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "Confirmed via sitemap. UniQ version also exists at czpwhi/bianco-assoluto-unistone-uniq. SAME DESIGN NAME as brachot--bianco-assoluto (ksxwhi/bianco-assoluto-uniceramica) — different material (quartz vs porcelain), do not share images."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--bianco-cristal",
+    "library_colour": "Bianco Cristal",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/csbcri/bianco-cristal-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--bianco-eclipse",
+    "library_colour": "Bianco Eclipse",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/csbecl/bianco-eclipse-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--bianco-extra",
+    "library_colour": "Bianco Extra",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/cswhex/bianco-extra-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "FULLY VERIFIED by direct page fetch (tools/_cache/brachot/bianco-extra-unistone.html, 209KB page, curl OK, no bot protection)."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--bianco-extreme",
+    "library_colour": "Bianco Extreme",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/csbiex/bianco-extreme-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "Confirmed via sitemap. Note: Brachot ALSO has a Uniceramica porcelain colour called 'Bianco Extreme' (ksxbex) but that one is not in our Brachot price-book list of 35 — not relevant to this harvest, mentioned only for completeness."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--black-crystal",
+    "library_colour": "Black Crystal",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/csblcr/black-crystal-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--cararra-misterio",
+    "library_colour": "Cararra Misterio",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/csbcam/carrara-misterio-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "IMAGE MISSING in library — priority fix. Price-book spelling 'Cararra' is a typo for 'Carrara'; Brachot's slug correctly spells 'carrara-misterio-unistone' — add as an alias so the price-book join still resolves. Two site codes exist for the same slug (csbcam and csbeam) — probably a batch/duplicate SKU, use csbcam (first found, matches sitemap primary listing). UniQ version also exists at czbcam."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--cemento",
+    "library_colour": "Cemento",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/csceme/cemento-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "Confirmed via sitemap. UniQ version also exists at czceme."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--cendre",
+    "library_colour": "Cendre",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/cscend/cendre-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "Confirmed via sitemap. UniQ version also exists at czcend."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--ceppo",
+    "library_colour": "Ceppo",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/cscepp/ceppo-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--cinza",
+    "library_colour": "Cinza",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/cscinz/cinza-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--crystallo-beige",
+    "library_colour": "Crystallo Beige",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/cscrbe/crystallo-beige-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "Confirmed via sitemap. UniQ version also exists at czcrbe. Coincidental name overlap with brachot--crystallo (porcelain, ksxcrq) — different material, do not share."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--grey-savoye",
+    "library_colour": "Grey Savoye",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/cssavo/grey-savoye-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--grigio-paloma",
+    "library_colour": "Grigio Paloma",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/csgrpa/grigio-paloma-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--java-black",
+    "library_colour": "Java Black",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/csjabl/java-black-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "Confirmed via sitemap. UniQ version also exists at czjabl. Note there is also a separate 'javablue-unistone' (csjava, Java Blue) — do not confuse."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--jura-grey",
+    "library_colour": "Jura Grey",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/csjugr/jura-grey-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "Confirmed via sitemap. Related-sounding to brachot--jura-beige (porcelain) via the shared 'Jura' limestone-quarry reference, but a different Brachot range/material — not the same product, do not share."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--misterio-gold",
+    "library_colour": "Misterio Gold",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/csmigo/misterio-gold-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "Confirmed via sitemap. UniQ version also exists at czmigo."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--polaris",
+    "library_colour": "Polaris",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/cspola/polaris-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "Confirmed via sitemap. UniQ version also exists at czpola."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--sahara-noir",
+    "library_colour": "Sahara Noir",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/cssano/sahara-noir-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "Confirmed via sitemap. Brachot also has a Uniceramica porcelain 'Sahara Noir' (ksxsan) but it is NOT in our Brachot price-book list of 35 — not directly relevant but same cross-material naming pattern as the others flagged here."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--silver-sea",
+    "library_colour": "Silver Sea",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/cssea/silver-sea-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--sinai-pearl",
+    "library_colour": "Sinai Pearl",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/cssina/sinai-pearl-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "Confirmed via sitemap. Brachot's Uniceramica range separately has a porcelain 'Sinai Pearl' too (ksxsip), not in our list of 35 — same cross-material naming pattern, not relevant here."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--statuario",
+    "library_colour": "Statuario",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/csstat/statuario-unistone/",
+    "image_kinds_seen": [
+      "slab (chevalet + flat texture, e.g. Statuario_Fullslab_Polished_CSSTAT_onchevalet.jpg)",
+      "room(house_kitchen)",
+      "possible lifestyle/testimonial photo (Klantengetuigenis_... = Dutch for 'customer testimonial' — likely a showroom/people photo, NOT a room shot; verify before classifying as room)"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker 'Choose the dimension (cm)', see price book for 3000x1400/3200x1600/3300x1650mm"
+    ],
+    "notes": "FULLY VERIFIED by direct page fetch (tools/_cache/unistone/statuario-unistone.html, title 'STATUARIO UNISTONE | BRACHOT'). Finishes confirmed on page: Polished, Velluto. SAME DESIGN NAME as brachot--statuario (porcelain, ksxsta) — different material, do not share images."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--taj-mahal",
+    "library_colour": "Taj Mahal",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/cstajm/taj-mahal-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "Confirmed via sitemap. UniQ version FULLY VERIFIED by direct fetch at cztajm/taj-mahal-unistone-uniq (tools/_cache/unistone/taj-mahal-uniq.html, title 'TAJ MAHAL UNISTONE UNIQ | BRACHOT', page explicitly labels 'Silica'/'SILICA' free). SAME DESIGN NAME as brachot--taj-mahal (porcelain, ksxtama) — different material, do not share images."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--valley-white",
+    "library_colour": "Valley White",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/csvawh/valley-white-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--vitoria-regia",
+    "library_colour": "Vitoria Regia",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/csvire/vitoria-regia-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--white-eden",
+    "library_colour": "White Eden",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/csgaed/white-eden-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "Unistone",
+    "library_id": "unistone--white-fusion",
+    "library_colour": "White Fusion",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/csfusi/white-fusion-unistone/",
+    "image_kinds_seen": [
+      "slab",
+      "room"
+    ],
+    "slab_sizes_seen": [
+      "dropdown variant picker, see price book"
+    ],
+    "notes": "Confirmed via sitemap."
+  },
+  {
+    "supplier": "LuxeStone",
+    "library_id": "luxestone--amber",
+    "library_colour": "Amber",
+    "material": "Quartz",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3200x1600mm (Jumbo) - from price book only"
+    ],
+    "notes": "No LuxeStone website found (see supplier-level notes). Price book cites 'LuxeStone Quartz Price List V1 Jan 2026' (a PDF, not a URL) as source - LuxeStone appears to be a trade-only wholesaler with no public web presence."
+  },
+  {
+    "supplier": "LuxeStone",
+    "library_id": "luxestone--astral-white",
+    "library_colour": "Astral White",
+    "material": "Quartz",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3200x1600mm (Jumbo) - from price book only"
+    ],
+    "notes": "No supplier website found. Group 1 colour."
+  },
+  {
+    "supplier": "LuxeStone",
+    "library_id": "luxestone--avalanche",
+    "library_colour": "Avalanche",
+    "material": "Quartz",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3200x1600mm (Jumbo) - from price book only"
+    ],
+    "notes": "No supplier website found. Group 2 colour. Same name also sold by KSG (ksg--avalanche, resolved) - generic OEM quartz design name, not confirmed as literally the same photographed slab."
+  },
+  {
+    "supplier": "LuxeStone",
+    "library_id": "luxestone--bianco-gold",
+    "library_colour": "Bianco Gold",
+    "material": "Quartz",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3500x2000mm (Super Jumbo) - from price book only"
+    ],
+    "notes": "No supplier website found. Group 4 (SJ) colour."
+  },
+  {
+    "supplier": "LuxeStone",
+    "library_id": "luxestone--black-mirror",
+    "library_colour": "Black Mirror",
+    "material": "Quartz",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3200x1600mm (Jumbo) - from price book only"
+    ],
+    "notes": "No supplier website found. Group 1 colour. 'Mirror' finish names (Black/Grey/White Mirror) are a generic OEM quartz range naming convention also used by KSG and Kingstone."
+  },
+  {
+    "supplier": "LuxeStone",
+    "library_id": "luxestone--cairo",
+    "library_colour": "Cairo",
+    "material": "Quartz",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3200x1600mm (Jumbo) - from price book only"
+    ],
+    "notes": "No supplier website found. Group 4 colour."
+  },
+  {
+    "supplier": "LuxeStone",
+    "library_id": "luxestone--calacatta-borghini",
+    "library_colour": "Calacatta Borghini",
+    "material": "Quartz",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3200x1600mm (Jumbo) - from price book only"
+    ],
+    "notes": "No supplier website found. 'Calacatta Borghini' / 'Borghini' is an extremely common generic quartz design name used industry-wide (Verona Quartz, Vicostone BQ8670, StoneX, Kore Quartz etc all sell a 'Borghini' pattern) - not distinctive to LuxeStone."
+  },
+  {
+    "supplier": "LuxeStone",
+    "library_id": "luxestone--calacatta-oro",
+    "library_colour": "Calacatta Oro",
+    "material": "Quartz",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3200x1600mm (Jumbo) - from price book only"
+    ],
+    "notes": "No supplier website found. Group 3 colour."
+  },
+  {
+    "supplier": "LuxeStone",
+    "library_id": "luxestone--calacatta-serrone",
+    "library_colour": "Calacatta Serrone",
+    "material": "Quartz",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3500x2000mm (Super Jumbo) - from price book only"
+    ],
+    "notes": "No supplier website found. Group 4 (SJ) colour."
+  },
+  {
+    "supplier": "LuxeStone",
+    "library_id": "luxestone--carbon",
+    "library_colour": "Carbon",
+    "material": "Quartz",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3200x1600mm (Jumbo) - from price book only"
+    ],
+    "notes": "No supplier website found. Group 3 colour."
+  },
+  {
+    "supplier": "LuxeStone",
+    "library_id": "luxestone--carrara",
+    "library_colour": "Carrara",
+    "material": "Quartz",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3200x1600mm (Jumbo) - from price book only"
+    ],
+    "notes": "No supplier website found. Group 2 colour. 'Carrara' is a generic marble-look quartz design name (KSG sells 4 different 'Carrara' variants)."
+  },
+  {
+    "supplier": "LuxeStone",
+    "library_id": "luxestone--glacier",
+    "library_colour": "Glacier",
+    "material": "Quartz",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3200x1600mm (Jumbo) - from price book only"
+    ],
+    "notes": "No supplier website found. Group 4 colour."
+  },
+  {
+    "supplier": "LuxeStone",
+    "library_id": "luxestone--grey-mirror",
+    "library_colour": "Grey Mirror",
+    "material": "Quartz",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3200x1600mm (Jumbo) - from price book only"
+    ],
+    "notes": "No supplier website found. Group 1 colour. Same name sold by KSG (resolved) and Kingstone Quartz (Grey Mirror 102) - generic 'Mirror' finish range name common across multiple UK trade brands, not confirmed to be one physical product."
+  },
+  {
+    "supplier": "LuxeStone",
+    "library_id": "luxestone--irini",
+    "library_colour": "Irini",
+    "material": "Quartz",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3200x1600mm (Jumbo) - from price book only"
+    ],
+    "notes": "No supplier website found. Group 2 colour. Same name resolved under KSG (ksg--irini, quartz-irini page) - 'Irini' is a less-common name than Mirror/Shimmer so this pairing is a stronger candidate for image reuse (worth flagging to harvest agent to visually compare KSG's Irini photo against any LuxeStone sample photo Graham may have)."
+  },
+  {
+    "supplier": "LuxeStone",
+    "library_id": "luxestone--noir-gold",
+    "library_colour": "Noir Gold",
+    "material": "Quartz",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3200x1600mm (Jumbo) - from price book only"
+    ],
+    "notes": "No supplier website found. Group 4 colour."
+  },
+  {
+    "supplier": "LuxeStone",
+    "library_id": "luxestone--polar-white",
+    "library_colour": "Polar White",
+    "material": "Quartz",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3200x1600mm (Jumbo) - from price book only"
+    ],
+    "notes": "No supplier website found. Group 2 colour."
+  },
+  {
+    "supplier": "LuxeStone",
+    "library_id": "luxestone--sahara-waves",
+    "library_colour": "Sahara Waves",
+    "material": "Quartz",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3200x1600mm (Jumbo) - from price book only"
+    ],
+    "notes": "No supplier website found. Group 4 colour. Not the same as KSG's plain 'Sahara' or 'Calacatta Sahara' (different, more distinctive name - 'Waves' suggests a wood/linear-effect quartz)."
+  },
+  {
+    "supplier": "LuxeStone",
+    "library_id": "luxestone--super-white",
+    "library_colour": "Super White",
+    "material": "Quartz",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3200x1600mm (Jumbo) - from price book only"
+    ],
+    "notes": "No supplier website found. Group 2 colour."
+  },
+  {
+    "supplier": "LuxeStone",
+    "library_id": "luxestone--superior-calacatta",
+    "library_colour": "Superior Calacatta",
+    "material": "Quartz",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3200x1600mm (Jumbo) - from price book only"
+    ],
+    "notes": "No supplier website found. Group 3 colour. IMPORTANT: this exact name 'Superior Calacatta Quartz' is sold by UK cut-to-size retailer work-tops.com, but there it is attributed to brand 'Fugenstone' (3200x1600mm, 20/30mm, Polished) - proof this generic quartz design/name is licensed to/rebranded by multiple UK sellers (LuxeStone AND Fugenstone at minimum), not proof of a shared identity between them. A generic-name OEM slab, not evidence LuxeStone==Fugenstone."
+  },
+  {
+    "supplier": "LuxeStone",
+    "library_id": "luxestone--taj-mahal",
+    "library_colour": "Taj Mahal",
+    "material": "Quartz",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3200x1600mm (Jumbo) - from price book only"
+    ],
+    "notes": "No supplier website found. Group 4 colour. Kingstone Quartz sells a 'Taj Mahal 230' (confirmed on kingstonequartz.co.uk/quartz-collection/, Polish surface) - but Kingstone's site data shows no evidence of a LuxeStone relationship, and 'Taj Mahal' quartz is one of the most common generic quartz-mimicking-quartzite names in the entire industry (sold by dozens of manufacturers worldwide)."
+  },
+  {
+    "supplier": "LuxeStone",
+    "library_id": "luxestone--white-mirror",
+    "library_colour": "White Mirror",
+    "material": "Quartz",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3200x1600mm (Jumbo) - from price book only"
+    ],
+    "notes": "No supplier website found. Group 1 colour. Same name resolved under both KSG and Kingstone (White Mirror 101) - generic 'Mirror' range name."
+  },
+  {
+    "supplier": "LuxeStone",
+    "library_id": "luxestone--white-shimmer",
+    "library_colour": "White Shimmer",
+    "material": "Quartz",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3200x1600mm (Jumbo) - from price book only"
+    ],
+    "notes": "No supplier website found. Group 1 colour. Same name resolved under both KSG (site currently shows 'Image Coming Soon' for the main slab shot, closeup jpg exists) and Kingstone (White Shimmer 111) - generic 'Shimmer' range name."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--amazon",
+    "library_colour": "Amazon",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/quartz-amazon",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm)"
+    ],
+    "notes": "Confirmed via curl (HTTP 200). Page shows one slab photo (Amazon 67.jpg). No closeup/room images on this product page. Page states Origin: KSG Factory India."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--andes",
+    "library_colour": "Andes",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/quartz-andes",
+    "image_kinds_seen": [
+      "slab",
+      "closeup"
+    ],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm)"
+    ],
+    "notes": "Confirmed via curl (HTTP 200). Two images: 'andes 93 slab coreect.JPG' (slab) and 'Andes -Full' (product shot). No room images."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--arabesque",
+    "library_colour": "Arabesque",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/quartz-arabesque",
+    "image_kinds_seen": [
+      "closeup"
+    ],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm) - standard NATUREQ size, page not deep-inspected"
+    ],
+    "notes": "URL confirmed resolving (HTTP 200) via category-page crawl; main image on category listing is a close-up shot ('Arabesque-_65_-close-up'). Product page not deep-fetched for full image inventory - recommend harvest agent re-check for a dedicated slab shot."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--arctic-white",
+    "library_colour": "Arctic White",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/quartz-arctic-white",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm)"
+    ],
+    "notes": "Confirmed via curl (HTTP 200). One slab photo ('Arctic white 11 slab.jpg')."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--avalanche",
+    "library_colour": "Avalanche",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/QuartzAvalanche",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm)"
+    ],
+    "notes": "Confirmed via curl (HTTP 200) - NOTE unusual URL casing/no-hyphen ('QuartzAvalanche' not 'quartz-avalanche') vs every other product on the site; this is a genuine site quirk, not a typo on our part. One slab photo ('Avalanche 1.JPG'). Same colour name also in LuxeStone's range (unconfirmed site)."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--black-mist",
+    "library_colour": "Black Mist",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/quartz-black-mist",
+    "image_kinds_seen": [
+      "closeup"
+    ],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm) - standard NATUREQ size"
+    ],
+    "notes": "URL confirmed resolving (HTTP 200). Category-listing thumbnail is a swatch/closeup image only ('Elvaston_swatch'), not yet confirmed to have a distinct full-slab shot - check product page directly during harvest."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--calacatta-gold",
+    "library_colour": "Calacatta Gold",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/quartz-calacatta-gold",
+    "image_kinds_seen": [
+      "slab",
+      "closeup"
+    ],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm)"
+    ],
+    "notes": "Confirmed via curl (HTTP 200), full page fetched. Has both a slab photo ('Calacata-Gold-slab...jpeg') and a closeup ('Calacata-Gold-close-up...jpg'). Note site's own listing spells it 'Calacatti Gold' in one place (typo) but the slug/product page title use 'Calacatta Gold'."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--calacatta-gold-shimmer",
+    "library_colour": "Calacatta Gold Shimmer",
+    "material": "Quartz",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [],
+    "notes": "NOT FOUND as a distinct product. Tested https://www.ksguk.co.uk/NATUREQ/quartz-calacatta-gold-shimmer -> 404s and silently falls back to the NATUREQ category listing page (title 'NATUREQ - KSG (UK)', not a product page). The site's own colour list has 'Quartz Calacatta Gold' and 'Quartz Calacatta Shimmer' as SEPARATE products but no distinct 'Calacatta Gold Shimmer'. Price book lists both 'Calacatta Gold Shimmer' and 'Calacatta Shimmer' as separate KSG colours - unclear whether Gold Shimmer is a real separate SKU missing a page, a naming variant of Calacatta Shimmer, or a genuinely different product KSG stopped listing. Flag for orchestrator/harvest agent to check by phone/email with KSG or treat 'Calacatta Shimmer' page as provisional stand-in with a note."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--calacatta-sahara",
+    "library_colour": "Calacatta Sahara",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/quartz-calacatta-sahara",
+    "image_kinds_seen": [
+      "closeup"
+    ],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm) - standard NATUREQ size"
+    ],
+    "notes": "Confirmed via curl (HTTP 200). Marked '(New)' on the category listing page. Category thumbnail is a product/closeup shot."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--calacatta-shimmer",
+    "library_colour": "Calacatta Shimmer",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/quartz-calacatta-shimmer",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm) - standard NATUREQ size"
+    ],
+    "notes": "Site listing confirms this exact URL exists in the NATUREQ nav. See 'Calacatta Gold Shimmer' entry above for the naming ambiguity with this colour."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--carrara-classic",
+    "library_colour": "Carrara Classic",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/quartz-carrara-classic",
+    "image_kinds_seen": [
+      "slab",
+      "closeup"
+    ],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm)"
+    ],
+    "notes": "Confirmed via curl (HTTP 200). Category listing shows a closeup ('Carrara-Classic-45-Closeup-2'); distinct from the 'Carrara Classic - Leather' finish variant which has its own page."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--carrara-classic-leather",
+    "library_colour": "Carrara Classic - Leather",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/quartz-carrara-classic-leather",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm)"
+    ],
+    "notes": "Confirmed via curl (HTTP 200). Its own dedicated page/photo ('carrar-classic.jpg') separate from the polished 'Carrara Classic' page - matches price book's Leathered finish distinction."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--carrara-gold",
+    "library_colour": "Carrara Gold",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/quartz-carrara-gold",
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm) - standard NATUREQ size"
+    ],
+    "notes": "URL confirmed resolving (HTTP 200); image inventory not deep-checked, only status-verified in the final confirmation pass."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--carrara-sicilia",
+    "library_colour": "Carrara Sicilia",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/quartz-carrara-sicilia",
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm) - standard NATUREQ size"
+    ],
+    "notes": "URL confirmed resolving (HTTP 200); image inventory not deep-checked."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--carrara-vena",
+    "library_colour": "Carrara Vena",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/quartz-carrara-vena",
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm) - standard NATUREQ size"
+    ],
+    "notes": "URL confirmed resolving (HTTP 200); image inventory not deep-checked."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--desert-silver",
+    "library_colour": "Desert Silver",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/quartz-desert-silver",
+    "image_kinds_seen": [
+      "closeup"
+    ],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm)"
+    ],
+    "notes": "Confirmed via curl (HTTP 200). Product photo present ('PHOTO-2025-07-30...png')."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--dove-grey",
+    "library_colour": "Dove Grey",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/quartz-dove-grey",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm)"
+    ],
+    "notes": "Confirmed via curl (HTTP 200). Slab photo present ('dove grey 24.jpg'). Note the site ALSO lists a separate, price-book-unlisted 'Quartz Dove (2652)' colour - a newer/different SKU, ignore for our purposes."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--grey-mirror",
+    "library_colour": "Grey Mirror",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/quartz-grey-mirror",
+    "image_kinds_seen": [
+      "slab",
+      "closeup"
+    ],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm)"
+    ],
+    "notes": "Confirmed via curl (HTTP 200), full page fetched. Product Code 28. Has both a slab photo ('Grey Mirror _15_.jpg') and a closeup ('Grey-mirror-close-up...jpg'). Same colour name also in LuxeStone's and Kingstone's ranges (generic 'Mirror' finish naming)."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--grey-shimmer",
+    "library_colour": "Grey Shimmer",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/quartz-grey-shimmer",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm)"
+    ],
+    "notes": "Confirmed via curl (HTTP 200). Slab photo present ('grey shimmer .JPG')."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--himalaya",
+    "library_colour": "Himalaya",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/quartz-himalaya",
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm) - standard NATUREQ size"
+    ],
+    "notes": "URL confirmed resolving (HTTP 200); image inventory not deep-checked."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--inca",
+    "library_colour": "Inca",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/quartz-inca",
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm) - standard NATUREQ size"
+    ],
+    "notes": "URL confirmed resolving (HTTP 200); image inventory not deep-checked."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--irini",
+    "library_colour": "Irini",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/quartz-irini",
+    "image_kinds_seen": [
+      "closeup"
+    ],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm)"
+    ],
+    "notes": "Confirmed via curl (HTTP 200), full page fetched. Material: Quartz, Origin: KSG Factory India. One image ('Irini 3...png'). Same colour name also in LuxeStone's range (unconfirmed site) - 'Irini' is a less generic/common name than Mirror/Shimmer, worth a visual side-by-side check if a LuxeStone sample photo turns up."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--nevada",
+    "library_colour": "Nevada",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/quartz-nevada",
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm) - standard NATUREQ size"
+    ],
+    "notes": "Confirmed via curl (HTTP 200). Marked '(New)' on the category listing page."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--portofino",
+    "library_colour": "Portofino",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/quartz-portofino",
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm) - standard NATUREQ size"
+    ],
+    "notes": "URL confirmed resolving (HTTP 200); image inventory not deep-checked."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--sahara",
+    "library_colour": "Sahara",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/quartz-sahara",
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm) - standard NATUREQ size"
+    ],
+    "notes": "Confirmed via curl (HTTP 200). Marked '(New)' on the category listing page. Distinct product from 'Calacatta Sahara'."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--santorini",
+    "library_colour": "Santorini",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/quartz-calacatta-nero-santorini",
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm) - standard NATUREQ size"
+    ],
+    "notes": "NAME ALIAS: site lists this product as 'Quartz Calacatta Nero (Santorini)', not plainly 'Santorini'. URL confirmed resolving (HTTP 200). Add 'Calacatta Nero (Santorini)' as an alias when harvesting."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--seville",
+    "library_colour": "Seville",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/quartz-calacatta-light-seville",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm)"
+    ],
+    "notes": "NAME ALIAS: site lists this product as 'Quartz Calacatta Light (Seville)', not plainly 'Seville'. Confirmed via curl (HTTP 200). Slab photo present ('Seville Slab.jpeg'). Add 'Calacatta Light (Seville)' as an alias when harvesting."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--siberian-white",
+    "library_colour": "Siberian White",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/quartz-siberian-white",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm)"
+    ],
+    "notes": "Confirmed via curl (HTTP 200). Slab photo present ('Siberian white 12 slab.jpg')."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--sorrento",
+    "library_colour": "Sorrento",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/quartz-sorrento",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm) - standard NATUREQ size"
+    ],
+    "notes": "Confirmed via curl under both /ksg-quartz/quartz-sorrento (HTTP 200, full page fetched, slab photo 'sorrento 90 slab.JPG') and /NATUREQ/quartz-sorrento (HTTP 200) - both URL prefixes resolve to the same product, site allows either path."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--white-mirror",
+    "library_colour": "White Mirror",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/quartz-white-mirror",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm)"
+    ],
+    "notes": "Confirmed via curl (HTTP 200). Slab photo present ('White Mirror 22.jpg'). Same colour name also in LuxeStone's and Kingstone's ranges (generic 'Mirror' finish naming)."
+  },
+  {
+    "supplier": "KSG",
+    "library_id": "ksg--white-shimmer",
+    "library_colour": "White Shimmer",
+    "material": "Quartz",
+    "product_url": "https://www.ksguk.co.uk/NATUREQ/quartz-white-shimmer",
+    "image_kinds_seen": [
+      "closeup"
+    ],
+    "slab_sizes_seen": [
+      "3.20 x 1.60 m (3200x1600mm)"
+    ],
+    "notes": "Confirmed via curl (HTTP 200). Product Code 21. The rendered page literally shows 'Image Coming Soon' for the main slab photo, BUT the page's own schema.org JSON-LD references a closeup image (white-shimmer-close-up_234_234...jpg) which DOES exist (verified 200 OK, real 6.5KB jpeg) - so a low-res closeup is usable but no full slab shot exists on-site yet. Same colour name also in LuxeStone's and Kingstone's ranges (generic 'Shimmer' finish naming)."
+  },
+  {
+    "supplier": "Lumina Stone",
+    "library_id": "lumina-stone--astral-white",
+    "library_colour": "Astral White",
+    "material": "Quartz",
+    "product_url": "https://www.pisastone.co.uk/quartz-worktops/lumina-stone",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600 (5.12sqm), 20/30mm, Polished"
+    ],
+    "notes": "SKU 1014. Single slab photo, alt=\"Astral White\", hosted at pisastone's own CDN (d19x9nb5t28tf7.cloudfront.net/tmp/75dd8f7a-52a1-44d0-843d-2671c332ef68.jpeg). No individual product page (single page lists all 16 colours with 'Get A Quote' buttons); productUrl is the shared listing page. Also seen (single slab img) on worktopquartz.co.uk and edenworktops.co.uk under slightly different marketing names."
+  },
+  {
+    "supplier": "Lumina Stone",
+    "library_id": "lumina-stone--belvedere",
+    "library_colour": "Belvedere",
+    "material": "Quartz",
+    "product_url": "https://www.pisastone.co.uk/quartz-worktops/lumina-stone",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": "SKU 3086. Slab image at cloudfront.net/tmp/ae63bd69-da1b-4cee-ba04-f0d60f66f459.jpeg. Not present on the luminastone.eu current color-sheet list (that catalogue has moved on to newer names) but IS present as a 'Lumina_Color-Sheets_BELVEDERE.pdf' spec sheet on luminastone.eu, confirming it's a genuine (if older) brand SKU."
+  },
+  {
+    "supplier": "Lumina Stone",
+    "library_id": "lumina-stone--bronze-cascade",
+    "library_colour": "Bronze Cascade",
+    "material": "Quartz",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [],
+    "notes": "NOT FOUND on any site checked (pisastone.co.uk, worktopquartz.co.uk, edenworktops.co.uk, luminastone.eu color-sheets list, luminastone.eu portfolio, web search). Price-book finish is 'Silica-Free' (Lumina Stone Group 3) which none of the reseller pages label explicitly, so this may be a newer/less-stocked SKU the resellers haven't photographed yet. granitewarehouseyork.co.uk (another reseller, has a dedicated /lumina-stone-supplier-york/ page) could not be reached this pass (connection failure, HTTP 000) - worth a retry. Recommend asking Granite Granite Ltd (LuminaStoneUK@GraniteGraniteLtd.co.uk) directly, or a browser pass on granitewarehouseyork.co.uk."
+  },
+  {
+    "supplier": "Lumina Stone",
+    "library_id": "lumina-stone--bianco-venatino",
+    "library_colour": "Bianco Venatino",
+    "material": "Quartz",
+    "product_url": "https://www.pisastone.co.uk/quartz-worktops/lumina-stone",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": "SKU 8115 - cross-confirmed: luminastone.eu itself has a matching legacy image at wp-content/uploads/2022/05/FS8115_bianco-venatino.jpg (HTTP 200) and a 'Lumina_Color-Sheets_BIANCO-VENATINO.pdf' spec sheet, so this is a verified official brand asset, not just a reseller photo. Slab image at pisastone cloudfront.net/tmp/e9e6eed3-dda3-4a13-a7d6-ef3f5ebc45c3.jpeg."
+  },
+  {
+    "supplier": "Lumina Stone",
+    "library_id": "lumina-stone--calacatta-eternal",
+    "library_colour": "Calacatta Eternal",
+    "material": "Quartz",
+    "product_url": "https://www.pisastone.co.uk/quartz-worktops/lumina-stone",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": "SKU 3112. Slab image at cloudfront.net/tmp/d59d88c4-7efb-4ff6-94cb-9cd09322fc30.jpeg. Not found on luminastone.eu current color-sheet catalogue (closest current name is 'Calacatta Gold', likely unrelated - do not assume link)."
+  },
+  {
+    "supplier": "Lumina Stone",
+    "library_id": "lumina-stone--coral-metro",
+    "library_colour": "Coral Metro",
+    "material": "Quartz",
+    "product_url": "https://www.pisastone.co.uk/quartz-worktops/lumina-stone",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, S-Tech & Nano"
+    ],
+    "notes": "SKU 6032. Slab image at cloudfront.net/tmp/5a8a4906-bf02-4188-967e-219f6b600cf7.jpeg."
+  },
+  {
+    "supplier": "Lumina Stone",
+    "library_id": "lumina-stone--coral-naturale",
+    "library_colour": "Coral Naturale",
+    "material": "Quartz",
+    "product_url": "https://www.pisastone.co.uk/quartz-worktops/lumina-stone",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, S-Tech & Nano"
+    ],
+    "notes": "SKU 6031. Slab image at cloudfront.net/tmp/534d31aa-02cd-4dd7-81d3-a40793d13776.jpeg. Also appears on worktopquartz.co.uk (2021 upload) and has a 'Lumina_Color-Sheets_CORAL-NATURALE.pdf' on luminastone.eu."
+  },
+  {
+    "supplier": "Lumina Stone",
+    "library_id": "lumina-stone--maya",
+    "library_colour": "Maya",
+    "material": "Quartz",
+    "product_url": "https://www.pisastone.co.uk/quartz-worktops/lumina-stone",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": "SKU 8313. Slab image at cloudfront.net/tmp/8c1f315a-6c94-45bf-905e-75a17b4c95a5.jpeg. Not on luminastone.eu's current color-sheet list."
+  },
+  {
+    "supplier": "Lumina Stone",
+    "library_id": "lumina-stone--patagonia",
+    "library_colour": "Patagonia",
+    "material": "Quartz",
+    "product_url": "https://www.pisastone.co.uk/quartz-worktops/lumina-stone",
+    "image_kinds_seen": [
+      "slab",
+      "room (portfolio, luminastone.eu)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": "SKU 9212. Slab image at pisastone cloudfront.net/tmp/422e31e3-3abc-4a02-986c-0d2df0d12a07.jpeg (a proper slab shot, resolves the closeup-only gap). Also has a 'Lumina_Color-Sheets_PATAGONIA.pdf' on luminastone.eu confirming it's current. NOTE: Brachot also lists a Porcelain 'Patagonia' for a different supplier (Brachot) - separate product, common marketing name, no evidence of a link. Coincidentally another supplier in the price book (Brachot, section for a different brand) also has a colour literally called Patagonia; treat as unrelated homonym per the orchestrator's note."
+  },
+  {
+    "supplier": "Lumina Stone",
+    "library_id": "lumina-stone--sand-swan",
+    "library_colour": "Sand Swan",
+    "material": "Quartz",
+    "product_url": "https://www.pisastone.co.uk/quartz-worktops/lumina-stone",
+    "image_kinds_seen": [
+      "slab",
+      "room (portfolio, luminastone.eu/portfolio/sand-swan/)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": "SKU 8716. Slab at cloudfront.net/tmp/7ae7f440-b0ad-404f-bee7-5f29d2c600a9.jpeg. Confirmed current on luminastone.eu (has both a color-sheet PDF and a dedicated portfolio/installation photo page: luminastone.eu/portfolio/sand-swan/) - best-corroborated colour in the whole list."
+  },
+  {
+    "supplier": "Lumina Stone",
+    "library_id": "lumina-stone--soapstone",
+    "library_colour": "Soapstone",
+    "material": "Quartz",
+    "product_url": "https://www.pisastone.co.uk/quartz-worktops/lumina-stone",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, S-Tech & Nano"
+    ],
+    "notes": "SKU 8185. Slab at cloudfront.net/tmp/c570844a-0cd8-4307-95fc-1523e348d5bc.jpeg. Also appears as 'Soap Stone' (two words) in luminastone.eu's portfolio (/portfolio/soap-stone/, room photo) and has a color-sheet PDF - same product, minor spelling variant."
+  },
+  {
+    "supplier": "Lumina Stone",
+    "library_id": "lumina-stone--statuario-frost",
+    "library_colour": "Statuario Frost",
+    "material": "Quartz",
+    "product_url": "https://www.pisastone.co.uk/quartz-worktops/lumina-stone",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": "SKU 3216. Slab at cloudfront.net/tmp/156cbe9f-aaf1-4d66-918b-8248cf8697fd.jpeg. Weak possible match to luminastone.eu's current 'Statuario Frozen' color-sheet (name drift) but not confirmed - treat as separate/unverified link, use the pisastone photo as primary."
+  },
+  {
+    "supplier": "Lumina Stone",
+    "library_id": "lumina-stone--statuario-rhin",
+    "library_colour": "Statuario Rhin",
+    "material": "Quartz",
+    "product_url": "https://www.pisastone.co.uk/quartz-worktops/lumina-stone",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": "SKU 3313. Slab at cloudfront.net/tmp/99962fe4-8ac4-4bb1-abca-a252c41dcd8a.jpeg. Not found on luminastone.eu current catalogue."
+  },
+  {
+    "supplier": "Lumina Stone",
+    "library_id": "lumina-stone--statuario-venato",
+    "library_colour": "Statuario Venato",
+    "material": "Quartz",
+    "product_url": "https://www.pisastone.co.uk/quartz-worktops/lumina-stone",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": "SKU 3123. Slab at cloudfront.net/tmp/eba055ed-df8e-44ee-b8c0-bd66bd287978.jpeg. Also present on edenworktops.co.uk and worktopquartz.co.uk under the same name (one of only 5 names that agree across all three UK resellers). Graham/Granite Granite even has a Facebook video titled 'The elegance of Statuario Venato by Lumina Stone'."
+  },
+  {
+    "supplier": "Lumina Stone",
+    "library_id": "lumina-stone--super-white-marble",
+    "library_colour": "Super White Marble",
+    "material": "Quartz",
+    "product_url": "https://www.pisastone.co.uk/quartz-worktops/lumina-stone",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished & S-Tech"
+    ],
+    "notes": "SKU 8412 (site label reads 'Superwhite Marble', one word - price-book spells it 'Super White Marble', same product). Slab at cloudfront.net/tmp/dd8c073a-ce95-4da6-a4be-4ed8b76730b3.jpeg. worktopquartz.co.uk separately lists 'Superwhite-Marble-Matt' and 'Superwhite-Marble-Tech' as two distinct finish variants of the same base colour - useful if we ever split by finish."
+  },
+  {
+    "supplier": "Lumina Stone",
+    "library_id": "lumina-stone--urban-cemento",
+    "library_colour": "Urban Cemento",
+    "material": "Quartz",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [],
+    "notes": "NOT FOUND on any site checked. Price-book finish 'Silica-Free' (Lumina Stone Group 5), same pattern as the other not-found colour Bronze Cascade - both are Silica-Free finish, suggesting the Silica-Free sub-line is the gap in reseller photography, not just these two colours coincidentally. Weak possible naming drift to luminastone.eu's current 'Cemento Urban'/'Cemento Loft'/'Cemento Fog'/'Cemento Light'/'Cemento Grey' color-sheets (concrete-look family exists on the current site) but no confirmed 1:1 match - do not assume link without a side-by-side photo check. Recommend a browser pass on granitewarehouseyork.co.uk (unreachable via curl this session) and/or asking Granite Granite Ltd directly."
+  },
+  {
+    "supplier": "Lumina Stone",
+    "library_id": "lumina-stone--white-sand",
+    "library_colour": "White Sand",
+    "material": "Quartz",
+    "product_url": "https://www.pisastone.co.uk/quartz-worktops/lumina-stone",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": "SKU 2008. Slab at cloudfront.net/tmp/e929f261-ebec-4fee-9640-ab7308abdf1e.jpeg (alt text 'WHITE SAND'). Also on worktopquartz.co.uk and edenworktops.co.uk under the same name and has a 'Lumina_Color-Sheets_WHITE-SAND.pdf' on luminastone.eu."
+  },
+  {
+    "supplier": "Lumina Stone",
+    "library_id": "lumina-stone--white-swan",
+    "library_colour": "White Swan",
+    "material": "Quartz",
+    "product_url": "https://www.pisastone.co.uk/quartz-worktops/lumina-stone",
+    "image_kinds_seen": [
+      "slab",
+      "room (portfolio, luminastone.eu/portfolio/white-swan/)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": "SKU 8416. Slab at cloudfront.net/tmp/eba2203c-31c8-47f5-a1d1-0d0c3c341a28.jpeg. Confirmed current on luminastone.eu (color-sheet PDF + dedicated portfolio/installation photo page), same strength of evidence as Sand Swan."
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--arctic",
+    "library_colour": "Arctic",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qsarct/arctic-bqs/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": "BQS = 'Brachot Quartz Surfaces', Brachot's own in-house quartz brand (Belgian stone group, brachot.com). Official manufacturer/distributor site, curl-friendly, no bot protection."
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--aurora-dune",
+    "library_colour": "Aurora Dune",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qsaudu/aurora-dune-bqs/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished/Velluto"
+    ],
+    "notes": "Has both Polished and Velluto price-book rows; product page's materialStory.finishes[] carries one slab image per finish."
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--avenza",
+    "library_colour": "Avenza",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qsavav/avenza-avorio-bqs/",
+    "image_kinds_seen": [
+      "slab",
+      "room (brachot.com/en/references/119/kitchen-worktop-in-bqs-avenza/)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": "Brachot's own slug is 'Avenza Avorio BQS'; price book just says 'Avenza' - treat as the same product (token-subset match), not two colours."
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--beige-mirrorlux",
+    "library_colour": "Beige Mirrorlux",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qsbelx/beige-mirrorlux-bqs/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": "Mirrorlux = BQS's mirror-chip-sparkle finish family (White/Black/Grey/Beige variants all exist as separate colours in our library and in Brachot's range)."
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--bianco-fontana",
+    "library_colour": "Bianco Fontana",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qsbifo/bianco-fontana-bqs/",
+    "image_kinds_seen": [
+      "slab",
+      "room (brachot.com/en/references/504011/kitchen-worktop-in-bqs-bianco-fontana/)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished/Velluto"
+    ],
+    "notes": ""
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--bianco-massa",
+    "library_colour": "Bianco Massa",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qsbima/bianco-massa-bqs/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": "Fully test-fetched this pass; page's __NEXT_DATA__ JSON gives materialPim.images[] (3x official cdn.pimber.ly product photos, origin=China) plus materialStory.finishes[].image (one storyblok slab photo per finish, ~1920x945px, ~2:1 aspect - good slab crop)."
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--bianco-venatino",
+    "library_colour": "Bianco Venatino",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qsbive/bianco-venatino-bqs/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": "Same colour name as a Lumina Stone entry in our library - different supplier/product, both confirmed to exist independently, no relationship."
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--black-mirrorlux",
+    "library_colour": "Black Mirrorlux",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qsbllx/black-mirrorlux-bqs/",
+    "image_kinds_seen": [
+      "slab",
+      "room (brachot.com/en/references/395/kitchen-worktop-in-bqs-black-mirrorlux/)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": ""
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--blanco-mist",
+    "library_colour": "Blanco Mist",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qsuwcc/blanco-mist-bqs/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": "Fully test-fetched this pass. Price-book flags this as Finch's bulk-stock colour (tier A stock sell price) - highest-priority colour to actually harvest well."
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--borealis-green",
+    "library_colour": "Borealis Green",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qsbogr/borealis-green-bqs/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished/Velluto"
+    ],
+    "notes": "Brachot's own BQS academy page (brachot.com/en/brachot-academy/bqs/) singles this out as available in a 'translucent option' with its own detail/closeup shot - worth checking for a bonus closeup image."
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--calacatta-aurora",
+    "library_colour": "Calacatta Aurora",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qscaau/calacatta-aurora-bqs/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": ""
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--calacatta-forte",
+    "library_colour": "Calacatta Forte",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qscafo/calacatta-forte-bqs/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": ""
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--calacatta-viola",
+    "library_colour": "Calacatta Viola",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qscavv/calacatta-viola-bqs/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": ""
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--canaletto",
+    "library_colour": "Canaletto",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qscanal/canaletto-bqs/",
+    "image_kinds_seen": [
+      "slab",
+      "room (brachot.com/en/references/512162/kitchen-worktop-and-splashback-in-bqs-canaletto/)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": ""
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--capri",
+    "library_colour": "Capri",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qscapr/capri-bqs/",
+    "image_kinds_seen": [
+      "slab",
+      "room (brachot.com/en/references/507177/quartz-kitchen-worktop-splashback-in-bqs-capri/)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished/Velluto"
+    ],
+    "notes": "Fully test-fetched this pass (used as the schema example - see report). Brachot BQS academy page also singles this out for 'natural variation in vein prominence' detail shot."
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--carrara-extra",
+    "library_colour": "Carrara Extra",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qscaex/carrara-extra-bqs/",
+    "image_kinds_seen": [
+      "slab",
+      "room (brachot.com/en/references/512172/kitchen-worktop-in-bqs-carrara-extra/)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished/Velluto"
+    ],
+    "notes": "Price book notes the May 2026 pricelist prints this as 'Cararra Extra' (typo) but Brachot's own site spells it correctly 'Carrara Extra' - use the site spelling."
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--carrara-minari",
+    "library_colour": "Carrara Minari",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qscami/carrara-minari-bqs/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": ""
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--carrara-shimmer",
+    "library_colour": "Carrara Shimmer",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qscash/carrara-shimmer-bqs/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20mm only (price book notes 'New colour in the May 2026 pricelist, 20mm only')"
+    ],
+    "notes": "RESOLVED (was one of the 3 previously-missing colours). Confirmed present in Brachot's sitemap as a live material page - matches the price book's 'new colour' note."
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--caverno-beige",
+    "library_colour": "Caverno Beige",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qscabe/caverno-beige-bqs/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished/Velluto"
+    ],
+    "notes": "RESOLVED (was one of the 3 previously-missing colours). Price book also notes this is 'New colour in the May 2026 pricelist'."
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--crema-fiore",
+    "library_colour": "Crema Fiore",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qscrfi/crema-fiore-bqs/",
+    "image_kinds_seen": [
+      "slab",
+      "room (brachot.com/en/references/601073/kitchen-worktop-and-splashback-in-bqs-crema-fiore/)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": ""
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--elegant-grey",
+    "library_colour": "Elegant Grey",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qselgr/elegant-grey-bqs/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": ""
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--glacier",
+    "library_colour": "Glacier",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qsglac/glacier-bqs/",
+    "image_kinds_seen": [
+      "slab",
+      "room (brachot.com/en/references/607092/kitchen-worktop-in-bqs-glacier/)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": "Also appears in one of the initial WebSearch hits with a detailed description ('irregular, subtle darker veins')."
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--gracious",
+    "library_colour": "Gracious",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qsgrac/gracious-bqs/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": ""
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--grey-mirrorlux",
+    "library_colour": "Grey Mirrorlux",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qsgrlx/grey-mirrorlux-bqs/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": "Sold as 'BQS Grey Mirrorlux Sparkle Quartz' on reseller purplegranite.co.uk - same product, marketing suffix 'Sparkle' added by reseller."
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--grey-shimmer",
+    "library_colour": "Grey Shimmer",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qsgrsh/grey-shimmer-bqs/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": ""
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--lumen-ice",
+    "library_colour": "Lumen Ice",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qsluic/lumen-ice-bqs/",
+    "image_kinds_seen": [
+      "slab",
+      "animation (translucent/backlit GIF on brachot-academy/bqs/)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": "A distinct 'Lumen Ice Extra BQS' (qsluice) also exists as a separate SKU on brachot.com - not in our price book/library, do not conflate. Brachot markets Lumen Ice as a translucent/backlit quartz."
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--midas-gold",
+    "library_colour": "Midas Gold",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qsucal/midas-gold-bqs/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": "Internal Brachot code 'QSUCAL' doesn't obviously map to the name 'Midas Gold' (likely an old/alternate internal name carried over) - just a naming quirk, URL and product confirmed correct via sitemap + Google-indexed slug."
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--neo-calacatta",
+    "library_colour": "Neo Calacatta",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qsneca/neo-calcatta-bqs/",
+    "image_kinds_seen": [
+      "slab",
+      "room (brachot.com/en/references/396/kitchen-worktop-in-bqs-neo-calcatta/)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": "Brachot's own URL/title spells it 'Neo Calcatta' (missing the second 'a') - a typo on their side; price book and library use the correct 'Neo Calacatta'. Same product, token-subset match."
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--opus-white",
+    "library_colour": "Opus White",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qsopwh/opus-white-bqs/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": ""
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--pearl-white",
+    "library_colour": "Pearl White",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qspewh/pearl-white-bqs/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": ""
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--permafrost",
+    "library_colour": "Permafrost",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qspefr/permafrost-bqs/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": ""
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--pietra-modena",
+    "library_colour": "Pietra Modena",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qspimo/pietra-modena-bqs/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": ""
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--rapture",
+    "library_colour": "Rapture",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qsrapt/rapture-bqs/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": ""
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--roma",
+    "library_colour": "Roma",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qsroma/roma-bqs/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": ""
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--siberia",
+    "library_colour": "Siberia",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qssibe/siberia-bqs/",
+    "image_kinds_seen": [
+      "slab",
+      "room (brachot.com/en/references/512031/kitchen-worktop-and-splashback-in-bqs-siberia/)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": ""
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--statuario-gold",
+    "library_colour": "Statuario Gold",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qsstgo/statuario-gold-bqs/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": ""
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--statuario-grey",
+    "library_colour": "Statuario Grey",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qsstgr/statuario-grey-bqs/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": ""
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--super-white-plus",
+    "library_colour": "Super White Plus",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qsswhp/super-white-plus-bqs/",
+    "image_kinds_seen": [
+      "slab",
+      "room (brachot.com/en/references/397/kitchen-worktop-in-bqs-super-white-plus/)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": "A distinct plain 'Super White BQS' (qsswhi) also exists as a separate SKU on brachot.com - not in our price book/library, do not conflate with Super White Plus."
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--taj-mahal",
+    "library_colour": "Taj Mahal",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qstajm/taj-mahal-bqs/",
+    "image_kinds_seen": [
+      "slab",
+      "room (brachot.com/en/references/606231/ and /607091/, two separate installation shots)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": "Best-photographed BQS colour found (2 room shots). Also the first colour named on Brachot's BQS academy page ('marble-effect design with delicate veining')."
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--vintessa-cream",
+    "library_colour": "Vintessa Cream",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qsvicr/vintessa-cream-bqs/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": "RESOLVED (was one of the 3 previously-missing colours)."
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--white-almond",
+    "library_colour": "White Almond",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qswhal/white-almond-bqs/",
+    "image_kinds_seen": [
+      "slab",
+      "room (brachot.com/en/references/398/kitchen-worktop-in-bqs-white-almond/)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": ""
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--white-mirrorlux",
+    "library_colour": "White Mirrorlux",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qswhlx/white-mirrorlux-bqs/",
+    "image_kinds_seen": [
+      "slab",
+      "room (customer reseller ivettandreed.co.uk has extra installation photos if brachot.com's own is thin)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": "Highest-profile Mirrorlux colour - has its own reseller case-study page (ivettandreed.co.uk) in addition to the brachot.com material page."
+  },
+  {
+    "supplier": "BQS",
+    "library_id": "bqs--white-shimmer",
+    "library_colour": "White Shimmer",
+    "material": "Quartz",
+    "product_url": "https://www.brachot.com/en/materials/qswhsh/white-shimmer-bqs/",
+    "image_kinds_seen": [
+      "slab"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600, 20/30mm, Polished"
+    ],
+    "notes": ""
+  }
+]
