@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-24T20:41:10Z",
+ "generated": "2026-08-24T20:58:03Z",
  "slabs": [
   {
    "id": "akg-surfaces--adira-bronze",
@@ -3649,7 +3649,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qsarct/arctic-bqs/",
    "image": {
     "file": "bqs--arctic.webp",
     "status": "slab",
@@ -3657,7 +3657,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished",
+   "images": [
+    {
+     "file": "bqs--arctic.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--arctic--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qsarct/arctic-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--aurora-dune",
@@ -3670,7 +3688,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qsaudu/aurora-dune-bqs/",
    "image": {
     "file": "bqs--aurora-dune.webp",
     "status": "slab",
@@ -3678,7 +3696,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished, Velluto",
+   "images": [
+    {
+     "file": "bqs--aurora-dune.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--aurora-dune--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qsaudu/aurora-dune-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--avenza",
@@ -3691,7 +3727,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qsavav/avenza-avorio-bqs/",
    "image": {
     "file": "bqs--avenza.webp",
     "status": "slab",
@@ -3699,7 +3735,8 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished"
   },
   {
    "id": "bqs--beige-mirrorlux",
@@ -3712,7 +3749,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qsbelx/beige-mirrorlux-bqs/",
    "image": {
     "file": "bqs--beige-mirrorlux.webp",
     "status": "slab",
@@ -3720,7 +3757,8 @@
     "borrowedFrom": "",
     "scale": "approx"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished"
   },
   {
    "id": "bqs--bianco-fontana",
@@ -3733,7 +3771,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qsbifo/bianco-fontana-bqs/",
    "image": {
     "file": "bqs--bianco-fontana.webp",
     "status": "slab",
@@ -3741,7 +3779,32 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished, Velluto",
+   "images": [
+    {
+     "file": "bqs--bianco-fontana.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--bianco-fontana--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qsbifo/bianco-fontana-bqs/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bqs--bianco-fontana--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qsbifo/bianco-fontana-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--bianco-massa",
@@ -3754,7 +3817,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qsbima/bianco-massa-bqs/",
    "image": {
     "file": "bqs--bianco-massa.webp",
     "status": "slab",
@@ -3762,7 +3825,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished",
+   "images": [
+    {
+     "file": "bqs--bianco-massa.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--bianco-massa--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qsbima/bianco-massa-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--bianco-venatino",
@@ -3775,7 +3856,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qsbive/bianco-venatino-bqs/",
    "image": {
     "file": "bqs--bianco-venatino.webp",
     "status": "slab",
@@ -3783,7 +3864,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished",
+   "images": [
+    {
+     "file": "bqs--bianco-venatino.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--bianco-venatino--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qsbive/bianco-venatino-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--black-mirrorlux",
@@ -3796,7 +3895,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qsbllx/black-mirrorlux-bqs/",
    "image": {
     "file": "bqs--black-mirrorlux.webp",
     "status": "slab",
@@ -3804,7 +3903,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished",
+   "images": [
+    {
+     "file": "bqs--black-mirrorlux.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--black-mirrorlux--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qsbllx/black-mirrorlux-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--blanco-mist",
@@ -3817,7 +3934,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qsuwcc/blanco-mist-bqs/",
    "image": {
     "file": "bqs--blanco-mist.webp",
     "status": "slab",
@@ -3825,7 +3942,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished",
+   "images": [
+    {
+     "file": "bqs--blanco-mist.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--blanco-mist--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qsuwcc/blanco-mist-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--borealis-green",
@@ -3838,7 +3973,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qsbogr/borealis-green-bqs/",
    "image": {
     "file": "bqs--borealis-green.webp",
     "status": "slab",
@@ -3846,7 +3981,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished, Velluto",
+   "images": [
+    {
+     "file": "bqs--borealis-green.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--borealis-green--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qsbogr/borealis-green-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--calacatta-aurora",
@@ -3859,7 +4012,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qscaau/calacatta-aurora-bqs/",
    "image": {
     "file": "bqs--calacatta-aurora.webp",
     "status": "slab",
@@ -3867,7 +4020,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished",
+   "images": [
+    {
+     "file": "bqs--calacatta-aurora.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--calacatta-aurora--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qscaau/calacatta-aurora-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--calacatta-forte",
@@ -3880,7 +4051,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qscafo/calacatta-forte-bqs/",
    "image": {
     "file": "bqs--calacatta-forte.webp",
     "status": "slab",
@@ -3888,7 +4059,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished",
+   "images": [
+    {
+     "file": "bqs--calacatta-forte.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--calacatta-forte--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qscafo/calacatta-forte-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--calacatta-viola",
@@ -3901,7 +4090,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qscavv/calacatta-viola-bqs/",
    "image": {
     "file": "bqs--calacatta-viola.webp",
     "status": "slab",
@@ -3909,7 +4098,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished",
+   "images": [
+    {
+     "file": "bqs--calacatta-viola.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--calacatta-viola--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qscavv/calacatta-viola-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--canaletto",
@@ -3922,7 +4129,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qscanal/canaletto-bqs/",
    "image": {
     "file": "bqs--canaletto.webp",
     "status": "slab",
@@ -3930,7 +4137,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished",
+   "images": [
+    {
+     "file": "bqs--canaletto.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--canaletto--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qscanal/canaletto-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--capri",
@@ -3943,7 +4168,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qscapr/capri-bqs/",
    "image": {
     "file": "bqs--capri.webp",
     "status": "slab",
@@ -3951,7 +4176,32 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished, Velluto",
+   "images": [
+    {
+     "file": "bqs--capri.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--capri--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qscapr/capri-bqs/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bqs--capri--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qscapr/capri-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--carrara-extra",
@@ -3964,7 +4214,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qscaex/carrara-extra-bqs/",
    "image": {
     "file": "bqs--carrara-extra.webp",
     "status": "slab",
@@ -3972,7 +4222,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished, Velluto",
+   "images": [
+    {
+     "file": "bqs--carrara-extra.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--carrara-extra--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qscaex/carrara-extra-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--carrara-minari",
@@ -3985,7 +4253,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qscami/carrara-minari-bqs/",
    "image": {
     "file": "bqs--carrara-minari.webp",
     "status": "slab",
@@ -3993,7 +4261,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished",
+   "images": [
+    {
+     "file": "bqs--carrara-minari.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--carrara-minari--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qscami/carrara-minari-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--carrara-shimmer",
@@ -4005,14 +4291,31 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qscash/carrara-shimmer-bqs/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "bqs--carrara-shimmer.webp",
+    "status": "slab",
+    "source": "https://www.brachot.com/en/materials/qscash/carrara-shimmer-bqs/",
     "borrowedFrom": ""
    },
-   "slabSizes": "20mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600",
+   "details": "BQS · Polished",
+   "images": [
+    {
+     "file": "bqs--carrara-shimmer.webp",
+     "status": "slab",
+     "source": "https://www.brachot.com/en/materials/qscash/carrara-shimmer-bqs/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--carrara-shimmer--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qscash/carrara-shimmer-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--caverno-beige",
@@ -4025,14 +4328,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qscabe/caverno-beige-bqs/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "bqs--caverno-beige.webp",
+    "status": "slab",
+    "source": "https://www.brachot.com/en/materials/qscabe/caverno-beige-bqs/",
     "borrowedFrom": ""
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished, Velluto",
+   "images": [
+    {
+     "file": "bqs--caverno-beige.webp",
+     "status": "slab",
+     "source": "https://www.brachot.com/en/materials/qscabe/caverno-beige-bqs/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--caverno-beige--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qscabe/caverno-beige-bqs/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bqs--caverno-beige--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qscabe/caverno-beige-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--crema-fiore",
@@ -4045,7 +4372,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qscrfi/crema-fiore-bqs/",
    "image": {
     "file": "bqs--crema-fiore.webp",
     "status": "slab",
@@ -4053,7 +4380,32 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished, Velluto",
+   "images": [
+    {
+     "file": "bqs--crema-fiore.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--crema-fiore--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qscrfi/crema-fiore-bqs/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bqs--crema-fiore--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qscrfi/crema-fiore-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--elegant-grey",
@@ -4066,7 +4418,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qselgr/elegant-grey-bqs/",
    "image": {
     "file": "bqs--elegant-grey.webp",
     "status": "slab",
@@ -4074,7 +4426,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished",
+   "images": [
+    {
+     "file": "bqs--elegant-grey.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--elegant-grey--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qselgr/elegant-grey-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--glacier",
@@ -4087,7 +4457,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qsglac/glacier-bqs/",
    "image": {
     "file": "bqs--glacier.webp",
     "status": "slab",
@@ -4095,7 +4465,39 @@
     "borrowedFrom": "",
     "scale": "approx"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished, Velluto",
+   "images": [
+    {
+     "file": "bqs--glacier.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--glacier--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qsglac/glacier-bqs/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bqs--glacier--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.brachot.com/en/materials/qsglac/glacier-bqs/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bqs--glacier--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.brachot.com/en/materials/qsglac/glacier-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--gracious",
@@ -4108,7 +4510,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qsgrac/gracious-bqs/",
    "image": {
     "file": "bqs--gracious.webp",
     "status": "slab",
@@ -4116,7 +4518,8 @@
     "borrowedFrom": "",
     "scale": "approx"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished"
   },
   {
    "id": "bqs--grey-mirrorlux",
@@ -4129,7 +4532,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qsgrlx/grey-mirrorlux-bqs/",
    "image": {
     "file": "bqs--grey-mirrorlux.webp",
     "status": "slab",
@@ -4137,7 +4540,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished",
+   "images": [
+    {
+     "file": "bqs--grey-mirrorlux.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--grey-mirrorlux--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qsgrlx/grey-mirrorlux-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--grey-shimmer",
@@ -4150,7 +4571,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qsgrsh/grey-shimmer-bqs/",
    "image": {
     "file": "bqs--grey-shimmer.webp",
     "status": "slab",
@@ -4158,7 +4579,8 @@
     "borrowedFrom": "",
     "scale": "approx"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished"
   },
   {
    "id": "bqs--lumen-ice",
@@ -4171,7 +4593,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qsluic/lumen-ice-bqs/",
    "image": {
     "file": "bqs--lumen-ice.webp",
     "status": "slab",
@@ -4179,7 +4601,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished, Velluto",
+   "images": [
+    {
+     "file": "bqs--lumen-ice.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--lumen-ice--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qsluic/lumen-ice-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--midas-gold",
@@ -4192,7 +4632,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qsucal/midas-gold-bqs/",
    "image": {
     "file": "bqs--midas-gold.webp",
     "status": "slab",
@@ -4200,7 +4640,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished",
+   "images": [
+    {
+     "file": "bqs--midas-gold.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--midas-gold--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qsucal/midas-gold-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--neo-calacatta",
@@ -4213,7 +4671,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qsneca/neo-calcatta-bqs/",
    "image": {
     "file": "bqs--neo-calacatta.webp",
     "status": "slab",
@@ -4221,7 +4679,25 @@
     "borrowedFrom": "",
     "scale": "approx"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished",
+   "images": [
+    {
+     "file": "bqs--neo-calacatta.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--neo-calacatta--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qsneca/neo-calcatta-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--opus-white",
@@ -4234,7 +4710,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qsopwh/opus-white-bqs/",
    "image": {
     "file": "bqs--opus-white.webp",
     "status": "slab",
@@ -4242,7 +4718,25 @@
     "borrowedFrom": "",
     "scale": "approx"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished, Velluto",
+   "images": [
+    {
+     "file": "bqs--opus-white.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--opus-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qsopwh/opus-white-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--pearl-white",
@@ -4255,7 +4749,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qspewh/pearl-white-bqs/",
    "image": {
     "file": "bqs--pearl-white.webp",
     "status": "slab",
@@ -4263,7 +4757,25 @@
     "borrowedFrom": "",
     "scale": "approx"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished",
+   "images": [
+    {
+     "file": "bqs--pearl-white.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--pearl-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qspewh/pearl-white-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--permafrost",
@@ -4276,7 +4788,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qspefr/permafrost-bqs/",
    "image": {
     "file": "bqs--permafrost.webp",
     "status": "slab",
@@ -4284,7 +4796,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished, Velluto",
+   "images": [
+    {
+     "file": "bqs--permafrost.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--permafrost--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qspefr/permafrost-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--pietra-modena",
@@ -4297,7 +4827,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qspimo/pietra-modena-bqs/",
    "image": {
     "file": "bqs--pietra-modena.webp",
     "status": "slab",
@@ -4305,7 +4835,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished",
+   "images": [
+    {
+     "file": "bqs--pietra-modena.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--pietra-modena--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qspimo/pietra-modena-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--rapture",
@@ -4318,7 +4866,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qsrapt/rapture-bqs/",
    "image": {
     "file": "bqs--rapture.webp",
     "status": "slab",
@@ -4326,7 +4874,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished",
+   "images": [
+    {
+     "file": "bqs--rapture.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--rapture--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qsrapt/rapture-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--roma",
@@ -4339,7 +4905,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qsroma/roma-bqs/",
    "image": {
     "file": "bqs--roma.webp",
     "status": "slab",
@@ -4347,7 +4913,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished",
+   "images": [
+    {
+     "file": "bqs--roma.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--roma--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qsroma/roma-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--siberia",
@@ -4360,7 +4944,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qssibe/siberia-bqs/",
    "image": {
     "file": "bqs--siberia.webp",
     "status": "slab",
@@ -4368,7 +4952,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished",
+   "images": [
+    {
+     "file": "bqs--siberia.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--siberia--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qssibe/siberia-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--statuario-gold",
@@ -4381,7 +4983,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qsstgo/statuario-gold-bqs/",
    "image": {
     "file": "bqs--statuario-gold.webp",
     "status": "slab",
@@ -4389,7 +4991,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished",
+   "images": [
+    {
+     "file": "bqs--statuario-gold.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--statuario-gold--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qsstgo/statuario-gold-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--statuario-grey",
@@ -4402,7 +5022,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qsstgr/statuario-grey-bqs/",
    "image": {
     "file": "bqs--statuario-grey.webp",
     "status": "slab",
@@ -4410,7 +5030,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished",
+   "images": [
+    {
+     "file": "bqs--statuario-grey.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--statuario-grey--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qsstgr/statuario-grey-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--super-white-plus",
@@ -4423,7 +5061,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qsswhp/super-white-plus-bqs/",
    "image": {
     "file": "bqs--super-white-plus.webp",
     "status": "slab",
@@ -4431,7 +5069,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished, Velluto",
+   "images": [
+    {
+     "file": "bqs--super-white-plus.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--super-white-plus--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qsswhp/super-white-plus-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--taj-mahal",
@@ -4444,7 +5100,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qstajm/taj-mahal-bqs/",
    "image": {
     "file": "bqs--taj-mahal.webp",
     "status": "slab",
@@ -4452,7 +5108,32 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished, Velluto",
+   "images": [
+    {
+     "file": "bqs--taj-mahal.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--taj-mahal--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qstajm/taj-mahal-bqs/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bqs--taj-mahal--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.brachot.com/en/materials/qstajm/taj-mahal-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--vintessa-cream",
@@ -4465,14 +5146,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qsvicr/vintessa-cream-bqs/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "bqs--vintessa-cream.webp",
+    "status": "slab",
+    "source": "https://www.brachot.com/en/materials/qsvicr/vintessa-cream-bqs/",
     "borrowedFrom": ""
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished, Velluto",
+   "images": [
+    {
+     "file": "bqs--vintessa-cream.webp",
+     "status": "slab",
+     "source": "https://www.brachot.com/en/materials/qsvicr/vintessa-cream-bqs/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--vintessa-cream--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qsvicr/vintessa-cream-bqs/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bqs--vintessa-cream--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qsvicr/vintessa-cream-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--white-almond",
@@ -4485,7 +5190,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qswhal/white-almond-bqs/",
    "image": {
     "file": "bqs--white-almond.webp",
     "status": "slab",
@@ -4493,7 +5198,8 @@
     "borrowedFrom": "",
     "scale": "approx"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished"
   },
   {
    "id": "bqs--white-mirrorlux",
@@ -4506,7 +5212,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qswhlx/white-mirrorlux-bqs/",
    "image": {
     "file": "bqs--white-mirrorlux.webp",
     "status": "slab",
@@ -4514,7 +5220,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished",
+   "images": [
+    {
+     "file": "bqs--white-mirrorlux.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--white-mirrorlux--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qswhlx/white-mirrorlux-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bqs--white-shimmer",
@@ -4527,7 +5251,7 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/qswhsh/white-shimmer-bqs/",
    "image": {
     "file": "bqs--white-shimmer.webp",
     "status": "slab",
@@ -4535,7 +5259,25 @@
     "borrowedFrom": "",
     "scale": "true"
    },
-   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "BQS · Polished",
+   "images": [
+    {
+     "file": "bqs--white-shimmer.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "bqs--white-shimmer--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/qswhsh/white-shimmer-bqs/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--absolute-black",
@@ -9193,13 +9935,38 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxarc/arabescato-calacatta-uniceramica/",
    "image": {
     "file": "brachot--arabescato-calacatta.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3240x1620 / 12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Naturale",
+   "images": [
+    {
+     "file": "brachot--arabescato-calacatta.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "brachot--arabescato-calacatta--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/ksxarc/arabescato-calacatta-uniceramica/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "brachot--arabescato-calacatta--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/ksxarc/arabescato-calacatta-uniceramica/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "brachot--arabescato-orobico",
@@ -9212,13 +9979,15 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxaro/arabescato-orobico-uniceramica/",
    "image": {
     "file": "brachot--arabescato-orobico.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Naturale"
   },
   {
    "id": "brachot--arabescato-vagli",
@@ -9232,13 +10001,31 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxara/arabescato-vagli-uniceramica/",
    "image": {
     "file": "brachot--arabescato-vagli.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3240x1620 / 12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Naturale",
+   "images": [
+    {
+     "file": "brachot--arabescato-vagli.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "brachot--arabescato-vagli--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.brachot.com/en/materials/ksxara/arabescato-vagli-uniceramica/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "brachot--ardesia",
@@ -9271,13 +10058,31 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxart/ardesia-autumn-uniceramica/",
    "image": {
     "file": "brachot--ardesia-autumn.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Strutturata",
+   "images": [
+    {
+     "file": "brachot--ardesia-autumn.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "brachot--ardesia-autumn--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/ksxart/ardesia-autumn-uniceramica/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "brachot--ardesia-beige",
@@ -9290,13 +10095,15 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxarb/ardesia-beige-uniceramica/",
    "image": {
     "file": "brachot--ardesia-beige.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Strutturata"
   },
   {
    "id": "brachot--azul-aran",
@@ -9367,13 +10174,38 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxbag/basalto-grigio-uniceramica/",
    "image": {
     "file": "brachot--basalto-grigio.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Bocciardata",
+   "images": [
+    {
+     "file": "brachot--basalto-grigio.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "brachot--basalto-grigio--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/ksxbag/basalto-grigio-uniceramica/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "brachot--basalto-grigio--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/ksxbag/basalto-grigio-uniceramica/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "brachot--basalto-nero",
@@ -9386,13 +10218,38 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxban/basalto-nero-uniceramica/",
    "image": {
     "file": "brachot--basalto-nero.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Bocciardata",
+   "images": [
+    {
+     "file": "brachot--basalto-nero.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "brachot--basalto-nero--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.brachot.com/en/materials/ksxban/basalto-nero-uniceramica/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "brachot--basalto-nero--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.brachot.com/en/materials/ksxban/basalto-nero-uniceramica/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "brachot--beige",
@@ -9484,13 +10341,15 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxwhi/bianco-assoluto-uniceramica/",
    "image": {
     "file": "brachot--bianco-assoluto.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3240x1620 / 12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Naturale"
   },
   {
    "id": "brachot--bianco-carrara",
@@ -9840,13 +10699,15 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxbrb/breccia-aurora-uniceramica/",
    "image": {
     "file": "brachot--breccia-aurora.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Naturale"
   },
   {
    "id": "brachot--breccia-imperiale",
@@ -9899,13 +10760,15 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxbrt/breccia-taupe-uniceramica/",
    "image": {
     "file": "brachot--breccia-taupe.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Naturale"
   },
   {
    "id": "brachot--calacatta-oro",
@@ -9919,13 +10782,31 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxcao/calacatta-oro-uniceramica/",
    "image": {
     "file": "brachot--calacatta-oro.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3240x1620 / 12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Naturale",
+   "images": [
+    {
+     "file": "brachot--calacatta-oro.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "brachot--calacatta-oro--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.brachot.com/en/materials/ksxcao/calacatta-oro-uniceramica/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "brachot--calacatta-royal",
@@ -9938,13 +10819,31 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxcr/calacatta-royal-uniceramica/",
    "image": {
     "file": "brachot--calacatta-royal.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Naturale",
+   "images": [
+    {
+     "file": "brachot--calacatta-royal.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "brachot--calacatta-royal--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.brachot.com/en/materials/ksxcr/calacatta-royal-uniceramica/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "brachot--calacatta-viola",
@@ -9957,13 +10856,52 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxcav/calacatta-viola-uniceramica/",
    "image": {
     "file": "brachot--calacatta-viola.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Naturale",
+   "images": [
+    {
+     "file": "brachot--calacatta-viola.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "brachot--calacatta-viola--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/ksxcav/calacatta-viola-uniceramica/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "brachot--calacatta-viola--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/ksxcav/calacatta-viola-uniceramica/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "brachot--calacatta-viola--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/ksxcav/calacatta-viola-uniceramica/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "brachot--calacatta-viola--closeup4.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/ksxcav/calacatta-viola-uniceramica/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "brachot--caliza-avorio",
@@ -9976,13 +10914,31 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxavo/caliza-avorio-uniceramica/",
    "image": {
     "file": "brachot--caliza-avorio.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Strutturata",
+   "images": [
+    {
+     "file": "brachot--caliza-avorio.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "brachot--caliza-avorio--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.brachot.com/en/materials/ksxavo/caliza-avorio-uniceramica/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "brachot--caliza-crema",
@@ -9995,13 +10951,15 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxcacr/caliza-crema-uniceramica/",
    "image": {
     "file": "brachot--caliza-crema.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Strutturata"
   },
   {
    "id": "brachot--capraia",
@@ -10015,13 +10973,15 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxcal/capraia-uniceramica/",
    "image": {
     "file": "brachot--capraia.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3240x1620 / 12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Naturale"
   },
   {
    "id": "brachot--casablanca",
@@ -10331,13 +11291,15 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxcrq/crystallo-uniceramica/",
    "image": {
     "file": "brachot--crystallo.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Naturale"
   },
   {
    "id": "brachot--dark-moon",
@@ -10683,13 +11645,45 @@
    "thicknesses": [
     12
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxjag/jade-green-uniceramica/",
    "image": {
     "file": "brachot--jade-green.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620",
+   "details": "Uniceramica · Lucidato, Naturale",
+   "images": [
+    {
+     "file": "brachot--jade-green.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "brachot--jade-green--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/ksxjag/jade-green-uniceramica/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "brachot--jade-green--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/ksxjag/jade-green-uniceramica/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "brachot--jade-green--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/ksxjag/jade-green-uniceramica/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "brachot--jet-black",
@@ -10743,13 +11737,38 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxjube/jura-beige-uniceramica/",
    "image": {
     "file": "brachot--jura-beige.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Strutturata",
+   "images": [
+    {
+     "file": "brachot--jura-beige.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "brachot--jura-beige--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/ksxjube/jura-beige-uniceramica/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "brachot--jura-beige--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.brachot.com/en/materials/ksxjube/jura-beige-uniceramica/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "brachot--jura-gelb",
@@ -10842,13 +11861,15 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxlid/lincoln-dorato-uniceramica/",
    "image": {
     "file": "brachot--lincoln-dorato.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Naturale"
   },
   {
    "id": "brachot--magnific-white",
@@ -10881,13 +11902,38 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxman/marmo-antico-uniceramica/",
    "image": {
     "file": "brachot--marmo-antico.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Naturale",
+   "images": [
+    {
+     "file": "brachot--marmo-antico.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "brachot--marmo-antico--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/ksxman/marmo-antico-uniceramica/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "brachot--marmo-antico--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.brachot.com/en/materials/ksxman/marmo-antico-uniceramica/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "brachot--massangis-beige-clair",
@@ -11120,13 +12166,38 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxzim/nero-assoluto-uniceramica/",
    "image": {
     "file": "brachot--nero-assoluto.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Bocciardata, Naturale",
+   "images": [
+    {
+     "file": "brachot--nero-assoluto.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "brachot--nero-assoluto--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/ksxzim/nero-assoluto-uniceramica/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "brachot--nero-assoluto--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.brachot.com/en/materials/ksxzim/nero-assoluto-uniceramica/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "brachot--nero-marquina",
@@ -11178,13 +12249,31 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxof/oro-fantastico-uniceramica/",
    "image": {
     "file": "brachot--oro-fantastico.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Naturale",
+   "images": [
+    {
+     "file": "brachot--oro-fantastico.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "brachot--oro-fantastico--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/ksxof/oro-fantastico-uniceramica/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "brachot--palomino",
@@ -11237,13 +12326,15 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxpst/patagonia-uniceramica/",
    "image": {
     "file": "brachot--patagonia.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Naturale"
   },
   {
    "id": "brachot--pepperino-dark",
@@ -11276,13 +12367,15 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxpea/perla-avorio-uniceramica/",
    "image": {
     "file": "brachot--perla-avorio.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Strutturata"
   },
   {
    "id": "brachot--pietra-damari",
@@ -11335,13 +12428,31 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxpor/portoro-uniceramica/",
    "image": {
     "file": "brachot--portoro.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Naturale",
+   "images": [
+    {
+     "file": "brachot--portoro.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "brachot--portoro--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.brachot.com/en/materials/ksxpor/portoro-uniceramica/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "brachot--prada-gold",
@@ -11513,13 +12624,31 @@
    "thicknesses": [
     12
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxsag/sahara-grey-uniceramica/",
    "image": {
     "file": "brachot--sahara-grey.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620",
+   "details": "Uniceramica · Naturale",
+   "images": [
+    {
+     "file": "brachot--sahara-grey.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "brachot--sahara-grey--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/ksxsag/sahara-grey-uniceramica/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "brachot--sahara-noir",
@@ -11773,13 +12902,15 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxsta/statuario-uniceramica/",
    "image": {
     "file": "brachot--statuario.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Lucidato, Naturale"
   },
   {
    "id": "brachot--statuario-extra",
@@ -11792,13 +12923,15 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxste/statuario-extra-uniceramica/",
    "image": {
     "file": "brachot--statuario-extra.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Naturale"
   },
   {
    "id": "brachot--steel-grey",
@@ -11832,13 +12965,38 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxtma/taj-mahal-uniceramica/",
    "image": {
     "file": "brachot--taj-mahal.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3240x1620 / 12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Naturale",
+   "images": [
+    {
+     "file": "brachot--taj-mahal.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "brachot--taj-mahal--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.brachot.com/en/materials/ksxtma/taj-mahal-uniceramica/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "brachot--taj-mahal--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.brachot.com/en/materials/ksxtma/taj-mahal-uniceramica/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "brachot--talila-grey",
@@ -11990,13 +13148,15 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxtt/travertino-argento-uniceramica/",
    "image": {
     "file": "brachot--travertino-argento.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Strutturata"
   },
   {
    "id": "brachot--travertino-bianco",
@@ -12009,13 +13169,45 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxtb/travertino-bianco-uniceramica/",
    "image": {
     "file": "brachot--travertino-bianco.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Strutturata",
+   "images": [
+    {
+     "file": "brachot--travertino-bianco.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "brachot--travertino-bianco--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/ksxtb/travertino-bianco-uniceramica/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "brachot--travertino-bianco--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.brachot.com/en/materials/ksxtb/travertino-bianco-uniceramica/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "brachot--travertino-bianco--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.brachot.com/en/materials/ksxtb/travertino-bianco-uniceramica/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "brachot--travertino-classico",
@@ -12028,13 +13220,38 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxtc/travertino-classico-uniceramica/",
    "image": {
     "file": "brachot--travertino-classico.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Strutturata",
+   "images": [
+    {
+     "file": "brachot--travertino-classico.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "brachot--travertino-classico--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/ksxtc/travertino-classico-uniceramica/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "brachot--travertino-classico--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/ksxtc/travertino-classico-uniceramica/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "brachot--travertino-light",
@@ -12048,13 +13265,52 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxtl/travertino-light-uniceramica/",
    "image": {
     "file": "brachot--travertino-light.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3240x1620 / 12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Naturale",
+   "images": [
+    {
+     "file": "brachot--travertino-light.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "brachot--travertino-light--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/ksxtl/travertino-light-uniceramica/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "brachot--travertino-light--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/ksxtl/travertino-light-uniceramica/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "brachot--travertino-light--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/ksxtl/travertino-light-uniceramica/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "brachot--travertino-light--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.brachot.com/en/materials/ksxtl/travertino-light-uniceramica/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "brachot--travertino-navona",
@@ -12067,13 +13323,38 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/ksxtna/travertino-navona-uniceramica/",
    "image": {
     "file": "brachot--travertino-navona.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "Uniceramica · Naturale",
+   "images": [
+    {
+     "file": "brachot--travertino-navona.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "brachot--travertino-navona--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/ksxtna/travertino-navona-uniceramica/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "brachot--travertino-navona--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/ksxtna/travertino-navona-uniceramica/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "brachot--travertino-romano-classico-super",
@@ -40903,13 +42184,31 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/?s=Aqua+Gold",
+   "productUrl": "https://www.picassostones.com/aqua-gold-backlit",
    "image": {
     "file": "picasso-surfaces--aqua-gold.webp",
     "status": "slab",
     "source": "picassostones.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Picasso · Designer Series · Polished",
+   "images": [
+    {
+     "file": "picasso-surfaces--aqua-gold.webp",
+     "status": "slab",
+     "source": "picassostones.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--aqua-gold--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.picassostones.com/aqua-gold-backlit",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--arabescato-corchia",
@@ -40922,13 +42221,31 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/?s=Arabescato+Corchia",
+   "productUrl": "https://www.picassostones.com/arabescato-corchia",
    "image": {
     "file": "picasso-surfaces--arabescato-corchia.webp",
     "status": "slab",
     "source": "picassostones.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Picasso · Designer Series · Matte, Polished",
+   "images": [
+    {
+     "file": "picasso-surfaces--arabescato-corchia.webp",
+     "status": "slab",
+     "source": "picassostones.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--arabescato-corchia--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.picassostones.com/arabescato-corchia",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--arabescato-creme",
@@ -40960,13 +42277,45 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/?s=Arctic+Storm",
+   "productUrl": "https://www.picassostones.com/arctic-storm-4",
    "image": {
     "file": "picasso-surfaces--arctic-storm.webp",
     "status": "slab",
     "source": "picassostones.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Picasso · Designer Series · Polished",
+   "images": [
+    {
+     "file": "picasso-surfaces--arctic-storm.webp",
+     "status": "slab",
+     "source": "picassostones.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--arctic-storm--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.picassostones.com/arctic-storm-4",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--arctic-storm--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.picassostones.com/arctic-storm-4",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--arctic-storm--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.picassostones.com/arctic-storm-4",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--aspen",
@@ -40979,13 +42328,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/?s=Aspen",
+   "productUrl": "https://www.picassostones.com/aspen",
    "image": {
     "file": "picasso-surfaces--aspen.webp",
     "status": "slab",
     "source": "picassostones.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Picasso · Marble Series · Polished"
   },
   {
    "id": "picasso-surfaces--aspen-gold",
@@ -41017,13 +42368,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/?s=Black+Mirror",
+   "productUrl": "https://www.picassostones.com/mirror-series/black-mirror-2",
    "image": {
     "file": "picasso-surfaces--black-mirror.webp",
-    "status": "closeup-only",
-    "source": "picassostones.com",
+    "status": "slab",
+    "source": "https://www.picassostones.com/mirror-series/black-mirror-2",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Picasso · Mirror Series · Polished"
   },
   {
    "id": "picasso-surfaces--calacatta-gold",
@@ -41036,13 +42389,45 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/?s=Calacatta+Gold",
+   "productUrl": "https://www.picassostones.com/calacatta-gold-5",
    "image": {
     "file": "picasso-surfaces--calacatta-gold.webp",
     "status": "slab",
     "source": "picassostones.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Picasso · Marble Series · Polished",
+   "images": [
+    {
+     "file": "picasso-surfaces--calacatta-gold.webp",
+     "status": "slab",
+     "source": "picassostones.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--calacatta-gold--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.picassostones.com/calacatta-gold-5",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--calacatta-gold--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.picassostones.com/calacatta-gold-5",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--calacatta-gold--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.picassostones.com/calacatta-gold-5",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--calacatta-oro",
@@ -41055,13 +42440,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/?s=Calacatta+Oro",
+   "productUrl": "https://www.picassostones.com/calacatta-oro",
    "image": {
     "file": "picasso-surfaces--calacatta-oro.webp",
     "status": "slab",
     "source": "picassostones.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Picasso · Marble Series · Polished"
   },
   {
    "id": "picasso-surfaces--carrara-gold",
@@ -41074,13 +42461,31 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/?s=Carrara+Gold",
+   "productUrl": "https://www.picassostones.com/carrara-gold-3",
    "image": {
     "file": "picasso-surfaces--carrara-gold.webp",
     "status": "slab",
     "source": "picassostones.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Picasso · Marble Series · Polished",
+   "images": [
+    {
+     "file": "picasso-surfaces--carrara-gold.webp",
+     "status": "slab",
+     "source": "picassostones.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--carrara-gold--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.picassostones.com/carrara-gold-3",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--carrara-ice-shimmer",
@@ -41093,13 +42498,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.picassostones.com/carrara-ice-3",
    "image": {
     "file": "picasso-surfaces--carrara-ice-shimmer.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Picasso · Marble Series · Polished"
   },
   {
    "id": "picasso-surfaces--carrara-neo",
@@ -41112,13 +42519,31 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/?s=Carrara+Neo",
+   "productUrl": "https://www.picassostones.com/carrara-neo-4",
    "image": {
     "file": "picasso-surfaces--carrara-neo.webp",
     "status": "slab",
     "source": "picassostones.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Picasso · Marble Series · Polished",
+   "images": [
+    {
+     "file": "picasso-surfaces--carrara-neo.webp",
+     "status": "slab",
+     "source": "picassostones.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--carrara-neo--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.picassostones.com/carrara-neo-4",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--carrara-white",
@@ -41131,13 +42556,31 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/?s=Carrara+White",
+   "productUrl": "https://www.picassostones.com/carrara-white-3",
    "image": {
     "file": "picasso-surfaces--carrara-white.webp",
     "status": "slab",
     "source": "picassostones.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Picasso · Marble Series · Polished",
+   "images": [
+    {
+     "file": "picasso-surfaces--carrara-white.webp",
+     "status": "slab",
+     "source": "picassostones.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--carrara-white--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.picassostones.com/carrara-white-3",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--cashmere",
@@ -41169,13 +42612,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/?s=Celestial+Gold",
+   "productUrl": "https://www.picassostones.com/celestial-gold",
    "image": {
     "file": "picasso-surfaces--celestial-gold.webp",
     "status": "slab",
     "source": "picassostones.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Picasso · Designer Series · Polished"
   },
   {
    "id": "picasso-surfaces--celestial-grey",
@@ -41188,13 +42633,31 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/?s=Celestial+Grey",
+   "productUrl": "https://www.picassostones.com/celestial-grey-7",
    "image": {
     "file": "picasso-surfaces--celestial-grey.webp",
     "status": "slab",
     "source": "picassostones.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Picasso · Designer Series · Polished",
+   "images": [
+    {
+     "file": "picasso-surfaces--celestial-grey.webp",
+     "status": "slab",
+     "source": "picassostones.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--celestial-grey--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.picassostones.com/celestial-grey-7",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--celestial-white",
@@ -41207,13 +42670,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/?s=Celestial+White",
+   "productUrl": "https://www.picassostones.com/celestial-white-4",
    "image": {
     "file": "picasso-surfaces--celestial-white.webp",
     "status": "slab",
     "source": "picassostones.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Picasso · Designer Series · Polished",
+   "images": [
+    {
+     "file": "picasso-surfaces--celestial-white.webp",
+     "status": "slab",
+     "source": "picassostones.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--celestial-white--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.picassostones.com/celestial-white-4",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--celestial-white--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.picassostones.com/celestial-white-4",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--crema-royal",
@@ -41226,13 +42714,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/?s=Crema+Royal",
+   "productUrl": "https://www.picassostones.com/crema-royal",
    "image": {
     "file": "picasso-surfaces--crema-royal.webp",
     "status": "slab",
     "source": "picassostones.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Picasso · Designer Series · Matte, Polished"
   },
   {
    "id": "picasso-surfaces--cristallo",
@@ -41302,7 +42792,7 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/?s=Golden+Thunder",
+   "productUrl": "https://www.picassostones.com/golden-thunder",
    "image": {
     "file": "picasso-surfaces--golden-thunder.webp",
     "status": "slab",
@@ -41311,7 +42801,9 @@
    },
    "aliases": [
     "Thunder Gold"
-   ]
+   ],
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Picasso · Marble Series · Polished"
   },
   {
    "id": "picasso-surfaces--golden-thunder-shimmer",
@@ -41343,13 +42835,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.picassostones.com/mirror-series/dark-grey-mirror-2",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "picasso-surfaces--grey-mirror.webp",
+    "status": "slab",
+    "source": "https://www.picassostones.com/mirror-series/dark-grey-mirror-2",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Picasso · Mirror Series · Polished"
   },
   {
    "id": "picasso-surfaces--himalyan-pink-onyx",
@@ -41400,13 +42894,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/?s=Moonlight",
+   "productUrl": "https://www.picassostones.com/moonlight",
    "image": {
     "file": "picasso-surfaces--moonlight.webp",
     "status": "slab",
     "source": "picassostones.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Picasso · Marble Series · Polished"
   },
   {
    "id": "picasso-surfaces--nacorado",
@@ -41514,13 +43010,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/?s=Snowdale",
+   "productUrl": "https://www.picassostones.com/snowdale-3",
    "image": {
     "file": "picasso-surfaces--snowdale.webp",
     "status": "slab",
     "source": "picassostones.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Picasso · Stellar Series · Polished"
   },
   {
    "id": "picasso-surfaces--solarius",
@@ -41552,13 +43050,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/?s=Sunlight",
+   "productUrl": "https://www.picassostones.com/sunlight",
    "image": {
     "file": "picasso-surfaces--sunlight.webp",
     "status": "slab",
     "source": "picassostones.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Picasso · Marble Series · Matte, Polished"
   },
   {
    "id": "picasso-surfaces--super-white",
@@ -41571,13 +43071,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/?s=Super+White",
+   "productUrl": "https://www.picassostones.com/super-white-3",
    "image": {
     "file": "picasso-surfaces--super-white.webp",
     "status": "slab",
     "source": "picassostones.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Picasso · Plain Series · Polished"
   },
   {
    "id": "picasso-surfaces--taj-honey-onyx",
@@ -41628,16 +43130,18 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.picassostones.com/golden-thunder",
    "image": {
-    "file": "picasso-surfaces--thunder-gold.webp",
+    "file": "picasso-surfaces--golden-thunder.webp",
     "status": "slab",
     "source": "picassostones.com",
     "borrowedFrom": ""
    },
    "aliases": [
     "Golden Thunder"
-   ]
+   ],
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Picasso · Marble Series · Polished"
   },
   {
    "id": "picasso-surfaces--tuscan",
@@ -41726,13 +43230,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/?s=White+Lake",
+   "productUrl": "https://www.picassostones.com/white-lake-3",
    "image": {
     "file": "picasso-surfaces--white-lake.webp",
     "status": "slab",
     "source": "picassostones.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Picasso · Marble Series · Matte, Polished",
+   "images": [
+    {
+     "file": "picasso-surfaces--white-lake.webp",
+     "status": "slab",
+     "source": "picassostones.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--white-lake--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.picassostones.com/white-lake-3",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--white-lake--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.picassostones.com/white-lake-3",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--white-mirror",
@@ -41745,13 +43274,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/?s=White+Mirror",
+   "productUrl": "https://www.picassostones.com/mirror-series/white-mirror-2",
    "image": {
     "file": "picasso-surfaces--white-mirror.webp",
     "status": "slab",
     "source": "picassostones.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Picasso · Mirror Series · Polished"
   },
   {
    "id": "quartz-hub--arabescatta-oro",
@@ -47297,13 +48828,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/csadam/adamello-unistone/",
    "image": {
     "file": "unistone--adamello.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "Unistone · Polished, Velluto",
+   "images": [
+    {
+     "file": "unistone--adamello.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "unistone--adamello--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/csadam/adamello-unistone/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "unistone--alaska-white",
@@ -47316,13 +48865,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/csalwh/alaska-white-unistone/",
    "image": {
     "file": "unistone--alaska-white.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "Unistone · Polished, Velluto",
+   "images": [
+    {
+     "file": "unistone--alaska-white.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "unistone--alaska-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/csalwh/alaska-white-unistone/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "unistone--arabescato-vagli",
@@ -47335,13 +48902,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/csarva/arabescato-vagli-unistone/",
    "image": {
     "file": "unistone--arabescato-vagli.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "Unistone · Polished, Velluto",
+   "images": [
+    {
+     "file": "unistone--arabescato-vagli.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "unistone--arabescato-vagli--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/csarva/arabescato-vagli-unistone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "unistone--arabescato-vagli--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/csarva/arabescato-vagli-unistone/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "unistone--arabescato-viola",
@@ -47355,13 +48947,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/csarvi/arabescato-viola-unistone/",
    "image": {
     "file": "unistone--arabescato-viola.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3300x1650 / 20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Unistone · Polished, Velluto",
+   "images": [
+    {
+     "file": "unistone--arabescato-viola.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "unistone--arabescato-viola--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/csarvi/arabescato-viola-unistone/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "unistone--argento",
@@ -47374,13 +48984,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/csarge/argento-unistone/",
    "image": {
     "file": "unistone--argento.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3000x1400 / 30mm: 3000x1400",
+   "details": "Unistone · Polished"
   },
   {
    "id": "unistone--bianco",
@@ -47393,13 +49005,45 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/cswhit/bianco-unistone/",
    "image": {
     "file": "unistone--bianco.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Unistone · Polished, Velluto",
+   "images": [
+    {
+     "file": "unistone--bianco.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "unistone--bianco--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/cswhit/bianco-unistone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "unistone--bianco--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.brachot.com/en/materials/cswhit/bianco-unistone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "unistone--bianco--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.brachot.com/en/materials/cswhit/bianco-unistone/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "unistone--bianco-assoluto",
@@ -47412,13 +49056,45 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/cspwhi/bianco-assoluto-unistone/",
    "image": {
     "file": "unistone--bianco-assoluto.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Unistone · Polished, Velluto",
+   "images": [
+    {
+     "file": "unistone--bianco-assoluto.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "unistone--bianco-assoluto--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/cspwhi/bianco-assoluto-unistone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "unistone--bianco-assoluto--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/cspwhi/bianco-assoluto-unistone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "unistone--bianco-assoluto--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.brachot.com/en/materials/cspwhi/bianco-assoluto-unistone/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "unistone--bianco-cristal",
@@ -47431,13 +49107,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/csbcri/bianco-cristal-unistone/",
    "image": {
     "file": "unistone--bianco-cristal.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "Unistone · Polished, Velluto"
   },
   {
    "id": "unistone--bianco-eclipse",
@@ -47450,13 +49128,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/csbecl/bianco-eclipse-unistone/",
    "image": {
     "file": "unistone--bianco-eclipse.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "Unistone · Polished"
   },
   {
    "id": "unistone--bianco-extra",
@@ -47469,13 +49149,52 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/cswhex/bianco-extra-unistone/",
    "image": {
     "file": "unistone--bianco-extra.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "Unistone · Polished, Velluto",
+   "images": [
+    {
+     "file": "unistone--bianco-extra.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "unistone--bianco-extra--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/cswhex/bianco-extra-unistone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "unistone--bianco-extra--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/cswhex/bianco-extra-unistone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "unistone--bianco-extra--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.brachot.com/en/materials/cswhex/bianco-extra-unistone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "unistone--bianco-extra--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.brachot.com/en/materials/cswhex/bianco-extra-unistone/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "unistone--bianco-extreme",
@@ -47489,13 +49208,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/csbiex/bianco-extreme-unistone/",
    "image": {
     "file": "unistone--bianco-extreme.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3300x1650 / 20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "Unistone · Polished, Velluto"
   },
   {
    "id": "unistone--black-crystal",
@@ -47508,13 +49229,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/csblcr/black-crystal-unistone/",
    "image": {
     "file": "unistone--black-crystal.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "Unistone · Polished"
   },
   {
    "id": "unistone--cararra-misterio",
@@ -47527,13 +49250,69 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/csbcam/carrara-misterio-unistone/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "unistone--cararra-misterio.webp",
+    "status": "slab",
+    "source": "https://www.brachot.com/en/materials/csbcam/carrara-misterio-unistone/",
     "borrowedFrom": ""
-   }
+   },
+   "aliases": [
+    "Carrara Misterio"
+   ],
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Unistone · Polished, Velluto",
+   "images": [
+    {
+     "file": "unistone--cararra-misterio.webp",
+     "status": "slab",
+     "source": "https://www.brachot.com/en/materials/csbcam/carrara-misterio-unistone/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "unistone--cararra-misterio--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/csbcam/carrara-misterio-unistone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "unistone--cararra-misterio--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/csbcam/carrara-misterio-unistone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "unistone--cararra-misterio--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/csbcam/carrara-misterio-unistone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "unistone--cararra-misterio--closeup4.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/csbcam/carrara-misterio-unistone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "unistone--cararra-misterio--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.brachot.com/en/materials/csbcam/carrara-misterio-unistone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "unistone--cararra-misterio--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.brachot.com/en/materials/csbcam/carrara-misterio-unistone/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "unistone--cemento",
@@ -47547,13 +49326,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/csceme/cemento-unistone/",
    "image": {
     "file": "unistone--cemento.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3300x1650 / 20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Unistone · Polished, Velluto",
+   "images": [
+    {
+     "file": "unistone--cemento.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "unistone--cemento--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/csceme/cemento-unistone/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "unistone--cendre",
@@ -47567,13 +49364,45 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/cscend/cendre-unistone/",
    "image": {
     "file": "unistone--cendre.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3300x1650 / 20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Unistone · Polished, Velluto",
+   "images": [
+    {
+     "file": "unistone--cendre.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "unistone--cendre--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/cscend/cendre-unistone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "unistone--cendre--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/cscend/cendre-unistone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "unistone--cendre--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/cscend/cendre-unistone/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "unistone--ceppo",
@@ -47586,13 +49415,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/cscepp/ceppo-unistone/",
    "image": {
     "file": "unistone--ceppo.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "Unistone · Polished, Velluto",
+   "images": [
+    {
+     "file": "unistone--ceppo.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "unistone--ceppo--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/cscepp/ceppo-unistone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "unistone--ceppo--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/cscepp/ceppo-unistone/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "unistone--cinza",
@@ -47605,13 +49459,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/cscinz/cinza-unistone/",
    "image": {
     "file": "unistone--cinza.webp",
     "status": "slab",
     "source": "cdn.pimber.ly",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "Unistone · Polished"
   },
   {
    "id": "unistone--crystallo-beige",
@@ -47624,13 +49480,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/cscrbe/crystallo-beige-unistone/",
    "image": {
     "file": "unistone--crystallo-beige.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "Unistone · Polished, Velluto",
+   "images": [
+    {
+     "file": "unistone--crystallo-beige.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "unistone--crystallo-beige--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/cscrbe/crystallo-beige-unistone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "unistone--crystallo-beige--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/cscrbe/crystallo-beige-unistone/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "unistone--grey-savoye",
@@ -47643,13 +49524,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/cssavo/grey-savoye-unistone/",
    "image": {
     "file": "unistone--grey-savoye.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "Unistone · Polished, Velluto",
+   "images": [
+    {
+     "file": "unistone--grey-savoye.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "unistone--grey-savoye--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/cssavo/grey-savoye-unistone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "unistone--grey-savoye--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/cssavo/grey-savoye-unistone/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "unistone--grigio-paloma",
@@ -47662,13 +49568,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/csgrpa/grigio-paloma-unistone/",
    "image": {
     "file": "unistone--grigio-paloma.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3000x1400 / 30mm: 3000x1400",
+   "details": "Unistone · Honed"
   },
   {
    "id": "unistone--java-black",
@@ -47681,13 +49589,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/csjabl/java-black-unistone/",
    "image": {
     "file": "unistone--java-black.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Unistone · Polished, Velluto"
   },
   {
    "id": "unistone--jura-grey",
@@ -47701,13 +49611,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/csjugr/jura-grey-unistone/",
    "image": {
     "file": "unistone--jura-grey.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3300x1650 / 20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "Unistone · Polished, Velluto",
+   "images": [
+    {
+     "file": "unistone--jura-grey.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "unistone--jura-grey--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/csjugr/jura-grey-unistone/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "unistone--misterio-gold",
@@ -47721,13 +49649,52 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/csmigo/misterio-gold-unistone/",
    "image": {
     "file": "unistone--misterio-gold.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3300x1650 / 20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Unistone · Polished, Velluto",
+   "images": [
+    {
+     "file": "unistone--misterio-gold.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "unistone--misterio-gold--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/csmigo/misterio-gold-unistone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "unistone--misterio-gold--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/csmigo/misterio-gold-unistone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "unistone--misterio-gold--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/csmigo/misterio-gold-unistone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "unistone--misterio-gold--closeup4.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/csmigo/misterio-gold-unistone/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "unistone--polaris",
@@ -47740,13 +49707,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/cspola/polaris-unistone/",
    "image": {
     "file": "unistone--polaris.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Unistone · Polished, Velluto",
+   "images": [
+    {
+     "file": "unistone--polaris.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "unistone--polaris--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/cspola/polaris-unistone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "unistone--polaris--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/cspola/polaris-unistone/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "unistone--sahara-noir",
@@ -47759,13 +49751,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/cssano/sahara-noir-unistone/",
    "image": {
     "file": "unistone--sahara-noir.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "Unistone · Polished",
+   "images": [
+    {
+     "file": "unistone--sahara-noir.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "unistone--sahara-noir--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.brachot.com/en/materials/cssano/sahara-noir-unistone/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "unistone--silver-sea",
@@ -47778,13 +49788,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/cssea/silver-sea-unistone/",
    "image": {
     "file": "unistone--silver-sea.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "Unistone · Polished"
   },
   {
    "id": "unistone--sinai-pearl",
@@ -47798,13 +49810,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/cssina/sinai-pearl-unistone/",
    "image": {
     "file": "unistone--sinai-pearl.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3300x1650 / 20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "Unistone · Honed, Polished, Velluto",
+   "images": [
+    {
+     "file": "unistone--sinai-pearl.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "unistone--sinai-pearl--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/cssina/sinai-pearl-unistone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "unistone--sinai-pearl--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/cssina/sinai-pearl-unistone/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "unistone--statuario",
@@ -47818,13 +49855,52 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/csstat/statuario-unistone/",
    "image": {
     "file": "unistone--statuario.webp",
     "status": "slab",
     "source": "cdn.pimber.ly",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3300x1650 / 20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "Unistone · Polished, Velluto",
+   "images": [
+    {
+     "file": "unistone--statuario.webp",
+     "status": "slab",
+     "source": "cdn.pimber.ly",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "unistone--statuario--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/csstat/statuario-unistone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "unistone--statuario--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/csstat/statuario-unistone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "unistone--statuario--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/csstat/statuario-unistone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "unistone--statuario--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.brachot.com/en/materials/csstat/statuario-unistone/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "unistone--taj-mahal",
@@ -47838,13 +49914,45 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/cstajm/taj-mahal-unistone/",
    "image": {
     "file": "unistone--taj-mahal.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3300x1650 / 20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Unistone · Polished, Velluto",
+   "images": [
+    {
+     "file": "unistone--taj-mahal.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "unistone--taj-mahal--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/cstajm/taj-mahal-unistone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "unistone--taj-mahal--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/cstajm/taj-mahal-unistone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "unistone--taj-mahal--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/cstajm/taj-mahal-unistone/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "unistone--valley-white",
@@ -47857,13 +49965,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/csvawh/valley-white-unistone/",
    "image": {
     "file": "unistone--valley-white.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "Unistone · Polished"
   },
   {
    "id": "unistone--vitoria-regia",
@@ -47876,13 +49986,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/csvire/vitoria-regia-unistone/",
    "image": {
     "file": "unistone--vitoria-regia.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "Unistone · Polished",
+   "images": [
+    {
+     "file": "unistone--vitoria-regia.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "unistone--vitoria-regia--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.brachot.com/en/materials/csvire/vitoria-regia-unistone/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "unistone--white-eden",
@@ -47895,13 +50023,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/csgaed/white-eden-unistone/",
    "image": {
     "file": "unistone--white-eden.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "Unistone · Polished"
   },
   {
    "id": "unistone--white-fusion",
@@ -47914,13 +50044,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.brachot.com/en/materials/csfusi/white-fusion-unistone/",
    "image": {
     "file": "unistone--white-fusion.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "Unistone · Polished"
   },
   {
    "id": "world-wide-stones--ambient-cemento",

@@ -1,0 +1,4223 @@
+[
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--arabescato-calacatta",
+   "library_colour": "Arabescato Calacatta",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxarc/arabescato-calacatta-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup(texture flat)",
+    "room(kitchen/bathroom)"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm (324x162cm, printed brand-wide spec)"
+   ],
+   "notes": "Confirmed via sitemap-en.xml. Site also has -A/-B batch-variant codes (ksxarca/ksxarcb) — same design, different quarry batch; not separate colours."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxarc/arabescato-calacatta-uniceramica/",
+  "code": "ksxarc",
+  "title": "ARABESCATO CALACATTA UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a white base colour and darker grey veins spread across the surface.",
+  "finishes": [
+   {
+    "name": "Naturale",
+    "src": "https://a.storyblok.com/f/236904/1920x954/9bd63a2b43/arabescato-calacatta_ksxarca_1920x954.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/9bd45f05/6706511b86b0154d41000026/fdd70e7b/Arabescato%20Calacatta%20Uniceramica_KSXARCA_1920x1080_naturale_chevalet.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/2cb0a93c/6708fb5286b0150d3a000010/8da90b19/Arabescato%20Calacatta%20Uniceramica_KSXARCA_1920x954_chevalet.png"
+  ],
+  "book_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/2cb0a93c/6708fb5286b0150d3a000010/8da90b19/Arabescato%20Calacatta%20Uniceramica_KSXARCA_1920x954_chevalet.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/f9c2a921/682eeda786b015289b00001a/929925a7/ArabescatoCalacatta_KSXARCB_1920x954.png"
+  ],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/babcf903/671fb4226f224b5ba7000019/09e2c7d7/IMG-20240726-WA0031.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/668c81b9/62fccf75f016cd001849ffce/f3efd983/KSXARC_micasa_wall%20%281%29.jpg.jpeg"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--arabescato-orobico",
+   "library_colour": "Arabescato Orobico",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxaro/arabescato-orobico-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup(texture flat)",
+    "room(kitchen/bathroom)"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap. -A/-B batch variants also exist (ksxaroa/ksxarob)."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxaro/arabescato-orobico-uniceramica/",
+  "code": "ksxaro",
+  "title": "ARABESCATO OROBICO UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a cream-brown colour and brown-beige veins.",
+  "finishes": [
+   {
+    "name": "Naturale",
+    "src": "https://a.storyblok.com/f/236904/1920x960/9bd746dc6f/arabescato-orobico_ksxaroa_1920x960.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe054286b0153db200003e/c0ae96d6/Orobico%20Uniceramica_KSXAROA_1920x1080_chevalet.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe04e686b0153db2000027/7d41a59e/Arabescato%20Orobico_KSXAROA_1920x960.png"
+  ],
+  "book_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe04e686b0153db2000027/7d41a59e/Arabescato%20Orobico_KSXAROA_1920x960.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe04e686b0153db2000028/d6d36534/Arabescato%20Orobico_KSXAROB_1920x960.png"
+  ],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--arabescato-vagli",
+   "library_colour": "Arabescato Vagli",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxara/arabescato-vagli-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup(texture flat)",
+    "room(kitchen/bathroom)"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap. SAME DESIGN NAME as unistone--arabescato-vagli (csarva/arabescato-vagli-unistone) but this is porcelain (a Marble-Look Uniceramica pattern) and Unistone's is quartz — different physical material/manufacturing process, both made by Brachot, both riffing on the same Arabescato Vagli marble quarry look. Not the same product; do not share images."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxara/arabescato-vagli-uniceramica/",
+  "code": "ksxara",
+  "title": "ARABESCATO VAGLI UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a white-cream base colour and darker grey veins spread across the surface.",
+  "finishes": [
+   {
+    "name": "Naturale",
+    "src": "https://a.storyblok.com/f/236904/1920x963/ad71a81e61/arabescatovagli-_naturale-_a_ksxaraa_1920x963.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/df678146/6705093886b01572b6000011/7f1fb016/Arabescato%20Vagli_KSXARAA_1920x1080_naturale_chevalet.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708f05d86b01507c2000062/9732b586/ArabescatoVagli%20_Naturale%20_A_KSXARAA_1920x963.png"
+  ],
+  "book_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708f05486b01507c200002c/b06fada7/ArabescatoVagli%20_Naturale%20_A_KSXARAA_1920x963.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708f05d86b01507c2000063/ce87d20a/ArabescatoVagli_Naturale_B_KSXARAB_1920x963.png"
+  ],
+  "closeup_imgs": [],
+  "room_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/3c3c22b7/64c23809c4157c00126e38aa/bad1c9ba/KSXARA_showroom De Abdij Brugge 72dpi_kitchen (8).jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/668c81b9/62fccf65f016cd001849ffbd/c9c9d484/KSXARA_showroom%20De%20Abdij%20Brugge%2072dpi_kitchen%20%2815%29.jpg.jpeg"
+  ]
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--ardesia-autumn",
+   "library_colour": "Ardesia Autumn",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxart/ardesia-autumn-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxart/ardesia-autumn-uniceramica/",
+  "code": "ksxart",
+  "title": "ARDESIA AUTUMN UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a beige-orange slate structure.",
+  "finishes": [
+   {
+    "name": "Strutturata",
+    "src": "https://a.storyblok.com/f/236904/1920x960/7293783d0b/ardesia-autumn_ksxarta_1920x960.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe054286b0153db2000038/362f984f/Ardesia%20Autumn%20Uniceramica_KSXARTA_1920x1080_chevalet.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe04e686b0153db2000029/307442b1/Ardesia%20Autumn_KSXARTA_1920x960.png"
+  ],
+  "book_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe04e686b0153db2000029/307442b1/Ardesia%20Autumn_KSXARTA_1920x960.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/668ffe6b/682eede086b015289b00001c/fcbc0574/Ardesia%20Autumn_KSXARTB_1920x960.png"
+  ],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/eb609b02/69eb5bafb9907573be00001a/c21d5c11/FB_IMG_1762109323439.jpg.jpeg"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--ardesia-beige",
+   "library_colour": "Ardesia Beige",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxarb/ardesia-beige-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxarb/ardesia-beige-uniceramica/",
+  "code": "ksxarb",
+  "title": "ARDESIA BEIGE UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a beige-grey slate-like structure.",
+  "finishes": [
+   {
+    "name": "Strutturata",
+    "src": "https://a.storyblok.com/f/236904/1920x960/36335b7431/ardesia-beige_ksxarba_1920x960.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe054286b0153db2000037/b9698c7f/Ardesia%20Beige%20Uniceramica_KSXARBA_1920x1080_chevalet.png"
+  ],
+  "book_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe04e686b0153db200002a/056f6362/Ardesia%20Beige_KSXARBA_1920x960.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/f9c2a921/682eede086b015289b00001d/3de85516/Ardesia%20Beige_KSXARBB_1920x960.png"
+  ],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--basalto-grigio",
+   "library_colour": "Basalto Grigio",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxbag/basalto-grigio-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap. B-grade variant also listed (ksybag)."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxbag/basalto-grigio-uniceramica/",
+  "code": "ksxbag",
+  "title": "BASALTO GRIGIO UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a (dark) grey base colour.",
+  "finishes": [
+   {
+    "name": "Bocciardata",
+    "src": "https://a.storyblok.com/f/236904/2160x1080/1570542d5b/basaltogrigio_ksxbag_1080_bocciardata.png"
+   }
+  ],
+  "slab_imgs": [],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/d0479b18/6704fdf086b0157ca3000017/75e5d3f6/Basalto%20Grigio%20Uniceramica_KSXBAN_bocciardata_1080.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708f05d86b01507c2000065/1ee0c047/BasaltoGrigio_KSXBAG_1080_bocciardata.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--basalto-nero",
+   "library_colour": "Basalto Nero",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxban/basalto-nero-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap. B-grade variant also listed (ksyban)."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxban/basalto-nero-uniceramica/",
+  "code": "ksxban",
+  "title": "BASALTO NERO UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a dark grey base colour.",
+  "finishes": [
+   {
+    "name": "Bocciardata",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/c28b6443fe/basaltonero_bocciardata_ksxban_1920x1080.jpg"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/fe472b1d/6703f6bc86b015345b00000f/830bf171/Basalto%20Nero_KSXBAN_1920x1080_chevalet.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708f05486b01507c2000031/e26d6b94/BasaltoNero_Bocciardata_KSXBAN_1920x1080.jpg.jpeg"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/27607cf2/64c23809c4157c00126e38c7/bb7488d9/KSXBAN_house_kitchen.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/6144c261/6878a5d986b0152693000017/84bd4528/Igneous%20Outdoor%20Kitchen%20Calacatta%20Royal%202.jpg.jpeg"
+  ]
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--bianco-assoluto",
+   "library_colour": "Bianco Assoluto",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxwhi/bianco-assoluto-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap. SAME DESIGN NAME as unistone--bianco-assoluto (cspwhi/bianco-assoluto-unistone, plus UniQ variant czpwhi) but porcelain vs quartz — different physical product, not shareable. B-grade variant ksywhi also listed."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxwhi/bianco-assoluto-uniceramica/",
+  "code": "ksxwhi",
+  "title": "BIANCO ASSOLUTO UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a white fine-grained base colour.",
+  "finishes": [
+   {
+    "name": "Naturale",
+    "src": "https://a.storyblok.com/f/236904/1920x963/704404edc6/biancoassoluto_naturale_ksxwhi_1920x963.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/065a01fa/6703ee5b86b0156f5b000014/7c1c1111/Bianco%20Assoluto_KSXWHI_1920x1080.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708f05486b01507c2000032/357a758c/BiancoAssoluto_Naturale_KSXWHI_1920x963.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--breccia-aurora",
+   "library_colour": "Breccia Aurora",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxbrb/breccia-aurora-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxbrb/breccia-aurora-uniceramica/",
+  "code": "ksxbrb",
+  "title": "BRECCIA AURORA UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a cream-beige colour and brown-orange veins.",
+  "finishes": [
+   {
+    "name": "Naturale",
+    "src": "https://a.storyblok.com/f/236904/1920x960/488f83c869/breccia-aurora-a_ksxbrba_1920x960.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/c25ae589/68d3c30a86b015453700001a/c560dc81/Breccia%20Aurora%20Uniceramica_KSXBRBA_1920x1080_chevalet.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/c25ae589/6a7dd6eceb78f16e0200001a/0c851b2a/Breccia%20Aurora%20A_KSXBRBA_1920x960.png"
+  ],
+  "book_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/c25ae589/6a7dd6eceb78f16e0200001a/0c851b2a/Breccia%20Aurora%20A_KSXBRBA_1920x960.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/84c0f1f4/6a7dd745eb78f16e4b00001b/fc4d783d/Breccia%20Aurora%20B_KSXBRBB_1920x960.png"
+  ],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--breccia-taupe",
+   "library_colour": "Breccia Taupe",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxbrt/breccia-taupe-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxbrt/breccia-taupe-uniceramica/",
+  "code": "ksxbrt",
+  "title": "BRECCIA TAUPE UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a beige-white colour and brown-beige veins.",
+  "finishes": [
+   {
+    "name": "Naturale",
+    "src": "https://a.storyblok.com/f/236904/1920x960/25b791592c/breccia-taupe_ksxbrta_1920x960.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/f9c2a921/682ed0c186b0151807000016/a521c33d/Breccia%20Taupe%20Uniceramica_KSXBRTA_1920x1080_chevalet.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/1236f00e/67ffb75286b0152160000015/c2ed639c/Breccia%20Taupe_KSXBRTA_1920x960.png"
+  ],
+  "book_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/1236f00e/67ffb75286b0152160000015/c2ed639c/Breccia%20Taupe_KSXBRTA_1920x960.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/1236f00e/67ffb75286b0152160000014/82a27e71/Breccia%20Taupe_KSXBRTB_1920x960.png"
+  ],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--calacatta-oro",
+   "library_colour": "Calacatta Oro",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxcao/calacatta-oro-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxcao/calacatta-oro-uniceramica/",
+  "code": "ksxcao",
+  "title": "CALACATTA ORO UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a white base colour and darker grey-brownish veins spread across the surface.",
+  "finishes": [
+   {
+    "name": "Naturale",
+    "src": "https://a.storyblok.com/f/236904/1920x957/43882fe01e/calacatta-oro_naturale_ksxcaoa_1920x957.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/065a01fa/6703ed8c86b0156f5b000013/5839328a/Calacatta%20Oro_KSXCAOA_1920x1080.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/d3efab42/642e9492d86b6a5352000012/22bc11a4/Calacatta%20Oro_Naturale_KSXCAOA_1920x957.png"
+  ],
+  "book_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/d3efab42/642e9492d86b6a5352000012/22bc11a4/Calacatta%20Oro_Naturale_KSXCAOA_1920x957.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/21cae387/642e95d4d86b6a5352000014/e88e5818/Calacatta%20Oro_Naturale_KSXCAOB_1920x957.png"
+  ],
+  "closeup_imgs": [],
+  "room_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/5ab0b32d/64c23809c4157c00126e38ca/c797946d/KSXCAO_abdij_kitchen%20%281%29.jpg.jpeg"
+  ]
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--calacatta-royal",
+   "library_colour": "Calacatta Royal",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxcr/calacatta-royal-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxcr/calacatta-royal-uniceramica/",
+  "code": "ksxcr",
+  "title": "CALACATTA ROYAL UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a white marble structure and darker veins.",
+  "finishes": [
+   {
+    "name": "Naturale",
+    "src": "https://a.storyblok.com/f/236904/1920x964/29b3d985f7/calacatta-royal_naturale_full-slab_1920x964_a.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708eee786b01507c2000022/9b1caae0/Calacatta%20Royal%20Uniceramica_KSXCRA_1920x1080_chevalet.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708f05d86b01507c200006b/153b5382/Calacatta%20Royal_Naturale_full%20slab_1920x964_A.png"
+  ],
+  "book_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708f05d86b01507c200006b/153b5382/Calacatta%20Royal_Naturale_full%20slab_1920x964_A.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/48b78136/6708f05486b01507c2000036/eb04f4f8/Calacatta%20Royal_Naturale_full%20slab_1920x964_B.png"
+  ],
+  "closeup_imgs": [],
+  "room_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/6144c261/6878a5d986b0152693000017/84bd4528/Igneous%20Outdoor%20Kitchen%20Calacatta%20Royal%202.jpg.jpeg"
+  ]
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--calacatta-viola",
+   "library_colour": "Calacatta Viola",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxcav/calacatta-viola-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxcav/calacatta-viola-uniceramica/",
+  "code": "ksxcav",
+  "title": "CALACATTA VIOLA UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a white-cream base colour and darker grey-violet veins spread across the surface.",
+  "finishes": [
+   {
+    "name": "Naturale",
+    "src": "https://a.storyblok.com/f/236904/1920x960/0762ddf7e8/calacatta-viola-a_ksxcava_1920x960.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708eee786b01507c2000019/09bd0659/Calacatta%20Viola%20Uniceramica_KSXCAVA_1920x1080_chevalet.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708f05486b01507c2000037/04e75f94/Calacatta%20Viola%20A_KSXCAVA_1920x960.png"
+  ],
+  "book_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708f05486b01507c2000037/04e75f94/Calacatta%20Viola%20A_KSXCAVA_1920x960.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/1b4badb0/6904cb3686b015575c00001b/382e620a/Calacatta%20Viola%20B_KSXCAVB_1920x960.png"
+  ],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/a4416cb3/660ebab96f224b3fe2000012/7c3ad704/DSM-54-edit.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/5f82eaf9/66474b6bdfe44a249d000012/a0aeb15a/W_12.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/5f82eaf9/66474b6bdfe44a249d000014/4901ae45/W_15.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/8ea5d25d/67bc690179a4ba49bb00001b/4e31dfa1/DSM_Toonzaal_Zaventem_Kooi14-30.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/110e2958/67e11fdb79a4ba6b1300001e/a2f41ae2/Calacatta%20viola%20UC%203.jpg.jpeg"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--caliza-avorio",
+   "library_colour": "Caliza Avorio",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxavo/caliza-avorio-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxavo/caliza-avorio-uniceramica/",
+  "code": "ksxavo",
+  "title": "CALIZA AVORIO UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a beige-cream limestone structure.",
+  "finishes": [
+   {
+    "name": "Strutturata",
+    "src": "https://a.storyblok.com/f/236904/1920x964/4c0a7f78d7/caliza-avorio_strutturata_full-slab_1920x964.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708eee786b01507c2000017/ac4158b8/Caliza%20Avorio%20Uniceramica_KSXAVO_1920x1080_chevalet.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708f05d86b01507c200006f/de58d809/Caliza%20Avorio_Strutturata_full%20slab_1920x964.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/b048f0f3/69a93a92b990753e6900001f/5952c096/KSXAVO_Kitchen_Bath_Artalo%20%282%29.jpg.jpeg"
+  ]
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--caliza-crema",
+   "library_colour": "Caliza Crema",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxcacr/caliza-crema-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxcacr/caliza-crema-uniceramica/",
+  "code": "ksxcacr",
+  "title": "CALIZA CREMA UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a beige limestone structure.",
+  "finishes": [
+   {
+    "name": "Strutturata",
+    "src": "https://a.storyblok.com/f/236904/1920x964/6bbf9e8c3a/caliza-crema_strutturata_full-slab_1920x964.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/ae2164a8/690495d086b0152ac700001b/f3109d82/Caliza%20Crema%20Uniceramica_KSXCACR_1920x1080_chevalet.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/ae2164a8/6904959386b0152ac700001a/6bd9b05c/Caliza%20Crema_Strutturata_full%20slab_1920x964.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--capraia",
+   "library_colour": "Capraia",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxcal/capraia-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap. There is ALSO a separate 'ksxmca/marble-capraia-uniceramica' listing — likely a duplicate/renamed SKU for the same design; verify which one has the current live images before harvesting, prefer ksxcal (matches price-book name exactly)."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxcal/capraia-uniceramica/",
+  "code": "ksxcal",
+  "title": "CAPRAIA UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a white colour and pink-reddish veins.",
+  "finishes": [
+   {
+    "name": "Naturale",
+    "src": "https://a.storyblok.com/f/236904/1920x960/7e4b0c5e2a/capraia_ksxcala_1920x960.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe054286b0153db2000032/9c0eded0/Capraia%20Uniceramica_KSXCALA_1920x1080_chevalet.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe04e686b0153db200002d/239e38dd/Capraia_KSXCALA_1920x960.png"
+  ],
+  "book_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe04e686b0153db200002d/239e38dd/Capraia_KSXCALA_1920x960.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe04e686b0153db200002e/16788351/Capraia_KSXCALB_1920x960.png"
+  ],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--crystallo",
+   "library_colour": "Crystallo",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxcrq/crystallo-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap (page fetched, curl OK). There is ALSO 'ksxcri/cristallo-uniceramica' (alt spelling, no 'y') — same design, likely legacy code; use ksxcrq (spelling matches price book 'Crystallo')."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxcrq/crystallo-uniceramica/",
+  "code": "ksxcrq",
+  "title": "CRYSTALLO UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a cream-beige colour and darker fine veins.",
+  "finishes": [
+   {
+    "name": "Naturale",
+    "src": "https://a.storyblok.com/f/236904/1920x969/2389f842e0/crystallo-a_ksxcrqa_1920x969.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe054286b0153db2000034/6f70963b/Crystallo%20A%20Uniceramica_KSXCRQA_1920x1080_chevalet.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe04e686b0153db200001e/00006388/Crystallo%20A_KSXCRQA_1920x969.png"
+  ],
+  "book_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe04e686b0153db200001e/00006388/Crystallo%20A_KSXCRQA_1920x969.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe04e686b0153db200001f/9d276153/Crystallo%20B_KSXCRQB_1920x969.png"
+  ],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--jade-green",
+   "library_colour": "Jade Green",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxjag/jade-green-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxjag/jade-green-uniceramica/",
+  "code": "ksxjag",
+  "title": "JADE GREEN UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a white-green base colour and irregular darker veins and concentrations spread across the surface.",
+  "finishes": [
+   {
+    "name": "Naturale",
+    "src": "https://a.storyblok.com/f/236904/1920x960/febd7ecdf7/jadegreen_naturale_ksxjaga_1920x960.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708eee786b01507c2000016/d3d45435/Jade%20Green%20Uniceramica_KSXJAGA_1920x1080_chevalet.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708f05486b01507c200003e/b0014b89/JadeGreen_Naturale_KSXJAGA_1920x960.png"
+  ],
+  "book_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708f05486b01507c200003e/b0014b89/JadeGreen_Naturale_KSXJAGA_1920x960.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708f05486b01507c200003f/3899c590/JadeGreen_Naturale_KSXJAGB_1920x960.png"
+  ],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/837dd1f8/672a443c6f224b6ebd000018/b6b6a8d6/_DSC2113.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/b50ea22a/667987fd6f224b7fcd00001a/e47de831/balie%20i.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/837dd1f8/672a443c6f224b6ebd00001a/a666030c/_DSC2122.jpg.jpeg"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--jura-beige",
+   "library_colour": "Jura Beige",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxjube/jura-beige-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap. unistone--jura-grey (csjugr) is a related-sounding name from the Jura limestone quarry family but a different Brachot quartz range colour — not the same product, just a shared 'Jura' geological reference used independently on both ranges."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxjube/jura-beige-uniceramica/",
+  "code": "ksxjube",
+  "title": "JURA BEIGE UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a beige limestone structure.",
+  "finishes": [
+   {
+    "name": "Strutturata",
+    "src": "https://a.storyblok.com/f/236904/1920x964/30d06a4491/jura-beige_ksxjube_strutturata_full-slab_1920x964.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/2b3cf83d/659e9393dfe44a0383000013/fd3d53e1/JuraBeige_Strutturata_KSXJUBE_onchevalet.jpg.jpeg"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/8e41da44/655ccd16dfe44a03f2000013/4392e71a/Uniceramica%20Jura_Strutturata_Detail_brighter_1920x956.png"
+  ],
+  "room_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/adc521bd/6a2bd82ab99075228800001b/2fe3c595/KSXJUBE_kitchen_Fredigo_2026%20%283%29.jpg.jpeg"
+  ]
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--lincoln-dorato",
+   "library_colour": "Lincoln Dorato",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxlid/lincoln-dorato-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap; site copy calls this one of Uniceramica's popular colours."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxlid/lincoln-dorato-uniceramica/",
+  "code": "ksxlid",
+  "title": "LINCOLN DORATO UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a white-cream colour and fine yellow-grey veins.",
+  "finishes": [
+   {
+    "name": "Naturale",
+    "src": "https://a.storyblok.com/f/236904/1920x964/4916bfb496/lincoln-dorato_ksxlida_1920x964.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe054286b0153db2000030/869239fb/Lincoln%20Dorato_KSXLIDA_1920x1080_chevalet.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe04e686b0153db2000020/c2fba84f/Lincoln%20Dorato_KSXLIDA_1920x964.png"
+  ],
+  "book_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe04e686b0153db2000020/c2fba84f/Lincoln%20Dorato_KSXLIDA_1920x964.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe04e686b0153db2000021/08c17d23/Lincoln%20Dorato_KSXLIDB_1920x964.png"
+  ],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--marmo-antico",
+   "library_colour": "Marmo Antico",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxman/marmo-antico-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxman/marmo-antico-uniceramica/",
+  "code": "ksxman",
+  "title": "MARMO ANTICO UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a white-cream base colour and many irregular darker grey-brownish/yellowish veins spread across the surface.",
+  "finishes": [
+   {
+    "name": "Naturale",
+    "src": "https://a.storyblok.com/f/236904/1920x960/7b86edf891/marmoantico_naturale_ksxmana_1920x960.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/39ce9dc8/6705475e86b0151baa000016/418d1533/Marmo%20Antico%20Uniceramica_KSXMANA_1920x1080_chevalet.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/642eba72d86b6a535200001b/9a393598/MarmoAntico_Naturale_KSXMANA_1920x960.png"
+  ],
+  "book_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/642eba72d86b6a535200001b/9a393598/MarmoAntico_Naturale_KSXMANA_1920x960.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/642eba4fd86b6a535200001a/14ae8924/MarmoAntico_Naturale_KSXMANB_1920x960.png"
+  ],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/f7075af6/67b5f42c79a4ba249d000023/e62645fc/DSM_Batibouw25-291.jpg.jpeg"
+  ],
+  "room_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/4516f29e/63ea0171d86b6a2c3900001b/b60555c3/KSXMAN_MAISONMAX_Kitchen%20%2812%29.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/2b5f0665/62fccfe3f016cd00184a0002/4695b6d9/KSXMAN_house_kitchen (1).jpg.jpeg"
+  ]
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--nero-assoluto",
+   "library_colour": "Nero Assoluto",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxzim/nero-assoluto-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap; code 'zim' (Zimbabwe black granite look). SAME DESIGN NAME as unistone quartz colour 'Nero Assoluto' (cspbla/nero-assoluto-unistone) — different material, do not share."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxzim/nero-assoluto-uniceramica/",
+  "code": "ksxzim",
+  "title": "NERO ASSOLUTO UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body ceramic slabs with a fine-grained base in black to dark grey.",
+  "finishes": [
+   {
+    "name": "Naturale",
+    "src": "https://a.storyblok.com/f/236904/1920x963/b2c0a22cf7/nero-assoluto_ksxzim.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/6d204278/684bce7f86b01530a000001b/09cb95c0/Nero%20Assoluto%20Uniceramica_KSXZIM_1920x1080_chevalet2.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/6d204278/684bce7086b01530a000001a/758a1fa9/Nero%20Assoluto_KSXZIM.png"
+  ],
+  "room_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/9486f82f/64c22475dfe44a1502000010/583cba18/KSXZIM_Keukens%20Abdij%20zoersel_kitchen.jpg.jpeg"
+  ]
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--oro-fantastico",
+   "library_colour": "Oro Fantastico",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxof/oro-fantastico-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxof/oro-fantastico-uniceramica/",
+  "code": "ksxof",
+  "title": "ORO FANTASTICO UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a white marble structure and grey-yellow veins.",
+  "finishes": [
+   {
+    "name": "Naturale",
+    "src": "https://a.storyblok.com/f/236904/1920x964/bfbbd6e686/oro-fantastico_naturale_full-slab_1920x964_a.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708eee786b01507c200000f/321f1105/Oro%20Fantastico%20Uniceramica_KSXOFA_1920x1080_chevalet.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708f05486b01507c2000048/3db9a90b/Oro%20Fantastico_Naturale_full%20slab_1920x964_A.png"
+  ],
+  "book_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708f05486b01507c2000048/3db9a90b/Oro%20Fantastico_Naturale_full%20slab_1920x964_A.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708f05486b01507c2000049/9ac6d25b/Oro%20Fantastico_Naturale_full%20slab_1920x964_B.png"
+  ],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/df9e9d7f/67375b4e6f224b3a0400001a/317339bc/20241106_131330_b.jpg.jpeg"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--patagonia",
+   "library_colour": "Patagonia",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxpst/patagonia-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap; site's own product example imagery (uc-marmo-antico-kitchen-worktop.png style CMS shots) appeared cross-linked on the Statuario page too — those Storyblok CMS images are generic cross-sell/marketing shots reused site-wide, NOT per-colour room photos; the per-colour room/kitchen shots are the cdn.pimber.ly ones tagged with the material code (e.g. KSXSTA_..._kitchen)."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxpst/patagonia-uniceramica/",
+  "code": "ksxpst",
+  "title": "PATAGONIA UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a large angular white-beige mineral structure and darker or grey mineral concentrations and vein patterns.",
+  "finishes": [
+   {
+    "name": "Naturale",
+    "src": "https://a.storyblok.com/f/236904/1920x960/ef31638f2a/patagonia_ksxpsta_1920x960.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe054286b0153db200003c/22aa7fae/Patagonia%20Uniceramica_KSXPSTA_1920x1080_chevalet.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe04e686b0153db2000022/c5da794b/Patagonia_KSXPSTA_1920x960.png"
+  ],
+  "book_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe04e686b0153db2000022/c5da794b/Patagonia_KSXPSTA_1920x960.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe04e686b0153db2000023/24b05536/Patagonia_KSXPSTB_1920x960.png"
+  ],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--perla-avorio",
+   "library_colour": "Perla Avorio",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxpea/perla-avorio-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxpea/perla-avorio-uniceramica/",
+  "code": "ksxpea",
+  "title": "PERLA AVORIO UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a beige limestone structure.",
+  "finishes": [
+   {
+    "name": "Strutturata",
+    "src": "https://a.storyblok.com/f/236904/1920x964/956cbda791/perla-avorio_strutturata_full-slab_1920x964.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708eee786b01507c200001d/c0c0f63e/Perla%20Avorio%20Uniceramica_KSXPEA_1920x1080_chevalet.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708f05486b01507c200004a/be5ec426/Perla%20Avorio_Strutturata_full%20slab_1920x964.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--portoro",
+   "library_colour": "Portoro",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxpor/portoro-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap. Related 'Portoro L' (ksxporl, light variant) also exists as a separate SKU, not in our price book — ignore."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxpor/portoro-uniceramica/",
+  "code": "ksxpor",
+  "title": "PORTORO UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a black base colour and white-orange veins spread across the surface.",
+  "finishes": [
+   {
+    "name": "Naturale",
+    "src": "https://a.storyblok.com/f/236904/1920x960/cd35e6aba9/portoro_naturale_ksxpora_1920x960.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/123392f0/6703f61386b0152076000012/07345936/Portoro%20Uniceramica_KSXPORA_1920x1080_chevalet.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6686ac7686b0157e5b000010/8d1a28f2/Portoro_Naturale_KSXPORA_1920x960.png"
+  ],
+  "book_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6686ac7686b0157e5b000010/8d1a28f2/Portoro_Naturale_KSXPORA_1920x960.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6686ad3686b0157e5b000011/0ca19472/Portoro_Naturale_KSXPORB_1920x960.png"
+  ],
+  "closeup_imgs": [],
+  "room_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/d759176c/652fd5326f224b5fc3000014/cafe19e7/KSXPOR_Bathroom_Hotel%20T%20%285%29.jpg.jpeg"
+  ]
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--sahara-grey",
+   "library_colour": "Sahara Grey",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxsag/sahara-grey-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap. A near-duplicate code 'ksxaga/sahara-grey-a-uniceramica' also exists (batch variant, not a separate colour)."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxsag/sahara-grey-uniceramica/",
+  "code": "ksxsag",
+  "title": "SAHARA GREY UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a grey base colour and gold and white veins spread across the surface.",
+  "finishes": [
+   {
+    "name": "Naturale",
+    "src": "https://a.storyblok.com/f/236904/1920x960/5fb6051d11/saharagrey_a_ksxsaga.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708e78b86b01519e400000f/4edcf149/Sahara%20Grey%20Uniceramica_KSXAGA_1920x1080_chevalet.png"
+  ],
+  "book_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/ecd1ca9b/6708e70686b0151c30000018/bbb81feb/SaharaGrey_A_KSXSAGA.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/ecd1ca9b/6708e70686b0151c30000017/31167697/SaharaGrey_B_KSXSAGB.jpg.jpeg"
+  ],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/ecd1ca9b/6708e70686b0151c30000018/bbb81feb/SaharaGrey_A_KSXSAGA.jpg.jpeg"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--statuario",
+   "library_colour": "Statuario",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxsta/statuario-uniceramica/",
+   "image_kinds_seen": [
+    "slab (chevalet/display + flat texture)",
+    "closeup(flat texture)",
+    "room(kitchen KSXSTA_abdij_kitchen + bathroom KSXSTA_house_bathroom)"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm (324x162cm)"
+   ],
+   "notes": "FULLY VERIFIED by direct page fetch (tools/_cache/brachot/statuario-uniceramica.html). Images at cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/.../Statuario Uniceramica_KSXSTAA_1920x1080_naturale_chevalet.png (slab), Statuario_Naturale_KSXSTAA_1920x962.png (slab/texture), KSXSTA_abdij_kitchen (8).jpg.jpeg + KSXSTA_house_bathroom (4).jpg.jpeg (room). Finish shown: Naturale. SAME DESIGN NAME as unistone--statuario (csstat/statuario-unistone, verified separately) — different material (porcelain vs quartz), do not share images."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxsta/statuario-uniceramica/",
+  "code": "ksxsta",
+  "title": "STATUARIO UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a white fine-grained base colour and darker grey veins spread across the surface.",
+  "finishes": [
+   {
+    "name": "Naturale",
+    "src": "https://a.storyblok.com/f/236904/1920x962/6429700b75/statuario_naturale_ksxstaa_1920x962.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/91cc5fdc/67051c3486b0150144000010/0cdf39d4/Statuario%20Uniceramica_KSXSTAA_1920x1080_naturale_chevalet.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/642ec4f5d86b6a5352000020/fba8d8d2/Statuario_Naturale_KSXSTAA_1920x962.png"
+  ],
+  "book_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/642ec4f5d86b6a5352000020/fba8d8d2/Statuario_Naturale_KSXSTAA_1920x962.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/642ec4e5d86b6a535200001f/9462d5b3/Statuario_Naturale_KSXSTAB_1920x962.png"
+  ],
+  "closeup_imgs": [],
+  "room_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/2b5f0665/62fcd007f016cd00184a002a/236b569c/KSXSTA_abdij_kitchen (8).jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/2b5f0665/62fcd005f016cd00184a0022/71565d9e/KSXSTA_house_bathroom (4).jpg.jpeg"
+  ]
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--statuario-extra",
+   "library_colour": "Statuario Extra",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxste/statuario-extra-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap. Watch for price-book naming quirk 'Statuario Extra' vs some suppliers' 'Extra Statuario' (HARVEST-SPEC known quirk) — Brachot's own slug already says 'statuario-extra', matches directly."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxste/statuario-extra-uniceramica/",
+  "code": "ksxste",
+  "title": "STATUARIO EXTRA UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a white fine-grained base colour and darker grey veins spread across the surface.",
+  "finishes": [
+   {
+    "name": "Naturale",
+    "src": "https://a.storyblok.com/f/236904/1920x965/88c95822c0/statuarioextra_ksxstea_1920x965.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/9bd45f05/6706511b86b0154d41000024/874a1cc1/Statuario%20Extra%20Uniceramica_KSXSTEA_1920x1080_chevalet.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/511c3222/64302462d86b6a02e6000010/4fd57860/StatuarioExtra_KSXSTEA_1920x965.png"
+  ],
+  "book_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/511c3222/64302462d86b6a02e6000010/4fd57860/StatuarioExtra_KSXSTEA_1920x965.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/511c3222/6430249cd86b6a02e6000011/b111be0d/StatuarioExtra_KSXSTEB_1920x965.png"
+  ],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--taj-mahal",
+   "library_colour": "Taj Mahal",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxtma/taj-mahal-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "FULLY VERIFIED by direct page fetch (tools/_cache/brachot/taj-mahal-uniceramica.html, valid page, title OK). Duplicate code 'ksxtma/taj-mahal-uniceramica' also exists, same slug/name — pick either, ksxtama used here. SAME DESIGN NAME as unistone--taj-mahal (cstajm/taj-mahal-unistone, plus UniQ cztajm) — different material, do not share."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxtma/taj-mahal-uniceramica/",
+  "code": "ksxtma",
+  "title": "TAJ MAHAL UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a white-beige base colour and beige veining/layered structure.",
+  "finishes": [
+   {
+    "name": "Naturale",
+    "src": "https://a.storyblok.com/f/236904/1575x787/2800f8a961/tajmahal_naturale_ksxtmaa_1575x787.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/9af78737/6703f2f086b0152238000012/78ad0523/Taj%20Mahal%20Uniceramica_KSXTMAA_1920x1080.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708f05486b01507c2000056/89edf807/TajMahal_Naturale_KSXTMAA_1575x787.png"
+  ],
+  "book_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708f05486b01507c2000056/89edf807/TajMahal_Naturale_KSXTMAA_1575x787.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708f05486b01507c2000058/6a018abc/TajMahal_Naturale_KSXTMAB_1575x787.png"
+  ],
+  "closeup_imgs": [],
+  "room_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/b08107dd/64c23809c4157c00126e3912/00b04e70/KSXTMA_abdij_kitchen (2).jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/a7430dc1/64c2380dc4157c00126e3c45/084072b0/KSXTMA_ICOR_kitchen_(3).jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/de4dc60f/65b3c73a6f224b7c0d000028/5240a5e2/KSXTMA_Abdij_72dpi_kitchen_%2825%29.jpg.jpeg"
+  ]
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--travertino-argento",
+   "library_colour": "Travertino Argento",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxtt/travertino-argento-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxtt/travertino-argento-uniceramica/",
+  "code": "ksxtt",
+  "title": "TRAVERTINO ARGENTO UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a white-beige base colour and beige-grey veins or a layered structure reminiscent of travertine.",
+  "finishes": [
+   {
+    "name": "Strutturata",
+    "src": "https://a.storyblok.com/f/236904/1920x969/2c00c956c7/travertino-argento_ksxtta_1920x969.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/1236f00e/67fe054286b0153db200003a/cca4d546/Travertino%20Argento%20Uniceramica_KSXTTA_1920x1080_chevalet.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe04e686b0153db2000024/0b9111cc/Travertino%20Argento_KSXTTA_1920x969.png"
+  ],
+  "book_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe04e686b0153db2000024/0b9111cc/Travertino%20Argento_KSXTTA_1920x969.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe04e686b0153db2000025/05e0f8cc/Travertino%20Argento_KSXTTB_1920x969.png"
+  ],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--travertino-bianco",
+   "library_colour": "Travertino Bianco",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxtb/travertino-bianco-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxtb/travertino-bianco-uniceramica/",
+  "code": "ksxtb",
+  "title": "TRAVERTINO BIANCO UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a pale travertine structure.",
+  "finishes": [
+   {
+    "name": "Strutturata",
+    "src": "https://a.storyblok.com/f/236904/1920x967/1938ba4bb7/travertino-bianco_strutturata_full-slab_1920x967_a.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/96589109/6708eee786b01507c2000020/f699130b/Travertino%20Bianco%20Uniceramica_KSXTBA_1920x1080_chevalet.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/96589109/6708f05486b01507c200005a/69379e4c/Travertino%20Bianco_strutturata_full%20slab_1920x967_A.png"
+  ],
+  "book_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/96589109/6708f05486b01507c200005a/69379e4c/Travertino%20Bianco_strutturata_full%20slab_1920x967_A.png"
+  ],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/2898ea59/6852732879a4ba7548000014/22a8301f/KSXTBB_g-design_LR--1.jpg.jpeg"
+  ],
+  "room_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/dbbe4ede/6721edb46f224b4ef900001d/334bb1ac/KSXTBA_Kitchen_DSM_BIS24%20%289%29.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/d8b76a2e/69a802c9b990755b92000015/f982e26c/KSXTB_Kitchen_Format%20%283%29.jpg.jpeg"
+  ]
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--travertino-classico",
+   "library_colour": "Travertino Classico",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxtc/travertino-classico-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "FULLY VERIFIED by direct page fetch (tools/_cache/brachot/travertino-classico-uniceramica.html; title 'TRAVERTINO CLASSICO UNICERAMICA | PORCELAIN SLABS | BRACHOT'). Re: Nile Stone's colour of the same name — 'Travertino Classico' is a generic Italian quarry/trade term used industry-wide for the most common/compact-structure travertine grade (confirmed via web search — dozens of unrelated stone yards worldwide sell a 'Travertino Classico'). Nile Stone's is natural travertine (out of scope for this phase per HARVEST-SPEC anyway); Brachot's is a porcelain reproduction. NO evidence of a shared manufacturer — coincidental generic name only, do not merge/share."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxtc/travertino-classico-uniceramica/",
+  "code": "ksxtc",
+  "title": "TRAVERTINO CLASSICO UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a beige colour and a typical layered travertine structure.",
+  "finishes": [
+   {
+    "name": "Strutturata",
+    "src": "https://a.storyblok.com/f/236904/1920x964/a6628225d1/travertino-classico_strutturata_full-slab_1920x964_a.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708eee786b01507c2000024/c89be1ec/Travertino%20Classico%20Uniceramica_KSXTCA_1920x1080_chevalet.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708f05d86b01507c200005c/4f2dde6b/Travertino%20Classico_Strutturata_full%20slab_1920x964_A.png"
+  ],
+  "book_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708f05d86b01507c200005c/4f2dde6b/Travertino%20Classico_Strutturata_full%20slab_1920x964_A.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/27c1555e/6708f05486b01507c2000027/07e33ca0/Travertino%20Classico_Strutturata_full%20slab_1920x964_B.png"
+  ],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/022961ad/672a1fcc6f224b2ee8000018/3200e4c2/B_Lochristi_Ixina_%20UniceramicaTravertinaClassico_4.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/eb535df4/67b47c5479a4ba7997000025/ee9baa52/DSM_Batibouw25-476-2.jpg.jpeg"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--travertino-light",
+   "library_colour": "Travertino Light",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxtl/travertino-light-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxtl/travertino-light-uniceramica/",
+  "code": "ksxtl",
+  "title": "TRAVERTINO LIGHT UNICERAMICA",
+  "origin": "Italy",
+  "description": "FULL-BODY ceramic slabs with white-beige finebase-color and beige veins/layered structure like Travertine.",
+  "finishes": [
+   {
+    "name": "Naturale",
+    "src": "https://a.storyblok.com/f/236904/1920x960/59d1a74f37/travertino-light_ksxtla_1920x960.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/95deadb0/670536e986b0153b46000010/dbf3b963/Travertino%20Ligth%20Uniceramica_KSXTLA_1920x1080_naturale.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708f05486b01507c2000028/948d2a15/Travertino%20Light_KSXTLA_1920x960.png"
+  ],
+  "book_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708f05d86b01507c200005e/b18a0f20/Travertino%20Light_KSXTLA_1920x960.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07070171/6708f05d86b01507c200005f/ef4daa82/Travertino%20Light_KSXTLB_1920x960.png"
+  ],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/813bf514/65b8bd846f224b203b00001d/913c2096/B_DeAbdijBrugge_UniceramicaTravertinoLight_1.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/e07c013b/66fabd556f224b7569000016/bc5199e5/totaalinterieur_delicia_01_insuite%20%288%29.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/e07c013b/66fabe536f224b756900001f/316bfd52/totaalinterieur_delicia_01_insuite%20%2812%29.jpg.jpeg"
+  ],
+  "room_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/92e522fd/652fdc526f224b5fc300001d/ceed360d/KSXTL_Bathroom_Hotel%20T_bewerkt.jpg.jpeg"
+  ]
+ },
+ {
+  "discovery": {
+   "supplier": "Brachot",
+   "library_id": "brachot--travertino-navona",
+   "library_colour": "Travertino Navona",
+   "material": "Porcelain",
+   "product_url": "https://www.brachot.com/en/materials/ksxtna/travertino-navona-uniceramica/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "3240x1620mm"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/ksxtna/travertino-navona-uniceramica/",
+  "code": "ksxtna",
+  "title": "TRAVERTINO NAVONA UNICERAMICA",
+  "origin": "Italy",
+  "description": "Full-body porcelain slabs with a white-beige base colour and beige-white veins or a layered structure reminiscent of travertine.",
+  "finishes": [
+   {
+    "name": "Naturale",
+    "src": "https://a.storyblok.com/f/236904/1920x960/334b9ab692/travertino-navona_ksxtnaa_1920x960.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/1236f00e/67fe054286b0153db200003f/ae6907f8/Travertino%20Navona_KSXTNAA_1920x1080_chevalet.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe04e686b0153db2000026/92dd697d/Travertino%20Navona_KSXTNAA_1920x960.png"
+  ],
+  "book_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe04e686b0153db2000026/92dd697d/Travertino%20Navona_KSXTNAA_1920x960.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/f9c2a921/682eede086b015289b00001b/eb5a1764/Travertino%20Navona_KSXTNAB_1920x960.png"
+  ],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/235a2819/6960bba879a4ba4027000024/f9928d02/B_KdA_Oostende_UniceramicaTravertinoNavona-1.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0f77738e/698b479eb990750aa200001a/8ef20cca/DSM_Batibouw26-257.jpg.jpeg"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--adamello",
+   "library_colour": "Adamello",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/csadam/adamello-unistone/",
+   "image_kinds_seen": [
+    "slab (chevalet + flat texture)",
+    "room(house/kitchen)"
+   ],
+   "slab_sizes_seen": [
+    "price-book: 3000x1400 / 3200x1600 / 3300x1650mm (variant picker on-page, not printed as static text — dimension is a client-side dropdown 'Choose the dimension (cm)')"
+   ],
+   "notes": "Confirmed via sitemap-en.xml crawl (same brachot.com site as Uniceramica). Same URL pattern as Brachot pages: /en/materials/{code}/{slug}/."
+  },
+  "url": "https://www.brachot.com/en/materials/csadam/adamello-unistone/",
+  "code": "csadam",
+  "title": "ADAMELLO UNISTONE",
+  "origin": "Vietnam",
+  "description": "Fine-grained white-beige-grey quartz compound stone with beige-brown veins spread over the surface (quartz compound stone composed of silicium and quartz with polyester-resin as a binder, produced with the BRETON-technology with \"Through Tone Technology\").",
+  "finishes": [],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe045a86b0153db200001c/fe29cc3e/Adamello%20Unistone_CSADAM_1920x1080_chevalet.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0ad3d811/67fe035d86b0153db200001a/a0ac22bb/CSADAM_1920.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--alaska-white",
+   "library_colour": "Alaska White",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/csalwh/alaska-white-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/csalwh/alaska-white-unistone/",
+  "code": "csalwh",
+  "title": "ALASKA WHITE UNISTONE",
+  "origin": "Vietnam",
+  "description": "Coarse-grained white quartz compound stone with grey grains spread across the surface (composed of silicium and quartz with polyester-resin as a binder, produced using BRETON technology with \"Through Tone Technology\").",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/f23d03a1cc/csalwh-fullslab.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x949/998e8593a4/csalwh-fullslab-1920.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/59582adf/66471d59dfe44a3df3000037/17ec53b3/AlaskaWhite_Fullslab_Polished_CSALWH_onchevalet.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/a8018088/664720afdfe44a144e000013/950ec9d5/CSALWH%20Fullslab%201920.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--arabescato-vagli",
+   "library_colour": "Arabescato Vagli",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/csarva/arabescato-vagli-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "FULLY VERIFIED by direct page fetch (tools/_cache/unistone/arabescato-vagli-unistone.html, title OK). SAME DESIGN NAME as brachot--arabescato-vagli (ksxara/arabescato-vagli-uniceramica) — both are Brachot products (Uniceramica porcelain vs Unistone quartz) drawing on the same Arabescato Vagli marble look, but physically different materials/manufacturing. Do NOT share images between the two entries."
+  },
+  "url": "https://www.brachot.com/en/materials/csarva/arabescato-vagli-unistone/",
+  "code": "csarva",
+  "title": "ARABESCATO VAGLI UNISTONE",
+  "origin": "Vietnam",
+  "description": "Fine-grained white quartz compound stone with subtle darker grey, wide veins spread across the surface (composed of silicium and quartz with polyester-resin as a binder, produced using BRETON technology with \"Through Tone Technology\").",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/34c258c829/csarva-fullslab.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x885/bb00539e33/csarva-fullslab-1920.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/59582adf/66471d59dfe44a3df3000024/66e5c8b9/ArabescatoVagli_Fullslab_Polished_CSARVA_new_onchevalet.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/c29fa855/66472964dfe44a1d97000028/729c7927/CSARVA%20Fullslab%201920.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/97218918/681cb0c879a4ba1b5e000020/e786fb98/Jpg-8.jpg.jpeg"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--arabescato-viola",
+   "library_colour": "Arabescato Viola",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/csarvi/arabescato-viola-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "Confirmed via sitemap. UniQ silica-free version also exists at czarvi/arabescato-viola-unistone-uniq — same design, alt product line (see UniQ note in supplier notes)."
+  },
+  "url": "https://www.brachot.com/en/materials/csarvi/arabescato-viola-unistone/",
+  "code": "csarvi",
+  "title": "ARABESCATO VIOLA UNISTONE",
+  "origin": "Vietnam",
+  "description": "Fine-grained white quartz compound stone with subtle darker grey, wide veins spread across the surface (composed of silicium and quartz with polyester-resin as a binder, produced using BRETON technology with \"Through Tone Technology\").",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/5fdca2ab4e/csarvi-fullslab.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x881/8c3e3d48e2/csarvi-fullslab-1920.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/59582adf/66471d59dfe44a3df3000023/241d38bf/ArabescatoViola_Fullslab_Polished_CSARVI_New_onchevalet.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/c29fa855/6647298adfe44a1d97000029/abc0ee62/CSARVI%20Fullslab%201920.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--argento",
+   "library_colour": "Argento",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/csarge/argento-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/csarge/argento-unistone/",
+  "code": "csarge",
+  "title": "ARGENTO UNISTONE",
+  "origin": "Vietnam",
+  "description": "Coarser-grained white quartz compound stone with grey grains/vein-structures spread over the surface (quartz compound stone composed of silicium and quartz with polyester-resin as a binder, produced with the BRETON-technology with \"Through Tone Technology\").",
+  "finishes": [],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/59582adf/66471db1dfe44a3df300004d/040a9c29/CSARGE%20Fullslab%201920.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/59582adf/66471d59dfe44a3df3000015/5b06b79b/Argento_Fullslab_Polished_CSARGE_onchevalet.jpg.jpeg"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--bianco",
+   "library_colour": "Bianco",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/cswhit/bianco-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "Confirmed via sitemap. UniQ version also exists at czwhit/bianco-unistone-uniq."
+  },
+  "url": "https://www.brachot.com/en/materials/cswhit/bianco-unistone/",
+  "code": "cswhit",
+  "title": "BIANCO UNISTONE",
+  "origin": "Vietnam",
+  "description": "Fine-grained white quartz compound stone (composed of silicium and quartz with polyester-resin as a binder, produced using BRETON technology with \"Through Tone Technology\").",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/4004db5190/cswhit-fullslab.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x939/946e363497/cswhit-fullslab-1920.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/59582adf/66471bfcdfe44a1146000011/37d9928d/Bianco_Fullslab_Polished_CSWHIT_onchevalet.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/c29fa855/66471bcddfe44a1146000010/8f497866/CSWHIT%20Fullslab%201920.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/c2cff172/64c23808c4157c00126e37b7/c5af01d0/CSWHIT_house 2012_kitchen (3).jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/973d9260/65fc47656f224b63ef000019/819673c6/Klantengetuigenis%20Vercruysse_68856_LR_03.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/b3126cf7/685c01ba79a4ba4c0500002c/5e1b8013/WSOF%20FINAL%20%2813%29-2.jpg.jpeg"
+  ]
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--bianco-assoluto",
+   "library_colour": "Bianco Assoluto",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/cspwhi/bianco-assoluto-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "Confirmed via sitemap. UniQ version also exists at czpwhi/bianco-assoluto-unistone-uniq. SAME DESIGN NAME as brachot--bianco-assoluto (ksxwhi/bianco-assoluto-uniceramica) — different material (quartz vs porcelain), do not share images."
+  },
+  "url": "https://www.brachot.com/en/materials/cspwhi/bianco-assoluto-unistone/",
+  "code": "cspwhi",
+  "title": "BIANCO ASSOLUTO UNISTONE",
+  "origin": "Vietnam",
+  "description": "Very fine-grained white quartz compound stone, made from silicon and quartz with polyester resin as a binder, produced using BRETON technology with “Through Tone Technology”.",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/69f6d9b275/cspwhi-fullslab.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x897/7c1e2ba353/cspwhi-fullslab-1920.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/59582adf/66471d59dfe44a3df300003a/696ac9d6/BiancoAssoluto_Fullslab_Polisched_CSPWHI_onchevalet.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/9ea8fa84/66472d09dfe44a1d97000036/5adc3907/CSPWHI%20Fullslab%201920.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/9ea8fa84/691ed8cf86b0156c0900001a/2a38e9d3/Sink.jpeg"
+  ],
+  "room_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/9ea8fa84/65fc44406f224b359f000012/8392aadb/Klantengetuigenis_Verbruggen 41175_LR_09.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/1e096a66/65fc45926f224b75ec000011/d4707214/Klantengetuigenis_Wemel%2057811_LR_40.jpg.jpeg"
+  ]
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--bianco-cristal",
+   "library_colour": "Bianco Cristal",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/csbcri/bianco-cristal-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/csbcri/bianco-cristal-unistone/",
+  "code": "csbcri",
+  "title": "BIANCO CRISTAL UNISTONE",
+  "origin": "Vietnam",
+  "description": "Fine-grained white quartz compound stone (composed of silicium and quartz with polyester-resin as a binder, produced using BRETON technology with \"Through Tone Technology\").",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/b9f568e864/biancocristal_polished_csbcri_1920x1080.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/d88d85af0b/biancocristal_polished_csbcri_1920x1080.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/59582adf/66471d59dfe44a3df300003c/c3baecbc/BiancoCristal_Fullslab_polished_CSBCRI_onchevalet.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/c29fa855/66472d4ddfe44a1d97000037/39e457a6/BiancoCristal_Polished_CSBCRI_1920x1080.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--bianco-eclipse",
+   "library_colour": "Bianco Eclipse",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/csbecl/bianco-eclipse-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/csbecl/bianco-eclipse-unistone/",
+  "code": "csbecl",
+  "title": "BIANCO ECLIPSE UNISTONE",
+  "origin": "Vietnam",
+  "description": "Fine-grained white-grey quartz compound stone with dark grey veins spread over the surface (quartz compound stone composed of silicium and quartz with polyester-resin as a binder, produced with the BRETON-technology with \"Through Tone Technology\").",
+  "finishes": [],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/ee203d9f/664730aadfe44a3851000010/39fac613/CSBECL%20Fullslab%201920.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/59582adf/66471d59dfe44a3df300001c/54228a65/CSBECL%20-%20Bianco%20Eclipse%20-%20full%20slab%20-%20on%20chevalet.jpg.jpeg"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--bianco-extra",
+   "library_colour": "Bianco Extra",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/cswhex/bianco-extra-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "FULLY VERIFIED by direct page fetch (tools/_cache/brachot/bianco-extra-unistone.html, 209KB page, curl OK, no bot protection)."
+  },
+  "url": "https://www.brachot.com/en/materials/cswhex/bianco-extra-unistone/",
+  "code": "cswhex",
+  "title": "BIANCO EXTRA UNISTONE",
+  "origin": "Vietnam",
+  "description": "Fine-grained white quartz compound stone (composed of silicium and quartz with polyester-resin as a binder, produced using BRETON technology with \"Through Tone Technology\").",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/a98a2d30e6/biancoextra_polished_cswhex_1920x1080.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/1ec4d76cf6/biancoextra_polished_cswhex_1920x1080.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/59582adf/66471cd4dfe44a3df3000010/eaa60db7/BiancoExtra_Fullslab_polished_CSWHEX%20%281%29_onchevalet.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/c29fa855/66471cd4dfe44a3df3000011/4241abad/BiancoExtra_Polished_CSWHEX_1920x1080%281%29.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/d0dad36b/65b8c8866f224b647b00001a/69abba92/B_DeAbdijBrugge_UnistoneBiancoExtraVellut_14.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/d0dad36b/65b8c8866f224b647b000013/ce7d4f9d/B_DeAbdijBrugge_UnistoneBiancoExtraVellut_7.jpg.jpeg"
+  ],
+  "room_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/53e95108/62fccc061414bf001829eca5/664a0151/CSWHEX_OrdingenDorpKitchen(11).jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/650c6560/64c23808c4157c00126e37a5/1b22d3aa/CSWHEX_OrdingenDorpKitchen(6).jpg.jpeg"
+  ]
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--bianco-extreme",
+   "library_colour": "Bianco Extreme",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/csbiex/bianco-extreme-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "Confirmed via sitemap. Note: Brachot ALSO has a Uniceramica porcelain colour called 'Bianco Extreme' (ksxbex) but that one is not in our Brachot price-book list of 35 — not relevant to this harvest, mentioned only for completeness."
+  },
+  "url": "https://www.brachot.com/en/materials/csbiex/bianco-extreme-unistone/",
+  "code": "csbiex",
+  "title": "BIANCO EXTREME UNISTONE",
+  "origin": "Vietnam",
+  "description": "Very fine-grained white quartz compound stone (quartz compound stone composed of silicium and quartz with polyester-resin as a binder, produced with the BRETON-technology with \"Through Tone Technology\").",
+  "finishes": [],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/c29fa855/66472da3dfe44a1d97000039/85746a5a/CSBIEX%20Fullslab%201920.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/59582adf/66471d59dfe44a3df300003e/1f7dc933/BiancoExtreme_Fullslab_Polished_CSBIEX_onchevalet.jpg.jpeg"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--black-crystal",
+   "library_colour": "Black Crystal",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/csblcr/black-crystal-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/csblcr/black-crystal-unistone/",
+  "code": "csblcr",
+  "title": "BLACK CRYSTAL UNISTONE",
+  "origin": "Vietnam",
+  "description": "Fine-grained black quartz compound stone with grey grains spread across the surface (composed of silicium and quartz with polyester-resin as a binder, produced using BRETON technology with \"Through Tone Technology\").",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/94a87a8dc4/csblcr-fullslab.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/59582adf/66471d59dfe44a3df3000046/98292145/CSBLCR%20-%20Black%20Crystal%20-%20full%20slab%20-%20on%20chevalet.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/c29fa855/66472e20dfe44a1d9700003b/0c6a4d91/CSBLCR%20Fullslab%201920.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--cararra-misterio",
+   "library_colour": "Cararra Misterio",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/csbcam/carrara-misterio-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "IMAGE MISSING in library — priority fix. Price-book spelling 'Cararra' is a typo for 'Carrara'; Brachot's slug correctly spells 'carrara-misterio-unistone' — add as an alias so the price-book join still resolves. Two site codes exist for the same slug (csbcam and csbeam) — probably a batch/duplicate SKU, use csbcam (first found, matches sitemap primary listing). UniQ version also exists at czbcam."
+  },
+  "url": "https://www.brachot.com/en/materials/csbcam/carrara-misterio-unistone/",
+  "code": "csbcam",
+  "title": "CARRARA MISTERIO UNISTONE",
+  "origin": "Vietnam",
+  "description": "Fine-grained white quartz compound stone with darker grey veins spread across the surface (composed of silicium and quartz with polyester-resin as a binder, produced using BRETON technology with \"Through Tone Technology\").",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/9f5a2e1cb8/csbcam-fullslab.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x945/557b9ce3dc/csbcam-fullslab-1920.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/59582adf/66471d59dfe44a3df3000040/bb4a589c/CarraraMisterio_Fullslab_Polished_CSBCAM_onchevalet.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/c29fa855/66472b63dfe44a1d9700002f/ab0fb4f6/CSBCAM%20Fullslab%201920.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/178a20fd/660198e46f224b70dd000011/9b6d137a/brampton_sheethangerlane-14.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/178a20fd/660198e46f224b70dd000014/8e1113c6/brampton_sheethangerlane-1.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/12f7c269/6878ac0786b0153a88000023/9964fa9d/DSCF1265.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/171989c6/6878be0286b01520d000001b/86abcd69/DSCF5637.jpg.jpeg"
+  ],
+  "room_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/e2a185b4/650c2e156f224b6697000018/93467774/CSBCAM_Homewoodroad_Kitchen%20%282%29.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/340d674a/65fc4e3c6f224b3d89000014/f15ee258/2023%2004%2028_Klantgetuigenis_Boucquez_68423_LR_31.jpg.jpeg"
+  ]
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--cemento",
+   "library_colour": "Cemento",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/csceme/cemento-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "Confirmed via sitemap. UniQ version also exists at czceme."
+  },
+  "url": "https://www.brachot.com/en/materials/csceme/cemento-unistone/",
+  "code": "csceme",
+  "title": "CEMENTO UNISTONE",
+  "origin": "Vietnam",
+  "description": "Fine-grained dark grey quartz compound stone with rounded paler fragments spread across the surface (composed of silicium and quartz with polyester-resin as a binder, produced using BRETON technology with \"Through Tone Technology\").",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/7b777f391a/csceme-fullslab.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x941/b416015d97/csceme-fullslab-1920.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/59582adf/66471d59dfe44a3df3000047/2882bb1c/CSCEME%20-%20Cemento%20-%20full%20slab%20-%20on%20chevalet.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/c29fa855/66472e60dfe44a1d9700003c/a5245e0e/CSCEME%20Fullslab%201920.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--cendre",
+   "library_colour": "Cendre",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/cscend/cendre-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "Confirmed via sitemap. UniQ version also exists at czcend."
+  },
+  "url": "https://www.brachot.com/en/materials/cscend/cendre-unistone/",
+  "code": "cscend",
+  "title": "CENDRE UNISTONE",
+  "origin": "Vietnam",
+  "description": "Fine-grained grey quartz compound stone with rounded paler fragments spread across the surface (composed of silicium and quartz with polyester-resin as a binder, produced using BRETON technology with \"Through Tone Technology\").",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/a174576f14/cscend-fullslab.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x913/2bdd6c2a7b/cscend-fullslab-1920.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/59582adf/66471d59dfe44a3df3000042/1531b9fa/Cendre_Fullslab_Polished_CSCEND_onchevalet.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/6e91632a/66472606dfe44a1d9700001d/3bf6706b/CSCEND%20Fullslab%201920.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/6a088c7b/67c0398979a4ba795e000026/2d941dc1/eid6mrqU.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/6a088c7b/67c0398979a4ba795e000025/3277470e/DK3GuoV8.jpeg"
+  ],
+  "room_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/53e95108/62fccba71414bf001829ec54/6cfff9f9/CSCEND_Sterck_kitchen (2).jpg.jpeg"
+  ]
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--ceppo",
+   "library_colour": "Ceppo",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/cscepp/ceppo-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/cscepp/ceppo-unistone/",
+  "code": "cscepp",
+  "title": "CEPPO UNISTONE",
+  "origin": "Vietnam",
+  "description": "Fine-grained grey quartz compound stone with larger rounded fragments spread across the surface (composed of silicium and quartz with polyester-resin as a binder, produced using BRETON technology with \"Through Tone Technology\").",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/00b0f5900e/cscepp-fullslab.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x954/0a6f6ce5f0/cscepp-fullslab_1920.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/be35ada0/6389b22337737105df000010/1fad9daf/CSCEPP%20-%20Ceppo%20-%20full%20slab%20-%20on%20chevalet-%20WEB0212.jpeg"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/7571d1e6/6419b8b4d86b6a5e70000016/0075c931/CSCEPP%20-%20Ceppo%20-%20full%20slab_WEB2023.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--cinza",
+   "library_colour": "Cinza",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/cscinz/cinza-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/cscinz/cinza-unistone/",
+  "code": "cscinz",
+  "title": "CINZA UNISTONE",
+  "origin": "Vietnam",
+  "description": "Fine-grained dark grey quartz compound stone with paler veins spread over the surface (quartz compound stone composed of silicium and quartz with polyester-resin as a binder, produced with the BRETON-technology with \"Through Tone Technology\").",
+  "finishes": [],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/6e91632a/6647262fdfe44a1d9700001e/13ab936a/CSCINZ%20Fullslab%201920.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/59582adf/66471d59dfe44a3df3000048/e1997705/CSCINZ%20-%20Cinza%20-%20full%20slab%20-%20on%20chevalet.jpg.jpeg"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--crystallo-beige",
+   "library_colour": "Crystallo Beige",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/cscrbe/crystallo-beige-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "Confirmed via sitemap. UniQ version also exists at czcrbe. Coincidental name overlap with brachot--crystallo (porcelain, ksxcrq) — different material, do not share."
+  },
+  "url": "https://www.brachot.com/en/materials/cscrbe/crystallo-beige-unistone/",
+  "code": "cscrbe",
+  "title": "CRYSTALLO BEIGE UNISTONE",
+  "origin": "Vietnam",
+  "description": "Fine-grained beige quartz compound stone with scattered darker beige concentrations (quartz compound stone based on silicium and quartz with polyester resin as binder, produced using BRETON technology with \"Through Tone Technology\").",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/e1ba334521/crystallo-beige-bq9661-fullslab-new.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x945/7f2f3eed58/crystallo-beige_cscrbe_1920.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/c8dc4773/67a5e94086b0156fc300001b/d90c305b/Crystallo%20Beige%20Unistone_CSCRBE_1920x1080_chevalet.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/c8dc4773/67a5e92c86b0156fc300001a/268b94d9/Crystallo%20Beige_CSCRBE_1920.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--grey-savoye",
+   "library_colour": "Grey Savoye",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/cssavo/grey-savoye-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/cssavo/grey-savoye-unistone/",
+  "code": "cssavo",
+  "title": "GREY SAVOYE UNISTONE",
+  "origin": "Vietnam",
+  "description": "Fine-grained grey quartz compound stone with paler veins spread across the surface (composed of silicium and quartz with polyester-resin as a binder, produced using BRETON technology with \"Through Tone Technology\").",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/7520734719/greysavoye_cssavo_polished.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x916/3119a9d419/greysavoye_cssavo_polished-1920.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/59582adf/66471d59dfe44a3df3000035/28a6c2e8/GreySavoye_Fullslab_Polished_CSSAVO_onchevalet.jpg.jpeg"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/6e91632a/664726d3dfe44a1d97000020/052b5799/GreySavoye_CSSAVO_Polished%201920.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--grigio-paloma",
+   "library_colour": "Grigio Paloma",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/csgrpa/grigio-paloma-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/csgrpa/grigio-paloma-unistone/",
+  "code": "csgrpa",
+  "title": "GRIGIO PALOMA UNISTONE",
+  "origin": "Vietnam",
+  "description": "Fine-grained grey quartz compound stone (quartz compound stone based on silicium and quartz with polyester resin as binder, produced using BRETON technology with \"Through Tone Technology\").",
+  "finishes": [
+   {
+    "name": "Honed",
+    "src": "https://a.storyblok.com/f/236904/1920x907/2efbf74c53/csgrpa-fullslab-1920.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/f990bc0e/67c1af1e86b0150b8900001c/975399ec/Grigio%20Paloma%20Uistone_CSGRPA_1920x1080.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/f990bc0e/67c1af0386b0150b8900001b/0e7c810e/CSGRPA%20Fullslab%201920.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--java-black",
+   "library_colour": "Java Black",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/csjabl/java-black-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "Confirmed via sitemap. UniQ version also exists at czjabl. Note there is also a separate 'javablue-unistone' (csjava, Java Blue) — do not confuse."
+  },
+  "url": "https://www.brachot.com/en/materials/csjabl/java-black-unistone/",
+  "code": "csjabl",
+  "title": "JAVA BLACK UNISTONE",
+  "origin": "Vietnam",
+  "description": "Fine-grained black quartz compound stone with paler irregular veins spread over the surface (quartz compound stone composed of silicium and quartz with polyester-resin as a binder, produced with the BRETON-technology with \"Through Tone Technology\").",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/a3f48c8b73/csjabl-fullslab.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/6e91632a/6647271cdfe44a1d97000021/b2160882/CSJABL%20Fullslab%201920.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/59582adf/66471d59dfe44a3df3000012/b524b6b4/JavaBlack_Fullslab_Polished_CSJABL_onchevalet.jpg.jpeg"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--jura-grey",
+   "library_colour": "Jura Grey",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/csjugr/jura-grey-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "Confirmed via sitemap. Related-sounding to brachot--jura-beige (porcelain) via the shared 'Jura' limestone-quarry reference, but a different Brachot range/material — not the same product, do not share."
+  },
+  "url": "https://www.brachot.com/en/materials/csjugr/jura-grey-unistone/",
+  "code": "csjugr",
+  "title": "JURA GREY UNISTONE",
+  "origin": "Vietnam",
+  "description": "Fine-grained beige-grey quartz compound stone with paler rounded fragments spread across the surface (composed of silicium and quartz with polyester-resin as a binder, produced using BRETON technology with \"Through Tone Technology\").",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/f6360b5ab9/csjugr-fullslab.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x906/c44b755dd7/csjugr-fullslab-1920.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/59582adf/66471d59dfe44a3df3000013/ad96dab9/JuraGrey_Fullslab_Polished_CSJUGR%20%281%29_onchevalet.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/6e91632a/66472754dfe44a1d97000022/7abfd94b/CSJUGR%20Fullslab%201920.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--misterio-gold",
+   "library_colour": "Misterio Gold",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/csmigo/misterio-gold-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "Confirmed via sitemap. UniQ version also exists at czmigo."
+  },
+  "url": "https://www.brachot.com/en/materials/csmigo/misterio-gold-unistone/",
+  "code": "csmigo",
+  "title": "MISTERIO GOLD UNISTONE",
+  "origin": "Vietnam",
+  "description": "Fine-grained white-grey quartz compound stone with subtle darker brown-grey veins spread across the surface (composed of silicium and quartz with polyester-resin as a binder, produced using BRETON technology with \"Through Tone Technology\").",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/f7fd999c42/misteriogold_csmigo_polished.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x956/2e7f9cb9b4/misteriogold_csmigo_polished_1920x1080.jpg"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/07f77ff2/672cd07986b0155b2100001e/0f5db024/Misterio%20Gold%20Unistone_CSMIGO_1920x1080_chevalet.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/1a8f763e/66472c07dfe44a1d97000032/cbeb6f2e/MisterioGold_CSMIGO_Polished_1920x1080.jpg.jpeg"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/19b0e6d1/65b8eeb76f224b37e7000027/567ad02e/B_DeAbdijBrugge_UnistoneMisterioGold_30.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/bfc95065/68010e4c79a4ba07ba000028/5fbd2356/Misterio-Gold-Unistone-1.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/19b0e6d1/65b8eeb76f224b37e700001e/9b54a2bf/B_DeAbdijBrugge_UnistoneMisterioGold_19.jpg.jpeg"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--polaris",
+   "library_colour": "Polaris",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/cspola/polaris-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "Confirmed via sitemap. UniQ version also exists at czpola."
+  },
+  "url": "https://www.brachot.com/en/materials/cspola/polaris-unistone/",
+  "code": "cspola",
+  "title": "POLARIS UNISTONE",
+  "origin": "Vietnam",
+  "description": "Very fine-grained white quartz composite with fine darker veins (quartz composite based on quartz with polyester resin as binder, produced using BRETON technology with \"Through Tone Technology\").",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/ab8e911fd7/polaris-bq2612-fullslab-new.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x945/b9bc7b9b94/polaris_cspola_1920.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/44fbaf84/67a5ec3b86b015785d00001c/9c0a2266/Polaris%20Unistone_CSPOLA_1920x1080_chevalet.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/44fbaf84/67a5ec2186b015785d00001b/ab233b81/Polaris_CSPOLA_1920.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--sahara-noir",
+   "library_colour": "Sahara Noir",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/cssano/sahara-noir-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "Confirmed via sitemap. Brachot also has a Uniceramica porcelain 'Sahara Noir' (ksxsan) but it is NOT in our Brachot price-book list of 35 — not directly relevant but same cross-material naming pattern as the others flagged here."
+  },
+  "url": "https://www.brachot.com/en/materials/cssano/sahara-noir-unistone/",
+  "code": "cssano",
+  "title": "SAHARA NOIR UNISTONE",
+  "origin": "Vietnam",
+  "description": "Fine-grained black quartz compound stone with fairly straight white and orange veins spread across the surface (composed of silicium and quartz with polyester-resin as a binder, produced using BRETON technology with \"Through Tone Technology\").",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/52f2546588/cssano-fullslab.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/59582adf/66471d59dfe44a3df3000028/5ac1a13a/SaharaNoir_Fullslab_Polished_CSSANO_New_onchevalet.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/6e91632a/6647244bdfe44a1d97000016/99e2a9a9/CSSANO%20Fullslab%201920.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/6752e829/6721f89d6f224b4a8800001a/52912e0e/KSXFD-CSSANO_Kitchen_DSM_BIS24%20%2811%29.jpg.jpeg"
+  ]
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--silver-sea",
+   "library_colour": "Silver Sea",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/cssea/silver-sea-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/cssea/silver-sea-unistone/",
+  "code": "cssea",
+  "title": "SILVER SEA UNISTONE",
+  "origin": "Vietnam",
+  "description": "Fine-grained dark beige quartz compound stone with white fragments and orange irregular veins (quartz compound stone composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/a8018088/66471f33dfe44a144e000010/36b67aad/CSSEA%20Fullslab%201920.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/59582adf/66471d59dfe44a3df300004a/49e9534d/CSSEA%20-%20Silver%20Sea%20-%20full%20slab%20-%20on%20chevalet.jpg.jpeg"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--sinai-pearl",
+   "library_colour": "Sinai Pearl",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/cssina/sinai-pearl-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "Confirmed via sitemap. Brachot's Uniceramica range separately has a porcelain 'Sinai Pearl' too (ksxsip), not in our list of 35 — same cross-material naming pattern, not relevant here."
+  },
+  "url": "https://www.brachot.com/en/materials/cssina/sinai-pearl-unistone/",
+  "code": "cssina",
+  "title": "SINAI PEARL UNISTONE",
+  "origin": "Vietnam",
+  "description": "Beige fine-grained quartz compound stone (composed of silicium and quartz with polyester-resin as a binder, produced using BRETON technology with \"Through Tone Technology\").",
+  "finishes": [
+   {
+    "name": "Honed",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/47d7b4517d/sinaipearl_cssina_1920x1080.png"
+   },
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/36bfe56e02/sinai-pearl_polished_cssina.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/47d7b4517d/sinaipearl_cssina_1920x1080.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/26e3a4de/6650372edfe44a3a42000010/0e5fdc9b/SinaiPearl_Fullslab_Polished_CSSINA_New_onchevalet.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/6e91632a/65f94b85dfe44a697a000010/636ff5d5/SinaiPearl_CSSINA_1920x1080.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/f91c1674/67dd49a179a4ba5fc300001b/3c4167ec/US%20Sinai%20Pearl%202.jpg.jpeg"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--statuario",
+   "library_colour": "Statuario",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/csstat/statuario-unistone/",
+   "image_kinds_seen": [
+    "slab (chevalet + flat texture, e.g. Statuario_Fullslab_Polished_CSSTAT_onchevalet.jpg)",
+    "room(house_kitchen)",
+    "possible lifestyle/testimonial photo (Klantengetuigenis_... = Dutch for 'customer testimonial' — likely a showroom/people photo, NOT a room shot; verify before classifying as room)"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker 'Choose the dimension (cm)', see price book for 3000x1400/3200x1600/3300x1650mm"
+   ],
+   "notes": "FULLY VERIFIED by direct page fetch (tools/_cache/unistone/statuario-unistone.html, title 'STATUARIO UNISTONE | BRACHOT'). Finishes confirmed on page: Polished, Velluto. SAME DESIGN NAME as brachot--statuario (porcelain, ksxsta) — different material, do not share images."
+  },
+  "url": "https://www.brachot.com/en/materials/csstat/statuario-unistone/",
+  "code": "csstat",
+  "title": "STATUARIO UNISTONE",
+  "origin": "Vietnam",
+  "description": "Fine-grained white quartz compound stone with grey veins spread across the surface (composed of silicium and quartz with polyester-resin as a binder, produced using BRETON technology with \"Through Tone Technology\").",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/b85e733a87/statuario_csstat_polished_csstat.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x906/30023c302d/statuario_csstat_polished_csstat-1920.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/59582adf/66471d59dfe44a3df300001b/9bbbc945/Statuario_Fullslab_Polished_CSSTAT_onchevalet.jpg.jpeg"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/c29fa855/66472c3adfe44a1d97000033/c2bc74c5/Statuario_CSSTAT_Polished_CSSTAT%201920.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/dbe49c6a/65fc53956f224b7ffe000019/771dc39c/2023%2002%2009_Hap_74433_LR_75-edit.jpg.jpeg"
+  ],
+  "room_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/838ddf3c/64c23808c4157c00126e3787/6f0cb066/CSSTAT_house_kitchen (3).jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/87d096e8/6791108579a4ba0176000029/d88a97bf/Klantengetuigenis_Dhondt_61314_LR_26.jpg.jpeg"
+  ]
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--taj-mahal",
+   "library_colour": "Taj Mahal",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/cstajm/taj-mahal-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "Confirmed via sitemap. UniQ version FULLY VERIFIED by direct fetch at cztajm/taj-mahal-unistone-uniq (tools/_cache/unistone/taj-mahal-uniq.html, title 'TAJ MAHAL UNISTONE UNIQ | BRACHOT', page explicitly labels 'Silica'/'SILICA' free). SAME DESIGN NAME as brachot--taj-mahal (porcelain, ksxtama) — different material, do not share images."
+  },
+  "url": "https://www.brachot.com/en/materials/cstajm/taj-mahal-unistone/",
+  "code": "cstajm",
+  "title": "TAJ MAHAL UNISTONE",
+  "origin": "Vietnam",
+  "description": "Fine-grained beige quartz compound stone with darker layers and veins spread across the surface. The quartz compound stone is composed of silicon and quartz, bound with polyester resin, and produced using BRETON technology with Through Tone Technology.",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/b2124ae6ef/cstajm-fullslab.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x952/31f85d43dd/cstajm-fullslab-1920.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/59582adf/66471d59dfe44a3df3000029/3a3c832a/TajMahal_Fullslab_Polished_CSTAJM_onchevalet.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/6e91632a/66472485dfe44a1d97000017/e12e2e20/CSTAJM%20Fullslab%201920.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/a9a82465/65b2659e6f224b2fe9000012/d6b0ea93/B_KeukensDeRoo_UnistoneTajMahal_4.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/a9a163b2/65b8c5416f224b3c17000024/d92d26ff/B_DeAbdijBrugge_UnistoneTajMahal_20.jpg.jpeg"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--valley-white",
+   "library_colour": "Valley White",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/csvawh/valley-white-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/csvawh/valley-white-unistone/",
+  "code": "csvawh",
+  "title": "VALLEY WHITE UNISTONE",
+  "origin": "Vietnam",
+  "description": "Fine-grained white quartz compound stone with vague darker grey veins spread over the surface (quartz compound stone composed of silicium and quartz with polyester-resin as a binder, produced with the BRETON-technology with \"Through Tone Technology\").",
+  "finishes": [],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/c29fa855/641ad553d86b6a4a70000015/5c4c8c08/ValleyWhite_CSVAWH_Polished_1920x1080.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/59582adf/66471d59dfe44a3df3000030/20f20c10/CSVAWH%20-%20Valley%20White%20-%20full%20slab%20-%20on%20chevalet.jpg.jpeg"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--vitoria-regia",
+   "library_colour": "Vitoria Regia",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/csvire/vitoria-regia-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/csvire/vitoria-regia-unistone/",
+  "code": "csvire",
+  "title": "VITORIA REGIA UNISTONE",
+  "origin": "Vietnam",
+  "description": "Fine-grained grey quartz composite with lighter and darker grey colour shades and white veins spread across the surface (quartz composite based on silicon and quartz with polyester resin as a binder, produced using BRETON technology with \"Through Tone Technology\").",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/99ff40f2ec/us-vitoria-regia_bq6716-fullslab.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1116x521/ffa4f11a98/us-vitoria-regia_bq6716-fullslab.jpg"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/59582adf/66471d59dfe44a3df300002c/3a2bd123/VitoriaRegia_Fullslab_Polished_onchevalet.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/ddfa41b1/664345cfdfe44a35c6000011/611d986a/US%20Vitoria%20Regia_BQ6716%20Fullslab.jpg.jpeg"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--white-eden",
+   "library_colour": "White Eden",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/csgaed/white-eden-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/csgaed/white-eden-unistone/",
+  "code": "csgaed",
+  "title": "WHITE EDEN UNISTONE",
+  "origin": "Vietnam",
+  "description": "Fine-grained white-grey quartz compound stone with darker grey veins spread over the surface (quartz compound stone composed of silicium and quartz with polyester-resin as a binder, produced with the BRETON-technology with \"Through Tone Technology\").",
+  "finishes": [],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/a8018088/66472024dfe44a144e000011/62f1ba4d/CSGAED%20Fullslab%201920.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/59582adf/66471d59dfe44a3df300002d/fd32f399/WhiteEden_Fullslab_Polished_CSGAED_onchevalet.jpg.jpeg"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "Unistone",
+   "library_id": "unistone--white-fusion",
+   "library_colour": "White Fusion",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/csfusi/white-fusion-unistone/",
+   "image_kinds_seen": [
+    "slab",
+    "room"
+   ],
+   "slab_sizes_seen": [
+    "dropdown variant picker, see price book"
+   ],
+   "notes": "Confirmed via sitemap."
+  },
+  "url": "https://www.brachot.com/en/materials/csfusi/white-fusion-unistone/",
+  "code": "csfusi",
+  "title": "WHITE FUSION UNISTONE",
+  "origin": "Vietnam",
+  "description": "Unistone® is an agglomerated stone composed of silicium and quartz with polyester-resin as a binder. Unistone® is produced with the BRETON-technology with \"Through Tone Technology\" and is NSF-certified. The quartz-content varies between 90% and 93% depending on the type of Unistone®.",
+  "finishes": [],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/a8018088/66472061dfe44a144e000012/f818b988/CSFUSI%20Fullslab%201920.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/59582adf/66471d59dfe44a3df3000036/3173f317/CSFUSI%20-%20White%20Fusion%20-%20full%20slab%20-%20on%20chevalet.jpg.jpeg"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--arctic",
+   "library_colour": "Arctic",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qsarct/arctic-bqs/",
+   "image_kinds_seen": [
+    "slab"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": "BQS = 'Brachot Quartz Surfaces', Brachot's own in-house quartz brand (Belgian stone group, brachot.com). Official manufacturer/distributor site, curl-friendly, no bot protection."
+  },
+  "url": "https://www.brachot.com/en/materials/qsarct/arctic-bqs/",
+  "code": "qsarct",
+  "title": "ARCTIC BQS",
+  "origin": "China",
+  "description": "Fine-grained white quartz compound stone with light grey structures (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/f52fb52254/arctic-bqs_qsarct_1920_ok.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0a5ee6af/6710e5a786b01572e9000023/0a63673b/Arctic BQS_QSARCT_1920_chevalet_OK.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/410ed8e5/66dabf5e86b0152024000038/c6e992dd/Arctic%20BQS_QSARCT_1920_OK.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--aurora-dune",
+   "library_colour": "Aurora Dune",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qsaudu/aurora-dune-bqs/",
+   "image_kinds_seen": [
+    "slab"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished/Velluto"
+   ],
+   "notes": "Has both Polished and Velluto price-book rows; product page's materialStory.finishes[] carries one slab image per finish."
+  },
+  "url": "https://www.brachot.com/en/materials/qsaudu/aurora-dune-bqs/",
+  "code": "qsaudu",
+  "title": "AURORA DUNE BQS",
+  "origin": "China",
+  "description": "Fine-grained beige quartz compound stone with white and darker brown veins spread across the surface (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/5af946065b/aurora-dune-bqs_qsaudu_1920.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x960/84db948419/aurora-dune-bqs_qsaudu_1920.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/5575adb8/6830642286b01524b3000022/0c9726e2/Aurora%20Dune%20BQS_QSAUDU_1920x1080_chevalet.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/5575adb8/6830613486b01524b300001b/28423145/Aurora%20Dune_QSAUDU_1920.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--avenza",
+   "library_colour": "Avenza",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qsavav/avenza-avorio-bqs/",
+   "image_kinds_seen": [
+    "slab",
+    "room (brachot.com/en/references/119/kitchen-worktop-in-bqs-avenza/)"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": "Brachot's own slug is 'Avenza Avorio BQS'; price book just says 'Avenza' - treat as the same product (token-subset match), not two colours."
+  },
+  "url": "https://www.brachot.com/en/materials/qsavav/avenza-avorio-bqs/",
+  "code": "qsavav",
+  "title": "AVENZA AVORIO BQS",
+  "origin": "China",
+  "description": "Fine-grained white quartz compound stone with subtle grey veins (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/063270d4c8/avenza-avorio_qsavav_1920x1080_ok.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0a5ee6af/6710e5a786b01572e9000024/49c1c77a/Avenza Avorio_QSAVAV_1920_chevalet_OK.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/3e147e2c/66dae49086b0151a2c000016/718476b7/Avenza%20Avorio_QSAVAV_1920x1080_OK.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--beige-mirrorlux",
+   "library_colour": "Beige Mirrorlux",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qsbelx/beige-mirrorlux-bqs/",
+   "image_kinds_seen": [
+    "slab"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": "Mirrorlux = BQS's mirror-chip-sparkle finish family (White/Black/Grey/Beige variants all exist as separate colours in our library and in Brachot's range)."
+  },
+  "url": "https://www.brachot.com/en/materials/qsbelx/beige-mirrorlux-bqs/",
+  "code": "qsbelx",
+  "title": "BEIGE MIRRORLUX BQS",
+  "origin": "China",
+  "description": "Fine-grained creme-beige quartz compound stone with reflecting grains (quartz compound stone composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/cf81256de3/beige-mirrorlux_qsbelx_1920x1080_ok.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0a5ee6af/6710e5a786b01572e9000025/5c6be773/Beige Mirrorlux_QSBELX_1920x1080_chevalet_OK.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/410ed8e5/66dabf5e86b015202400003a/2c1d6de8/Beige%20Mirrorlux_QSBELX_1920x1080_OK.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--bianco-fontana",
+   "library_colour": "Bianco Fontana",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qsbifo/bianco-fontana-bqs/",
+   "image_kinds_seen": [
+    "slab",
+    "room (brachot.com/en/references/504011/kitchen-worktop-in-bqs-bianco-fontana/)"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished/Velluto"
+   ],
+   "notes": ""
+  },
+  "url": "https://www.brachot.com/en/materials/qsbifo/bianco-fontana-bqs/",
+  "code": "qsbifo",
+  "title": "BIANCO FONTANA BQS",
+  "origin": "China",
+  "description": "Fine-grained white quartz compound stone with black-grey veins (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/307e4d8787/bianco-fontana-bqs_qsbifo_1920_ok.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x952/a1a31eac02/bianco-fontana-bqs_qsbifo_1920_ok.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0a5ee6af/6710e5a786b01572e9000026/40016f66/Bianco Fontana BQS_QSBIFO_1920_chevalet_OK.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/410ed8e5/66dac09386b0152024000053/4442aec0/Bianco%20Fontana%20BQS_QSBIFO_1920_OK.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/fea7b099/6920430186b01564f300001e/8e98593e/QSBIFO.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--bianco-massa",
+   "library_colour": "Bianco Massa",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qsbima/bianco-massa-bqs/",
+   "image_kinds_seen": [
+    "slab"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": "Fully test-fetched this pass; page's __NEXT_DATA__ JSON gives materialPim.images[] (3x official cdn.pimber.ly product photos, origin=China) plus materialStory.finishes[].image (one storyblok slab photo per finish, ~1920x945px, ~2:1 aspect - good slab crop)."
+  },
+  "url": "https://www.brachot.com/en/materials/qsbima/bianco-massa-bqs/",
+  "code": "qsbima",
+  "title": "BIANCO MASSA BQS",
+  "origin": "China",
+  "description": "Fine-grained white-grey quartz compound stone with darker grey irregular veins (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/b8712446d5/bianco-massa-bqs_qsbima_1920_ok.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0a5ee6af/6710e5a786b01572e9000027/3a17f9e7/Bianco Massa BQS_QSBIMA_1920_chevalet_OK.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/410ed8e5/66dabf5e86b015202400003c/556c9cb6/Bianco%20Massa%20BQS_QSBIMA_1920_OK.png"
+  ],
+  "room_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/5acd204b/64c2380ac4157c00126e3981/6c73268b/QSBIMA_house_kitchen (1).jpg.jpeg"
+  ]
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--bianco-venatino",
+   "library_colour": "Bianco Venatino",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qsbive/bianco-venatino-bqs/",
+   "image_kinds_seen": [
+    "slab"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": "Same colour name as a Lumina Stone entry in our library - different supplier/product, both confirmed to exist independently, no relationship."
+  },
+  "url": "https://www.brachot.com/en/materials/qsbive/bianco-venatino-bqs/",
+  "code": "qsbive",
+  "title": "BIANCO VENATINO BQS",
+  "origin": "China",
+  "description": "Fine-grained white quartz compound stone with darker grey irregular veins (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/f8c8f8a465/bianco-venatino-bqs_qsbive_1920_ok.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0a5ee6af/6710e5a786b01572e9000028/76d14760/Bianco Venatino BQS_QSBIVE_1920_chevalet_OK.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/410ed8e5/66dabf5e86b015202400003d/a5f145e4/Bianco%20Venatino%20BQS_QSBIVE_1920_OK.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--black-mirrorlux",
+   "library_colour": "Black Mirrorlux",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qsbllx/black-mirrorlux-bqs/",
+   "image_kinds_seen": [
+    "slab",
+    "room (brachot.com/en/references/395/kitchen-worktop-in-bqs-black-mirrorlux/)"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": ""
+  },
+  "url": "https://www.brachot.com/en/materials/qsbllx/black-mirrorlux-bqs/",
+  "code": "qsbllx",
+  "title": "BLACK MIRRORLUX BQS",
+  "origin": "China",
+  "description": "Fine-grained black quartz compound stone with reflective grains (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/ea8c67c3fb/black-mirrorlux-bqs_qsbllx_1920_ok.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0a5ee6af/6710e5a786b01572e9000029/fb87bf52/Black Mirrorlux BQS_QSBLLX_1920_chevalet_OK.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/410ed8e5/66dabf5e86b015202400003e/3a10946b/Black%20Mirrorlux%20BQS_QSBLLX_1920_OK.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--blanco-mist",
+   "library_colour": "Blanco Mist",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qsuwcc/blanco-mist-bqs/",
+   "image_kinds_seen": [
+    "slab"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": "Fully test-fetched this pass. Price-book flags this as Finch's bulk-stock colour (tier A stock sell price) - highest-priority colour to actually harvest well."
+  },
+  "url": "https://www.brachot.com/en/materials/qsuwcc/blanco-mist-bqs/",
+  "code": "qsuwcc",
+  "title": "BLANCO MIST BQS",
+  "origin": "China",
+  "description": "Fine-grained white quartz compound stone with fine darker veins (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/937bb35c68/blanco-mist_qsuwcc_1920.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/73acd28d/684abe2186b015662400001a/9d7695ad/Blanco%20Mist%20BQS_QSUWCC_1920x1080_chevalet.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/73acd28d/684abe4b86b015662400001b/edf62809/Blanco%20Mist_QSUWCC_1920.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--borealis-green",
+   "library_colour": "Borealis Green",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qsbogr/borealis-green-bqs/",
+   "image_kinds_seen": [
+    "slab",
+    "closeup"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished/Velluto"
+   ],
+   "notes": "Brachot's own BQS academy page (brachot.com/en/brachot-academy/bqs/) singles this out as available in a 'translucent option' with its own detail/closeup shot - worth checking for a bonus closeup image."
+  },
+  "url": "https://www.brachot.com/en/materials/qsbogr/borealis-green-bqs/",
+  "code": "qsbogr",
+  "title": "BOREALIS GREEN BQS",
+  "origin": "China",
+  "description": "Fine-grained pale green quartz compound stone with white and darker veins spread across the surface (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/7b1e39e2f4/borealis-green-bqs_qsbogr.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x960/899484847b/borealis-green-bqs_qsbogr.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/5575adb8/6830642286b01524b3000023/97c3bab9/Borealis%20Green%20BQS_QSBOGR_1920x1080_chevalet.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/5575adb8/6830613486b01524b300001c/8da73f45/Borealis%20Green_QSBOGR.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--calacatta-aurora",
+   "library_colour": "Calacatta Aurora",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qscaau/calacatta-aurora-bqs/",
+   "image_kinds_seen": [
+    "slab"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": ""
+  },
+  "url": "https://www.brachot.com/en/materials/qscaau/calacatta-aurora-bqs/",
+  "code": "qscaau",
+  "title": "CALACATTA AURORA BQS",
+  "origin": "China",
+  "description": "Fine-grained white quartz compound stone with grey-beige veins spread across the surface (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/fc8728d804/calacatta-aureate-bqs_qscaau_1920.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/5575adb8/6830642286b01524b3000024/b96ff353/Calacatta%20Aureate%20BQS_QSCAAU_1920x1080_chevalet.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/5575adb8/6830613486b01524b300001d/d0c5ea7c/Calacatta%20Aureate_QSCAAU_1920.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--calacatta-forte",
+   "library_colour": "Calacatta Forte",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qscafo/calacatta-forte-bqs/",
+   "image_kinds_seen": [
+    "slab"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": ""
+  },
+  "url": "https://www.brachot.com/en/materials/qscafo/calacatta-forte-bqs/",
+  "code": "qscafo",
+  "title": "CALACATTA FORTE BQS",
+  "origin": "China",
+  "description": "Fine-grained white quartz compound stone with darker veins (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/9f496f3484/calacatta-forte-bqs_qscafo_1920_ok.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0a5ee6af/6710e5a786b01572e900002a/ede15b5d/Calacatta Forte BQS_QSCAFO_1920_chevalet_OK.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/410ed8e5/66dabf5e86b015202400003f/4b7c273d/Calacatta%20Forte%20BQS_QSCAFO_1920_OK.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--calacatta-viola",
+   "library_colour": "Calacatta Viola",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qscavv/calacatta-viola-bqs/",
+   "image_kinds_seen": [
+    "slab"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": ""
+  },
+  "url": "https://www.brachot.com/en/materials/qscavv/calacatta-viola-bqs/",
+  "code": "qscavv",
+  "title": "CALACATTA VIOLA BQS",
+  "origin": "China",
+  "description": "Fine-grained white quartz compound stone with violet-brown veins spread across the surface (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/8b74e9c631/calacatta-viola-bqs_qscavv_1920.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/5575adb8/6830642286b01524b3000025/7f9eb222/Calacatta%20Viola%20Violet%20BQS_QSCAVV_1920x1080_chevalet.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/5575adb8/6830613486b01524b300001e/d6855436/Calacatta%20Viola%20Violet_QSCAVV_1920.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--canaletto",
+   "library_colour": "Canaletto",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qscanal/canaletto-bqs/",
+   "image_kinds_seen": [
+    "slab",
+    "room (brachot.com/en/references/512162/kitchen-worktop-and-splashback-in-bqs-canaletto/)"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": ""
+  },
+  "url": "https://www.brachot.com/en/materials/qscanal/canaletto-bqs/",
+  "code": "qscanal",
+  "title": "CANALETTO BQS",
+  "origin": "China",
+  "description": "Fine-grained white quartz compound stone with larger darker grey veins (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/ac7db266ab/canaletto-bqs_qscanal_1920_ok.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0a5ee6af/6710e5a786b01572e900002b/afe1d56e/Canaletto BQS_QSCANAL_1920_chevalet_OK.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/410ed8e5/66dabf5e86b0152024000040/9cf50ed3/Canaletto%20BQS_QSCANAL_1920_OK.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--capri",
+   "library_colour": "Capri",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qscapr/capri-bqs/",
+   "image_kinds_seen": [
+    "slab",
+    "room (brachot.com/en/references/507177/quartz-kitchen-worktop-splashback-in-bqs-capri/)"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished/Velluto"
+   ],
+   "notes": "Fully test-fetched this pass (used as the schema example - see report). Brachot BQS academy page also singles this out for 'natural variation in vein prominence' detail shot."
+  },
+  "url": "https://www.brachot.com/en/materials/qscapr/capri-bqs/",
+  "code": "qscapr",
+  "title": "CAPRI BQS",
+  "origin": "China",
+  "description": "Fine-grained white quartz compound stone with darker fine veins (quartz compound stone composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/d9aa278d99/capri-bqs_qscapr_1920_ok.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x945/812ece2cbc/capri-bqs_qscapr_1920_ok.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0a5ee6af/6710e5a786b01572e900002c/f9f25b25/Capri BQS_QSCAPR_1920_chevalet_OK.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/410ed8e5/66dabf5e86b0152024000041/8b93c5e8/Capri%20BQS_QSCAPR_1920_ok.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/079107d3/6878c62f86b01503c500001c/348a3ab2/23D37D1B-E6AD-4F5D-AFCB-2582CAF1D7EB.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--carrara-extra",
+   "library_colour": "Carrara Extra",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qscaex/carrara-extra-bqs/",
+   "image_kinds_seen": [
+    "slab",
+    "room (brachot.com/en/references/512172/kitchen-worktop-in-bqs-carrara-extra/)"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished/Velluto"
+   ],
+   "notes": "Price book notes the May 2026 pricelist prints this as 'Cararra Extra' (typo) but Brachot's own site spells it correctly 'Carrara Extra' - use the site spelling."
+  },
+  "url": "https://www.brachot.com/en/materials/qscaex/carrara-extra-bqs/",
+  "code": "qscaex",
+  "title": "CARRARA EXTRA BQS",
+  "origin": "China",
+  "description": "Fine-grained white quartz compound stone with fine darker veins (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/9e784cca6f/carrara-extra-bqs_qscaex_1920_ok.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x931/ca206c069f/carrara-extra-bqs_qscaex_1920_ok.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0a5ee6af/6710e5a786b01572e900002d/79549139/Carrara Extra BQS_QSCAEX_1920_chevalet_OK.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/410ed8e5/66dabf5e86b0152024000042/69e4224a/Carrara%20Extra%20BQS_QSCAEX_1920_OK.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--carrara-minari",
+   "library_colour": "Carrara Minari",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qscami/carrara-minari-bqs/",
+   "image_kinds_seen": [
+    "slab"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": ""
+  },
+  "url": "https://www.brachot.com/en/materials/qscami/carrara-minari-bqs/",
+  "code": "qscami",
+  "title": "CARRARA MINARI BQS",
+  "origin": "China",
+  "description": "Fine-grained white quartz composite with very fine grey, yellow and rusty-brown veins and softly clouded extensions (quartz composite based on silicon and quartz with polyester resin as binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/40d8d537fe/carrara-minari-bqs_qscami_1920.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/442cbb66/693a8ad586b01530a200001c/58f7ec55/Carrara%20Minari%20BQS_QSCAMI_1920x1080_chevalet.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/442cbb66/693a8aaa86b01530a200001a/e5709d53/Carrara%20Minari%20BQS_QSCAMI_1920.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--carrara-shimmer",
+   "library_colour": "Carrara Shimmer",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qscash/carrara-shimmer-bqs/",
+   "image_kinds_seen": [
+    "slab"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20mm only (price book notes 'New colour in the May 2026 pricelist, 20mm only')"
+   ],
+   "notes": "RESOLVED (was one of the 3 previously-missing colours). Confirmed present in Brachot's sitemap as a live material page - matches the price book's 'new colour' note."
+  },
+  "url": "https://www.brachot.com/en/materials/qscash/carrara-shimmer-bqs/",
+  "code": "qscash",
+  "title": "CARRARA SHIMMER BQS",
+  "origin": "China",
+  "description": "Fine-grained white quartz compound stone with fine grey veins in a soft, cloudy pattern (composed of silicium and quartz, with polyester resin as a binder).",
+  "finishes": [],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0eff73c0/69721f6586b0155ddf00001a/a40c768d/Carrara%20Shimmer%20BQS_QSCASH_1920x1080_chevalet.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0eff73c0/6972060179a4ba1d9800001a/f1894721/Carrara%20Shimmer_QSCASH_1920.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--caverno-beige",
+   "library_colour": "Caverno Beige",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qscabe/caverno-beige-bqs/",
+   "image_kinds_seen": [
+    "slab"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished/Velluto"
+   ],
+   "notes": "RESOLVED (was one of the 3 previously-missing colours). Price book also notes this is 'New colour in the May 2026 pricelist'."
+  },
+  "url": "https://www.brachot.com/en/materials/qscabe/caverno-beige-bqs/",
+  "code": "qscabe",
+  "title": "CAVERNO BEIGE BQS",
+  "origin": "China",
+  "description": "Fine-grained beige quartz composite (composed of silicon and quartz with polyester resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/ac96fd60c2/caverno-beige_qscabe_1920_detail_polished.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1041x586/8cab3ec40a/caverno-beige_qscabe_1920_detail.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/de3c4654/69e202e486b0154fbc00001b/76832d18/Caverno%20Beige_QSCABE_1920_chevalet.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/de3c4654/6a79e55ceb78f1025600001b/b3ae7886/Caverno%20Beige_QSCABE_1920_new.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--crema-fiore",
+   "library_colour": "Crema Fiore",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qscrfi/crema-fiore-bqs/",
+   "image_kinds_seen": [
+    "slab",
+    "room (brachot.com/en/references/601073/kitchen-worktop-and-splashback-in-bqs-crema-fiore/)"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": ""
+  },
+  "url": "https://www.brachot.com/en/materials/qscrfi/crema-fiore-bqs/",
+  "code": "qscrfi",
+  "title": "CREMA FIORE BQS",
+  "origin": "China",
+  "description": "Fine-grained beige quartz compound stone with white and darker veins spread across the surface (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/a737ebb529/crema-fiore-bqs_qscrfi_1920_ok.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x957/76575b0178/crema-fiore-bqs_qscrfi_1920_ok.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/5575adb8/6830615086b01524b3000020/e15b1725/Crema%20Fiore%20BQS_QSCRFI_chevalet.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/5575adb8/6830613486b01524b300001f/b95f1870/Crema%20Fiore%20BQS_QSCRFI_1920_ok.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/704d264b/695e5eaa79a4ba374800001a/cee47ef4/B_KdA_Oostende_BQSCremaFiore-2.jpg.jpeg"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--elegant-grey",
+   "library_colour": "Elegant Grey",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qselgr/elegant-grey-bqs/",
+   "image_kinds_seen": [
+    "slab"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": ""
+  },
+  "url": "https://www.brachot.com/en/materials/qselgr/elegant-grey-bqs/",
+  "code": "qselgr",
+  "title": "ELEGANT GREY BQS",
+  "origin": "China",
+  "description": "Fine-grained pale-grey quartz compound stone (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/cc8f4286dd/elegant-grey_qselgr_1920_ok.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0a5ee6af/6710e5a786b01572e900000f/5e4b4670/Elegant Grey BQS_QSELGR_1920_chevalet_OK.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/410ed8e5/66dabf5e86b0152024000044/c9b295d8/Elegant%20Grey_QSELGR_1920_OK.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--glacier",
+   "library_colour": "Glacier",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qsglac/glacier-bqs/",
+   "image_kinds_seen": [
+    "slab",
+    "room (brachot.com/en/references/607092/kitchen-worktop-in-bqs-glacier/)"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": "Also appears in one of the initial WebSearch hits with a detailed description ('irregular, subtle darker veins')."
+  },
+  "url": "https://www.brachot.com/en/materials/qsglac/glacier-bqs/",
+  "code": "qsglac",
+  "title": "GLACIER BQS",
+  "origin": "China",
+  "description": "Fine-grained white quartz compound stone with irregular, subtle darker veins (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/9a24eb3883/glacier-bqs_qsglac_1920x1080.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/3f8d00c57a/glacier_qsglac_1920x1080_ok.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0a5ee6af/6710e5a786b01572e9000010/e25e2600/Glacier BQS_QSGLAC_1920_chevalet_OK.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/410ed8e5/66dabf5e86b0152024000045/c7c29255/Glacier_QSGLAC_1920x1080_OK.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0f8eba29/6a4facf3f3b1593e7700001d/c41ee647/QSGLAC_kitchen_House%20of%20Harper%20%281%29.jpg.jpeg",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0f8eba29/6a4facf3f3b1593e7700001b/8b5c730c/QSGLAC_kitchen_House%20of%20Harper%20%283%29.jpg.jpeg"
+  ]
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--gracious",
+   "library_colour": "Gracious",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qsgrac/gracious-bqs/",
+   "image_kinds_seen": [
+    "slab"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": ""
+  },
+  "url": "https://www.brachot.com/en/materials/qsgrac/gracious-bqs/",
+  "code": "qsgrac",
+  "title": "GRACIOUS BQS",
+  "origin": "China",
+  "description": "Fine-grained white-grey quartz compound stone with irregular darker structures (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/36b3be6d48/gracious_qsgrac_1920x1080_ok.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0a5ee6af/6710e5a786b01572e9000011/a781733b/Gracious BQS_QSGRAC_1920_chevalet_OK.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/410ed8e5/66dabf5e86b0152024000046/cc124d7d/Gracious_QSGRAC_1920x1080_OK.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--grey-mirrorlux",
+   "library_colour": "Grey Mirrorlux",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qsgrlx/grey-mirrorlux-bqs/",
+   "image_kinds_seen": [
+    "slab"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": "Sold as 'BQS Grey Mirrorlux Sparkle Quartz' on reseller purplegranite.co.uk - same product, marketing suffix 'Sparkle' added by reseller."
+  },
+  "url": "https://www.brachot.com/en/materials/qsgrlx/grey-mirrorlux-bqs/",
+  "code": "qsgrlx",
+  "title": "GREY MIRRORLUX BQS",
+  "origin": "China",
+  "description": "Fine-grained dark grey quartz compound stone with reflective grains (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/aa0581d694/grey-mirrorlux-bqs_qsgrlx_1920_ok.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0a5ee6af/6710e5a786b01572e9000012/b43c47f5/Grey Mirrorlux BQS_QSGRLX_1920_chevalet_OK.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/410ed8e5/66dabf5e86b0152024000047/aeb6687d/Grey%20Mirrorlux%20BQS_QSGRLX_1920_OK.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--grey-shimmer",
+   "library_colour": "Grey Shimmer",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qsgrsh/grey-shimmer-bqs/",
+   "image_kinds_seen": [
+    "slab"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": ""
+  },
+  "url": "https://www.brachot.com/en/materials/qsgrsh/grey-shimmer-bqs/",
+  "code": "qsgrsh",
+  "title": "GREY SHIMMER BQS",
+  "origin": "China",
+  "description": "Very fine-grained grey quartz compound stone (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/18b3605c4a/grey-shimmer-bqs_qsgrsh_1920x1080.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0a5ee6af/6710e5a786b01572e9000013/fade59ac/Grey Shimmer BQS_QSGRSH_1920_chevalet_OK.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/99e5b1ca/655736e2dfe44a01a5000012/ab9e850c/Grey%20Shimmer_QSGRSH_1920x1080.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--lumen-ice",
+   "library_colour": "Lumen Ice",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qsluic/lumen-ice-bqs/",
+   "image_kinds_seen": [
+    "slab",
+    "animation (translucent/backlit GIF on brachot-academy/bqs/)"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": "A distinct 'Lumen Ice Extra BQS' (qsluice) also exists as a separate SKU on brachot.com - not in our price book/library, do not conflate. Brachot markets Lumen Ice as a translucent/backlit quartz."
+  },
+  "url": "https://www.brachot.com/en/materials/qsluic/lumen-ice-bqs/",
+  "code": "qsluic",
+  "title": "LUMEN ICE BQS",
+  "origin": "China",
+  "description": "Fine-grained white-beige quartz compound stone with white-brown veins spread across the surface (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/67501c3b05/lumen-ice-bqs_qsluic_1920.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x960/e5b33acbd3/lumen-ice-bqs_qsluic_1920.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/5575adb8/6830642286b01524b3000021/a260b6c3/Lumen%20Ice%20BQS_QSLUIC_1920x1080_chevalet.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/5575adb8/6830613486b01524b300001a/2f9d6d60/Lumen%20Ice_QSLUIC_1920.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--midas-gold",
+   "library_colour": "Midas Gold",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qsucal/midas-gold-bqs/",
+   "image_kinds_seen": [
+    "slab"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": "Internal Brachot code 'QSUCAL' doesn't obviously map to the name 'Midas Gold' (likely an old/alternate internal name carried over) - just a naming quirk, URL and product confirmed correct via sitemap + Google-indexed slug."
+  },
+  "url": "https://www.brachot.com/en/materials/qsucal/midas-gold-bqs/",
+  "code": "qsucal",
+  "title": "MIDAS GOLD BQS",
+  "origin": "China",
+  "description": "Fine-grained white quartz compound stone with darker veins (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/e2166bc836/midas-gold-bqs_qsucal_1920.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/546ecb91/684ab73586b015291400001c/1d7d76b1/Midas%20Gold%20BQS_QSUCAL_1920x1080_chevalet.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/546ecb91/684ab73186b015291400001b/da82bb49/Midas%20Gold%20BQS_QSUCAL_1920.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--neo-calacatta",
+   "library_colour": "Neo Calacatta",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qsneca/neo-calcatta-bqs/",
+   "image_kinds_seen": [
+    "slab",
+    "room (brachot.com/en/references/396/kitchen-worktop-in-bqs-neo-calcatta/)"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": "Brachot's own URL/title spells it 'Neo Calcatta' (missing the second 'a') - a typo on their side; price book and library use the correct 'Neo Calacatta'. Same product, token-subset match."
+  },
+  "url": "https://www.brachot.com/en/materials/qsneca/neo-calcatta-bqs/",
+  "code": "qsneca",
+  "title": "NEO CALCATTA BQS",
+  "origin": "China",
+  "description": "Fine-grained white quartz compound stone with darker grey-brownish irregular veins (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/ff5be8878c/neo-calacatta-bqs_qsneca_1920_ok.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0a5ee6af/6710e5a786b01572e9000016/9748f63a/Neo Calacatta BQS_QSNECA_1920_chevalet_OK.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/410ed8e5/66dabf5e86b015202400004b/9de90584/Neo%20Calacatta%20BQS_QSNECA_1920_OK.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--opus-white",
+   "library_colour": "Opus White",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qsopwh/opus-white-bqs/",
+   "image_kinds_seen": [
+    "slab"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": ""
+  },
+  "url": "https://www.brachot.com/en/materials/qsopwh/opus-white-bqs/",
+  "code": "qsopwh",
+  "title": "OPUS WHITE BQS",
+  "origin": "China",
+  "description": "Fine-grained white quartz compound stone (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/9bf514f060/opus-white-bqs_qsopwh_1920_ok.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x893/c261bc86cf/opus-white-bqs_qsopwh_1920_ok.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0a5ee6af/6706334186b015268800001a/8354b292/Opus White BQS_QSOPWH_1920_chevalet_ok.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/410ed8e5/66dabf5e86b015202400004c/96f9d40a/Opus%20White%20BQS_QSOPWH_1920_OK.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--pearl-white",
+   "library_colour": "Pearl White",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qspewh/pearl-white-bqs/",
+   "image_kinds_seen": [
+    "slab"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": ""
+  },
+  "url": "https://www.brachot.com/en/materials/qspewh/pearl-white-bqs/",
+  "code": "qspewh",
+  "title": "PEARL WHITE BQS",
+  "origin": "China",
+  "description": "Fine-grained white quartz compound stone (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/5ba86b3850/pearl-white-bqs_qspewh_1920_ok.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0a5ee6af/6710e5a786b01572e9000018/702ed39b/Pearl White BQS_QSPEWH_1920_chevalet_OK.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/410ed8e5/66dabf5e86b015202400004d/01dfbf79/Pearl%20White%20BQS_QSPEWH_1920_OK.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--permafrost",
+   "library_colour": "Permafrost",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qspefr/permafrost-bqs/",
+   "image_kinds_seen": [
+    "slab"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": ""
+  },
+  "url": "https://www.brachot.com/en/materials/qspefr/permafrost-bqs/",
+  "code": "qspefr",
+  "title": "PERMAFROST BQS",
+  "origin": "China",
+  "description": "Fine-grained white-grey quartz compound stone with irregular greyish structures (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/bee16884ad/permafrost-bqs_qspefr_1920_ok.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1263x614/a4e1b01dc3/permafrost-bqs_qspefr_1920_ok.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0a5ee6af/6710e5a786b01572e9000019/abe54939/Permafrost BQS_QSPEFR_1920_chevalet_OK.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/410ed8e5/66dabf5e86b015202400004e/d8c45fb9/Permafrost%20BQS_QSPEFR_1920_OK.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--pietra-modena",
+   "library_colour": "Pietra Modena",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qspimo/pietra-modena-bqs/",
+   "image_kinds_seen": [
+    "slab"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": ""
+  },
+  "url": "https://www.brachot.com/en/materials/qspimo/pietra-modena-bqs/",
+  "code": "qspimo",
+  "title": "PIETRA MODENA BQS",
+  "origin": "China",
+  "description": "Fine-grained black quartz compound stone with fine white veins (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/1e9a2746e1/pietra-modena-bqs_qspimo_1920_ok.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0a5ee6af/6710e5a786b01572e900001a/73bb4cf1/Pietra Modena BQS_QSPIMO_1920_chevalet_OK.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/410ed8e5/66dabf5e86b015202400004f/c24a8dde/Pietra%20Modena%20BQS_QSPIMO_1920_OK.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--rapture",
+   "library_colour": "Rapture",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qsrapt/rapture-bqs/",
+   "image_kinds_seen": [
+    "slab"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": ""
+  },
+  "url": "https://www.brachot.com/en/materials/qsrapt/rapture-bqs/",
+  "code": "qsrapt",
+  "title": "RAPTURE BQS",
+  "origin": "China",
+  "description": "Fine-grained white-grey quartz compound stone with irregular darker veins/structures (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/41a3e52a95/rapture-bqs_qsrapt_1920_ok.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0a5ee6af/6710e5a786b01572e900001b/590f02f2/Rapture BQS_QSRAPT_1920_chevalet_OK.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/410ed8e5/66dabf5e86b0152024000031/d12b3f10/Rapture%20BQS_QSRAPT_1920_OK.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--roma",
+   "library_colour": "Roma",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qsroma/roma-bqs/",
+   "image_kinds_seen": [
+    "slab"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": ""
+  },
+  "url": "https://www.brachot.com/en/materials/qsroma/roma-bqs/",
+  "code": "qsroma",
+  "title": "ROMA BQS",
+  "origin": "China",
+  "description": "Fine-grained white quartz compound stone with darker irregular veins (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/cd9a38f34a/roma-bqs_qsroma_1920_ok.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0a5ee6af/6710e5a786b01572e900001c/50a8e3f1/Roma BQS_QSROMA_1920_chevalet_OK.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/410ed8e5/66dabf5e86b0152024000032/005140d7/Roma%20BQS_QSROMA_1920_OK.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--siberia",
+   "library_colour": "Siberia",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qssibe/siberia-bqs/",
+   "image_kinds_seen": [
+    "slab",
+    "room (brachot.com/en/references/512031/kitchen-worktop-and-splashback-in-bqs-siberia/)"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": ""
+  },
+  "url": "https://www.brachot.com/en/materials/qssibe/siberia-bqs/",
+  "code": "qssibe",
+  "title": "SIBERIA BQS",
+  "origin": "China",
+  "description": "Fine-grained white quartz compound stone with darker irregular veins/structures (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/61bf42efba/siberia-bqs_qssibe.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0a5ee6af/6710e5a786b01572e900001d/3950ebc8/Siberia BQS_QSSIBE_1920_chevalet_OK.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/410ed8e5/66dabf5e86b0152024000050/2c3abf54/QSSIBE%20-%20SIBERIA%20BQS%20-%20LE-9819%20full%20slab_OK.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--statuario-gold",
+   "library_colour": "Statuario Gold",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qsstgo/statuario-gold-bqs/",
+   "image_kinds_seen": [
+    "slab"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": ""
+  },
+  "url": "https://www.brachot.com/en/materials/qsstgo/statuario-gold-bqs/",
+  "code": "qsstgo",
+  "title": "STATUARIO GOLD BQS",
+  "origin": "China",
+  "description": "Fine-grained white quartz composite with brown-grey veins (quartz composite based on silicon and quartz with polyester resin as binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/1392b2eb25/statuario-gold-bqs_qsstgo_1920.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/b3f5d4ed/67f379d486b01529a7000018/e13f4288/Statuario%20Gold_chevalet.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/b3f5d4ed/67f379c686b01529a7000016/4102a241/Statuario%20Gold_1920.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--statuario-grey",
+   "library_colour": "Statuario Grey",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qsstgr/statuario-grey-bqs/",
+   "image_kinds_seen": [
+    "slab"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": ""
+  },
+  "url": "https://www.brachot.com/en/materials/qsstgr/statuario-grey-bqs/",
+  "code": "qsstgr",
+  "title": "STATUARIO GREY BQS",
+  "origin": "China",
+  "description": "Fine-grained white quartz composite with grey veins (quartz composite based on silicon and quartz with polyester resin as binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/2c78ef4333/statuario-grey-bqs_qsstgr_1920.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/b3f5d4ed/67f379d486b01529a7000019/8350063c/Statuario%20Grey_chevalet.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/b3f5d4ed/67f379c686b01529a7000014/3d298473/Statuario%20Grey_1920.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--super-white-plus",
+   "library_colour": "Super White Plus",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qsswhp/super-white-plus-bqs/",
+   "image_kinds_seen": [
+    "slab",
+    "room (brachot.com/en/references/397/kitchen-worktop-in-bqs-super-white-plus/)"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": "A distinct plain 'Super White BQS' (qsswhi) also exists as a separate SKU on brachot.com - not in our price book/library, do not conflate with Super White Plus."
+  },
+  "url": "https://www.brachot.com/en/materials/qsswhp/super-white-plus-bqs/",
+  "code": "qsswhp",
+  "title": "SUPER WHITE PLUS BQS",
+  "origin": "China",
+  "description": "Very fine-grained white quartz compound stone (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0a5ee6af/67054a3386b0151baa00001c/0ee39973/Super White Plus BQS_QSSWHP_1920_chevalet_OK.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/39ce9dc8/66dabf5e86b0152024000034/3d02d7be/Super%20White%20Plus%20BQS_QSSWHP_1920_OK.png"
+  ],
+  "room_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/c747cfde/64c2380ac4157c00126e3990/a7d2ab46/QSSWHP_house_kitchen (9).jpg.jpeg"
+  ]
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--taj-mahal",
+   "library_colour": "Taj Mahal",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qstajm/taj-mahal-bqs/",
+   "image_kinds_seen": [
+    "slab",
+    "room (brachot.com/en/references/606231/ and /607091/, two separate installation shots)"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": "Best-photographed BQS colour found (2 room shots). Also the first colour named on Brachot's BQS academy page ('marble-effect design with delicate veining')."
+  },
+  "url": "https://www.brachot.com/en/materials/qstajm/taj-mahal-bqs/",
+  "code": "qstajm",
+  "title": "TAJ MAHAL BQS",
+  "origin": "China",
+  "description": "Fine-grained beige quartz composite with a white-beige vein structure (quartz composite based on silicon and quartz with polyester resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/1f744dff81/taj-mahal-bqs_qstajm_1920new.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x951/c4ad1b3574/taj-mahal-bqs_qstajm_1920new.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/49f94394/6899edf286b01523cd00001a/0fd27996/Taj%20Mahal%20BQS_QSTAJM_1920x1080_chevaletNEW.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/49f94394/6899ee0286b01523cd00001b/f6dd7689/Taj%20Mahal%20BQS_QSTAJM_1920NEW.png"
+  ],
+  "room_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/5856eb25/6a3a89b0f3b1590fef00001d/e7f77dc3/QSTAJM_Kitchen_Elite%20Kitchens%20%285%29.jpg.jpeg"
+  ]
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--vintessa-cream",
+   "library_colour": "Vintessa Cream",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qsvicr/vintessa-cream-bqs/",
+   "image_kinds_seen": [
+    "slab"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": "RESOLVED (was one of the 3 previously-missing colours)."
+  },
+  "url": "https://www.brachot.com/en/materials/qsvicr/vintessa-cream-bqs/",
+  "code": "qsvicr",
+  "title": "VINTESSA CREAM BQS",
+  "origin": "China",
+  "description": "Fine-grained beige quartz composite (composed of silicon and quartz with polyester resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/fa35205ede/vintessa-cream_qsvicr_1920_polished.png"
+   },
+   {
+    "name": "Velluto",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/b973ecf094/vintessa-cream_qsvicr_1920_new.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/de3c4654/69e202e486b0154fbc00001a/2a7306bf/Vintessa%20Cream_QSVICR_1920_chevalet.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/de3c4654/6a79e55ceb78f1025600001a/df452474/Vintessa%20Cream_QSVICR_1920_new.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--white-almond",
+   "library_colour": "White Almond",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qswhal/white-almond-bqs/",
+   "image_kinds_seen": [
+    "slab",
+    "room (brachot.com/en/references/398/kitchen-worktop-in-bqs-white-almond/)"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": ""
+  },
+  "url": "https://www.brachot.com/en/materials/qswhal/white-almond-bqs/",
+  "code": "qswhal",
+  "title": "WHITE ALMOND BQS",
+  "origin": "China",
+  "description": "Fine-grained white quartz compound stone (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/20909201a4/white-almond_qswhal_1920x1080_ok.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0a5ee6af/6710e5a786b01572e9000020/703d0e25/White Almond BQS_QSWHAL_1920_chevalet_OK.png",
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/410ed8e5/66dabf5e86b0152024000035/878e0dcb/White%20Almond_QSWHAL_1920x1080_OK.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--white-mirrorlux",
+   "library_colour": "White Mirrorlux",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qswhlx/white-mirrorlux-bqs/",
+   "image_kinds_seen": [
+    "slab",
+    "room (customer reseller ivettandreed.co.uk has extra installation photos if brachot.com's own is thin)"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": "Highest-profile Mirrorlux colour - has its own reseller case-study page (ivettandreed.co.uk) in addition to the brachot.com material page."
+  },
+  "url": "https://www.brachot.com/en/materials/qswhlx/white-mirrorlux-bqs/",
+  "code": "qswhlx",
+  "title": "WHITE MIRRORLUX BQS",
+  "origin": "China",
+  "description": "Fine-grained white quartz compound stone with reflective grains (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/7317ae2dad/white-mirrorlux-bqs_qswhlx_1920_ok.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0a5ee6af/6710e5a786b01572e9000021/c69cb0b9/White Mirrorlux BQS_QSWHLX_1920_chevalet_OK.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/410ed8e5/66dabf5e86b0152024000036/fc4dc36d/White%20Mirrorlux%20BQS_QSWHLX_1920_OK.png"
+  ],
+  "room_imgs": []
+ },
+ {
+  "discovery": {
+   "supplier": "BQS",
+   "library_id": "bqs--white-shimmer",
+   "library_colour": "White Shimmer",
+   "material": "Quartz",
+   "product_url": "https://www.brachot.com/en/materials/qswhsh/white-shimmer-bqs/",
+   "image_kinds_seen": [
+    "slab"
+   ],
+   "slab_sizes_seen": [
+    "3200x1600, 20/30mm, Polished"
+   ],
+   "notes": ""
+  },
+  "url": "https://www.brachot.com/en/materials/qswhsh/white-shimmer-bqs/",
+  "code": "qswhsh",
+  "title": "WHITE SHIMMER BQS",
+  "origin": "China",
+  "description": "Fine-grained white quartz compound stone with reflective grains (composed of silicium and quartz with polyester-resin as a binder).",
+  "finishes": [
+   {
+    "name": "Polished",
+    "src": "https://a.storyblok.com/f/236904/1920x1080/84bfa199be/white-shimmer-bqs_qswhsh_1920_ok.png"
+   }
+  ],
+  "slab_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/0a5ee6af/6710e5a786b01572e9000022/3ec7e4b9/White Shimmer BQS_QSWHSH_1920_chevalet_OK.png"
+  ],
+  "book_imgs": [],
+  "closeup_imgs": [
+   "https://cdn.pimber.ly/public/asset/export/61768d1c049946001cbafcee/410ed8e5/66dabf5e86b0152024000037/66a9428e/White%20Shimmer%20BQS_QSWHSH_1920_OK.png"
+  ],
+  "room_imgs": []
+ }
+]
