@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-24T19:43:38Z",
+ "generated": "2026-08-24T20:21:06Z",
  "slabs": [
   {
    "id": "akg-surfaces--adira-bronze",
@@ -43561,13 +43561,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.ukstonecompany.com/?s=Black+Shimmer",
+   "productUrl": "https://ukstonecompany.com/product/black-shimmer-jumbo-quartz-2cm/",
    "image": {
     "file": "uk-stone-company--black-shimmer.webp",
     "status": "slab",
     "source": "ukstonecompany.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "UK Stone Company Quartz · Polished finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--blanco-carrara",
@@ -43580,13 +43582,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.ukstonecompany.com/?s=Blanco+Carrara",
+   "productUrl": "https://ukstonecompany.com/product/blanco-carrara-super-jumbo-quartz-2cm/",
    "image": {
     "file": "uk-stone-company--blanco-carrara.webp",
     "status": "slab",
     "source": "ukstonecompany.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3500x2000 / 30mm: 3500x2000",
+   "details": "UK Stone Company Quartz · Polished finish · Super Jumbo format"
   },
   {
    "id": "uk-stone-company--blanco-carrara-extra",
@@ -43618,13 +43622,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.ukstonecompany.com/?s=Blanco+Carrara+Light",
+   "productUrl": "https://ukstonecompany.com/product/blanco-carrara-light-super-jumbo-quartz-2cm/",
    "image": {
     "file": "uk-stone-company--blanco-carrara-light.webp",
     "status": "slab",
     "source": "ukstonecompany.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3500x2000 / 30mm: 3500x2000",
+   "details": "UK Stone Company Quartz · Polished finish · Super Jumbo format"
   },
   {
    "id": "uk-stone-company--blanco-carrara-shimmer",
@@ -43637,13 +43643,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.ukstonecompany.com/?s=Blanco+Carrara+Shimmer",
+   "productUrl": "https://ukstonecompany.com/product/blanco-carrara-shimmer-super-jumbo-quartz-2cm/",
    "image": {
     "file": "uk-stone-company--blanco-carrara-shimmer.webp",
     "status": "slab",
     "source": "ukstonecompany.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3500x2000 / 30mm: 3500x2000",
+   "details": "UK Stone Company Quartz · Polished finish · Super Jumbo format"
   },
   {
    "id": "uk-stone-company--blanco-luna",
@@ -43675,13 +43683,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.ukstonecompany.com/?s=Blanco+Lustre",
+   "productUrl": "https://ukstonecompany.com/product/blanco-lustre-super-jumbo-quartz-2cm/",
    "image": {
     "file": "uk-stone-company--blanco-lustre.webp",
-    "status": "closeup-only",
-    "source": "ukstonecompany.com",
+    "status": "slab",
+    "source": "https://ukstonecompany.com/product/blanco-lustre-super-jumbo-quartz-2cm/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3500x2000 / 30mm: 3500x2000",
+   "details": "UK Stone Company Quartz · Polished finish · Super Jumbo format"
   },
   {
    "id": "uk-stone-company--blanco-shimmer",
@@ -43732,13 +43742,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.ukstonecompany.com/?s=Calacatta+Atlantic",
+   "productUrl": "https://ukstonecompany.com/product/calacatta-atlantic-jumbo-quartz-2cm/",
    "image": {
     "file": "uk-stone-company--calacatta-atlantic.webp",
     "status": "slab",
     "source": "ukstonecompany.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "UK Stone Company Quartz · Polished finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--calacatta-bergamo",
@@ -43751,13 +43763,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.ukstonecompany.com/?s=Calacatta+Bergamo",
+   "productUrl": "https://ukstonecompany.com/product/calacatta-bergamo-super-jumbo-quartz-2cm/",
    "image": {
     "file": "uk-stone-company--calacatta-bergamo.webp",
     "status": "slab",
     "source": "ukstonecompany.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3500x2000 / 30mm: 3500x2000",
+   "details": "UK Stone Company Quartz · Polished finish · Super Jumbo format"
   },
   {
    "id": "uk-stone-company--calacatta-castano-leathered",
@@ -43770,13 +43784,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ukstonecompany.com/product/calacatta-castano-jumbo-quartz-2cm-leather-finish/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "uk-stone-company--calacatta-castano-leathered.webp",
+    "status": "slab",
+    "source": "https://ukstonecompany.com/product/calacatta-castano-jumbo-quartz-2cm-leather-finish/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "UK Stone Company Quartz · Leather finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--calacatta-castano-polished",
@@ -43789,13 +43805,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ukstonecompany.com/product/calacatta-castano-jumbo-quartz-2cm/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "uk-stone-company--calacatta-castano-polished.webp",
+    "status": "slab",
+    "source": "https://ukstonecompany.com/product/calacatta-castano-jumbo-quartz-2cm/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "UK Stone Company Quartz · Polished finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--calacatta-catania",
@@ -43808,13 +43826,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ukstonecompany.com/product/calacatta-catania-jumbo-quartz-2cm/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "uk-stone-company--calacatta-catania.webp",
+    "status": "slab",
+    "source": "https://ukstonecompany.com/product/calacatta-catania-jumbo-quartz-2cm/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "UK Stone Company Quartz · Polished finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--calacatta-giotto",
@@ -43827,13 +43847,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.ukstonecompany.com/?s=Calacatta+Giotto",
+   "productUrl": "https://ukstonecompany.com/product/calacatta-giotto/",
    "image": {
     "file": "uk-stone-company--calacatta-giotto.webp",
     "status": "slab",
     "source": "ukstonecompany.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "UK Stone Company Quartz · Polished finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--calacatta-glacier",
@@ -43846,13 +43868,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.ukstonecompany.com/?s=Calacatta+Glacier",
+   "productUrl": "https://ukstonecompany.com/product/calacatta-glacier-jumbo-quartz-2cm/",
    "image": {
     "file": "uk-stone-company--calacatta-glacier.webp",
     "status": "slab",
     "source": "ukstonecompany.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "UK Stone Company Quartz · Polished finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--calacatta-gold",
@@ -43865,13 +43889,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.ukstonecompany.com/?s=Calacatta+Gold",
+   "productUrl": "https://ukstonecompany.com/product/calacatta-gold/",
    "image": {
     "file": "uk-stone-company--calacatta-gold.webp",
     "status": "slab",
     "source": "ukstonecompany.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3500x2000 / 30mm: 3500x2000",
+   "details": "UK Stone Company Quartz · Polished finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--calacatta-himalaya",
@@ -43884,13 +43910,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.ukstonecompany.com/?s=Calacatta+Himalaya",
+   "productUrl": "https://ukstonecompany.com/product/calacatta-himalaya-quartz-2cm/",
    "image": {
     "file": "uk-stone-company--calacatta-himalaya.webp",
     "status": "slab",
     "source": "ukstonecompany.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "UK Stone Company Quartz · Polished finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--calacatta-lazio",
@@ -43903,13 +43931,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.ukstonecompany.com/?s=Calacatta+Lazio",
+   "productUrl": "https://ukstonecompany.com/product/calacatta-lazio-jumbo-quartz-2cm/",
    "image": {
     "file": "uk-stone-company--calacatta-lazio.webp",
     "status": "slab",
     "source": "ukstonecompany.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "UK Stone Company Quartz · Polished finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--calacatta-lucca",
@@ -43922,13 +43952,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.ukstonecompany.com/?s=Calacatta+Lucca",
+   "productUrl": "https://ukstonecompany.com/product/calacatta-lucca-super-jumbo-quartz-2cm/",
    "image": {
     "file": "uk-stone-company--calacatta-lucca.webp",
     "status": "slab",
     "source": "ukstonecompany.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3500x2000 / 30mm: 3500x2000",
+   "details": "UK Stone Company Quartz · Polished finish · Super Jumbo format"
   },
   {
    "id": "uk-stone-company--calacatta-naple",
@@ -43960,13 +43992,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.ukstonecompany.com/?s=Calacatta+Navara",
+   "productUrl": "https://ukstonecompany.com/product/calacatta-navara-jumbo-quartz-2cm/",
    "image": {
     "file": "uk-stone-company--calacatta-navara.webp",
     "status": "slab",
     "source": "ukstonecompany.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "UK Stone Company Quartz · Polished finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--calacatta-oro",
@@ -43998,13 +44032,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.ukstonecompany.com/?s=Calacatta+Santorini",
+   "productUrl": "https://ukstonecompany.com/product/calacatta-santorini-quartz-2cm/",
    "image": {
     "file": "uk-stone-company--calacatta-santorini.webp",
     "status": "slab",
     "source": "ukstonecompany.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "UK Stone Company Quartz · Polished finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--calacatta-supreme",
@@ -44017,13 +44053,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.ukstonecompany.com/?s=Calacatta+Supreme",
+   "productUrl": "https://ukstonecompany.com/product/calacatta-supreme-jumbo-quartz-2cm/",
    "image": {
     "file": "uk-stone-company--calacatta-supreme.webp",
     "status": "slab",
     "source": "ukstonecompany.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3500x2000 / 30mm: 3500x2000",
+   "details": "UK Stone Company Quartz · Polished finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--calacatta-tuscany",
@@ -44036,13 +44074,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.ukstonecompany.com/?s=Calacatta+Tuscany",
+   "productUrl": "https://ukstonecompany.com/product/calacatta-tuscany-jumbo-quartz-2cm/",
    "image": {
     "file": "uk-stone-company--calacatta-tuscany.webp",
     "status": "slab",
     "source": "ukstonecompany.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3500x2000 / 30mm: 3500x2000",
+   "details": "UK Stone Company Quartz · Polished finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--calacatta-venice",
@@ -44055,13 +44095,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.ukstonecompany.com/?s=Calacatta+Venice",
+   "productUrl": "https://ukstonecompany.com/product/calacatta-venice-jumbo-quartz-2cm/",
    "image": {
     "file": "uk-stone-company--calacatta-venice.webp",
     "status": "slab",
     "source": "ukstonecompany.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "UK Stone Company Quartz · Polished finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--carrara-vincenza",
@@ -44074,13 +44116,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ukstonecompany.com/product/blanco-carrara-vincenza-jumbo-quartz-2cm/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "uk-stone-company--carrara-vincenza.webp",
+    "status": "slab",
+    "source": "https://ukstonecompany.com/product/blanco-carrara-vincenza-jumbo-quartz-2cm/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "UK Stone Company Quartz · Polished finish · Jumbo Plus format"
   },
   {
    "id": "uk-stone-company--casablanca",
@@ -44093,13 +44137,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.ukstonecompany.com/?s=Casablanca",
+   "productUrl": "https://ukstonecompany.com/product/casablanca/",
    "image": {
     "file": "uk-stone-company--casablanca.webp",
     "status": "slab",
     "source": "ukstonecompany.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "UK Stone Company Quartz · Polished finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--concrete",
@@ -44131,13 +44177,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ukstonecompany.com/product/dark-concrete-jumbo-quartz-2cm/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "uk-stone-company--concrete-dark.webp",
+    "status": "slab",
+    "source": "https://ukstonecompany.com/product/dark-concrete-jumbo-quartz-2cm/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "UK Stone Company Quartz · Polished finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--concrete-light",
@@ -44169,13 +44217,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.ukstonecompany.com/?s=Cream+Mirror",
+   "productUrl": "https://ukstonecompany.com/product/cream-mirror-jumbo-quartz-3cm/",
    "image": {
     "file": "uk-stone-company--cream-mirror.webp",
     "status": "slab",
     "source": "ukstonecompany.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "UK Stone Company Quartz · Polished finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--crema-marfil",
@@ -44188,13 +44238,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.ukstonecompany.com/?s=Crema+Marfil",
+   "productUrl": "https://ukstonecompany.com/product/crema-marfil-jumbo-quartz-2cm/",
    "image": {
     "file": "uk-stone-company--crema-marfil.webp",
     "status": "slab",
     "source": "ukstonecompany.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "UK Stone Company Quartz · Polished finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--elegant-frost",
@@ -44207,13 +44259,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.ukstonecompany.com/?s=Elegant+Frost",
+   "productUrl": "https://ukstonecompany.com/product/elegant-frost-jumbo-quartz-2cm/",
    "image": {
     "file": "uk-stone-company--elegant-frost.webp",
     "status": "slab",
     "source": "web",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3500x2000 / 30mm: 3500x2000",
+   "details": "UK Stone Company Quartz · Polished finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--emerald-green-translucent",
@@ -44244,13 +44298,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ukstonecompany.com/product/grey-mirror-dark/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "uk-stone-company--grey-mirror-dark.webp",
+    "status": "closeup-only",
+    "source": "https://ukstonecompany.com/product/grey-mirror-dark/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "UK Stone Company Quartz · Polished finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--grey-mirror-light",
@@ -44263,13 +44319,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ukstonecompany.com/product/grey-mirror-light/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "uk-stone-company--grey-mirror-light.webp",
+    "status": "closeup-only",
+    "source": "https://ukstonecompany.com/product/grey-mirror-light/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "UK Stone Company Quartz · Polished finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--grey-shimmer-dark",
@@ -44282,13 +44340,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ukstonecompany.com/product/grey-shimmer-jumbo-quartz-2cm/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "uk-stone-company--grey-shimmer-dark.webp",
+    "status": "slab",
+    "source": "https://ukstonecompany.com/product/grey-shimmer-jumbo-quartz-2cm/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "UK Stone Company Quartz · Polished finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--grey-shimmer-light",
@@ -44320,13 +44380,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ukstonecompany.com/product/highlands-jumbo-quartz-2cm-leather-finish/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "uk-stone-company--highlands-leathered.webp",
+    "status": "representative",
+    "source": "https://ukstonecompany.com/product/highlands-jumbo-quartz-2cm-leather-finish/",
+    "borrowedFrom": "Highlands Polished (UK Stone Company) -- site serves an identical generic supplier photo for all 3 Highlands finish variants"
+   },
+   "slabSizes": "20mm: 3500x2000 / 30mm: 3500x2000",
+   "details": "UK Stone Company Quartz · Leather finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--highlands-polished",
@@ -44339,13 +44401,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ukstonecompany.com/product/highlands-jumbo-quartz-2cm/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "uk-stone-company--highlands-polished.webp",
+    "status": "slab",
+    "source": "https://ukstonecompany.com/product/highlands-jumbo-quartz-2cm/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3500x2000 / 30mm: 3500x2000",
+   "details": "UK Stone Company Quartz · Polished finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--highlands-shimmer-polished",
@@ -44358,13 +44422,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ukstonecompany.com/product/highlands-shimmer-jumbo-quartz-2cm/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "uk-stone-company--highlands-shimmer-polished.webp",
+    "status": "representative",
+    "source": "https://ukstonecompany.com/product/highlands-shimmer-jumbo-quartz-2cm/",
+    "borrowedFrom": "Highlands Polished (UK Stone Company) -- site serves an identical generic supplier photo for all 3 Highlands finish variants"
+   },
+   "slabSizes": "20mm: 3500x2000 / 30mm: 3500x2000",
+   "details": "UK Stone Company Quartz · Polished finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--mystic-rivers",
@@ -44396,13 +44462,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.ukstonecompany.com/?s=Oceano+Gold",
+   "productUrl": "https://ukstonecompany.com/product/oceano-gold-super-jumbo-quartz-2cm/",
    "image": {
     "file": "uk-stone-company--oceano-gold.webp",
     "status": "slab",
     "source": "web",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3500x2000 / 30mm: 3500x2000",
+   "details": "UK Stone Company Quartz · Polished finish · Super Jumbo format"
   },
   {
    "id": "uk-stone-company--pure-white",
@@ -44415,13 +44483,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.ukstonecompany.com/?s=Pure+White",
+   "productUrl": "https://ukstonecompany.com/product/pure-white-super-jumbo-quartz-2cm/",
    "image": {
     "file": "uk-stone-company--pure-white.webp",
     "status": "slab",
     "source": "ukstonecompany.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3500x2000 / 30mm: 3500x2000",
+   "details": "UK Stone Company Quartz · Polished finish · Super Jumbo format"
   },
   {
    "id": "uk-stone-company--rio-dourado",
@@ -44434,13 +44504,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.ukstonecompany.com/?s=Rio+Dourado",
+   "productUrl": "https://ukstonecompany.com/product/rio-dourado-super-jumbo-quartz-2cm/",
    "image": {
     "file": "uk-stone-company--rio-dourado.webp",
     "status": "slab",
     "source": "ukstonecompany.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3500x2000 / 30mm: 3500x2000",
+   "details": "UK Stone Company Quartz · Polished finish · Super Jumbo format"
   },
   {
    "id": "uk-stone-company--statuario-gold-extra",
@@ -44453,13 +44525,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.ukstonecompany.com/?s=Statuario+Gold+Extra",
+   "productUrl": "https://ukstonecompany.com/product/statuario-gold-extra-jumbo-quartz-2cm/",
    "image": {
     "file": "uk-stone-company--statuario-gold-extra.webp",
     "status": "slab",
     "source": "ukstonecompany.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "UK Stone Company Quartz · Polished finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--statuario-gold-extra-leathered",
@@ -44472,13 +44546,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ukstonecompany.com/product/statuario-gold-extra-jumbo-quartz-2cm-leather-finish/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "uk-stone-company--statuario-gold-extra-leathered.webp",
+    "status": "slab",
+    "source": "https://ukstonecompany.com/product/statuario-gold-extra-jumbo-quartz-2cm-leather-finish/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "UK Stone Company Quartz · Leather finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--super-white",
@@ -44491,13 +44567,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.ukstonecompany.com/?s=Super+White",
+   "productUrl": "https://ukstonecompany.com/product/super-white-jumbo-quartz-2cm/",
    "image": {
     "file": "uk-stone-company--super-white.webp",
     "status": "slab",
     "source": "ukstonecompany.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3500x2000 / 30mm: 3500x2000",
+   "details": "UK Stone Company Quartz · Polished finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--taj-mahal-leathered",
@@ -44510,13 +44588,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ukstonecompany.com/product/taj-mahal-jumbo-quartz-2cm-leather-finish/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "uk-stone-company--taj-mahal-leathered.webp",
+    "status": "slab",
+    "source": "https://ukstonecompany.com/product/taj-mahal-jumbo-quartz-2cm-leather-finish/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "UK Stone Company Quartz · Leather finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--taj-mahal-polished",
@@ -44529,13 +44609,15 @@
     20,
     30
    ],
-   "productUrl": "https://www.ukstonecompany.com/?s=Taj+Mahal+Polished",
+   "productUrl": "https://ukstonecompany.com/product/taj-mahal-jumbo-quartz-2cm/",
    "image": {
     "file": "uk-stone-company--taj-mahal-polished.webp",
     "status": "slab",
     "source": "ukstonecompany.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "UK Stone Company Quartz · Polished finish · Jumbo format"
   },
   {
    "id": "uk-stone-company--white-galactica-mirror",
@@ -44548,13 +44630,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ukstonecompany.com/product/white-galactica-mirror-jumbo-quartz-2cm/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "uk-stone-company--white-galactica-mirror.webp",
+    "status": "slab",
+    "source": "https://ukstonecompany.com/product/white-galactica-mirror-jumbo-quartz-2cm/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3500x2000 / 30mm: 3500x2000",
+   "details": "UK Stone Company Quartz · Polished finish · Jumbo Plus format"
   },
   {
    "id": "unistone--adamello",
