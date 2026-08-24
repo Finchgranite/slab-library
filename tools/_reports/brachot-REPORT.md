@@ -9,7 +9,7 @@ Source: www.brachot.com (Next.js/Storyblok), one company/site, three in-house br
 - Mains newly set (was missing): 0
 - Mains upgraded (was closeup-only): 0
 - Main downloads that failed: 0
-- Closeup gallery images added: 25
+- Closeup gallery images added: 1
 - Room gallery images added: 15
 - Unmatched site colours (neither library nor price book claims it): 0
 - Unmatched price-book Brachot colours (not seen on site): 5 -- ['Ceppo Di Gre', 'Fior di Bosco', 'Jet Black', 'Sahara Noir', 'Sinai Pearl']
@@ -18,10 +18,10 @@ Source: www.brachot.com (Next.js/Storyblok), one company/site, three in-house br
 - Site colour pages harvested: 33
 - Matched/updated existing library entries: 33
 - New library entries added (price-book confirmed): 0
-- Mains newly set (was missing): 1
+- Mains newly set (was missing): 0
 - Mains upgraded (was closeup-only): 0
 - Main downloads that failed: 0
-- Closeup gallery images added: 40
+- Closeup gallery images added: 18
 - Room gallery images added: 9
 - Unmatched site colours (neither library nor price book claims it): 0
 - Unmatched price-book Unistone colours (not seen on site): 0 -- []
@@ -30,10 +30,10 @@ Source: www.brachot.com (Next.js/Storyblok), one company/site, three in-house br
 - Site colour pages harvested: 43
 - Matched/updated existing library entries: 43
 - New library entries added (price-book confirmed): 0
-- Mains newly set (was missing): 3
+- Mains newly set (was missing): 0
 - Mains upgraded (was closeup-only): 0
 - Main downloads that failed: 0
-- Closeup gallery images added: 43
+- Closeup gallery images added: 3
 - Room gallery images added: 3
 - Unmatched site colours (neither library nor price book claims it): 0
 - Unmatched price-book BQS colours (not seen on site): 0 -- []

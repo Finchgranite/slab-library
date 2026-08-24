@@ -119,9 +119,12 @@ def classify_pim_image(url):
             return "slab"
         if 0.8 <= ar_n <= 1.25:
             return "closeup"
-    # No filename hint and no embedded dims to judge aspect: safer to file this as a
-    # secondary/closeup image than to guess it's a kitchen "room" shot it may not be.
-    return "closeup"
+    # No filename hint and no embedded dims to judge aspect: a real check (spot-checking
+    # the contact sheets) showed most of these generic/hashed-filename images are actually
+    # customer kitchen/installation photos, not product texture shots -- so, unlike a
+    # filename that says "kitchen", these give no reliable signal for EITHER bucket.
+    # Drop them rather than mislabel them into whichever bucket looks safe.
+    return None
 
 
 def harvest_one(rec):
@@ -161,7 +164,13 @@ def harvest_one(rec):
         if not src:
             continue
         kind = classify_pim_image(src)
-        (slab_imgs if kind == "slab" else closeup_imgs if kind == "closeup" else room_imgs).append(src)
+        if kind == "slab":
+            slab_imgs.append(src)
+        elif kind == "closeup":
+            closeup_imgs.append(src)
+        elif kind == "room":
+            room_imgs.append(src)
+        # kind is None (no reliable signal either way) -- dropped, not guessed into a bucket
 
     # bonus bookmatch/batch-variant photos (openBookMaterials) -- extra slab-adjacent shots
     book_imgs = [b["imageSrc"] for b in (pim.get("openBookMaterials") or []) if b.get("imageSrc")]

@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-24T20:58:03Z",
+ "generated": "2026-08-24T21:24:59Z",
  "slabs": [
   {
    "id": "akg-surfaces--adira-bronze",
@@ -4351,13 +4351,6 @@
      "kind": "closeup",
      "source": "https://www.brachot.com/en/materials/qscabe/caverno-beige-bqs/",
      "borrowedFrom": ""
-    },
-    {
-     "file": "bqs--caverno-beige--closeup2.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/qscabe/caverno-beige-bqs/",
-     "borrowedFrom": ""
     }
    ]
   },
@@ -5120,13 +5113,6 @@
      "kind": "slab"
     },
     {
-     "file": "bqs--taj-mahal--closeup1.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/qstajm/taj-mahal-bqs/",
-     "borrowedFrom": ""
-    },
-    {
      "file": "bqs--taj-mahal--room1.webp",
      "status": "representative",
      "kind": "room",
@@ -5165,13 +5151,6 @@
     },
     {
      "file": "bqs--vintessa-cream--closeup1.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/qsvicr/vintessa-cream-bqs/",
-     "borrowedFrom": ""
-    },
-    {
-     "file": "bqs--vintessa-cream--closeup2.webp",
      "status": "closeup",
      "kind": "closeup",
      "source": "https://www.brachot.com/en/materials/qsvicr/vintessa-cream-bqs/",
@@ -11920,13 +11899,6 @@
      "kind": "slab"
     },
     {
-     "file": "brachot--marmo-antico--closeup1.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/ksxman/marmo-antico-uniceramica/",
-     "borrowedFrom": ""
-    },
-    {
      "file": "brachot--marmo-antico--room1.webp",
      "status": "representative",
      "kind": "room",
@@ -12182,13 +12154,6 @@
      "source": "onedrive-brands-folder",
      "borrowedFrom": "",
      "kind": "slab"
-    },
-    {
-     "file": "brachot--nero-assoluto--closeup1.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/ksxzim/nero-assoluto-uniceramica/",
-     "borrowedFrom": ""
     },
     {
      "file": "brachot--nero-assoluto--room1.webp",
@@ -13187,13 +13152,6 @@
      "kind": "slab"
     },
     {
-     "file": "brachot--travertino-bianco--closeup1.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/ksxtb/travertino-bianco-uniceramica/",
-     "borrowedFrom": ""
-    },
-    {
      "file": "brachot--travertino-bianco--room1.webp",
      "status": "representative",
      "kind": "room",
@@ -13281,27 +13239,6 @@
      "source": "onedrive-brands-folder",
      "borrowedFrom": "",
      "kind": "slab"
-    },
-    {
-     "file": "brachot--travertino-light--closeup1.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/ksxtl/travertino-light-uniceramica/",
-     "borrowedFrom": ""
-    },
-    {
-     "file": "brachot--travertino-light--closeup2.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/ksxtl/travertino-light-uniceramica/",
-     "borrowedFrom": ""
-    },
-    {
-     "file": "brachot--travertino-light--closeup3.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/ksxtl/travertino-light-uniceramica/",
-     "borrowedFrom": ""
     },
     {
      "file": "brachot--travertino-light--room1.webp",
@@ -48925,13 +48862,6 @@
      "kind": "closeup",
      "source": "https://www.brachot.com/en/materials/csarva/arabescato-vagli-unistone/",
      "borrowedFrom": ""
-    },
-    {
-     "file": "unistone--arabescato-vagli--closeup2.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/csarva/arabescato-vagli-unistone/",
-     "borrowedFrom": ""
     }
    ]
   },
@@ -49081,13 +49011,6 @@
      "borrowedFrom": ""
     },
     {
-     "file": "unistone--bianco-assoluto--closeup2.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/cspwhi/bianco-assoluto-unistone/",
-     "borrowedFrom": ""
-    },
-    {
      "file": "unistone--bianco-assoluto--room1.webp",
      "status": "representative",
      "kind": "room",
@@ -49165,20 +49088,6 @@
      "source": "onedrive-brands-folder",
      "borrowedFrom": "",
      "kind": "slab"
-    },
-    {
-     "file": "unistone--bianco-extra--closeup1.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/cswhex/bianco-extra-unistone/",
-     "borrowedFrom": ""
-    },
-    {
-     "file": "unistone--bianco-extra--closeup2.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/cswhex/bianco-extra-unistone/",
-     "borrowedFrom": ""
     },
     {
      "file": "unistone--bianco-extra--room1.webp",
@@ -49278,27 +49187,6 @@
      "borrowedFrom": ""
     },
     {
-     "file": "unistone--cararra-misterio--closeup2.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/csbcam/carrara-misterio-unistone/",
-     "borrowedFrom": ""
-    },
-    {
-     "file": "unistone--cararra-misterio--closeup3.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/csbcam/carrara-misterio-unistone/",
-     "borrowedFrom": ""
-    },
-    {
-     "file": "unistone--cararra-misterio--closeup4.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/csbcam/carrara-misterio-unistone/",
-     "borrowedFrom": ""
-    },
-    {
      "file": "unistone--cararra-misterio--room1.webp",
      "status": "representative",
      "kind": "room",
@@ -49387,20 +49275,6 @@
      "kind": "closeup",
      "source": "https://www.brachot.com/en/materials/cscend/cendre-unistone/",
      "borrowedFrom": ""
-    },
-    {
-     "file": "unistone--cendre--closeup2.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/cscend/cendre-unistone/",
-     "borrowedFrom": ""
-    },
-    {
-     "file": "unistone--cendre--closeup3.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/cscend/cendre-unistone/",
-     "borrowedFrom": ""
     }
    ]
   },
@@ -49434,13 +49308,6 @@
     },
     {
      "file": "unistone--ceppo--closeup1.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/cscepp/ceppo-unistone/",
-     "borrowedFrom": ""
-    },
-    {
-     "file": "unistone--ceppo--closeup2.webp",
      "status": "closeup",
      "kind": "closeup",
      "source": "https://www.brachot.com/en/materials/cscepp/ceppo-unistone/",
@@ -49503,13 +49370,6 @@
      "kind": "closeup",
      "source": "https://www.brachot.com/en/materials/cscrbe/crystallo-beige-unistone/",
      "borrowedFrom": ""
-    },
-    {
-     "file": "unistone--crystallo-beige--closeup2.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/cscrbe/crystallo-beige-unistone/",
-     "borrowedFrom": ""
     }
    ]
   },
@@ -49543,13 +49403,6 @@
     },
     {
      "file": "unistone--grey-savoye--closeup1.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/cssavo/grey-savoye-unistone/",
-     "borrowedFrom": ""
-    },
-    {
-     "file": "unistone--grey-savoye--closeup2.webp",
      "status": "closeup",
      "kind": "closeup",
      "source": "https://www.brachot.com/en/materials/cssavo/grey-savoye-unistone/",
@@ -49672,27 +49525,6 @@
      "kind": "closeup",
      "source": "https://www.brachot.com/en/materials/csmigo/misterio-gold-unistone/",
      "borrowedFrom": ""
-    },
-    {
-     "file": "unistone--misterio-gold--closeup2.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/csmigo/misterio-gold-unistone/",
-     "borrowedFrom": ""
-    },
-    {
-     "file": "unistone--misterio-gold--closeup3.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/csmigo/misterio-gold-unistone/",
-     "borrowedFrom": ""
-    },
-    {
-     "file": "unistone--misterio-gold--closeup4.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/csmigo/misterio-gold-unistone/",
-     "borrowedFrom": ""
     }
    ]
   },
@@ -49726,13 +49558,6 @@
     },
     {
      "file": "unistone--polaris--closeup1.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/cspola/polaris-unistone/",
-     "borrowedFrom": ""
-    },
-    {
-     "file": "unistone--polaris--closeup2.webp",
      "status": "closeup",
      "kind": "closeup",
      "source": "https://www.brachot.com/en/materials/cspola/polaris-unistone/",
@@ -49833,13 +49658,6 @@
      "kind": "closeup",
      "source": "https://www.brachot.com/en/materials/cssina/sinai-pearl-unistone/",
      "borrowedFrom": ""
-    },
-    {
-     "file": "unistone--sinai-pearl--closeup2.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/cssina/sinai-pearl-unistone/",
-     "borrowedFrom": ""
     }
    ]
   },
@@ -49874,20 +49692,6 @@
     },
     {
      "file": "unistone--statuario--closeup1.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/csstat/statuario-unistone/",
-     "borrowedFrom": ""
-    },
-    {
-     "file": "unistone--statuario--closeup2.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/csstat/statuario-unistone/",
-     "borrowedFrom": ""
-    },
-    {
-     "file": "unistone--statuario--closeup3.webp",
      "status": "closeup",
      "kind": "closeup",
      "source": "https://www.brachot.com/en/materials/csstat/statuario-unistone/",
@@ -49933,20 +49737,6 @@
     },
     {
      "file": "unistone--taj-mahal--closeup1.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/cstajm/taj-mahal-unistone/",
-     "borrowedFrom": ""
-    },
-    {
-     "file": "unistone--taj-mahal--closeup2.webp",
-     "status": "closeup",
-     "kind": "closeup",
-     "source": "https://www.brachot.com/en/materials/cstajm/taj-mahal-unistone/",
-     "borrowedFrom": ""
-    },
-    {
-     "file": "unistone--taj-mahal--closeup3.webp",
      "status": "closeup",
      "kind": "closeup",
      "source": "https://www.brachot.com/en/materials/cstajm/taj-mahal-unistone/",
