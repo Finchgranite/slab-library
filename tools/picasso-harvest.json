@@ -1,0 +1,450 @@
+{
+ "slabs": [
+  {
+   "name": "Celestial Black",
+   "series": "Designer Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2024/03/Celestial-Black-scaled.jpg",
+   "link": "https://www.picassostones.com/celestial-black-3",
+   "w": 2560
+  },
+  {
+   "name": "Celestial Gold",
+   "series": "Designer Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2025/01/Celestial-Gold.jpg",
+   "link": "https://www.picassostones.com/celestial-gold",
+   "w": 1024
+  },
+  {
+   "name": "Silver Cloud",
+   "series": "Designer Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2025/01/Silver-Cloud.jpg",
+   "link": "https://www.picassostones.com/silver-cloud",
+   "w": 1024
+  },
+  {
+   "name": "Celestial Grey",
+   "series": "Designer Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2024/03/Celestial-Grey-scaled.jpg",
+   "link": "https://www.picassostones.com/celestial-grey-7",
+   "w": 2560
+  },
+  {
+   "name": "Celestial White",
+   "series": "Designer Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2024/03/Celestial-White-scaled.jpg",
+   "link": "https://www.picassostones.com/celestial-white-4",
+   "w": 2560
+  },
+  {
+   "name": "Arctic Storm",
+   "series": "Designer Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2024/03/Arctic-Storm-scaled.jpg",
+   "link": "https://www.picassostones.com/arctic-storm-4",
+   "w": 2560
+  },
+  {
+   "name": "Calacatta Vista",
+   "series": "Marble Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2024/03/Calacatta-Vista-scaled.jpg",
+   "link": "https://www.picassostones.com/calacatta-vista-4",
+   "w": 2560
+  },
+  {
+   "name": "Carrara NEO",
+   "series": "Marble Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2024/03/Carrara-NEO-scaled.jpg",
+   "link": "https://www.picassostones.com/carrara-neo-4",
+   "w": 2560
+  },
+  {
+   "name": "Carrara Rhythm white",
+   "series": "Marble Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2023/11/Carrara-Rhythm-white.webp",
+   "link": "https://www.picassostones.com/carrara-rhythm-white-2",
+   "w": 1345
+  },
+  {
+   "name": "Statuario Modern",
+   "series": "Marble Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2024/03/Statuario-Modern-scaled.jpg",
+   "link": "https://www.picassostones.com/statuario-modern-4",
+   "w": 2560
+  },
+  {
+   "name": "Statuario",
+   "series": "Marble Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2024/03/Statuario-scaled.jpg",
+   "link": "https://www.picassostones.com/statuario-4",
+   "w": 2560
+  },
+  {
+   "name": "Calacatta Gold",
+   "series": "Marble Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2024/03/Calacatta-Gold-scaled.jpg",
+   "link": "https://www.picassostones.com/calacatta-gold-5",
+   "w": 2560
+  },
+  {
+   "name": "Cararra Rhythm",
+   "series": "Marble Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2023/11/Carrara-Rhythm-white.webp",
+   "link": "https://www.picassostones.com/carrara-rhythm-white-2",
+   "w": 1345
+  },
+  {
+   "name": "White Mirror",
+   "series": "Mirror Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2023/11/White-Mirror.webp",
+   "link": "https://www.picassostones.com/mirror-series/white-mirror-2",
+   "w": 750
+  },
+  {
+   "name": "Black Mirror",
+   "series": "Mirror Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2023/11/Black-Mirror.webp",
+   "link": "https://www.picassostones.com/mirror-series/black-mirror-2",
+   "w": 750
+  },
+  {
+   "name": "Grey Mirror",
+   "series": "Mirror Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2023/11/Dark-Grey-Mirror.webp",
+   "link": "https://www.picassostones.com/mirror-series/dark-grey-mirror-2",
+   "w": 750
+  },
+  {
+   "name": "White Stellar",
+   "series": "Stellar Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2023/11/White-Small-Mirror.webp",
+   "link": "https://www.picassostones.com/stellar-seriessmall-sparkles/white-small-mirror-2",
+   "w": 750
+  },
+  {
+   "name": "Snowdale",
+   "series": "Stellar Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2024/03/Snowdale-scaled.jpg",
+   "link": "https://www.picassostones.com/snowdale-3",
+   "w": 2560
+  },
+  {
+   "name": "Statuario Gold",
+   "series": "Marble Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2024/03/Statuario-Gold-scaled.jpg",
+   "link": "https://www.picassostones.com/statuario-gold-3",
+   "w": 2560
+  },
+  {
+   "name": "Calacatta Luxe",
+   "series": "Marble Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2024/03/Calacatta-Luxe-scaled.jpg",
+   "link": "https://www.picassostones.com/calacatta-luxe-2",
+   "w": 2560
+  },
+  {
+   "name": "Carrara White",
+   "series": "Marble Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2024/03/Carrara-White-scaled.jpg",
+   "link": "https://www.picassostones.com/carrara-white-3",
+   "w": 2560
+  },
+  {
+   "name": "Carrara",
+   "series": "Marble Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2024/03/Carrara-scaled.jpg",
+   "link": "https://www.picassostones.com/carrara-3",
+   "w": 2560
+  },
+  {
+   "name": "Carrara Gold",
+   "series": "Marble Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2024/03/Carrara-Gold-scaled.jpg",
+   "link": "https://www.picassostones.com/carrara-gold-3",
+   "w": 2560
+  },
+  {
+   "name": "Carrara ice",
+   "series": "Marble Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2024/03/Carrara-Ice-scaled.jpg",
+   "link": "https://www.picassostones.com/carrara-ice-3",
+   "w": 2560
+  },
+  {
+   "name": "White Lake",
+   "series": "Marble Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2024/03/White-Lake-scaled.jpg",
+   "link": "https://www.picassostones.com/white-lake-3",
+   "w": 2560
+  },
+  {
+   "name": "Super White",
+   "series": "Plain Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2024/03/Super-white-scaled.jpg",
+   "link": "https://www.picassostones.com/super-white-3",
+   "w": 2560
+  },
+  {
+   "name": "Calacatta Nero",
+   "series": "Marble Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2024/03/Calacatta-Nero-scaled.jpg",
+   "link": "https://www.picassostones.com/calacatta-nero-5",
+   "w": 2560
+  },
+  {
+   "name": "Aspen",
+   "series": "Marble Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2024/03/Aspen-scaled.jpg",
+   "link": "https://www.picassostones.com/aspen",
+   "w": 2560
+  },
+  {
+   "name": "Golden Thunder",
+   "series": "Marble Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2024/03/Golden-Thunder-scaled.jpg",
+   "link": "https://www.picassostones.com/golden-thunder",
+   "w": 2560
+  },
+  {
+   "name": "Calacatta Oro",
+   "series": "Marble Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2024/03/Calacatta-Oro-scaled.jpg",
+   "link": "https://www.picassostones.com/calacatta-oro",
+   "w": 2560
+  },
+  {
+   "name": "Sunlight",
+   "series": "Marble Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2025/02/Sunlight.jpg",
+   "link": "https://www.picassostones.com/sunlight",
+   "w": 1920
+  },
+  {
+   "name": "Moonlight",
+   "series": "Marble Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2025/01/Moonlight.jpg",
+   "link": "https://www.picassostones.com/moonlight",
+   "w": 1024
+  },
+  {
+   "name": "Carrara Rhythm",
+   "series": "Marble Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2023/11/Carrara-Rhythm-white.webp",
+   "link": "https://www.picassostones.com/carrara-rhythm-white-2",
+   "w": 1345
+  },
+  {
+   "name": "Arabescato Corchia",
+   "series": "Designer Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2025/08/Arabescato-Corchia.jpg",
+   "link": "https://www.picassostones.com/arabescato-corchia",
+   "w": 1024
+  },
+  {
+   "name": "Aqua Gold",
+   "series": "Designer Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2025/08/Aqua-Gold-Backlit.jpg",
+   "link": "https://www.picassostones.com/aqua-gold-backlit",
+   "w": 1024
+  },
+  {
+   "name": "Crema Royal (Matt & Polish)",
+   "series": "Designer Series",
+   "url": "https://www.picassostones.com/wp-content/uploads/2025/08/Crema-Royal.jpg",
+   "link": "https://www.picassostones.com/crema-royal",
+   "w": 1024
+  }
+ ],
+ "rooms_by_guess": {
+  "statuario modern bs5903": [
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Statuario-Modern-BS5903-island-1024x510.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Statuario-Modern-BS5903-island-1536x765.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Statuario-Modern-BS5903-island-300x149.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Statuario-Modern-BS5903-island-500x249.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Statuario-Modern-BS5903-island-600x299.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Statuario-Modern-BS5903-island-768x382.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Statuario-Modern-BS5903-island.jpg"
+  ],
+  "white stellar": [
+   "https://www.picassostones.com/wp-content/uploads/2023/12/White-Stellar-Dining-Table_Showroom-1024x510.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/White-Stellar-Dining-Table_Showroom-1536x765.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/White-Stellar-Dining-Table_Showroom-300x149.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/White-Stellar-Dining-Table_Showroom-500x249.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/White-Stellar-Dining-Table_Showroom-600x299.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/White-Stellar-Dining-Table_Showroom-768x382.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/White-Stellar-Dining-Table_Showroom.jpg"
+  ],
+  "calacatta vista": [
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Vista-Island-1024x510.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Vista-Island-1536x765.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Vista-Island-300x149.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Vista-Island-500x249.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Vista-Island-600x299.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Vista-Island-768x382.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Vista-Island.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Vista-Kitchen-1024x510.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Vista-Kitchen-1536x765.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Vista-Kitchen-300x149.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Vista-Kitchen-500x249.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Vista-Kitchen-600x299.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Vista-Kitchen-768x382.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Vista-Kitchen.jpg"
+  ],
+  "arctic storm": [
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Arctic-Storm-worktop-1024x510.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Arctic-Storm-worktop-1536x765.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Arctic-Storm-worktop-300x149.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Arctic-Storm-worktop-500x249.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Arctic-Storm-worktop-600x299.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Arctic-Storm-worktop-768x382.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Arctic-Storm-worktop.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Arctic-storm-Kitchen-1024x510.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Arctic-storm-Kitchen-300x149.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Arctic-storm-Kitchen-500x249.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Arctic-storm-Kitchen-600x299.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Arctic-storm-Kitchen-768x383.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Arctic-storm-Kitchen.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Arctic-storm-island-1024x510.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Arctic-storm-island-300x149.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Arctic-storm-island-500x249.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Arctic-storm-island-600x299.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Arctic-storm-island-768x383.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Arctic-storm-island.jpg"
+  ],
+  "arabescato corchia": [
+   "https://www.picassostones.com/wp-content/uploads/2025/08/Arabescato-Corchia-Kitchen-1024x510.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2025/08/Arabescato-Corchia-Kitchen-300x149.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2025/08/Arabescato-Corchia-Kitchen-500x249.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2025/08/Arabescato-Corchia-Kitchen-768x383.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2025/08/Arabescato-Corchia-Kitchen.jpg"
+  ],
+  "white lake": [
+   "https://www.picassostones.com/wp-content/uploads/2023/12/White-Lake-island-1024x510.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/White-Lake-island-1536x765.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/White-Lake-island-300x149.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/White-Lake-island-500x249.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/White-Lake-island-600x299.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/White-Lake-island-768x382.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/White-Lake-island.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/White-Lake-kitchen-1024x510.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/White-Lake-kitchen-1536x765.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/White-Lake-kitchen-300x149.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/White-Lake-kitchen-500x249.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/White-Lake-kitchen-600x299.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/White-Lake-kitchen-768x382.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/White-Lake-kitchen.jpg"
+  ],
+  "celestial white": [
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Celestial-White-Kitchen-1024x510.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Celestial-White-Kitchen-1536x765.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Celestial-White-Kitchen-300x149.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Celestial-White-Kitchen-500x249.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Celestial-White-Kitchen-600x299.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Celestial-White-Kitchen-768x382.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Celestial-White-Kitchen.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Celestial-White-island-1024x510.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Celestial-White-island-1536x765.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Celestial-White-island-300x149.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Celestial-White-island-500x249.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Celestial-White-island-600x299.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Celestial-White-island-768x382.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Celestial-White-island.jpg"
+  ],
+  "crema royal": [
+   "https://www.picassostones.com/wp-content/uploads/2025/08/Crema-Royal-Kitchen-1024x510.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2025/08/Crema-Royal-Kitchen-300x149.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2025/08/Crema-Royal-Kitchen-500x249.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2025/08/Crema-Royal-Kitchen-768x383.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2025/08/Crema-Royal-Kitchen.jpg"
+  ],
+  "statuario": [
+   "https://www.picassostones.com/wp-content/uploads/2023/12/STATUARIO-DINNING-1024x510.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/STATUARIO-DINNING-1536x765.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/STATUARIO-DINNING-300x149.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/STATUARIO-DINNING-500x249.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/STATUARIO-DINNING-600x299.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/STATUARIO-DINNING-768x382.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/STATUARIO-DINNING.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Statuario-kitchen-1024x510.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Statuario-kitchen-1536x765.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Statuario-kitchen-300x149.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Statuario-kitchen-500x249.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Statuario-kitchen-600x299.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Statuario-kitchen-768x382.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Statuario-kitchen.jpg"
+  ],
+  "carrara neo": [
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Carrara-Neo-countertop-1024x510.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Carrara-Neo-countertop-1536x765.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Carrara-Neo-countertop-300x149.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Carrara-Neo-countertop-500x249.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Carrara-Neo-countertop-600x299.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Carrara-Neo-countertop-768x382.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Carrara-Neo-countertop.jpg"
+  ],
+  "carrara gold": [
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Carrara-Gold-worktop-1024x510.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Carrara-Gold-worktop-1536x765.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Carrara-Gold-worktop-300x149.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Carrara-Gold-worktop-500x249.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Carrara-Gold-worktop-600x299.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Carrara-Gold-worktop-768x382.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Carrara-Gold-worktop.jpg"
+  ],
+  "aqua gold": [
+   "https://www.picassostones.com/wp-content/uploads/2025/08/Aqua-Gold-Kitchen-1024x510.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2025/08/Aqua-Gold-Kitchen-300x149.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2025/08/Aqua-Gold-Kitchen-500x249.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2025/08/Aqua-Gold-Kitchen-768x383.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2025/08/Aqua-Gold-Kitchen.jpg"
+  ],
+  "carrara white": [
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Carrara-White-kitchen-1024x510.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Carrara-White-kitchen-1536x765.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Carrara-White-kitchen-300x149.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Carrara-White-kitchen-500x249.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Carrara-White-kitchen-600x299.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Carrara-White-kitchen-768x382.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Carrara-White-kitchen.jpg"
+  ],
+  "calacatta gold": [
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Gold-Island-1024x510.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Gold-Island-1536x765.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Gold-Island-300x149.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Gold-Island-500x249.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Gold-Island-600x299.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Gold-Island-768x382.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Gold-Island.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Gold-Kitchen-1024x510.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Gold-Kitchen-1536x765.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Gold-Kitchen-300x149.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Gold-Kitchen-500x249.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Gold-Kitchen-600x299.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Gold-Kitchen-768x382.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Gold-Kitchen.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Gold-Worktop-1024x510.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Gold-Worktop-1536x765.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Gold-Worktop-300x149.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Gold-Worktop-500x249.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Gold-Worktop-600x299.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Gold-Worktop-768x382.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Calacatta-Gold-Worktop.jpg"
+  ],
+  "calactta luxe": [
+   "https://www.picassostones.com/wp-content/uploads/2023/12/CALACTTA-LUXE-Island-1024x510.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/CALACTTA-LUXE-Island-1536x765.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/CALACTTA-LUXE-Island-300x149.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/CALACTTA-LUXE-Island-500x249.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/CALACTTA-LUXE-Island-600x299.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/CALACTTA-LUXE-Island-768x382.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/CALACTTA-LUXE-Island.jpg"
+  ],
+  "celestial grey": [
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Celestial-Grey-Table-top-1024x510.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Celestial-Grey-Table-top-1536x765.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Celestial-Grey-Table-top-300x149.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Celestial-Grey-Table-top-500x249.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Celestial-Grey-Table-top-600x299.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Celestial-Grey-Table-top-768x382.jpg",
+   "https://www.picassostones.com/wp-content/uploads/2023/12/Celestial-Grey-Table-top.jpg"
+  ]
+ }
+}
