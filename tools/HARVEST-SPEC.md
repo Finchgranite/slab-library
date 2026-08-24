@@ -90,3 +90,14 @@ natural entries untouched.
   + Neolith via thesurfacecollection.co.uk (parse the `data-bpopup` lightbox HTML, not just
   <img>; `/lib/photos/{Name}.jpg`; headings carry finish/thickness/dims). Always fetch the
   top-level product page too — End of Line SKUs only appear there.
+
+## Concurrency rule (added after the Caesarstone pilot, 2026-08-24 ~20:30)
+Several supplier agents run AT THE SAME TIME. `slabs.json` is shared. Therefore:
+- **Apply through `harvest_lib.patch_library(mutate, supplier="<your supplier>")`** — it takes
+  the lock, re-loads the file fresh, runs your mutate(lib), saves atomically with the
+  `generated` bump, and REFUSES to save if you touched another supplier's entries. Never
+  `load_library()` → edit → `save_library()` across a long download loop: do all downloads
+  and webp conversion first, then one short patch_library() call to write the entries.
+- Image files are per-entry-named so they never collide; page caches are per-supplier.
+- The Caesarstone pilot (`tools/harvest_caesarstone.py` + `reconcile_caesarstone.py`) is the
+  worked example: sitemap → per-page harvest JSON → `--report` → `--apply`.

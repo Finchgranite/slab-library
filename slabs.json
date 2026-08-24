@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-02T18:19:55Z",
+ "generated": "2026-08-24T19:00:33Z",
  "slabs": [
   {
    "id": "akg-surfaces--adira-bronze",
@@ -5589,7 +5589,7 @@
    "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630"
   },
   {
-   "id": "bloomstones--calacatta-verde",
+   "id": "bloomstones--calacatta-verde-porcelain",
    "supplier": "Bloomstones",
    "colour": "Calacatta Verde",
    "material": "Porcelain",
@@ -13284,7 +13284,53 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1440 / 30mm: 3050x1440",
+   "details": "Industrial Styled Light Grey Rough Concrete Style Fusion Worktop",
+   "images": [
+    {
+     "file": "caesarstone--airy-concrete.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--airy-concrete--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/4044-airy-concrete-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--airy-concrete--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/4044-airy-concrete-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--airy-concrete--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/4044-airy-concrete-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--airy-concrete--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/4044-airy-concrete-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--airy-concrete--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/4044-airy-concrete-fusion-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--alpine-mist",
@@ -13322,7 +13368,39 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Industrial Styled Grey Ultra Rough Porcelain Worktop",
+   "images": [
+    {
+     "file": "caesarstone--aluminous.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--aluminous--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/410-aluminous-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--aluminous--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/410-aluminous-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--aluminous--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/410-aluminous-porcelain-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--ambketta",
@@ -13354,13 +13432,59 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.caesarstone.co.uk/catalogue/8250-andes-trail-fusion-worktop/",
    "image": {
     "file": "caesarstone--andes-trail.webp",
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1440 / 30mm: 3050x1440",
+   "details": "Sandy Veined Off-White Polished Fusion Worktop",
+   "images": [
+    {
+     "file": "caesarstone--andes-trail.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--andes-trail--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/8250-andes-trail-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--andes-trail--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/8250-andes-trail-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--andes-trail--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/8250-andes-trail-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--andes-trail--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/8250-andes-trail-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--andes-trail--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/8250-andes-trail-fusion-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--arabetto",
@@ -13379,7 +13503,39 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Dynamic Veined White Polished Fusion Worktop",
+   "images": [
+    {
+     "file": "caesarstone--arabetto.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--arabetto--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5171-arabetto-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--arabetto--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5171-arabetto-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--arabetto--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5171-arabetto-fusion-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--archetta",
@@ -13398,7 +13554,46 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Soft Veined White Honed Porcelain Worktop",
+   "images": [
+    {
+     "file": "caesarstone--archetta.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--archetta--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/505-archetta-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--archetta--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/505-archetta-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--archetta--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/505-archetta-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--archetta--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/505-archetta-porcelain-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--auralux",
@@ -13411,13 +13606,61 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.caesarstone.co.uk/catalogue/544-auralux-porcelain-worktop/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "caesarstone--auralux.webp",
+    "status": "slab",
+    "source": "https://www.caesarstone.co.uk/catalogue/544-auralux-porcelain-worktop/",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Textured Grey Stone Porcelain Worktop",
+   "images": [
+    {
+     "file": "caesarstone--auralux.webp",
+     "status": "slab",
+     "source": "https://www.caesarstone.co.uk/catalogue/544-auralux-porcelain-worktop/",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--auralux--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/544-auralux-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--auralux--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/544-auralux-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--auralux--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/544-auralux-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--auralux--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/544-auralux-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--auralux--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/544-auralux-porcelain-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--bianco-drift",
@@ -13436,7 +13679,46 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Granite Inspired Veined Grey Polished Quartz Worktop",
+   "images": [
+    {
+     "file": "caesarstone--bianco-drift.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--bianco-drift--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/6131-bianco-drift-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--bianco-drift--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/6131-bianco-drift-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--bianco-drift--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/6131-bianco-drift-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--bianco-drift--closeup4.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/6131-bianco-drift-quartz-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--black-tempal",
@@ -13455,7 +13737,25 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1440 / 30mm: 3050x1440",
+   "details": "Industrial Black Natural Fusion Worktop",
+   "images": [
+    {
+     "file": "caesarstone--black-tempal.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--black-tempal--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5810-black-tempal-fusion-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--brillianza",
@@ -13468,13 +13768,59 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.caesarstone.co.uk/catalogue/5310-brillianza-fusion-worktop/",
    "image": {
     "file": "caesarstone--brillianza.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1440 / 30mm: 3050x1440",
+   "details": "Cool Grey Veined Polished Fusion Worktop",
+   "images": [
+    {
+     "file": "caesarstone--brillianza.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--brillianza--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5310-brillianza-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--brillianza--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/5310-brillianza-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--brillianza--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/5310-brillianza-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--brillianza--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/5310-brillianza-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--brillianza--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/5310-brillianza-fusion-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--calacatta-dreamwave",
@@ -13487,13 +13833,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.caesarstone.co.uk/catalogue/5105-calacatta-dreamwave-fusion-worktop/",
    "image": {
     "file": "caesarstone--calacatta-dreamwave.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "White Dynamic Veined Polished Fusion Worktop",
+   "images": [
+    {
+     "file": "caesarstone--calacatta-dreamwave.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--calacatta-dreamwave--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5105-calacatta-dreamwave-fusion-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--calacatta-nectar",
@@ -13506,13 +13870,59 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.caesarstone.co.uk/catalogue/5116-calacatta-nectar-quartz-worktop/",
    "image": {
     "file": "caesarstone--calacatta-nectar.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Honied Veined White Quartz Worktop",
+   "images": [
+    {
+     "file": "caesarstone--calacatta-nectar.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--calacatta-nectar--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5116-calacatta-nectar-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--calacatta-nectar--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/5116-calacatta-nectar-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--calacatta-nectar--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/5116-calacatta-nectar-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--calacatta-nectar--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/5116-calacatta-nectar-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--calacatta-nectar--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/5116-calacatta-nectar-quartz-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--calacatta-nuvo",
@@ -13531,7 +13941,32 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Creamy Veined White Polished Fusion Worktop",
+   "images": [
+    {
+     "file": "caesarstone--calacatta-nuvo.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--calacatta-nuvo--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5131-calacatta-nuvo-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--calacatta-nuvo--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/5131-calacatta-nuvo-fusion-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--calacatta-stillstorm",
@@ -13544,13 +13979,45 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.caesarstone.co.uk/catalogue/5115-calacatta-stillstorm-quartz-worktop/",
    "image": {
     "file": "caesarstone--calacatta-stillstorm.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Veined White Quartz Worktop",
+   "images": [
+    {
+     "file": "caesarstone--calacatta-stillstorm.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--calacatta-stillstorm--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5115-calacatta-stillstorm-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--calacatta-stillstorm--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/5115-calacatta-stillstorm-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--calacatta-stillstorm--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/5115-calacatta-stillstorm-quartz-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--calacatta-thyme",
@@ -13563,13 +14030,45 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.caesarstone.co.uk/catalogue/8104-calacatta-thyme-fusion-worktop/",
    "image": {
     "file": "caesarstone--calacatta-thyme.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "White Green Veined Polished Fusion Worktop",
+   "images": [
+    {
+     "file": "caesarstone--calacatta-thyme.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--calacatta-thyme--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/8104-calacatta-thyme-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--calacatta-thyme--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/8104-calacatta-thyme-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--calacatta-thyme--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/8104-calacatta-thyme-fusion-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--circa",
@@ -13588,7 +14087,32 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Grey Veined White Silk Porcelain Worktop",
+   "images": [
+    {
+     "file": "caesarstone--circa.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--circa--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/503-circa-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--circa--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/503-circa-porcelain-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--clamshell",
@@ -13607,7 +14131,25 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Neutral Speckled Grey Polished Quartz Worktop",
+   "images": [
+    {
+     "file": "caesarstone--clamshell.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--clamshell--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/4130-clamshell-quartz-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--cloudburst-concrete",
@@ -13626,7 +14168,39 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1440 / 30mm: 3050x1440",
+   "details": "Industrial Styled White Rough Concrete Style Fusion Worktop",
+   "images": [
+    {
+     "file": "caesarstone--cloudburst-concrete.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--cloudburst-concrete--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/4011-cloudburst-concrete-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--cloudburst-concrete--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/4011-cloudburst-concrete-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--cloudburst-concrete--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/4011-cloudburst-concrete-fusion-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--concrita",
@@ -13642,10 +14216,44 @@
    "productUrl": "https://www.caesarstone.co.uk/catalogue/411-concrita-porcelain-worktop/",
    "image": {
     "file": "caesarstone--concrita.webp",
-    "status": "closeup-only",
-    "source": "caesarstone.co.uk",
-    "borrowedFrom": ""
-   }
+    "status": "slab",
+    "source": "https://www.caesarstone.co.uk/catalogue/411-concrita-porcelain-worktop/",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Textured Industrial Styled Grey Ultra Rough Porcelain Worktop",
+   "images": [
+    {
+     "file": "caesarstone--concrita.webp",
+     "status": "slab",
+     "source": "https://www.caesarstone.co.uk/catalogue/411-concrita-porcelain-worktop/",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--concrita--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/411-concrita-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--concrita--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/411-concrita-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--concrita--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/411-concrita-porcelain-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--darcrest",
@@ -13664,7 +14272,53 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Veined Black Honed Quartz Worktop",
+   "images": [
+    {
+     "file": "caesarstone--darcrest.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--darcrest--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5820-darcrest-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--darcrest--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5820-darcrest-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--darcrest--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5820-darcrest-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--darcrest--closeup4.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5820-darcrest-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--darcrest--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/5820-darcrest-quartz-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--dolcivo",
@@ -13677,13 +14331,61 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.caesarstone.co.uk/catalogue/582-dolcivio-porcelain-worktop/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "caesarstone--dolcivo.webp",
+    "status": "slab",
+    "source": "https://www.caesarstone.co.uk/catalogue/582-dolcivio-porcelain-worktop/",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Soft White Veined Silk Porcelain Worktop",
+   "images": [
+    {
+     "file": "caesarstone--dolcivo.webp",
+     "status": "slab",
+     "source": "https://www.caesarstone.co.uk/catalogue/582-dolcivio-porcelain-worktop/",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--dolcivo--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/582-dolcivio-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--dolcivo--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/582-dolcivio-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--dolcivo--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/582-dolcivio-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--dolcivo--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/582-dolcivio-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--dolcivo--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/582-dolcivio-porcelain-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--dreamy-carrara",
@@ -13696,13 +14398,59 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.caesarstone.co.uk/catalogue/5140-dreamy-carrara-fusion-worktop/",
    "image": {
     "file": "caesarstone--dreamy-carrara.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Silky White Veined Honed Fusion Worktop",
+   "images": [
+    {
+     "file": "caesarstone--dreamy-carrara.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--dreamy-carrara--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5140-dreamy-carrara-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--dreamy-carrara--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/5140-dreamy-carrara-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--dreamy-carrara--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/5140-dreamy-carrara-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--dreamy-carrara--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/5140-dreamy-carrara-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--dreamy-carrara--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/5140-dreamy-carrara-fusion-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--empira-white",
@@ -13721,7 +14469,32 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Soft Veined White Polished Quartz Worktop",
+   "images": [
+    {
+     "file": "caesarstone--empira-white.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--empira-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5151-empira-white-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--empira-white--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/5151-empira-white-quartz-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--emprada",
@@ -13740,7 +14513,25 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Brown Veined Porcelain Worktop",
+   "images": [
+    {
+     "file": "caesarstone--emprada.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--emprada--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/514-emprada-porcelain-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--fossillia",
@@ -13753,13 +14544,61 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.caesarstone.co.uk/catalogue/545-fossillia-porcelain-worktop/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "caesarstone--fossillia.webp",
+    "status": "slab",
+    "source": "https://www.caesarstone.co.uk/catalogue/545-fossillia-porcelain-worktop/",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Cool Grey Veined Honed Porcelain Worktop",
+   "images": [
+    {
+     "file": "caesarstone--fossillia.webp",
+     "status": "slab",
+     "source": "https://www.caesarstone.co.uk/catalogue/545-fossillia-porcelain-worktop/",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--fossillia--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/545-fossillia-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--fossillia--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/545-fossillia-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--fossillia--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/545-fossillia-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--fossillia--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/545-fossillia-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--fossillia--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/545-fossillia-porcelain-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--fresh-concrete",
@@ -13778,7 +14617,46 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Industrial Styled White Concrete Style Quartz Worktop",
+   "images": [
+    {
+     "file": "caesarstone--fresh-concrete.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--fresh-concrete--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/4001-fresh-concrete-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--fresh-concrete--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/4001-fresh-concrete-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--fresh-concrete--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/4001-fresh-concrete-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--fresh-concrete--closeup4.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/4001-fresh-concrete-quartz-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--frosty-carrina",
@@ -13794,10 +14672,37 @@
    "productUrl": "https://www.caesarstone.co.uk/catalogue/5141-frosty-carrina-fusion-worktop/",
    "image": {
     "file": "caesarstone--frosty-carrina.webp",
-    "status": "closeup-only",
-    "source": "caesarstone.co.uk",
-    "borrowedFrom": ""
-   }
+    "status": "slab",
+    "source": "https://www.caesarstone.co.uk/catalogue/5141-frosty-carrina-fusion-worktop/",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Timeless Veined White Polished Fusion Worktop",
+   "images": [
+    {
+     "file": "caesarstone--frosty-carrina.webp",
+     "status": "slab",
+     "source": "https://www.caesarstone.co.uk/catalogue/5141-frosty-carrina-fusion-worktop/",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--frosty-carrina--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5141-frosty-carrina-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--frosty-carrina--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5141-frosty-carrina-fusion-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--frozen-terra",
@@ -13829,13 +14734,47 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.caesarstone.co.uk/catalogue/510-impermia-porcelain-worktop/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "caesarstone--impernia.webp",
+    "status": "slab",
+    "source": "https://www.caesarstone.co.uk/catalogue/510-impermia-porcelain-worktop/",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Veined Black Honed Porcelain Worktop",
+   "images": [
+    {
+     "file": "caesarstone--impernia.webp",
+     "status": "slab",
+     "source": "https://www.caesarstone.co.uk/catalogue/510-impermia-porcelain-worktop/",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--impernia--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/510-impermia-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--impernia--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/510-impermia-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--impernia--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/510-impermia-porcelain-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--isobellia",
@@ -13848,13 +14787,54 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.caesarstone.co.uk/catalogue/508-isobellia-porcelain-worktop/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "caesarstone--isobellia.webp",
+    "status": "slab",
+    "source": "https://www.caesarstone.co.uk/catalogue/508-isobellia-porcelain-worktop/",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Off-White Gold Veined Silk Porcelain Worktop",
+   "images": [
+    {
+     "file": "caesarstone--isobellia.webp",
+     "status": "slab",
+     "source": "https://www.caesarstone.co.uk/catalogue/508-isobellia-porcelain-worktop/",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--isobellia--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/508-isobellia-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--isobellia--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/508-isobellia-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--isobellia--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/508-isobellia-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--isobellia--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/508-isobellia-porcelain-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--jet-black",
@@ -13870,10 +14850,30 @@
    "productUrl": "https://www.caesarstone.co.uk/catalogue/3100-jet-black-quartz-worktop/",
    "image": {
     "file": "caesarstone--jet-black.webp",
-    "status": "closeup-only",
-    "source": "caesarstone.co.uk",
-    "borrowedFrom": ""
-   }
+    "status": "slab",
+    "source": "https://www.caesarstone.co.uk/catalogue/3100-jet-black-quartz-worktop/",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Speckled Black Polished Quartz Worktop",
+   "images": [
+    {
+     "file": "caesarstone--jet-black.webp",
+     "status": "slab",
+     "source": "https://www.caesarstone.co.uk/catalogue/3100-jet-black-quartz-worktop/",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--jet-black--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/3100-jet-black-quartz-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--libretta",
@@ -13889,10 +14889,44 @@
    "productUrl": "https://www.caesarstone.co.uk/catalogue/531-libretta-porcelain-worktop/",
    "image": {
     "file": "caesarstone--libretta.webp",
-    "status": "closeup-only",
-    "source": "caesarstone.co.uk",
-    "borrowedFrom": ""
-   }
+    "status": "slab",
+    "source": "https://www.caesarstone.co.uk/catalogue/531-libretta-porcelain-worktop/",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Light Grey Veined White Honed Porcelain Worktop",
+   "images": [
+    {
+     "file": "caesarstone--libretta.webp",
+     "status": "slab",
+     "source": "https://www.caesarstone.co.uk/catalogue/531-libretta-porcelain-worktop/",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--libretta--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/531-libretta-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--libretta--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/531-libretta-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--libretta--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/531-libretta-porcelain-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--locura",
@@ -13908,10 +14942,37 @@
    "productUrl": "https://www.caesarstone.co.uk/catalogue/516-locura-porcelain-worktop/",
    "image": {
     "file": "caesarstone--locura.webp",
-    "status": "closeup-only",
-    "source": "caesarstone.co.uk",
-    "borrowedFrom": ""
-   }
+    "status": "slab",
+    "source": "https://www.caesarstone.co.uk/catalogue/516-locura-porcelain-worktop/",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Veined Grey Honed Porcelain Worktop",
+   "images": [
+    {
+     "file": "caesarstone--locura.webp",
+     "status": "slab",
+     "source": "https://www.caesarstone.co.uk/catalogue/516-locura-porcelain-worktop/",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--locura--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/516-locura-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--locura--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/516-locura-porcelain-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--london-grey",
@@ -13927,10 +14988,51 @@
    "productUrl": "https://www.caesarstone.co.uk/catalogue/5000-london-grey-quartz-worktop/",
    "image": {
     "file": "caesarstone--london-grey.webp",
-    "status": "closeup-only",
-    "source": "caesarstone.co.uk",
-    "borrowedFrom": ""
-   }
+    "status": "slab",
+    "source": "https://www.caesarstone.co.uk/catalogue/5000-london-grey-quartz-worktop/",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Marble Veined Grey Polished Quartz Worktop",
+   "images": [
+    {
+     "file": "caesarstone--london-grey.webp",
+     "status": "slab",
+     "source": "https://www.caesarstone.co.uk/catalogue/5000-london-grey-quartz-worktop/",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--london-grey--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5000-london-grey-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--london-grey--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5000-london-grey-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--london-grey--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5000-london-grey-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--london-grey--closeup4.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5000-london-grey-quartz-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--lucillia",
@@ -13943,13 +15045,61 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.caesarstone.co.uk/catalogue/581-lucillia-porcelain-worktop/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "caesarstone--lucillia.webp",
+    "status": "slab",
+    "source": "https://www.caesarstone.co.uk/catalogue/581-lucillia-porcelain-worktop/",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Warm White Veined Silk Porcelain Worktop",
+   "images": [
+    {
+     "file": "caesarstone--lucillia.webp",
+     "status": "slab",
+     "source": "https://www.caesarstone.co.uk/catalogue/581-lucillia-porcelain-worktop/",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--lucillia--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/581-lucillia-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--lucillia--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/581-lucillia-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--lucillia--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/581-lucillia-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--lucillia--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/581-lucillia-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--lucillia--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/581-lucillia-porcelain-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--lumena",
@@ -13968,7 +15118,25 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Dark Grey Veined White Honed Porcelain Worktop",
+   "images": [
+    {
+     "file": "caesarstone--lumena.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--lumena--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/504-lumena-porcelain-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--lunar-frost",
@@ -13981,13 +15149,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.caesarstone.co.uk/catalogue/5444-lunar-frost-fusion-worktop/",
    "image": {
     "file": "caesarstone--lunar-frost.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Light Grey Diagonal Veined Fusion Worktop",
+   "images": [
+    {
+     "file": "caesarstone--lunar-frost.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--lunar-frost--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5444-lunar-frost-fusion-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--marbannova",
@@ -14000,13 +15186,68 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.caesarstone.co.uk/catalogue/507-marbannova-porcelain-worktop/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "caesarstone--marbannova.webp",
+    "status": "slab",
+    "source": "https://www.caesarstone.co.uk/catalogue/507-marbannova-porcelain-worktop/",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Warm White Gold Veined Silk Porcelain Worktop",
+   "images": [
+    {
+     "file": "caesarstone--marbannova.webp",
+     "status": "slab",
+     "source": "https://www.caesarstone.co.uk/catalogue/507-marbannova-porcelain-worktop/",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--marbannova--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/507-marbannova-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--marbannova--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/507-marbannova-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--marbannova--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/507-marbannova-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--marbannova--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/507-marbannova-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--marbannova--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/507-marbannova-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--marbannova--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/507-marbannova-porcelain-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--marenstone",
@@ -14019,13 +15260,61 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.caesarstone.co.uk/catalogue/543-marenstone-porcelain-worktop/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "caesarstone--marenstone.webp",
+    "status": "slab",
+    "source": "https://www.caesarstone.co.uk/catalogue/543-marenstone-porcelain-worktop/",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Beige Stone Porcelain Worktop",
+   "images": [
+    {
+     "file": "caesarstone--marenstone.webp",
+     "status": "slab",
+     "source": "https://www.caesarstone.co.uk/catalogue/543-marenstone-porcelain-worktop/",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--marenstone--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/543-marenstone-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--marenstone--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/543-marenstone-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--marenstone--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/543-marenstone-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--marenstone--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/543-marenstone-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--marenstone--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/543-marenstone-porcelain-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--mirabel",
@@ -14041,10 +15330,65 @@
    "productUrl": "https://www.caesarstone.co.uk/catalogue/506-mirabel-porcelain-worktop/",
    "image": {
     "file": "caesarstone--mirabel.webp",
-    "status": "closeup-only",
-    "source": "caesarstone.co.uk",
-    "borrowedFrom": ""
-   }
+    "status": "slab",
+    "source": "https://www.caesarstone.co.uk/catalogue/506-mirabel-porcelain-worktop/",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Charcoal Veined White Silk Porcelain Worktop",
+   "images": [
+    {
+     "file": "caesarstone--mirabel.webp",
+     "status": "slab",
+     "source": "https://www.caesarstone.co.uk/catalogue/506-mirabel-porcelain-worktop/",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--mirabel--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/506-mirabel-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--mirabel--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/506-mirabel-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--mirabel--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/506-mirabel-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--mirabel--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/506-mirabel-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--mirabel--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/506-mirabel-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--mirabel--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/506-mirabel-porcelain-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--misty-carrera",
@@ -14063,7 +15407,39 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Speckled White Polished Quartz Worktop",
+   "images": [
+    {
+     "file": "caesarstone--misty-carrera.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--misty-carrera--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/4141-misty-carrera-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--misty-carrera--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/4141-misty-carrera-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--misty-carrera--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/4141-misty-carrera-quartz-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--moonflow",
@@ -14076,13 +15452,59 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.caesarstone.co.uk/catalogue/8151-moonflow-fusion-worktop/",
    "image": {
     "file": "caesarstone--moonflow.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Layered White Veined Fusion Worktop",
+   "images": [
+    {
+     "file": "caesarstone--moonflow.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--moonflow--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/8151-moonflow-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--moonflow--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/8151-moonflow-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--moonflow--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/8151-moonflow-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--moonflow--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/8151-moonflow-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--moonflow--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/8151-moonflow-fusion-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--moorland-fog",
@@ -14101,7 +15523,39 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1440 / 30mm: 3050x1440",
+   "details": "Rich Veined Beige Polished Quartz Worktop",
+   "images": [
+    {
+     "file": "caesarstone--moorland-fog.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--moorland-fog--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/6046-moorland-fog-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--moorland-fog--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/6046-moorland-fog-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--moorland-fog--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/6046-moorland-fog-quartz-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--mosstone",
@@ -14114,13 +15568,54 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.caesarstone.co.uk/catalogue/542-mosstone-porcelain-worktop/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "caesarstone--mosstone.webp",
+    "status": "slab",
+    "source": "https://www.caesarstone.co.uk/catalogue/542-mosstone-porcelain-worktop/",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Sage and Off-White Porcelain Stone Worktop",
+   "images": [
+    {
+     "file": "caesarstone--mosstone.webp",
+     "status": "slab",
+     "source": "https://www.caesarstone.co.uk/catalogue/542-mosstone-porcelain-worktop/",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--mosstone--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/542-mosstone-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--mosstone--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/542-mosstone-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--mosstone--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/542-mosstone-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--mosstone--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/542-mosstone-porcelain-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--ocean-foam",
@@ -14139,7 +15634,53 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Grey Speckled White Polished Quartz Worktop",
+   "images": [
+    {
+     "file": "caesarstone--ocean-foam.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--ocean-foam--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/6141-ocean-foam-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--ocean-foam--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/6141-ocean-foam-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--ocean-foam--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/6141-ocean-foam-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--ocean-foam--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/6141-ocean-foam-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--ocean-foam--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/6141-ocean-foam-quartz-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--ocean-sage",
@@ -14152,13 +15693,52 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.caesarstone.co.uk/catalogue/8477-ocean-sage-fusion-worktop/",
    "image": {
     "file": "caesarstone--ocean-sage.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Sage Green Veined Natural Fusion Worktop",
+   "images": [
+    {
+     "file": "caesarstone--ocean-sage.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--ocean-sage--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/8477-ocean-sage-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--ocean-sage--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/8477-ocean-sage-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--ocean-sage--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/8477-ocean-sage-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--ocean-sage--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/8477-ocean-sage-fusion-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--onyxa",
@@ -14171,13 +15751,47 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.caesarstone.co.uk/catalogue/509-onyxa-porcelain-worktop/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "caesarstone--onyxa.webp",
+    "status": "slab",
+    "source": "https://www.caesarstone.co.uk/catalogue/509-onyxa-porcelain-worktop/",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "White and Beige Layered Honed Porcelain Worktop",
+   "images": [
+    {
+     "file": "caesarstone--onyxa.webp",
+     "status": "slab",
+     "source": "https://www.caesarstone.co.uk/catalogue/509-onyxa-porcelain-worktop/",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--onyxa--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/509-onyxa-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--onyxa--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/509-onyxa-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--onyxa--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/509-onyxa-porcelain-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--organic-white",
@@ -14196,7 +15810,46 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Speckled White Polished Quartz Worktop",
+   "images": [
+    {
+     "file": "caesarstone--organic-white.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--organic-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/4600-organic-white-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--organic-white--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/4600-organic-white-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--organic-white--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/4600-organic-white-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--organic-white--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/4600-organic-white-quartz-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--pebble",
@@ -14234,7 +15887,32 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1440 / 30mm: 3050x1440",
+   "details": "Oxidised Industrial Styled Grey Rough Concrete Style Quartz Worktop",
+   "images": [
+    {
+     "file": "caesarstone--primordia.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--primordia--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/4043-primordia-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--primordia--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/4043-primordia-quartz-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--pure-white",
@@ -14250,10 +15928,44 @@
    "productUrl": "https://www.caesarstone.co.uk/catalogue/1141-pure-white-quartz-worktop/",
    "image": {
     "file": "caesarstone--pure-white.webp",
-    "status": "closeup-only",
-    "source": "caesarstone.co.uk",
-    "borrowedFrom": ""
-   }
+    "status": "slab",
+    "source": "https://www.caesarstone.co.uk/catalogue/1141-pure-white-quartz-worktop/",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Solid White Polished Quartz Worktop",
+   "images": [
+    {
+     "file": "caesarstone--pure-white.webp",
+     "status": "slab",
+     "source": "https://www.caesarstone.co.uk/catalogue/1141-pure-white-quartz-worktop/",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--pure-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/1141-pure-white-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--pure-white--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/1141-pure-white-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--pure-white--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/1141-pure-white-quartz-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--raw-concrete",
@@ -14272,7 +15984,46 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Industrial Styled Grey Concrete Style Quartz Worktop",
+   "images": [
+    {
+     "file": "caesarstone--raw-concrete.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--raw-concrete--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/4004-raw-concrete-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--raw-concrete--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/4004-raw-concrete-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--raw-concrete--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/4004-raw-concrete-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--raw-concrete--closeup4.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/4004-raw-concrete-quartz-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--riverlet",
@@ -14310,7 +16061,32 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Industrial Styled Grey Rough Concrete Style Fusion Worktop",
+   "images": [
+    {
+     "file": "caesarstone--rugged-concrete.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--rugged-concrete--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/4033-rugged-concrete-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--rugged-concrete--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/4033-rugged-concrete-fusion-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--sedara",
@@ -14323,13 +16099,59 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.caesarstone.co.uk/catalogue/8252-sedara-fusion-worktop/",
    "image": {
     "file": "caesarstone--sedara.webp",
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Sandy Beige Polished Fusion Worktop",
+   "images": [
+    {
+     "file": "caesarstone--sedara.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--sedara--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/8252-sedara-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--sedara--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/8252-sedara-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--sedara--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/8252-sedara-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--sedara--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/8252-sedara-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--sedara--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/8252-sedara-fusion-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--shitake",
@@ -14348,7 +16170,60 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Speckled Beige Polished Quartz Worktop",
+   "images": [
+    {
+     "file": "caesarstone--shitake.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--shitake--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/4230-shitake-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--shitake--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/4230-shitake-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--shitake--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/4230-shitake-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--shitake--closeup4.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/4230-shitake-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--shitake--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/4230-shitake-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--shitake--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/4230-shitake-quartz-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--silvax",
@@ -14361,13 +16236,54 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.caesarstone.co.uk/catalogue/550-silvax-porcelain-worktop/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "caesarstone--silvax.webp",
+    "status": "slab",
+    "source": "https://www.caesarstone.co.uk/catalogue/550-silvax-porcelain-worktop/",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Earthy Stone Porcelain Worktop",
+   "images": [
+    {
+     "file": "caesarstone--silvax.webp",
+     "status": "slab",
+     "source": "https://www.caesarstone.co.uk/catalogue/550-silvax-porcelain-worktop/",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--silvax--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/550-silvax-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--silvax--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/550-silvax-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--silvax--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/550-silvax-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--silvax--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/550-silvax-porcelain-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--sleet",
@@ -14383,10 +16299,30 @@
    "productUrl": "https://www.caesarstone.co.uk/catalogue/502-sleet-porcelain-worktop/",
    "image": {
     "file": "caesarstone--sleet.webp",
-    "status": "closeup-only",
-    "source": "caesarstone.co.uk",
-    "borrowedFrom": ""
-   }
+    "status": "slab",
+    "source": "https://www.caesarstone.co.uk/catalogue/502-sleet-porcelain-worktop/",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Veined Off-White Silk Porcelain Worktop",
+   "images": [
+    {
+     "file": "caesarstone--sleet.webp",
+     "status": "slab",
+     "source": "https://www.caesarstone.co.uk/catalogue/502-sleet-porcelain-worktop/",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--sleet--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/502-sleet-porcelain-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--smokestone",
@@ -14405,7 +16341,32 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Veined Black Ultra Rough Porcelain Worktop",
+   "images": [
+    {
+     "file": "caesarstone--smokestone.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--smokestone--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/511-smokestone-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--smokestone--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/511-smokestone-porcelain-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--snow",
@@ -14418,13 +16379,59 @@
     20,
     30
    ],
-   "productUrl": "https://www.caesarstone.co.uk/catalogue/501-snowdrift-porcelain-worktop/",
+   "productUrl": "https://www.caesarstone.co.uk/catalogue/2141-snow-quartz-worktop/",
    "image": {
     "file": "caesarstone--snow.webp",
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Solid Warm White Polished Quartz Worktop",
+   "images": [
+    {
+     "file": "caesarstone--snow.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--snow--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/2141-snow-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--snow--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/2141-snow-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--snow--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/2141-snow-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--snow--closeup4.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/2141-snow-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--snow--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/2141-snow-quartz-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--snowdrift",
@@ -14443,7 +16450,53 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Veined White Silk Porcelain Worktop",
+   "images": [
+    {
+     "file": "caesarstone--snowdrift.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--snowdrift--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/501-snowdrift-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--snowdrift--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/501-snowdrift-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--snowdrift--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/501-snowdrift-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--snowdrift--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/501-snowdrift-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--snowdrift--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/501-snowdrift-porcelain-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--solenna",
@@ -14456,13 +16509,59 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.caesarstone.co.uk/catalogue/5113-solenna-fusion-worktop/",
    "image": {
     "file": "caesarstone--solenna.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1440 / 30mm: 3050x1440",
+   "details": "Warm White Veined Polished Fusion Worktop",
+   "images": [
+    {
+     "file": "caesarstone--solenna.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--solenna--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5113-solenna-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--solenna--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/5113-solenna-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--solenna--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/5113-solenna-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--solenna--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/5113-solenna-fusion-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--solenna--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/5113-solenna-fusion-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--statuario-maximus",
@@ -14478,10 +16577,51 @@
    "productUrl": "https://www.caesarstone.co.uk/catalogue/5031-statuario-maximus-quartz-worktop/",
    "image": {
     "file": "caesarstone--statuario-maximus.webp",
-    "status": "closeup-only",
-    "source": "caesarstone.co.uk",
-    "borrowedFrom": ""
-   }
+    "status": "slab",
+    "source": "https://www.caesarstone.co.uk/catalogue/5031-statuario-maximus-quartz-worktop/",
+    "borrowedFrom": "",
+    "scale": "true"
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Veined Polished White Quartz Worktop",
+   "images": [
+    {
+     "file": "caesarstone--statuario-maximus.webp",
+     "status": "slab",
+     "source": "https://www.caesarstone.co.uk/catalogue/5031-statuario-maximus-quartz-worktop/",
+     "borrowedFrom": "",
+     "scale": "true",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--statuario-maximus--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5031-statuario-maximus-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--statuario-maximus--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5031-statuario-maximus-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--statuario-maximus--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5031-statuario-maximus-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--statuario-maximus--closeup4.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5031-statuario-maximus-quartz-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--striata",
@@ -14497,10 +16637,65 @@
    "productUrl": "https://www.caesarstone.co.uk/catalogue/513-striata-porcelain-worktop/",
    "image": {
     "file": "caesarstone--striata.webp",
-    "status": "closeup-only",
-    "source": "caesarstone.co.uk",
-    "borrowedFrom": ""
-   }
+    "status": "slab",
+    "source": "https://www.caesarstone.co.uk/catalogue/513-striata-porcelain-worktop/",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Geological Veined Grey Ultra Rough Porcelain Worktop",
+   "images": [
+    {
+     "file": "caesarstone--striata.webp",
+     "status": "slab",
+     "source": "https://www.caesarstone.co.uk/catalogue/513-striata-porcelain-worktop/",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--striata--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/513-striata-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--striata--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/513-striata-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--striata--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/513-striata-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--striata--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/513-striata-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--striata--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/513-striata-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--striata--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/513-striata-porcelain-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--taj-royale",
@@ -14513,13 +16708,45 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.caesarstone.co.uk/catalogue/5212-taj-royale-quartz-worktop/",
    "image": {
     "file": "caesarstone--taj-royale.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Veined Beige Polished Quartz Worktop",
+   "images": [
+    {
+     "file": "caesarstone--taj-royale.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--taj-royale--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5212-taj-royale-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--taj-royale--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5212-taj-royale-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--taj-royale--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/5212-taj-royale-quartz-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--topus-concrete",
@@ -14538,7 +16765,46 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1440 / 30mm: 3050x1440",
+   "details": "Industrial Styled Beige Rough Concrete Style Quartz Worktop",
+   "images": [
+    {
+     "file": "caesarstone--topus-concrete.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--topus-concrete--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/4023-topus-concrete-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--topus-concrete--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/4023-topus-concrete-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--topus-concrete--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/4023-topus-concrete-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--topus-concrete--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/4023-topus-concrete-quartz-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--transcenda",
@@ -14557,7 +16823,25 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Veined Grey Ultra Rough Porcelain Worktop",
+   "images": [
+    {
+     "file": "caesarstone--transcenda.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--transcenda--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/512-transcenda-porcelain-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--travina",
@@ -14570,13 +16854,54 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.caesarstone.co.uk/catalogue/551-travina-porcelain-worktop/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "caesarstone--travina.webp",
+    "status": "slab",
+    "source": "https://www.caesarstone.co.uk/catalogue/551-travina-porcelain-worktop/",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Beige Stone Textured Porcelain Worktop",
+   "images": [
+    {
+     "file": "caesarstone--travina.webp",
+     "status": "slab",
+     "source": "https://www.caesarstone.co.uk/catalogue/551-travina-porcelain-worktop/",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--travina--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/551-travina-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--travina--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/551-travina-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--travina--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/551-travina-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--travina--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/551-travina-porcelain-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--turbine-grey",
@@ -14614,7 +16939,53 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Creamy Veined Black Polished Quartz Worktop",
+   "images": [
+    {
+     "file": "caesarstone--vanilla-noir.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--vanilla-noir--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5100-vanilla-noir-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--vanilla-noir--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/5100-vanilla-noir-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--vanilla-noir--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/5100-vanilla-noir-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--vanilla-noir--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/5100-vanilla-noir-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--vanilla-noir--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/5100-vanilla-noir-quartz-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--white-attica",
@@ -14633,7 +17004,53 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Grey Veined White Polished Quartz Worktop",
+   "images": [
+    {
+     "file": "caesarstone--white-attica.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--white-attica--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5143-white-attica-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--white-attica--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5143-white-attica-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--white-attica--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/5143-white-attica-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--white-attica--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/5143-white-attica-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--white-attica--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/5143-white-attica-quartz-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--white-ciment",
@@ -14652,7 +17069,32 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Industrial Styled White Ultra Rough Porcelain Worktop",
+   "images": [
+    {
+     "file": "caesarstone--white-ciment.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--white-ciment--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/413-white-ciment-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--white-ciment--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/413-white-ciment-porcelain-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--whitenna",
@@ -14671,7 +17113,32 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Solid White Honed Porcelain Worktop",
+   "images": [
+    {
+     "file": "caesarstone--whitenna.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--whitenna--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/110-whitenna-porcelain-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--whitenna--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/110-whitenna-porcelain-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--woodlands",
@@ -14690,7 +17157,67 @@
     "status": "slab",
     "source": "caesarstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3240x1640 / 30mm: 3240x1640",
+   "details": "Veined Brown Polished Quartz Worktop",
+   "images": [
+    {
+     "file": "caesarstone--woodlands.webp",
+     "status": "slab",
+     "source": "caesarstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "caesarstone--woodlands--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/6338-woodlands-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--woodlands--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/6338-woodlands-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--woodlands--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/6338-woodlands-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--woodlands--closeup4.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.caesarstone.co.uk/catalogue/6338-woodlands-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--woodlands--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/6338-woodlands-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--woodlands--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/6338-woodlands-quartz-worktop/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "caesarstone--woodlands--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.caesarstone.co.uk/catalogue/6338-woodlands-quartz-worktop/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--wyndigo",
@@ -22901,7 +25428,10 @@
     "status": "slab",
     "source": "finchgranite.com",
     "borrowedFrom": ""
-   }
+   },
+   "aliases": [
+    "Calacatta Magma Silver"
+   ]
   },
   {
    "id": "international-stones-iq--calacatta-spa",
@@ -33910,7 +36440,10 @@
     "status": "slab",
     "source": "picassostones.com",
     "borrowedFrom": ""
-   }
+   },
+   "aliases": [
+    "Thunder Gold"
+   ]
   },
   {
    "id": "picasso-surfaces--golden-thunder-shimmer",
@@ -34233,7 +36766,10 @@
     "status": "slab",
     "source": "picassostones.com",
     "borrowedFrom": ""
-   }
+   },
+   "aliases": [
+    "Golden Thunder"
+   ]
   },
   {
    "id": "picasso-surfaces--tuscan",

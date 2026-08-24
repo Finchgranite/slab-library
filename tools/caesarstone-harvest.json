@@ -1,0 +1,2279 @@
+[
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/110-whitenna-porcelain-worktop/",
+  "code": "110",
+  "slug": "whitenna",
+  "colour": "Whitenna",
+  "finish": "Honed",
+  "description": "Solid White Honed Porcelain Worktop",
+  "thicknesses": [
+   12
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/110_Full_Slab_3840_3840_1812px.jpg",
+   "size": null
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/110_whitenna_110_Render_CU_jpg-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/110_CU454px_454_275px.jpg"
+  ],
+  "rooms": [],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/110_Full_Slab_600_632px.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/110_Full_Slab_3840_3840_1812px-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/1141-pure-white-quartz-worktop/",
+  "code": "1141",
+  "slug": "pure-white",
+  "colour": "Pure White",
+  "finish": "Polished",
+  "description": "Solid White Polished Quartz Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 1.7777777777777777,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/1141_Pure-White_1141_Full_Slab-16-9-scaled.jpg",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": "mm"
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/1141_pure_white_CU_landscape-1920X1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/1141_pure_white_closeup_1920X1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2021/01/1141_Pure-White_1141_CU_50x70cm_1920x890px.jpg"
+  ],
+  "rooms": [],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/1141_Pure-White_1141_Full_Slab_1920x890px.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/1141_Pure-White_1141_Full_Slab-16-9-300x169.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/2141-snow-quartz-worktop/",
+  "code": "2141",
+  "slug": "snow",
+  "colour": "Snow",
+  "finish": "Polished",
+  "description": "Solid Warm White Polished Quartz Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 1.7777777777777777,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/2141_Snow_2141_Full_Slab-16X9-scaled.jpg",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": "mm"
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/2141_Snow_close-up-1920X1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/2141_Snow_-close-up-350X578.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/501_Snowdrift_CU_275X454_RGB_18102023.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2021/01/2141_2141_CU_50x70cm_1920x890px.jpg"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/2141_Snow_Blizzard_2141_kitchen-12_jpg-scaled-1-150x150.jpg"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/2141_2141_Full_Slab_1920x890px-1.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/2141_Snow_2141_Full_Slab-16X9-300x169.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/3100-jet-black-quartz-worktop/",
+  "code": "3100",
+  "slug": "jet-black",
+  "colour": "Jet Black",
+  "finish": "Polished",
+  "description": "Speckled Black Polished Quartz Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 1.7777777777777777,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/3100_Jet-Black_Full_Slab-16X9-1-scaled.jpg",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": "mm"
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2021/01/3100_Jet-Black_3100_CU_50x70cm_1920x890px.jpg"
+  ],
+  "rooms": [],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/3100_Jet-Black_3100_Full_Slab_1920x890px.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/3100_Jet-Black_Full_Slab-16X9-1-300x169.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/4001-fresh-concrete-quartz-worktop/",
+  "code": "4001",
+  "slug": "fresh-concrete",
+  "colour": "Fresh Concrete",
+  "finish": "Concrete",
+  "description": "Industrial Styled White Concrete Style Quartz Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4001_FreshConcrete_FULL_sRGB_05012025_3840X1812.webp",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": "mm"
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4001_Fresh-Concrete_CU_landscape_1-1920X1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4001_Fresh-Concrete_CU_landscape-1920X1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4001_FreshConcrete_Render2_1920x1080-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4001_Fresh-Concrete_CU_landscape_1350X578.jpg"
+  ],
+  "rooms": [],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4001_FreshConcrete_FULL_sRGB_05012025_600X632.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4001-fresh-concrete-slab-video-poster-image.webp"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/4004-raw-concrete-quartz-worktop/",
+  "code": "4004",
+  "slug": "raw-concrete",
+  "colour": "Raw Concrete",
+  "finish": "Concrete",
+  "description": "Industrial Styled Grey Concrete Style Quartz Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4004_Raw-Concrete_4004_Full_Slab3840X1812.jpg",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": "mm"
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4004_Raw-Concrete_CU_landscape-1920X1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4004_Raw-Concrete_CU_landscape_1-1920X1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4004_Raw-Concrete_CU_portrait-350X578.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4004_Raw-Concrete_CU_portrait_1-350X578.jpg"
+  ],
+  "rooms": [],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4004_Raw-Concrete_4004_Full_Slab_1920x890px-2.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4004-raw-concrete-slab-video-poster-image.webp"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/4011-cloudburst-concrete-fusion-worktop/",
+  "code": "4011",
+  "slug": "cloudburst-concrete",
+  "colour": "Cloudburst Concrete",
+  "finish": "Rough Concrete",
+  "description": "Industrial Styled White Rough Concrete Style Fusion Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4011_CloudburstConcrete_FULL_sRGB_270225_3840X1812.webp",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": ""
+   }
+  },
+  "closeups": [],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/caesarstone-4011-cloudburst-concrete-kitchen-render-01-1920x1080-1.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/caesarstone-4011-cloudburst-concrete-kitchen-render-02-1920x1080-1-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/caesarstone-4011-cloudburst-concrete-kitchen-render-03-1920x1080-1-150x150.webp"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4011_CloudburstConcrete_FULL_sRGB_270225_600X632.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4011-cloudburst-concrete-slab-video-poster-image.webp"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/4023-topus-concrete-quartz-worktop/",
+  "code": "4023",
+  "slug": "topus-concrete",
+  "colour": "Topus Concrete",
+  "finish": "Rough Concrete",
+  "description": "Industrial Styled Beige Rough Concrete Style Quartz Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4023_TopusConcrete_FULL_3840X1812sRGB_190524.jpg",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": "mm"
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4023_TopusConcrete_Render1_1920x1080_RGB_271222-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4023_Topus-Concrete_4023_TopusConcrete_Render1_350x578_RGB_271222.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4023_TopusConcrete_CU_70x46_150dpi_sRGB_190524-683x1024.jpg"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4023_TopusConcrete_Render2_1920x1080_RGB_271222-150x150.jpg"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4023_TopusConcrete_FULL_600X632_sRGB_190524.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4023-topus-concrete-slab-video-poster-image.webp"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/4033-rugged-concrete-fusion-worktop/",
+  "code": "4033",
+  "slug": "rugged-concrete",
+  "colour": "Rugged Concrete",
+  "finish": "Rough Concrete",
+  "description": "Industrial Styled Grey Rough Concrete Style Fusion Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4033_Rugged-Concrete_4033_RuggedConcrete_FULL_3840x1812_sRGB_081122-1.jpg",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": ""
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4033_Rugged_Concrete_CU_1920X1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4033_Rugged-Concrete_4033_RuggedConcrete_CU_275x454_sRGB_081122-1.jpg"
+  ],
+  "rooms": [],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4033_Rugged-Concrete_4033_RuggedConcrete_FULL_600x632_sRGB_081122-1.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4033-rugged-concrete-slab-video-poster-image.webp"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/4043-primordia-quartz-worktop/",
+  "code": "4043",
+  "slug": "primordia",
+  "colour": "Primordia",
+  "finish": "Rough Concrete",
+  "description": "Oxidised Industrial Styled Grey Rough Concrete Style Quartz Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4043_Primordia_FULL_3840X1812_sRGB_180123-1.jpg",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": "mm"
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4043_Primordia_CU_275X454_sRGB_180123.jpg"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4043_Primordia_Render1_1920x1080_RGB_170523-150x150.jpg"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4043_Primordia_FULL_600X632_sRGB_180123-1.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4043-primordia-slab-video-poster-image.webp"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/4044-airy-concrete-fusion-worktop/",
+  "code": "4044",
+  "slug": "airy-concrete",
+  "colour": "Airy Concrete",
+  "finish": "Rough Concrete",
+  "description": "Industrial Styled Light Grey Rough Concrete Style Fusion Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4044_AiryConcrete_FULL_sRGB_270225_3840X1812.webp",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": ""
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4044_AiryConcrete_CU_275X454_sRGB_270225-copy.webp"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4044_Airy-Concrete_Kitchen_Render-1920X1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4044_Airy-Concrete_Kitchen_Render_CU-1920X1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/caesarstone-4044-airy-concrete-bathroom-vanity-render-01-1920x1080-1-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/caesarstone-4044-airy-concrete-bathroom-vanity-render-02-1920x1080-1-150x150.webp"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4044_AiryConcrete_FULL_sRGB_270225_600X632.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4044-airy-concrete-slab-video-poster-image.webp"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/410-aluminous-porcelain-worktop/",
+  "code": "410",
+  "slug": "aluminous",
+  "colour": "Aluminous",
+  "finish": "Ultra Rough",
+  "description": "Industrial Styled Grey Ultra Rough Porcelain Worktop",
+  "thicknesses": [
+   12
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/410_Full_Slab_3840_3840_1812px.jpg",
+   "size": null
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/410_Aluminous_410_Render_CU_1920_1080px_jpg-150x150.jpg"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2023/12/410_Aluminous_Render1_1920X1080_RGB_050224-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2023/12/410_Aluminous_Render2_1920X1080_RGB_050224-150x150.jpg"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/410_Full_Slab_600_632px.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/410_Full_Slab_3840_3840_1812px-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/4101-organic-dawn-fusion-worktop/",
+  "code": "4101",
+  "slug": "organic-dawn",
+  "colour": "Organic Dawn",
+  "finish": "Polished",
+  "description": "Light Grey Flecked Polished Fusion Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2026/06/4101_OrganicDawn_Full_3840X1812_RGB_231125-copy.webp",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": ""
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/06/4101_OrganicDawn_CU_275X454_R300_RGB_241125-copy.webp"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/06/caesarstone-4101-organic-dawn-bathroom-render-01-1920x1080-1.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/06/caesarstone-4101-organic-dawn-bathroom-render-02-1920x1080-1-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/06/caesarstone-4101-organic-dawn-bathroom-render-03-1920x1080-1-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/06/caesarstone-4101-organic-dawn-kitchen-render-01-1920x1080-1-150x150.webp"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/06/4101_OrganicDawn_Full_600X632_RGB_231125-copy.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/06/4101_OrganicDawn_Full_3840X1812_RGB_231125-copy-300x142.webp"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/411-concrita-porcelain-worktop/",
+  "code": "411",
+  "slug": "concrita",
+  "colour": "Concrita",
+  "finish": "Ultra Rough",
+  "description": "Textured Industrial Styled Grey Ultra Rough Porcelain Worktop",
+  "thicknesses": [
+   12
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/411_Concrita_411_Full_Slab_3840_3840_1812px_jpg.jpg",
+   "size": null
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/411_cu_275X454.jpg"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2023/12/411_Concrita_Render2_1920X1080_RGB_300124-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2023/12/411_Concrita_Render3_1920X1080_RGB_300124-150x150.jpg"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/411_Full_Slab_600_632px.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/411_Concrita_411_Full_Slab_3840_3840_1812px_jpg-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/413-white-ciment-porcelain-worktop/",
+  "code": "413",
+  "slug": "white-ciment",
+  "colour": "White Ciment",
+  "finish": "Ultra Rough",
+  "description": "Industrial Styled White Ultra Rough Porcelain Worktop",
+  "thicknesses": [
+   12
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/413_Full_Slab_3840_3840_1812px.jpg",
+   "size": null
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/413_Render_CU_1920_1080px_jpg-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/413_White-Ciment_413_CU_275X454.jpg"
+  ],
+  "rooms": [],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/413_Full_Slab_600_632px.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/413_Full_Slab_3840_3840_1812px-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/4130-clamshell-quartz-worktop/",
+  "code": "4130",
+  "slug": "clamshell",
+  "colour": "Clamshell",
+  "finish": "Polished",
+  "description": "Neutral Speckled Grey Polished Quartz Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4130_Clamshell_4130_Clamshell_4130_Full_3840x1812_sRGB.jpg",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": "mm"
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4130_Clamshell_4130_Clamshell_4130_CU_275x454_sRGB.jpg"
+  ],
+  "rooms": [],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4130_Clamshell_4130_Clamshell_4130_Full_600x632_sRGB.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4130_Clamshell_4130_Clamshell_4130_Full_3840x1812_sRGB-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/4141-misty-carrera-quartz-worktop/",
+  "code": "4141",
+  "slug": "misty-carrera",
+  "colour": "Misty Carrera",
+  "finish": "Polished",
+  "description": "Speckled White Polished Quartz Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4141_Misty-Carrera_4141_MistyCarrera_FULL_3840x1812_sRGB_021222-1.jpg",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": "mm"
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4141_misty_carrera_cu_landscape_1920_1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4141_misty_carrera_cu_landscape_350X578.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4141_Misty-Carrera_4141_MistyCarrera_CU_275x454_sRGB_021222-1.jpg"
+  ],
+  "rooms": [],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4141_Misty-Carrera_4141_MistyCarrera_FULL_600x632_sRGB_021222-1.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4141_Misty-Carrera_4141_MistyCarrera_FULL_3840x1812_sRGB_021222-1-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/4201-organic-dune-fusion-worktop/",
+  "code": "4201",
+  "slug": "organic-dune",
+  "colour": "Organic Dune",
+  "finish": "Polished",
+  "description": "Beige Flecked Polished Fusion Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2026/06/4201_Organic_Dune_Full_rgb_231125_3840X1812.webp",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": ""
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/06/4201_OrganicDune_CU_rgb_181125_275X454.webp"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/06/caesarstone-4201-organic-dune-kitchen-render-01-1920x1080-1.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/06/caesarstone-4201-organic-dune-kitchen-render-02-1920x1080-1-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/06/caesarstone-4201-organic-dune-kitchen-render-03-1920x1080-1-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/06/caesarstone-4201-organic-dune-kitchen-render-04-1920x1080-1-150x150.webp"
+  ],
+  "extra_slabs": []
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/4230-shitake-quartz-worktop/",
+  "code": "4230",
+  "slug": "shitake",
+  "colour": "Shitake",
+  "finish": "Polished",
+  "description": "Speckled Beige Polished Quartz Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2021/10/4230_Shitake_4230_Full_Slab3840X1812.jpg",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": "mm"
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2021/10/4230_Shitake_4230_Shitake_CloseUP_2-1920X1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2021/10/4230_Shitake_4230_Shitake_CloseUP-1920X1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2021/10/4230_Shitake_4230_Shitake_CloseUP_3-1920X1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2021/10/4230_Shitake_4230_CU_50x70cm_1920x890px.jpg"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2021/10/4230_Shitake_4230-KITCHEN-LR-1920X1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2021/10/4230_Shitake_4230-KITCHEN-CU-LR-1920X1080-150x150.jpg"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2021/10/4230_Shitake_4230_Full_Slab-600X632-mobile.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2021/10/4230_Shitake_4230_Full_Slab3840X1812-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/4401-organic-dusk-fusion-worktop/",
+  "code": "4401",
+  "slug": "organic-dusk",
+  "colour": "Organic Dusk",
+  "finish": "Polished",
+  "description": "Earthy Grey Flecked Polished Fusion Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2026/06/4401_OrganicDusk_Full_RGB_231125_3840X1812.webp",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": ""
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/06/4401_OrganicDusk_CU_RGB_091225_275X454.webp"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/06/caesarstone-4401-organic-dusk-kitchen-render-01-1920x1080-1.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/06/caesarstone-4401-organic-dusk-kitchen-render-02-1920x1080-1-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/06/caesarstone-4401-organic-dusk-kitchen-render-03-1920x1080-1-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/06/caesarstone-4401-organic-dusk-kitchen-render-04-1920x1080-1-150x150.webp"
+  ],
+  "extra_slabs": []
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/4600-organic-white-quartz-worktop/",
+  "code": "4600",
+  "slug": "organic-white",
+  "colour": "Organic White",
+  "finish": "Polished",
+  "description": "Speckled White Polished Quartz Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4600_Organic-White_4600_OrganicWhite_FULL_3840x1812_sRGB_071222-1.jpg",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": "mm"
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4600_Organic-White_4600_OrganicWhite_CU_275x454_sRGB_071222-1.jpg"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/caesarstone-4600-organic-white-kitchen-render-01-1920x1080-1.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/caesarstone-4600-organic-white-kitchen-render-02-1920x1080-1-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/caesarstone-4600-organic-white-kitchen-render-03-1920x1080-1-150x150.webp"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4600_Organic-White_4600_OrganicWhite_FULL_600x632_sRGB_071222-1.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/4600_Organic-White_4600_OrganicWhite_FULL_3840x1812_sRGB_071222-1-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/5000-london-grey-quartz-worktop/",
+  "code": "5000",
+  "slug": "london-grey",
+  "colour": "London Grey",
+  "finish": "Polished",
+  "description": "Marble Veined Grey Polished Quartz Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119757174392936,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5000_London-Grey_5000_Full_Slab-2.jpg",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": "mm"
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5000_london_grey_closeup_6_1920X1080_opt-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5000_london_grey_closeup_5_1920X1080_opt-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5000_london_grey_closeup_3_1920X1080_opt-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5000_London-Grey_CU_50x70cm-16X9-1.jpg"
+  ],
+  "rooms": [],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5000_London-Grey_5000_Full_Slab_1920x890px-1.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5000_London-Grey_5000_Full_Slab-2-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/501-snowdrift-porcelain-worktop/",
+  "code": "501",
+  "slug": "snowdrift",
+  "colour": "Snowdrift",
+  "finish": "Silk",
+  "description": "Veined White Silk Porcelain Worktop",
+  "thicknesses": [
+   12,
+   20
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/501_Snowdrift_Full_3840X1812_RGB_19102023.jpg",
+   "size": null
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/501_Snowdrift_CU_275X454_RGB_18102023.jpg"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2023/12/501_Snowdrift_Render1_OutdoorKitchen_1920x1080-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2023/12/501_Snowdrift_Render2_OutdoorKitchen_1920x1080-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2023/12/501_Snowdrift_Render3_OutdoorKitchen_1920x1080-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2023/12/501_Snowdrift_Invisacook_Render1_1920x1080-150x150.webp"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/501_Snowdrift_Full_600X632_RGB_19102023.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/501_Snowdrift_Full_3840X1812_RGB_19102023-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/502-sleet-porcelain-worktop/",
+  "code": "502",
+  "slug": "sleet",
+  "colour": "Sleet",
+  "finish": "Silk",
+  "description": "Veined Off-White Silk Porcelain Worktop",
+  "thicknesses": [
+   12,
+   20
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/502_Full_Slab_3840_3840_1812px.jpg",
+   "size": null
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/502_CU454px_454_275px.jpg"
+  ],
+  "rooms": [],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/502_Full_Slab_600_632px.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/502_Full_Slab_3840_3840_1812px-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/503-circa-porcelain-worktop/",
+  "code": "503",
+  "slug": "circa",
+  "colour": "Circa",
+  "finish": "Silk",
+  "description": "Grey Veined White Silk Porcelain Worktop",
+  "thicknesses": [
+   12,
+   20
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/503_Circa_Full_3840X1812_RGB_19102023.jpg",
+   "size": null
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/503_Circa_503_White_CU_1920-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/503_Circa_CU_275X454_RGB_18102023-1.jpg"
+  ],
+  "rooms": [],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/503_Circa_Full_600X632_RGB_19102023.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/503_Circa_Full_3840X1812_RGB_19102023-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/5031-statuario-maximus-quartz-worktop/",
+  "code": "5031",
+  "slug": "statuario-maximus",
+  "colour": "Statuario Maximus",
+  "finish": "Polished",
+  "description": "Veined Polished White Quartz Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 1.7777777777777777,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5031_Statuario-Maximus_Full_Slab-116X9-scaled.jpg",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": "mm"
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5031_Statuario-Maximus_CU_landscape_1-1920X1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5031_Statuario-Maximus_CU_landscape_2-1920X1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5031_Statuario-Maximus_CU_landscape-1920X1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5031_Statuario-Maximus_CU_portrait_1-350X578.jpg"
+  ],
+  "rooms": [],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5031_Statuario-Maximus_5031_Full_Slab_1920x890px.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5031_Statuario-Maximus_Full_Slab-116X9-300x169.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/504-lumena-porcelain-worktop/",
+  "code": "504",
+  "slug": "lumena",
+  "colour": "Lumena",
+  "finish": "Honed",
+  "description": "Dark Grey Veined White Honed Porcelain Worktop",
+  "thicknesses": [
+   12,
+   20
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/504_Lumena_Full_3840X1812_RGB_12102023.jpg",
+   "size": null
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/504_Lumena_CU_275X454_RGB_12102023.jpg"
+  ],
+  "rooms": [],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/504_Lumena_Full_600X632_RGB_12102023.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/504_Lumena_Full_3840X1812_RGB_12102023-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/505-archetta-porcelain-worktop/",
+  "code": "505",
+  "slug": "archetta",
+  "colour": "Archetta",
+  "finish": "Honed",
+  "description": "Soft Veined White Honed Porcelain Worktop",
+  "thicknesses": [
+   12
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/505_Archetta_Full_3840X1812_RGB_26072023.jpg",
+   "size": null
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/505_Archetta_Render2_1920X1080_RGB_240124-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/505_Archetta_CU_275X454_RGB_26072023.jpg"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/505_Archetta_Render1_1920X1080_RGB_240124-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/505_Archetta_Render1_350X578_RGB_240124.jpg"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/505_Archetta_Full_600X632_RGB_26072023.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/505_Archetta_Full_3840X1812_RGB_26072023-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/506-mirabel-porcelain-worktop/",
+  "code": "506",
+  "slug": "mirabel",
+  "colour": "Mirabel",
+  "finish": "Silk",
+  "description": "Charcoal Veined White Silk Porcelain Worktop",
+  "thicknesses": [
+   12,
+   20
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/506_Full_Slab_3840_3840_1812px-1.jpg",
+   "size": null
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/506_Mirabel_506_Render_CU_1920_1080px_jpg-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/506_CU454px_454_275px.jpg"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2023/12/506_Mirabel_Render1_1920X1080_RGB_300124-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2023/12/506_Mirabel_Render2_1920X1080_RGB_300124-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2023/12/506_Mirabel_Invisacook_Render1_1920x1080-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2023/12/506_Mirabel_Invisacook_Render2_1920x1080-150x150.webp"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/506_Full_Slab_600_632px.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/506_Full_Slab_3840_3840_1812px-1-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/507-marbannova-porcelain-worktop/",
+  "code": "507",
+  "slug": "marbannova",
+  "colour": "Marbannova",
+  "finish": "Silk",
+  "description": "Warm White Gold Veined Silk Porcelain Worktop",
+  "thicknesses": [
+   12
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/507_Marbannova_FULL_3840X1812_RGB_250123.jpg",
+   "size": null
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/507_Marbannova_Render2_1920x1080_RGB_041023-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/507_Marbannova_CU_275x454_RGB_280324.jpg"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/507_Marbannova_Render3_1920x1080_RGB_051023-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/507_Marbannova_Moodboard1_1920x1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/04/507_Marbannova_Lifestyle3_RGB_1920X1080_270524-copy-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/04/507_Marbannova_Lifestyle1_RGB_1920X1080_270524-copy-150x150.webp"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/507_Marbannova_Full_600X632_RGB_280324.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/507_Marbannova_FULL_3840X1812_RGB_250123-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/508-isobellia-porcelain-worktop/",
+  "code": "508",
+  "slug": "isobellia",
+  "colour": "Isobellia",
+  "finish": "Silk",
+  "description": "Off-White Gold Veined Silk Porcelain Worktop",
+  "thicknesses": [
+   12,
+   20
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/508_Isobellia_FULL_3840X1812_sRGB_250123.jpg",
+   "size": null
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/508_Isobellia_CU_275X454_sRGB_250123.jpg"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/508_Isobellia_Render2_1920x1080_RGB_060923-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/508_Isobellia_Render3_1920x1080_RGB_060923-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/04/508_Isobellia_Lifestyle1_RGB_1920X1080_180624-150x150.webp"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/508_Isobellia_FULL_600X632_sRGB_250123.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/508_Isobellia_FULL_3840X1812_sRGB_250123-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/509-onyxa-porcelain-worktop/",
+  "code": "509",
+  "slug": "onyxa",
+  "colour": "Onyxa",
+  "finish": "Honed",
+  "description": "White and Beige Layered Honed Porcelain Worktop",
+  "thicknesses": [
+   12
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/509_Onyxa_FULL_3840X1812_sRGB_170225.webp",
+   "size": null
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/509_Onyxa_CU_275X454_sRGB_170225.webp"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/509_Onyxa_Lifestyle1_1920x1080_RGB-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/509_Onyxa_Lifestyle2_1920x1080_RGB-150x150.webp"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/509_Onyxa_FULL_600X632_sRGB_170225.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/509_Onyxa_FULL_3840X1812_sRGB_170225-300x142.webp"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/510-impermia-porcelain-worktop/",
+  "code": "510",
+  "slug": "impermia",
+  "colour": "Impermia",
+  "finish": "Honed",
+  "description": "Veined Black Honed Porcelain Worktop",
+  "thicknesses": [
+   12
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/510_Impermia_Full_3840X1812_RGB_11102023.jpg",
+   "size": null
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/510_Impermia_Render3_1920X1080_RGB_240124-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/510_Impermia_CU_275X454_RGB_11102023.jpg"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/510_Impermia_Render2_1920X1080_RGB_240124-150x150.jpg"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/510_Impermia_Full_600X632_RGB_11102023.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/510_Impermia_Full_3840X1812_RGB_11102023-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/5100-vanilla-noir-quartz-worktop/",
+  "code": "5100",
+  "slug": "vanilla-noir",
+  "colour": "Vanilla Noir",
+  "finish": "Polished",
+  "description": "Creamy Veined Black Polished Quartz Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5100_VanillaNoir_FULL_3840X1812_sRGB_190524.jpg",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": "mm"
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5100_VanillaNoir_CU_70x46_150dpi_sRGB_081122_190524-620x1024.jpg"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5100_VanillaNoir_Lifestyle1_1920x1080_RGB_130923-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5100_VanillaNoir_Lifestyle2_1920x1090_RGB_130923-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5100_VanillaNoir_Lifestyle1_350x578_RGB_130923.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5100_VanillaNoir_Lifestyle2_350x578_RGB_130923.jpg"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5100_VanillaNoir_FULL_600X632_sRGB_190524.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5100_VanillaNoir_FULL_3840X1812_sRGB_190524-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/5105-calacatta-dreamwave-fusion-worktop/",
+  "code": "5105",
+  "slug": "calacatta-dreamwave",
+  "colour": "Calacatta Dreamwave",
+  "finish": "Polished",
+  "description": "White Dynamic Veined Polished Fusion Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2026/02/5105_CalacattaDreamwave_FULL_3840X1812_081124-copy.webp",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": ""
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/02/5105_CalacattaDreamwave_CU_275X454_081124-copy.webp"
+  ],
+  "rooms": [],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/02/5105_CalacattaDreamwave_FULL_600X632_081124-copy.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/02/5105_CalacattaDreamwave_FULL_3840X1812_081124-copy-300x142.webp"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/511-smokestone-porcelain-worktop/",
+  "code": "511",
+  "slug": "smokestone",
+  "colour": "Smokestone",
+  "finish": "Ultra Rough",
+  "description": "Veined Black Ultra Rough Porcelain Worktop",
+  "thicknesses": [
+   12
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/511_Smokestone_Full_3840X1812_RGB_25072023.jpg",
+   "size": null
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/511_Smokestone_CU_275X454_RGB_25072023.jpg"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2023/12/511_Smokestone_Render3_1920X1080_RGB_300124-150x150.jpg"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/511_Smokestone_Full_600X632_RGB_25072023.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/511_Smokestone_Full_3840X1812_RGB_25072023-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/5112-aterra-blanca-fusion-worktop/",
+  "code": "5112",
+  "slug": "aterra-blanca",
+  "colour": "Aterra Blanca",
+  "finish": "Polished",
+  "description": "Veined Misty White Polished Fusion Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2021/01/5112_Aterra-Blanca_5112_Full_Slab3840X1812.jpg",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": ""
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2021/01/5112_Aterra-Blanca_5112_CU_600x632.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2021/01/5112_Aterra_Blanca_Transitional-_Render_CU_fin-1920X1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2021/01/5112_Aterra_Blanca_Transitional-_Render_CU_fin-350X578.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5112_Aterra-Blanca_5112_CU_50x70-1920x980-1.jpg"
+  ],
+  "rooms": [],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2021/01/5112_Aterra-Blanca_5112_Full_Slab3840X1812-300x142.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2021/01/5112_Aterra-Blanca_5112_Full_Slab-1920x980-2.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/5113-solenna-fusion-worktop/",
+  "code": "5113",
+  "slug": "solenna",
+  "colour": "Solenna",
+  "finish": "Polished",
+  "description": "Warm White Veined Polished Fusion Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/5113_Solenna_FULL_3840X1812_sRGB_090123.jpg",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": ""
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/5113_Solenna_CU_275X454_sRGB_090123.jpg"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/5113_Solenna_Render2_1920X1080_sRGB_260123-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/5113_Solenna_Render3_1920X1080_sRGB_260123-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/5113_Solenna_Moodboard_1920x1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/5113_Solenna02_Render3_1920x1080_RGB_050723-150x150.jpg"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/5113_Solenna_FULL_600X632_sRGB_090123.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/5113_Solenna_FULL_3840X1812_sRGB_090123-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/5115-calacatta-stillstorm-quartz-worktop/",
+  "code": "5115",
+  "slug": "calacatta-stillstorm",
+  "colour": "Calacatta Stillstorm",
+  "finish": "Polished",
+  "description": "Veined White Quartz Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2025/03/5115_CalacattaStillstorm_FULL_3840X1812_RGB_181223.jpg",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": "mm"
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2025/03/5115_CalacattaStillstorm_CU_275X454_R300_RGB_181223.jpg"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2025/03/5115_CalacattaStillstorm_Lifestyle2_RGB_1920X1080_100724-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2025/03/5115_CalacattaStillstorm_Lifestyle1_RGB_1920X1080_100724-150x150.webp"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2025/03/5115_CalacattaStillstorm_FULL_600X632_RGB_181223.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2025/03/5115_CalacattaStillstorm_FULL_3840X1812_RGB_181223-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/5116-calacatta-nectar-quartz-worktop/",
+  "code": "5116",
+  "slug": "calacatta-nectar",
+  "colour": "Calacatta Nectar",
+  "finish": "Polished",
+  "description": "Honied Veined White Quartz Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2025/03/5116_CalacattaNectar_FULL_3840X1812_RGB_181223.jpg",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": "mm"
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2025/03/5116_CalacattaNectar_CU_275X454_R300_RGB_181223.jpg"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2025/03/5116_CalacattaNectar_Render1_1920X1080_RGB_111223-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2025/03/5116_CalacattaNectar_Render2_1920x1080_RGB_111223-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2025/03/5116_CalacattaNectar_Render3_1920x1080_RGB_111223-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2025/03/5116_CalacattaNectar02_Render1_1920X1080_RGB_030724-150x150.webp"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2025/03/5116_CalacattaNectar_FULL_600X632_RGB_181223.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2025/03/5116_CalacattaNectar_FULL_3840X1812_RGB_181223-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/512-transcenda-porcelain-worktop/",
+  "code": "512",
+  "slug": "transcenda",
+  "colour": "Transcenda",
+  "finish": "Ultra Rough",
+  "description": "Veined Grey Ultra Rough Porcelain Worktop",
+  "thicknesses": [
+   12
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/512_Transcenda_Full_3840X1812_RGB_26072023.jpg",
+   "size": null
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/512_Transcenda_CU_275X454_RGB_26072023.jpg"
+  ],
+  "rooms": [],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/512_Transcenda_Full_600X632_RGB_26072023.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/512_Transcenda_Full_3840X1812_RGB_26072023-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/513-striata-porcelain-worktop/",
+  "code": "513",
+  "slug": "striata",
+  "colour": "Striata",
+  "finish": "Ultra Rough",
+  "description": "Geological Veined Grey Ultra Rough Porcelain Worktop",
+  "thicknesses": [
+   12,
+   20
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/513_Full_Slab_3840_3840_1812px.jpg",
+   "size": null
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/513_Striata_513_Render_CU_fin_jpg-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/513_CU454px_454_275px.jpg"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/513_Striata_Render1_1920X1080_RGB_240124-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/513_Striata_Render2_1920X1080_RGB_240124-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/513_Striata_Render1_350X578_RGB_240124.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/513_Striata_Render2_350X578_RGB_240124.jpg"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/513_Full_Slab_600_632px.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/513_Full_Slab_3840_3840_1812px-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/5131-calacatta-nuvo-fusion-worktop/",
+  "code": "5131",
+  "slug": "calacatta-nuvo",
+  "colour": "Calacatta Nuvo",
+  "finish": "Polished",
+  "description": "Creamy Veined White Polished Fusion Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5131_CalacattaNuvo_FULL_3840X1812_sRGB_100325.webp",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": ""
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5131_CalacattaNuvo_CU_275X454_sRGB_100325.webp"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5131_CalacattaNuvo_Render2_1920x1080_RGB_060623-150x150.jpg"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5131_CalacattaNuvo_FULL_600X632_sRGB_100325.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5131_CalacattaNuvo_FULL_3840X1812_sRGB_100325-300x142.webp"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/514-emprada-porcelain-worktop/",
+  "code": "514",
+  "slug": "emprada",
+  "colour": "Emprada",
+  "finish": "Ultra Rough",
+  "description": "Brown Veined Porcelain Worktop",
+  "thicknesses": [
+   12
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/514_Emprada_Full_3840X1812_RGB_11072023.jpg",
+   "size": null
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/514_Emprada_CU_275X454_RGB_DDMMYY.jpg"
+  ],
+  "rooms": [],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/514_Emprada_Full_600X632_RGB_11072023.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/514_Emprada_Full_3840X1812_RGB_11072023-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/5140-dreamy-carrara-fusion-worktop/",
+  "code": "5140",
+  "slug": "dreamy-carrara",
+  "colour": "Dreamy Carrara",
+  "finish": "Honed",
+  "description": "Silky White Veined Honed Fusion Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/5140_DreamyCarrara_FULL_3840X1812_sRGB_090123.jpg",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": ""
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/5140_DreamyCarrara_Render3_1920X1080_sRGB_260123-150x150.jpg"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/5140_DreamyCarrara02_Render2_1920x1080RGB_060723-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/5140_DreamyCarrara02_Render3_1920x1080_RGB_060723-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/5140_DreamyCarrara02_MoodBoard1_1920x1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/5140_DreamyCarrara_Render2_1920X1080_sRGB_260123-150x150.jpg"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/5140_DreamyCarrara_FULL_600X632_sRGB_090123.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/5140_DreamyCarrara_FULL_3840X1812_sRGB_090123-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/5141-frosty-carrina-fusion-worktop/",
+  "code": "5141",
+  "slug": "frosty-carrina",
+  "colour": "Frosty Carrina",
+  "finish": "Polished",
+  "description": "Timeless Veined White Polished Fusion Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119757174392936,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5141_Frosty-Carrina_5141_Full_Slab.jpg",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": ""
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5141_Frosty-Carrina_CloseUp_6-1920X1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5141_Frosty-Carrina_5141_CU_50x70cm-16X9-1.jpg"
+  ],
+  "rooms": [],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5141_Frosty-Carrina_5141_Full_Slab_1920x890px-1.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5141_Frosty-Carrina_5141_Full_Slab-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/5143-white-attica-quartz-worktop/",
+  "code": "5143",
+  "slug": "white-attica",
+  "colour": "White Attica",
+  "finish": "Polished",
+  "description": "Grey Veined White Polished Quartz Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5143_WhiteAttica_FULL_sRGB_010125_3840X1812.webp",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": "mm"
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5143_White-Attica_render-cu-1920X1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5143_White-Attica_render-cu-350X578.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5143_WhiteAttica_CU_275X454_sRGB_010125-copy.webp"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5143_WhiteAttica_Render2_1920X1080-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5143_WhiteAttica_Render3_1920X1080-150x150.webp"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5143_WhiteAttica_FULL_sRGB_010125600X632.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5143_WhiteAttica_FULL_sRGB_010125_3840X1812-300x142.webp"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/5151-empira-white-quartz-worktop/",
+  "code": "5151",
+  "slug": "empira-white",
+  "colour": "Empira White",
+  "finish": "Polished",
+  "description": "Soft Veined White Polished Quartz Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5151_EmpiraWhite_FULL_sRGB_010125_3840X1812.webp",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": "mm"
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5151_EmpiraWhite_CU_275X454_sRGB_010125-copy.webp"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5151_EmpiraWhite_Render1_1920X1080-150x150.webp"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5151_EmpiraWhite_FULL_sRGB_010125_600X632.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5151_EmpiraWhite_FULL_sRGB_010125_3840X1812-300x142.webp"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/516-locura-porcelain-worktop/",
+  "code": "516",
+  "slug": "locura",
+  "colour": "Locura",
+  "finish": "Honed",
+  "description": "Veined Grey Honed Porcelain Worktop",
+  "thicknesses": [
+   12
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/516_Locura_516_Full_Slab_3840_3840_1812px_jpg.jpg",
+   "size": null
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/516_Locura_516_Render_CU_jpg-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/516_CU454px_454_275px.jpg"
+  ],
+  "rooms": [],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/516_Full_Slab_600_632px.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/516_Locura_516_Full_Slab_3840_3840_1812px_jpg-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/5171-arabetto-fusion-worktop/",
+  "code": "5171",
+  "slug": "arabetto",
+  "colour": "Arabetto",
+  "finish": "Polished",
+  "description": "Dynamic Veined White Polished Fusion Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2021/01/5171_Arabetto_5171_Full_Slab-3840X812.jpg",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": ""
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2021/01/5171_Arabetto_5171_CU_600x632.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5171_Arabetto_5171_CU_50x70-1920x980-1.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2021/01/5171_Arabetto_CU_50x70-1920X616.jpg"
+  ],
+  "rooms": [],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2021/01/5171_Arabetto_5171_Full_Slab-3840X812-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/5212-taj-royale-quartz-worktop/",
+  "code": "5212",
+  "slug": "taj-royale",
+  "colour": "Taj Royale",
+  "finish": "Polished",
+  "description": "Veined Beige Polished Quartz Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2023/08/5212_TajRoyale_FULL_sRGB_270225_3840X1812.webp",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": "mm"
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2023/07/5212_Taj-Royale_CU_landscape-1920X1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2023/08/5212_TajRoyale_CU_275X454_sRGB_270225-copy.webp"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2023/07/5212_TajRoyale_Render2_1920X1080-150x150.jpg"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2023/08/5212_TajRoyale_FULL_sRGB_270225_600X632.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2023/08/5212_TajRoyale_FULL_sRGB_270225_3840X1812-300x142.webp"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/531-libretta-porcelain-worktop/",
+  "code": "531",
+  "slug": "libretta",
+  "colour": "Libretta",
+  "finish": "Honed",
+  "description": "Light Grey Veined White Honed Porcelain Worktop",
+  "thicknesses": [
+   12,
+   20
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/531_Full_Slab_3840_3840_1812px-1.jpg",
+   "size": null
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/531_Libretta_531_Libretta_Render_CU_jpg-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/531_hero_CU_350_578-1.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/531_CU454px_454_275px.jpg"
+  ],
+  "rooms": [],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/531_Full_Slab_600_632px.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/06/531_Full_Slab_3840_3840_1812px-1-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/5310-brillianza-fusion-worktop/",
+  "code": "5310",
+  "slug": "brillianza",
+  "colour": "Brillianza",
+  "finish": "Polished",
+  "description": "Cool Grey Veined Polished Fusion Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/5310_Brillianza_FULL_3840X1812_200323-1.jpg",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": ""
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/5310_Brillianza_CU_275X454_202323.jpg"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/5310_Brillianza_Render2_1920x1080_RGB_280323-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/5310_Brillianza_Render3_1920x1080_RGB_280323-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/5310_Brillianza02_Render3_1920x1080_RGB_060723-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/04/caesarstone-5310-brillianza-kitchen-render-07-1920x1080-1-150x150.webp"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/5310_Brillianza_FULL_600X632_200323.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/5310_Brillianza_FULL_3840X1812_200323-1-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/536-antikella-porcelain-worktop/",
+  "code": "536",
+  "slug": "antikella",
+  "colour": "Antikella",
+  "finish": "Honed",
+  "description": "Off-White Gold Veined Honed Porcelain Worktop",
+  "thicknesses": [
+   12
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/536_Antikella_FULL_3840X1812_sRGB_170225.webp",
+   "size": null
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/536_Antikella_CU_275X454_sRGB_170225.webp"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/536_Antikella_Lifestyle2_1920x1080_RGB-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/536_Antikella_Lifestyle1_1920x1080_RGB-150x150.webp"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/536_Antikella_FULL_600x632_sRGB_170225.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/536_Antikella_FULL_3840X1812_sRGB_170225-300x142.webp"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/542-mosstone-porcelain-worktop/",
+  "code": "542",
+  "slug": "mosstone",
+  "colour": "Mosstone",
+  "finish": "Stone",
+  "description": "Sage and Off-White Porcelain Stone Worktop",
+  "thicknesses": [
+   12
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/542_Mosstone_Full_3840X1812_RGB_280324.jpg",
+   "size": null
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/542_Mosstone_CU_275x454_RGB_280324.jpg"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/542_Mosstone_Render2_1920x1080_RGB_051223-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/542_Mosstone_MoodBoard1_1920x1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/04/542_Mosstone_Lifestyle1_RGB_1920X1080_110724-150x150.webp"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/542_Mosstone_Full_600X632_RGB_280324.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/542_Mosstone_Full_3840X1812_RGB_280324-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/543-marenstone-porcelain-worktop/",
+  "code": "543",
+  "slug": "marenstone",
+  "colour": "Marenstone",
+  "finish": "Stone",
+  "description": "Beige Stone Porcelain Worktop",
+  "thicknesses": [
+   12
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/543_Marenstone_Full_3840X1812_RGB_280324.jpg",
+   "size": null
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/543_Marenstone_CU_275x454_RGB_280324.jpg"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/543_Marenstone_Render2_1920x1080_RGB_041223-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/543_Marenstone_Render3_1920x1080_RGB_061223-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/543_Marenstone_MoodBoard1_1920x1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/04/543_Marenstone_Lifestyle1_1920x1080_RGB-150x150.webp"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/543_Marenstone_Full_600X632_RGB_280324.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/543_Marenstone_Full_3840X1812_RGB_280324-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/544-auralux-porcelain-worktop/",
+  "code": "544",
+  "slug": "auralux",
+  "colour": "Auralux",
+  "finish": "Stone",
+  "description": "Textured Grey Stone Porcelain Worktop",
+  "thicknesses": [
+   12
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/544_Auralux_Full_3840X1812_RGB_280324.jpg",
+   "size": null
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/544_Auralux_CU_275x454_RGB_280324.jpg"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/544_Auralux_Render2_1920x1080_RGB_051223-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/544_Auralux_Render3_1920x1080_RGB_051223-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/544_Auralux_Moodboard1_1920x1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/04/544_Auralux_Lifestyle2_1920x1080_RGB-150x150.webp"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/544_Auralux_Full_600X632_RGB_280324.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/544_Auralux_Full_3840X1812_RGB_280324-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/5444-lunar-frost-fusion-worktop/",
+  "code": "5444",
+  "slug": "lunar-frost",
+  "colour": "Lunar Frost",
+  "finish": "",
+  "description": "Light Grey Diagonal Veined Fusion Worktop",
+  "thicknesses": [],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2026/02/5444_LunarFrost_FULL_3840X1812_RGB_120325-copy.webp",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": ""
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/02/5444_LunarFrost_CU_275X454_RGB-_120325-copy.webp"
+  ],
+  "rooms": [],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/02/5444_LunarFrost_FULL_600X632_RGB_120325-copy.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/02/5444_LunarFrost_FULL_3840X1812_RGB_120325-copy-300x142.webp"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/545-fossillia-porcelain-worktop/",
+  "code": "545",
+  "slug": "fossillia",
+  "colour": "Fossillia",
+  "finish": "Honed",
+  "description": "Cool Grey Veined Honed Porcelain Worktop",
+  "thicknesses": [
+   12
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/545_Fossillia_FULL_3840X1812_sRGB_170225.webp",
+   "size": null
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/545_Fossillia_CU_275X454_sRGB_170225.webp"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/545_Fossilia_Render2_1920x1080_RGB_310725-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/545_Fossilia_Render3_1920x1080_RGB_310725-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/545_Fossillia_Lifestyle_1_1920x1080_RGB-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/545_Fossillia_Lifestyle_2_1920x1080_RGB-150x150.webp"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/545_Fossillia_FULL_600X632_sRGB_170225.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/545_Fossillia_FULL_3840X1812_sRGB_170225-300x142.webp"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/550-silvax-porcelain-worktop/",
+  "code": "550",
+  "slug": "silvax",
+  "colour": "Silvax",
+  "finish": "Stone",
+  "description": "Earthy Stone Porcelain Worktop",
+  "thicknesses": [
+   12
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/550_Silvax_Full_RGB_3840X1812_250624.webp",
+   "size": null
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/550_Silvax_CU_275X454_RGB_250624.webp"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/04/550_Silvax_Lifestyle3_RGB_1920X1080_050624-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/04/550_Silvax_Lifestyle1_RGB_1920X1080_200524-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/04/550_Silvax_Lifestyle2_RGB_1920X1080_200524-150x150.webp"
+  ],
+  "extra_slabs": []
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/551-travina-porcelain-worktop/",
+  "code": "551",
+  "slug": "travina",
+  "colour": "Travina",
+  "finish": "Stone",
+  "description": "Beige Stone Textured Porcelain Worktop",
+  "thicknesses": [
+   12
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/551_Travina_FULL_3840X1812_sRGB_170225.webp",
+   "size": null
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/551_Travina_CU_275X454_sRGB_170225.webp"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/551_Travina_Lifestyle-1-RGB-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/551_Travina_Lifestyle-2-RGB-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/551_Travina_Lifestyle-3-RGB-150x150.webp"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/551_Travina_FULL_600X632_sRGB_170225.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/551_Travina_FULL_3840X1812_sRGB_170225-300x142.webp"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/581-lucillia-porcelain-worktop/",
+  "code": "581",
+  "slug": "lucillia",
+  "colour": "Lucillia",
+  "finish": "Silk",
+  "description": "Warm White Veined Silk Porcelain Worktop",
+  "thicknesses": [
+   12
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/581_Lucillia_FULL_3840X1812_sRGB_250123.jpg",
+   "size": null
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/581_Lucillia_CU_275Xx454_sRGB_250123.jpg"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/581_Lucillia_Render2_1920X1080_RGB_270923-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/581_Lucillia_Render3_1920X1080_RGB_270923-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/581_Lucillia_Moodboard1_1920x1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/04/581_Lucillia_Lifestyle1_RGB_1920X1080_040724-150x150.webp"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/581_Lucillia_FULL_600X632_sRGB_250123.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2024/03/581_Lucillia_FULL_3840X1812_sRGB_250123-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/5810-black-tempal-fusion-worktop/",
+  "code": "5810",
+  "slug": "black-tempal",
+  "colour": "Black Tempal",
+  "finish": "Natural",
+  "description": "Industrial Black Natural Fusion Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5810_BlackTempal_FULL_3840X1812_sRGB_190524.jpg",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": ""
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5810_BlackTempal_CU_70x46_150dpi_sRGB_190524-620x1024.jpg"
+  ],
+  "rooms": [],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5810_BlackTempal_FULL_600X632_sRGB_190524.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/5810_BlackTempal_FULL_3840X1812_sRGB_190524-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/582-dolcivio-porcelain-worktop/",
+  "code": "582",
+  "slug": "dolcivio",
+  "colour": "Dolcivio",
+  "finish": "Silk",
+  "description": "Soft White Veined Silk Porcelain Worktop",
+  "thicknesses": [
+   12,
+   20
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/582_Dolcivio_FULL_3840X1812_sRGB_280825-copy.webp",
+   "size": null
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/582_Dolcivio_CU_275X454_sRGB_280825-copy.webp"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/582_Dolcivio_Render2_1920X1080_RGB_100925-copy-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/582_Dolcivio_Render3_1920X1080_RGB_100925-copy-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/582_Dolcivio_Render1_1920X1080_RGB_070725-copy-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/582_Dolcivio_Render2_1920X1080_RGB_070725-copy-150x150.webp"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/582_Dolcivio_FULL_3840X1812_sRGB_280825-copy-300x142.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/01/582_Dolcivio_FULL_1920X616_sRGB_280825-copy.webp"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/5820-darcrest-quartz-worktop/",
+  "code": "5820",
+  "slug": "darcrest",
+  "colour": "Darcrest",
+  "finish": "Honed",
+  "description": "Veined Black Honed Quartz Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2022/03/5820_Darcrest_5820_Darcrest_FULL_3840x1812_sRGB_071222-1.jpg",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": "mm"
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/02/5820_Darcrest_5820_Darcrest_5820_Render_CU_1920X1080_jpg-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/02/5820_Darcrest_5820_Render_CU_350_578px_jpg.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/02/5820_Render_CU350_578px.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/03/5820_Darcrest_5820_Darcrest_CU_275x454_sRGB_071222-1.jpg"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/03/Darcrest-5820_1920x1080-blue-colour-block-150x150.jpg"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/03/5820_Darcrest_5820_Darcrest_FULL_600x632_sRGB_071222-1.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2022/03/5820_Darcrest_5820_Darcrest_FULL_3840x1812_sRGB_071222-1-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/6046-moorland-fog-quartz-worktop/",
+  "code": "6046",
+  "slug": "moorland-fog",
+  "colour": "Moorland Fog",
+  "finish": "Polished",
+  "description": "Rich Veined Beige Polished Quartz Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/6046_MoorlandFog_FULL_3840X1812_sRGB_190524.jpg",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": "mm"
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/6046_MoorlandFog_Render2_1920x1080_RGB_170523-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/6046_MoorlandFog_CU_70x46_150dpi_sRGB_190524-620x1024.jpg"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/6046_MoorlandFog_Render1_1920x1080_RGB_170523-150x150.jpg"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/6046_MoorlandFog_FULL_600X632_sRGB_190524.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/6046_MoorlandFog_FULL_3840X1812_sRGB_190524-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/6131-bianco-drift-quartz-worktop/",
+  "code": "6131",
+  "slug": "bianco-drift",
+  "colour": "Bianco Drift",
+  "finish": "Polished",
+  "description": "Granite Inspired Veined Grey Polished Quartz Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/6131_BiancoDrift_FULL_sRGB_010125_3840X1812.webp",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": "mm"
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/6131_BiancoDrift_Render3_1920x1080-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/6131_Bianco-Drift_CloseUp_3-1920X1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/6131_Bianco-Drift_CloseUp-1920X1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/6131_Bianco-Drift_CloseUp_3-350X578.jpg"
+  ],
+  "rooms": [],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/6131_BiancoDrift_FULL_sRGB_010125_600X632.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/6131_BiancoDrift_FULL_sRGB_010125_3840X1812-300x142.webp"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/6141-ocean-foam-quartz-worktop/",
+  "code": "6141",
+  "slug": "ocean-foam",
+  "colour": "Ocean Foam",
+  "finish": "Polished",
+  "description": "Grey Speckled White Polished Quartz Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/6141_Ocean-Foam_6141_Full_Slab3840X1812.jpg",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": "mm"
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/6141_Ocean-Foam_CloseUP-1920X1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/6141_Ocean-Foam_CU_50x70cm-16X9-1.jpg"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/caesarstone-6141-ocean-foam-kitchen-render-01-1920x1080-1.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/caesarstone-6141-ocean-foam-kitchen-render-02-1920x1080-1-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/caesarstone-6141-ocean-foam-kitchen-render-03-1920x1080-1-150x150.webp"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/6141_Ocean-Foam_6141_Full_Slab_1920x890px-3.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/6141_Ocean-Foam_6141_Full_Slab3840X1812-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/6338-woodlands-quartz-worktop/",
+  "code": "6338",
+  "slug": "woodlands",
+  "colour": "Woodlands",
+  "finish": "Polished",
+  "description": "Veined Brown Polished Quartz Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/6338_Woodlands_6338_Woodlands_FULL_3840x1812_sRGB_081122-1.jpg",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": "mm"
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/6338_Woodlands_Close_up1920X1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/6338_Woodlands_6338_Woodlands_Close_up_2-1920X1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/6338_Woodlands_Close_up-350X578.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/6338_Woodlands_Close_up_2-350X578.jpg"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/6338_WoodLands_Render2_1920x1080-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/6338_Woodlands_MoodBoard_1920X1080-150x150.gif",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/6338_Woodlands_MoodBoard_350X578.gif"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/6338_Woodlands_6338_Woodlands_FULL_600x632_sRGB_081122-1.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2020/12/6338_Woodlands_6338_Woodlands_FULL_3840x1812_sRGB_081122-1-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/8104-calacatta-thyme-fusion-worktop/",
+  "code": "8104",
+  "slug": "calacatta-thyme",
+  "colour": "Calacatta Thyme",
+  "finish": "Polished",
+  "description": "White Green Veined Polished Fusion Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2026/02/8104_CalacattaThyme_FULL_3840X1812_rgb_18112025-copy.jpg",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": ""
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/02/8104_CalacattaThyme_CU_275X454_rgb_30102025-copy-1.webp"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/02/8104-calacatta-thyme-lifestyle-01-1920x1080-2-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/02/8104-calacatta-thyme-lifestyle-02-1920x1080-2-150x150.webp"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/02/8104_CalacattaThyme_FULL_600X632_rgb_18112025-copy.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/02/8104_CalacattaThyme_FULL_3840X1812_rgb_18112025-copy-300x142.jpg"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/8151-moonflow-fusion-worktop/",
+  "code": "8151",
+  "slug": "moonflow",
+  "colour": "Moonflow",
+  "finish": "Polished",
+  "description": "Layered White Veined Fusion Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2025/06/8151_Moonflow_FULL_3840X1812_sRGB_190325-copy.webp",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": ""
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2025/06/8151_Moonflow_CU_275X454_sRGB_190325-copy.webp"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2025/06/8151_Moonflow_Render2_1920X1080_RGB_09042025-150x150.jpg",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2025/06/8151_Moonflow_Lifestyle1_1920x1080-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2025/06/8151_Moonflow_Lifestyle2_1920x1080-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2025/06/8151_Moonflow_Lifestyle3_1920x1080-150x150.webp"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2025/06/8151_Moonflow_FULL_600X632_sRGB_190325-copy.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2025/06/8151_Moonflow_FULL_3840X1812_sRGB_190325-copy-300x142.webp"
+  ]
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/8250-andes-trail-fusion-worktop/",
+  "code": "8250",
+  "slug": "andes-trail",
+  "colour": "Andes Trail",
+  "finish": "Polished",
+  "description": "Sandy Veined Off-White Polished Fusion Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2026/03/8250_AndesTrail_Full_rgb_051125_3840X1812.webp",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": ""
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/03/8250_AndesTrail_CU_275X454_rgb_051125-_1_-copy.webp"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/03/8250_Andes_Trail_kitchen-render-01-1920x1080-1.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/03/8250_Andes_Trail_kitchen-render-02-1920x1080-1-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/03/8250_Andes_Trail_kitchen-render-03-1920x1080-1-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/03/8250_Andes_Trail_kitchen-render-04-1920x1080-1.webp"
+  ],
+  "extra_slabs": []
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/8252-sedara-fusion-worktop/",
+  "code": "8252",
+  "slug": "sedara",
+  "colour": "Sedara",
+  "finish": "Polished",
+  "description": "Sandy Beige Polished Fusion Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2026/03/8252_Sedara_Full_rgb_30102025_3840X1812.webp",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": ""
+   }
+  },
+  "closeups": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/03/8252_Sedara_CU_275X454_rgb_30102025-copy.webp"
+  ],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/03/8252_Sedara_kitchen-render-01-1920x1080-1.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/03/8252_Sedara_kitchen-render-02-1920x1080-1-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/03/8252_Sedara_kitchen-render-03-1920x1080-1-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2026/03/8252_Sedara_bathroom-render-01-1920x1080-1.webp"
+  ],
+  "extra_slabs": []
+ },
+ {
+  "url": "https://www.caesarstone.co.uk/catalogue/8477-ocean-sage-fusion-worktop/",
+  "code": "8477",
+  "slug": "ocean-sage",
+  "colour": "Ocean Sage",
+  "finish": "Natural",
+  "description": "Sage Green Veined Natural Fusion Worktop",
+  "thicknesses": [
+   20,
+   30
+  ],
+  "full": {
+   "ratio": 2.119205298013245,
+   "src": "https://www.caesarstone.co.uk/wp-content/uploads/2025/06/8477_OceanSage_FULL_3840X1812_sRGB_190325-copy.webp",
+   "size": {
+    "text": "",
+    "width": 3050,
+    "height": 1440,
+    "unit": ""
+   }
+  },
+  "closeups": [],
+  "rooms": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2025/06/8477_OceanSage_Render5_1920x1080-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2025/06/8477_OceanSage_Render6_1920x1080-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2025/06/8477_OceanSage_Render1_1920X1080_RGB_060425-copy-150x150.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2025/06/8477_OceanSage_Render2_1920x1080-150x150.webp"
+  ],
+  "extra_slabs": [
+   "https://www.caesarstone.co.uk/wp-content/uploads/2025/06/8477_OceanSage_FULL_600X632_sRGB_190325-copy.webp",
+   "https://www.caesarstone.co.uk/wp-content/uploads/2025/06/8477_OceanSage_FULL_3840X1812_sRGB_190325-copy-300x142.webp"
+  ]
+ }
+]
