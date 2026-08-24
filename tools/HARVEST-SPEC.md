@@ -67,3 +67,26 @@ natural entries untouched.
    told (the orchestrator owns UI changes).
 9. Your final message must be a short data summary (counts + report path + rough token use
    if you can tell), not prose for a human.
+
+## Decisions (orchestrator, 2026-08-24 evening)
+- **Entry identity = one physical product.** If a distributor (e.g. Thomas Group) sells a brand
+  that already has library entries (e.g. Neolith from neolith.com), do NOT create a duplicate:
+  add the distributor's price-book supplier name to that entry's `suppliers[]` and the
+  distributor's spelling to `aliases[]` (e.g. "Calacatta (BM)" → Neolith "Calacatta 01").
+  The price-book join then resolves via supplier ∈ {supplier} ∪ suppliers[] and colour ∈
+  {colour} ∪ aliases[]. Only create a new entry when the product truly isn't there.
+- **New brands sold via a distributor** (Atlas Plan, Vadara, Silkstone via Thomas Group):
+  `supplier` = the price-book supplier string exactly ("Thomas Group (Surfaces Collection)"),
+  `details` starts with the brand + range ("Atlas Plan · Marble Look · 12mm hammered/natural…"),
+  `productUrl` = the brand's own page when one exists, else the distributor page. Images from
+  the brand site first (better photography), distributor site as fallback/verifier.
+- **Bot-blocked sites** (neolith.com): do not fight it; use the distributor's pages, note it
+  in the report, and list the colours whose photos are low-res so a browser pass can be done
+  later by the orchestrator.
+- **Thomas Group harvest plan** (from tools/_reports/thomasgroup-DISCOVERY.md): Atlas Plan via
+  atlasplan.com category pages → per-colour pages (storage.atlasplan.com CDN, slab + bookmatch
+  closeup + project/kitchen room shots, sizes 162x324 etc.); Vadara via vadara.uk (WordPress —
+  copy compac_harvest.py; `Vadara_{Colour}_Web.jpg` = slab, `VQ_INSTALL_*` = room); Silkstone
+  + Neolith via thesurfacecollection.co.uk (parse the `data-bpopup` lightbox HTML, not just
+  <img>; `/lib/photos/{Name}.jpg`; headings carry finish/thickness/dims). Always fetch the
+  top-level product page too — End of Line SKUs only appear there.

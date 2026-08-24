@@ -1,0 +1,2460 @@
+[
+  {
+    "pricebook_colour": "Alpinus",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/alpinus/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Appennino",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/appennino/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Bianco Dolomite",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/bianco-dolomite/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Black Atlantis",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/black-atlantis/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Black Tempest",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/black-tempest/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Calacatta Antique",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-antique/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Calacatta Apuano",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-apuano/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Calacatta Bernini",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-bernini/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Calacatta Delicato",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-delicato/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Calacatta Extra",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-extra/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Calacatta Gold",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-gold/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Calacatta Imperial",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-imperiale/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Calacatta Imperiale",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-imperiale/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Calacatta Prestigo",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://thesurfacecollection.co.uk/products/atlas-plan/ (see section subpage)",
+    "image_kinds_seen": [
+      "slab (lib/photos, small)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Not resolved on atlasplan.com directly; confirmed stocked via thesurfacecollection.co.uk own product listing (curl OK). Try atlasplan.com slug variants or fetch TSC lightbox data for full-size image."
+  },
+  {
+    "pricebook_colour": "Calacatta Royal",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://thesurfacecollection.co.uk/products/atlas-plan/ (see section subpage)",
+    "image_kinds_seen": [
+      "slab (lib/photos, small)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Not resolved on atlasplan.com directly; confirmed stocked via thesurfacecollection.co.uk own product listing (curl OK). Try atlasplan.com slug variants or fetch TSC lightbox data for full-size image."
+  },
+  {
+    "pricebook_colour": "Calacatta Viola",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-viola/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Calacattta Meraviglia",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/calacatta-meraviglia/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Carrara Pure",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [],
+    "notes": "NOT FOUND on atlasplan.com category pages crawled (Marble/Stone/Concrete/Caleido/Metal/Solid/Wood) or TSC atlas-plan subpages fetched. Try: web search exact name + atlasplan.com; check Atlas Plan Panels-Tiles page; may be older/discontinued SKU."
+  },
+  {
+    "pricebook_colour": "Cream Prestige",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/cream-prestige/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Fior Di Bosco",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/fior-di-bosco/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Grey Stone",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/grey-stone/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Grigio Intenso",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [],
+    "notes": "NOT FOUND on atlasplan.com category pages crawled (Marble/Stone/Concrete/Caleido/Metal/Solid/Wood) or TSC atlas-plan subpages fetched. Try: web search exact name + atlasplan.com; check Atlas Plan Panels-Tiles page; may be older/discontinued SKU."
+  },
+  {
+    "pricebook_colour": "Ice Crystal",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/ice-crystal/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Light Grey Stone",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/light-grey-stone/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Natural Roots",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/natural-roots/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Nero Marquina",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/nero-marquina/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Onyx White",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/onyx-white/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Precious Brown",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/precious-brown/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Silver Root",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/silver-root/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Statuario Select",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://thesurfacecollection.co.uk/products/atlas-plan/ (see section subpage)",
+    "image_kinds_seen": [
+      "slab (lib/photos, small)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Not resolved on atlasplan.com directly; confirmed stocked via thesurfacecollection.co.uk own product listing (curl OK). Try atlasplan.com slug variants or fetch TSC lightbox data for full-size image."
+  },
+  {
+    "pricebook_colour": "Statuario Supremo",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/statuario-supremo/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Taj Mahal (Atlas Plan)",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/taj-mahal/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Taj Mahal",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/taj-mahal/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Taj Mahal Noisette",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/taj-mahal-noisette/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Taj Mahal White",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/taj-mahal-white/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Travertine Halo White",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/travertino-halo-white/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Travertine Romano Sand",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/travertino-romano-sand/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Travertine Romano Silver",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/travertino-romano-silver/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "White Cloud",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/white-cloud/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Zephyr",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Marble Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/zephyr/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Baobab",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Stone Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/baobab/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Basaltina Volcano",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Stone Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/basaltina-volcano/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Boost Icor Bone",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Stone Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/boost-icor-bone/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Boost Icor Dune",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Stone Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/boost-icor-dune/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Boost Mineral Grey",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Stone Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/boost-mineral-grey/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Boost Stone Ivory",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Stone Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/boost-stone-ivory/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Dolmen Pro Grigio",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Stone Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://thesurfacecollection.co.uk/products/atlas-plan/ (see section subpage)",
+    "image_kinds_seen": [
+      "slab (lib/photos, small)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Not resolved on atlasplan.com directly; confirmed stocked via thesurfacecollection.co.uk own product listing (curl OK). Try atlasplan.com slug variants or fetch TSC lightbox data for full-size image."
+  },
+  {
+    "pricebook_colour": "Kone Grey",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Stone Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [],
+    "notes": "NOT FOUND on atlasplan.com category pages crawled (Marble/Stone/Concrete/Caleido/Metal/Solid/Wood) or TSC atlas-plan subpages fetched. Try: web search exact name + atlasplan.com; check Atlas Plan Panels-Tiles page; may be older/discontinued SKU."
+  },
+  {
+    "pricebook_colour": "Kone Gypsum",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Stone Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://thesurfacecollection.co.uk/products/atlas-plan/ (see section subpage)",
+    "image_kinds_seen": [
+      "slab (lib/photos, small)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Not resolved on atlasplan.com directly; confirmed stocked via thesurfacecollection.co.uk own product listing (curl OK). Try atlasplan.com slug variants or fetch TSC lightbox data for full-size image."
+  },
+  {
+    "pricebook_colour": "Kone Mix",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Stone Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/kone-mix/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Negresco",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Stone Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/negresco/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Nero Zimbabwe",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Stone Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://thesurfacecollection.co.uk/products/atlas-plan/ (see section subpage)",
+    "image_kinds_seen": [
+      "slab (lib/photos, small)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Not resolved on atlasplan.com directly; confirmed stocked via thesurfacecollection.co.uk own product listing (curl OK). Try atlasplan.com slug variants or fetch TSC lightbox data for full-size image."
+  },
+  {
+    "pricebook_colour": "Sky Stone",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Stone Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/sky-stone/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Soapstone Dark",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Stone Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/soapstone-dark/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Travertine Pearl",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Stone Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/travertino-pearl/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Travertine Sand",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Stone Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/travertino-sand/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Travertine White",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Stone Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/travertino-white/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Travertino Sand",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Stone Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/travertino-sand/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Boost Ash Balance",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Concrete Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/boost-balance-ash/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Boost Grey",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Concrete Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/boost-grey/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Boost Natural Ecru",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Concrete Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/boost-natural-ecru/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Boost Smoke",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Concrete Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/boost-smoke/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Boost Tarmac",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Concrete Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/boost-tarmac/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Boost Vision Camel",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Concrete Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/boost-vision-camel/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Boost White",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Concrete Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/boost-white/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Concrete Grey",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Concrete Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://thesurfacecollection.co.uk/products/atlas-plan/ (see section subpage)",
+    "image_kinds_seen": [
+      "slab (lib/photos, small)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Not resolved on atlasplan.com directly; confirmed stocked via thesurfacecollection.co.uk own product listing (curl OK). Try atlasplan.com slug variants or fetch TSC lightbox data for full-size image."
+  },
+  {
+    "pricebook_colour": "White Terrazzo",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Concrete Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://thesurfacecollection.co.uk/products/atlas-plan/ (see section subpage)",
+    "image_kinds_seen": [
+      "slab (lib/photos, small)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Not resolved on atlasplan.com directly; confirmed stocked via thesurfacecollection.co.uk own product listing (curl OK). Try atlasplan.com slug variants or fetch TSC lightbox data for full-size image."
+  },
+  {
+    "pricebook_colour": "Black Lava",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Caleido Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/black-lava/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Crystal White",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Caleido Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/crystal-white/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Desert Soul",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Caleido Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/desert-soul/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Exotic Green",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Caleido Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/exotic-green/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Exotic Wave",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Caleido Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/exotic-wave/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Blaze Iron",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Metal Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/blaze-iron/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Absolute Black",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Solid Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/absolute-black/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Absolute White",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Solid Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/absolute-white/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Noce Canaletto",
+    "material": "Porcelain",
+    "section": "Atlas Plan - Wood Look",
+    "brand": "Atlas Plan (Atlas Concorde)",
+    "product_url": "https://www.atlasplan.com/en/large-format-porcelain-slabs/noce-canaletto/",
+    "image_kinds_seen": [
+      "slab",
+      "closeup(bookmatch)",
+      "room(project/kitchen)"
+    ],
+    "slab_sizes_seen": [
+      "162x324 (12mm)",
+      "159x324",
+      "160x320",
+      "120x240/278 (6mm)"
+    ],
+    "notes": "Confirmed via atlasplan.com category-page crawl (curl OK, no bot protection)."
+  },
+  {
+    "pricebook_colour": "Tuscan Grey",
+    "material": "Quartz",
+    "section": "Silkstone Quartz - Dartmoor Collection",
+    "brand": "Silkstone Quartz (Thomas Group's own-label range; no separate manufacturer site)",
+    "product_url": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "image_kinds_seen": [
+      "slab (lib/photos + lib/swatch/, small)"
+    ],
+    "slab_sizes_seen": [
+      "20mm/30mm quoted in heading text"
+    ],
+    "notes": "Confirmed - product IS on the single main /silkstone-quartz/ page itself (it embeds every collection, including End of Line/Marble Collection items not in the page nav; the \"collection\" subpages are a redundant, incomplete alternate view). Curl OK, no bot protection. No other manufacturer site exists (own-label). Site uses a lightbox (data-bpopup attr with a \"Slab Pictures & Sizes\" link and lib/swatch/*.jpg) for extra photos per SKU/finish - worth checking for higher-res or additional angles."
+  },
+  {
+    "pricebook_colour": "Snowy Mountain",
+    "material": "Quartz",
+    "section": "Silkstone Quartz - Diamante Collection",
+    "brand": "Silkstone Quartz (Thomas Group's own-label range; no separate manufacturer site)",
+    "product_url": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "image_kinds_seen": [
+      "slab (lib/photos + lib/swatch/, small)"
+    ],
+    "slab_sizes_seen": [
+      "20mm/30mm quoted in heading text"
+    ],
+    "notes": "Confirmed - product IS on the single main /silkstone-quartz/ page itself (it embeds every collection, including End of Line/Marble Collection items not in the page nav; the \"collection\" subpages are a redundant, incomplete alternate view). Curl OK, no bot protection. No other manufacturer site exists (own-label). Site uses a lightbox (data-bpopup attr with a \"Slab Pictures & Sizes\" link and lib/swatch/*.jpg) for extra photos per SKU/finish - worth checking for higher-res or additional angles."
+  },
+  {
+    "pricebook_colour": "Tibetan Black",
+    "material": "Quartz",
+    "section": "Silkstone Quartz - Diamante Collection",
+    "brand": "Silkstone Quartz (Thomas Group's own-label range; no separate manufacturer site)",
+    "product_url": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "image_kinds_seen": [
+      "slab (lib/photos + lib/swatch/, small)"
+    ],
+    "slab_sizes_seen": [
+      "20mm/30mm quoted in heading text"
+    ],
+    "notes": "Confirmed - product IS on the single main /silkstone-quartz/ page itself (it embeds every collection, including End of Line/Marble Collection items not in the page nav; the \"collection\" subpages are a redundant, incomplete alternate view). Curl OK, no bot protection. No other manufacturer site exists (own-label). Site uses a lightbox (data-bpopup attr with a \"Slab Pictures & Sizes\" link and lib/swatch/*.jpg) for extra photos per SKU/finish - worth checking for higher-res or additional angles."
+  },
+  {
+    "pricebook_colour": "White Shimmer",
+    "material": "Quartz",
+    "section": "Silkstone Quartz - Diamante Collection",
+    "brand": "Silkstone Quartz (Thomas Group's own-label range; no separate manufacturer site)",
+    "product_url": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "image_kinds_seen": [
+      "slab (lib/photos + lib/swatch/, small)"
+    ],
+    "slab_sizes_seen": [
+      "20mm/30mm quoted in heading text"
+    ],
+    "notes": "Confirmed - product IS on the single main /silkstone-quartz/ page itself (it embeds every collection, including End of Line/Marble Collection items not in the page nav; the \"collection\" subpages are a redundant, incomplete alternate view). Curl OK, no bot protection. No other manufacturer site exists (own-label). Site uses a lightbox (data-bpopup attr with a \"Slab Pictures & Sizes\" link and lib/swatch/*.jpg) for extra photos per SKU/finish - worth checking for higher-res or additional angles."
+  },
+  {
+    "pricebook_colour": "Oakham Ash",
+    "material": "Quartz",
+    "section": "Silkstone Quartz - Langdale Collection",
+    "brand": "Silkstone Quartz (Thomas Group's own-label range; no separate manufacturer site)",
+    "product_url": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "image_kinds_seen": [
+      "slab (lib/photos + lib/swatch/, small)"
+    ],
+    "slab_sizes_seen": [
+      "20mm/30mm quoted in heading text"
+    ],
+    "notes": "Confirmed - product IS on the single main /silkstone-quartz/ page itself (it embeds every collection, including End of Line/Marble Collection items not in the page nav; the \"collection\" subpages are a redundant, incomplete alternate view). Curl OK, no bot protection. No other manufacturer site exists (own-label). Site uses a lightbox (data-bpopup attr with a \"Slab Pictures & Sizes\" link and lib/swatch/*.jpg) for extra photos per SKU/finish - worth checking for higher-res or additional angles."
+  },
+  {
+    "pricebook_colour": "Sandford",
+    "material": "Quartz",
+    "section": "Silkstone Quartz - Langdale Collection",
+    "brand": "Silkstone Quartz (Thomas Group's own-label range; no separate manufacturer site)",
+    "product_url": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "image_kinds_seen": [
+      "slab (lib/photos + lib/swatch/, small)"
+    ],
+    "slab_sizes_seen": [
+      "20mm/30mm quoted in heading text"
+    ],
+    "notes": "Confirmed - product IS on the single main /silkstone-quartz/ page itself (it embeds every collection, including End of Line/Marble Collection items not in the page nav; the \"collection\" subpages are a redundant, incomplete alternate view). Curl OK, no bot protection. No other manufacturer site exists (own-label). Site uses a lightbox (data-bpopup attr with a \"Slab Pictures & Sizes\" link and lib/swatch/*.jpg) for extra photos per SKU/finish - worth checking for higher-res or additional angles."
+  },
+  {
+    "pricebook_colour": "Arabesque",
+    "material": "Quartz",
+    "section": "Silkstone Quartz - Marble Collection",
+    "brand": "Silkstone Quartz (Thomas Group's own-label range; no separate manufacturer site)",
+    "product_url": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "image_kinds_seen": [
+      "slab (lib/photos + lib/swatch/, small)"
+    ],
+    "slab_sizes_seen": [
+      "20mm/30mm quoted in heading text"
+    ],
+    "notes": "Confirmed - product IS on the single main /silkstone-quartz/ page itself (it embeds every collection, including End of Line/Marble Collection items not in the page nav; the \"collection\" subpages are a redundant, incomplete alternate view). Curl OK, no bot protection. No other manufacturer site exists (own-label). Site uses a lightbox (data-bpopup attr with a \"Slab Pictures & Sizes\" link and lib/swatch/*.jpg) for extra photos per SKU/finish - worth checking for higher-res or additional angles."
+  },
+  {
+    "pricebook_colour": "Calacatta Oro",
+    "material": "Quartz",
+    "section": "Silkstone Quartz - Marble Collection",
+    "brand": "Silkstone Quartz (Thomas Group's own-label range; no separate manufacturer site)",
+    "product_url": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "image_kinds_seen": [
+      "slab (lib/photos + lib/swatch/, small)"
+    ],
+    "slab_sizes_seen": [
+      "20mm/30mm quoted in heading text"
+    ],
+    "notes": "Confirmed - product IS on the single main /silkstone-quartz/ page itself (it embeds every collection, including End of Line/Marble Collection items not in the page nav; the \"collection\" subpages are a redundant, incomplete alternate view). Curl OK, no bot protection. No other manufacturer site exists (own-label). Site uses a lightbox (data-bpopup attr with a \"Slab Pictures & Sizes\" link and lib/swatch/*.jpg) for extra photos per SKU/finish - worth checking for higher-res or additional angles."
+  },
+  {
+    "pricebook_colour": "Gris Venato",
+    "material": "Quartz",
+    "section": "Silkstone Quartz - Marble Collection",
+    "brand": "Silkstone Quartz (Thomas Group's own-label range; no separate manufacturer site)",
+    "product_url": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "image_kinds_seen": [
+      "slab (lib/photos + lib/swatch/, small)"
+    ],
+    "slab_sizes_seen": [
+      "20mm/30mm quoted in heading text"
+    ],
+    "notes": "Confirmed - product IS on the single main /silkstone-quartz/ page itself (it embeds every collection, including End of Line/Marble Collection items not in the page nav; the \"collection\" subpages are a redundant, incomplete alternate view). Curl OK, no bot protection. No other manufacturer site exists (own-label). Site uses a lightbox (data-bpopup attr with a \"Slab Pictures & Sizes\" link and lib/swatch/*.jpg) for extra photos per SKU/finish - worth checking for higher-res or additional angles."
+  },
+  {
+    "pricebook_colour": "Montreal",
+    "material": "Quartz",
+    "section": "Silkstone Quartz - Marble Collection",
+    "brand": "Silkstone Quartz (Thomas Group's own-label range; no separate manufacturer site)",
+    "product_url": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "image_kinds_seen": [
+      "slab (lib/photos + lib/swatch/, small)"
+    ],
+    "slab_sizes_seen": [
+      "20mm/30mm quoted in heading text"
+    ],
+    "notes": "Confirmed - product IS on the single main /silkstone-quartz/ page itself (it embeds every collection, including End of Line/Marble Collection items not in the page nav; the \"collection\" subpages are a redundant, incomplete alternate view). Curl OK, no bot protection. No other manufacturer site exists (own-label). Site uses a lightbox (data-bpopup attr with a \"Slab Pictures & Sizes\" link and lib/swatch/*.jpg) for extra photos per SKU/finish - worth checking for higher-res or additional angles."
+  },
+  {
+    "pricebook_colour": "Venato Royale",
+    "material": "Quartz",
+    "section": "Silkstone Quartz - Marble Collection",
+    "brand": "Silkstone Quartz (Thomas Group's own-label range; no separate manufacturer site)",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [],
+    "notes": "Not found in the collection subpages fetched (Dartmoor/Diamante/Langdale/New England). May be on a page not yet crawled."
+  },
+  {
+    "pricebook_colour": "Columbia Grey",
+    "material": "Quartz",
+    "section": "Silkstone Quartz - New England Collection",
+    "brand": "Silkstone Quartz (Thomas Group's own-label range; no separate manufacturer site)",
+    "product_url": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "image_kinds_seen": [
+      "slab (lib/photos + lib/swatch/, small)"
+    ],
+    "slab_sizes_seen": [
+      "20mm/30mm quoted in heading text"
+    ],
+    "notes": "Confirmed - product IS on the single main /silkstone-quartz/ page itself (it embeds every collection, including End of Line/Marble Collection items not in the page nav; the \"collection\" subpages are a redundant, incomplete alternate view). Curl OK, no bot protection. No other manufacturer site exists (own-label). Site uses a lightbox (data-bpopup attr with a \"Slab Pictures & Sizes\" link and lib/swatch/*.jpg) for extra photos per SKU/finish - worth checking for higher-res or additional angles."
+  },
+  {
+    "pricebook_colour": "Sardinian White",
+    "material": "Quartz",
+    "section": "Silkstone Quartz - New England Collection",
+    "brand": "Silkstone Quartz (Thomas Group's own-label range; no separate manufacturer site)",
+    "product_url": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "image_kinds_seen": [
+      "slab (lib/photos + lib/swatch/, small)"
+    ],
+    "slab_sizes_seen": [
+      "20mm/30mm quoted in heading text"
+    ],
+    "notes": "Confirmed - product IS on the single main /silkstone-quartz/ page itself (it embeds every collection, including End of Line/Marble Collection items not in the page nav; the \"collection\" subpages are a redundant, incomplete alternate view). Curl OK, no bot protection. No other manufacturer site exists (own-label). Site uses a lightbox (data-bpopup attr with a \"Slab Pictures & Sizes\" link and lib/swatch/*.jpg) for extra photos per SKU/finish - worth checking for higher-res or additional angles."
+  },
+  {
+    "pricebook_colour": "Smokey Taupe",
+    "material": "Quartz",
+    "section": "Silkstone Quartz - New England Collection",
+    "brand": "Silkstone Quartz (Thomas Group's own-label range; no separate manufacturer site)",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [],
+    "notes": "Not found in the collection subpages fetched (Dartmoor/Diamante/Langdale/New England). May be on a page not yet crawled."
+  },
+  {
+    "pricebook_colour": "Baltic Grey",
+    "material": "Quartz",
+    "section": "Silkstone Quartz - End of Line",
+    "brand": "Silkstone Quartz (Thomas Group's own-label range; no separate manufacturer site)",
+    "product_url": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "image_kinds_seen": [
+      "slab (lib/photos + lib/swatch/, small)"
+    ],
+    "slab_sizes_seen": [
+      "20mm/30mm quoted in heading text"
+    ],
+    "notes": "Confirmed - product IS on the single main /silkstone-quartz/ page itself (it embeds every collection, including End of Line/Marble Collection items not in the page nav; the \"collection\" subpages are a redundant, incomplete alternate view). Curl OK, no bot protection. No other manufacturer site exists (own-label). Site uses a lightbox (data-bpopup attr with a \"Slab Pictures & Sizes\" link and lib/swatch/*.jpg) for extra photos per SKU/finish - worth checking for higher-res or additional angles."
+  },
+  {
+    "pricebook_colour": "Calacatta (End of Line)",
+    "material": "Quartz",
+    "section": "Silkstone Quartz - End of Line",
+    "brand": "Silkstone Quartz (Thomas Group's own-label range; no separate manufacturer site)",
+    "product_url": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "image_kinds_seen": [
+      "slab (lib/photos + lib/swatch/, small)"
+    ],
+    "slab_sizes_seen": [
+      "20mm/30mm quoted in heading text"
+    ],
+    "notes": "Confirmed - product IS on the single main /silkstone-quartz/ page itself (it embeds every collection, including End of Line/Marble Collection items not in the page nav; the \"collection\" subpages are a redundant, incomplete alternate view). Curl OK, no bot protection. No other manufacturer site exists (own-label). Site uses a lightbox (data-bpopup attr with a \"Slab Pictures & Sizes\" link and lib/swatch/*.jpg) for extra photos per SKU/finish - worth checking for higher-res or additional angles."
+  },
+  {
+    "pricebook_colour": "Charcoal Grey",
+    "material": "Quartz",
+    "section": "Silkstone Quartz - End of Line",
+    "brand": "Silkstone Quartz (Thomas Group's own-label range; no separate manufacturer site)",
+    "product_url": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "image_kinds_seen": [
+      "slab (lib/photos + lib/swatch/, small)"
+    ],
+    "slab_sizes_seen": [
+      "20mm/30mm quoted in heading text"
+    ],
+    "notes": "Confirmed - product IS on the single main /silkstone-quartz/ page itself (it embeds every collection, including End of Line/Marble Collection items not in the page nav; the \"collection\" subpages are a redundant, incomplete alternate view). Curl OK, no bot protection. No other manufacturer site exists (own-label). Site uses a lightbox (data-bpopup attr with a \"Slab Pictures & Sizes\" link and lib/swatch/*.jpg) for extra photos per SKU/finish - worth checking for higher-res or additional angles."
+  },
+  {
+    "pricebook_colour": "Clifton Salt",
+    "material": "Quartz",
+    "section": "Silkstone Quartz - End of Line",
+    "brand": "Silkstone Quartz (Thomas Group's own-label range; no separate manufacturer site)",
+    "product_url": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "image_kinds_seen": [
+      "slab (lib/photos + lib/swatch/, small)"
+    ],
+    "slab_sizes_seen": [
+      "20mm/30mm quoted in heading text"
+    ],
+    "notes": "Confirmed - product IS on the single main /silkstone-quartz/ page itself (it embeds every collection, including End of Line/Marble Collection items not in the page nav; the \"collection\" subpages are a redundant, incomplete alternate view). Curl OK, no bot protection. No other manufacturer site exists (own-label). Site uses a lightbox (data-bpopup attr with a \"Slab Pictures & Sizes\" link and lib/swatch/*.jpg) for extra photos per SKU/finish - worth checking for higher-res or additional angles."
+  },
+  {
+    "pricebook_colour": "Cream Mirror",
+    "material": "Quartz",
+    "section": "Silkstone Quartz - End of Line",
+    "brand": "Silkstone Quartz (Thomas Group's own-label range; no separate manufacturer site)",
+    "product_url": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "image_kinds_seen": [
+      "slab (lib/photos + lib/swatch/, small)"
+    ],
+    "slab_sizes_seen": [
+      "20mm/30mm quoted in heading text"
+    ],
+    "notes": "Confirmed - product IS on the single main /silkstone-quartz/ page itself (it embeds every collection, including End of Line/Marble Collection items not in the page nav; the \"collection\" subpages are a redundant, incomplete alternate view). Curl OK, no bot protection. No other manufacturer site exists (own-label). Site uses a lightbox (data-bpopup attr with a \"Slab Pictures & Sizes\" link and lib/swatch/*.jpg) for extra photos per SKU/finish - worth checking for higher-res or additional angles."
+  },
+  {
+    "pricebook_colour": "Desert Silver (Silestone)",
+    "material": "Quartz",
+    "section": "Silkstone Quartz - End of Line",
+    "brand": "Silkstone Quartz (Thomas Group's own-label range; no separate manufacturer site)",
+    "product_url": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "image_kinds_seen": [
+      "slab (lib/photos + lib/swatch/, small)"
+    ],
+    "slab_sizes_seen": [
+      "20mm/30mm quoted in heading text"
+    ],
+    "notes": "Confirmed - product IS on the single main /silkstone-quartz/ page itself (it embeds every collection, including End of Line/Marble Collection items not in the page nav; the \"collection\" subpages are a redundant, incomplete alternate view). Curl OK, no bot protection. No other manufacturer site exists (own-label). Site uses a lightbox (data-bpopup attr with a \"Slab Pictures & Sizes\" link and lib/swatch/*.jpg) for extra photos per SKU/finish - worth checking for higher-res or additional angles."
+  },
+  {
+    "pricebook_colour": "Gris Asturias",
+    "material": "Quartz",
+    "section": "Silkstone Quartz - End of Line",
+    "brand": "Silkstone Quartz (Thomas Group's own-label range; no separate manufacturer site)",
+    "product_url": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "image_kinds_seen": [
+      "slab (lib/photos + lib/swatch/, small)"
+    ],
+    "slab_sizes_seen": [
+      "20mm/30mm quoted in heading text"
+    ],
+    "notes": "Confirmed - product IS on the single main /silkstone-quartz/ page itself (it embeds every collection, including End of Line/Marble Collection items not in the page nav; the \"collection\" subpages are a redundant, incomplete alternate view). Curl OK, no bot protection. No other manufacturer site exists (own-label). Site uses a lightbox (data-bpopup attr with a \"Slab Pictures & Sizes\" link and lib/swatch/*.jpg) for extra photos per SKU/finish - worth checking for higher-res or additional angles."
+  },
+  {
+    "pricebook_colour": "Honed Angelo White",
+    "material": "Quartz",
+    "section": "Silkstone Quartz - End of Line",
+    "brand": "Silkstone Quartz (Thomas Group's own-label range; no separate manufacturer site)",
+    "product_url": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "image_kinds_seen": [
+      "slab (lib/photos + lib/swatch/, small)"
+    ],
+    "slab_sizes_seen": [
+      "20mm/30mm quoted in heading text"
+    ],
+    "notes": "Confirmed - product IS on the single main /silkstone-quartz/ page itself (it embeds every collection, including End of Line/Marble Collection items not in the page nav; the \"collection\" subpages are a redundant, incomplete alternate view). Curl OK, no bot protection. No other manufacturer site exists (own-label). Site uses a lightbox (data-bpopup attr with a \"Slab Pictures & Sizes\" link and lib/swatch/*.jpg) for extra photos per SKU/finish - worth checking for higher-res or additional angles."
+  },
+  {
+    "pricebook_colour": "Obsidian",
+    "material": "Quartz",
+    "section": "Silkstone Quartz - End of Line",
+    "brand": "Silkstone Quartz (Thomas Group's own-label range; no separate manufacturer site)",
+    "product_url": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "image_kinds_seen": [
+      "slab (lib/photos + lib/swatch/, small)"
+    ],
+    "slab_sizes_seen": [
+      "20mm/30mm quoted in heading text"
+    ],
+    "notes": "Confirmed - product IS on the single main /silkstone-quartz/ page itself (it embeds every collection, including End of Line/Marble Collection items not in the page nav; the \"collection\" subpages are a redundant, incomplete alternate view). Curl OK, no bot protection. No other manufacturer site exists (own-label). Site uses a lightbox (data-bpopup attr with a \"Slab Pictures & Sizes\" link and lib/swatch/*.jpg) for extra photos per SKU/finish - worth checking for higher-res or additional angles."
+  },
+  {
+    "pricebook_colour": "Orisa",
+    "material": "Quartz",
+    "section": "Silkstone Quartz - End of Line",
+    "brand": "Silkstone Quartz (Thomas Group's own-label range; no separate manufacturer site)",
+    "product_url": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "image_kinds_seen": [
+      "slab (lib/photos + lib/swatch/, small)"
+    ],
+    "slab_sizes_seen": [
+      "20mm/30mm quoted in heading text"
+    ],
+    "notes": "Confirmed - product IS on the single main /silkstone-quartz/ page itself (it embeds every collection, including End of Line/Marble Collection items not in the page nav; the \"collection\" subpages are a redundant, incomplete alternate view). Curl OK, no bot protection. No other manufacturer site exists (own-label). Site uses a lightbox (data-bpopup attr with a \"Slab Pictures & Sizes\" link and lib/swatch/*.jpg) for extra photos per SKU/finish - worth checking for higher-res or additional angles."
+  },
+  {
+    "pricebook_colour": "Sardinian White Series 2",
+    "material": "Quartz",
+    "section": "Silkstone Quartz - End of Line",
+    "brand": "Silkstone Quartz (Thomas Group's own-label range; no separate manufacturer site)",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [],
+    "notes": "Not found in the collection subpages fetched (Dartmoor/Diamante/Langdale/New England). May be on a page not yet crawled."
+  },
+  {
+    "pricebook_colour": "Statuario Venato",
+    "material": "Quartz",
+    "section": "Silkstone Quartz - End of Line",
+    "brand": "Silkstone Quartz (Thomas Group's own-label range; no separate manufacturer site)",
+    "product_url": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "image_kinds_seen": [
+      "slab (lib/photos + lib/swatch/, small)"
+    ],
+    "slab_sizes_seen": [
+      "20mm/30mm quoted in heading text"
+    ],
+    "notes": "Confirmed - product IS on the single main /silkstone-quartz/ page itself (it embeds every collection, including End of Line/Marble Collection items not in the page nav; the \"collection\" subpages are a redundant, incomplete alternate view). Curl OK, no bot protection. No other manufacturer site exists (own-label). Site uses a lightbox (data-bpopup attr with a \"Slab Pictures & Sizes\" link and lib/swatch/*.jpg) for extra photos per SKU/finish - worth checking for higher-res or additional angles."
+  },
+  {
+    "pricebook_colour": "White Sand",
+    "material": "Quartz",
+    "section": "Silkstone Quartz - End of Line",
+    "brand": "Silkstone Quartz (Thomas Group's own-label range; no separate manufacturer site)",
+    "product_url": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "image_kinds_seen": [
+      "slab (lib/photos + lib/swatch/, small)"
+    ],
+    "slab_sizes_seen": [
+      "20mm/30mm quoted in heading text"
+    ],
+    "notes": "Confirmed - product IS on the single main /silkstone-quartz/ page itself (it embeds every collection, including End of Line/Marble Collection items not in the page nav; the \"collection\" subpages are a redundant, incomplete alternate view). Curl OK, no bot protection. No other manufacturer site exists (own-label). Site uses a lightbox (data-bpopup attr with a \"Slab Pictures & Sizes\" link and lib/swatch/*.jpg) for extra photos per SKU/finish - worth checking for higher-res or additional angles."
+  },
+  {
+    "pricebook_colour": "Lorelei V824 (Group 1)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Divine Natural Majesty",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/collections/ (see collection subpage) / thesurfacecollection.co.uk/products/vadara-quartz/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "White Mirage V825 (Group 1)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Divine Natural Majesty",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/collections/ (see collection subpage) / thesurfacecollection.co.uk/products/vadara-quartz/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "White Polar V822 (Group 1)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Divine Natural Majesty",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/collections/ (see collection subpage) / thesurfacecollection.co.uk/products/vadara-quartz/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "White Shimmer V823 (Group 1)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Divine Natural Majesty",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/collections/ (see collection subpage) / thesurfacecollection.co.uk/products/vadara-quartz/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Echo Ridge V832 (Group 4)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Infusions",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/collections/ (see collection subpage) / thesurfacecollection.co.uk/products/vadara-quartz/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Golden Steppe V831 (Group 3)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Infusions",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/collections/ (see collection subpage) / thesurfacecollection.co.uk/products/vadara-quartz/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Lunara V833 (Group 4)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Infusions",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/collections/ (see collection subpage) / thesurfacecollection.co.uk/products/vadara-quartz/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Ostara Dawn V743 (Group 3)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Infusions",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/designs/ostara-dawn/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Terra Vista V821 (Group 5)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Infusions",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/collections/ (see collection subpage) / thesurfacecollection.co.uk/products/vadara-quartz/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Braewind Super Jumbo Leathered V882L Group 5",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Ebbs And Flows",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/collections/ (see collection subpage) / thesurfacecollection.co.uk/products/vadara-quartz/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Calacatta Dorado V727 (Group 3)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Ebbs And Flows",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/collections/ (see collection subpage) / thesurfacecollection.co.uk/products/vadara-quartz/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Ecru Coast V829 (Group 3)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Ebbs And Flows",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/collections/ (see collection subpage) / thesurfacecollection.co.uk/products/vadara-quartz/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Gossamer Sands V815 (Group 3)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Ebbs And Flows",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/designs/gossamer-sands/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Mountain Veil V830 (Group 3)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Ebbs And Flows",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/collections/ (see collection subpage) / thesurfacecollection.co.uk/products/vadara-quartz/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Nomad Valley Super Jumbo V883 Group 5",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Ebbs And Flows",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/collections/ (see collection subpage) / thesurfacecollection.co.uk/products/vadara-quartz/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Petro Grigio V703 (Group 5)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Ebbs And Flows",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/collections/ (see collection subpage) / thesurfacecollection.co.uk/products/vadara-quartz/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Sand Weaver V745 (Group 3)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Ebbs And Flows",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/collections/ (see collection subpage) / thesurfacecollection.co.uk/products/vadara-quartz/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Sandstream V826 (Group 1)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Ebbs And Flows",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/designs/sandstream/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Desert Blush V817 (Group 5)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Hidden Inspiration",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/designs/desert-blush/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Golden Scribe V819 (Group 5)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Hidden Inspiration",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/collections/ (see collection subpage) / thesurfacecollection.co.uk/products/vadara-quartz/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Highland Vale V835 (Group 5)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Hidden Inspiration",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/designs/highland-vale/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Luminaria V838 (Group 5)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Hidden Inspiration",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/collections/ (see collection subpage) / thesurfacecollection.co.uk/products/vadara-quartz/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Moon Valley (Siena) V811 (Group 5)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Hidden Inspiration",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/collections/ (see collection subpage) / thesurfacecollection.co.uk/products/vadara-quartz/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Sakura V840 (Group 5)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Hidden Inspiration",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/designs/sakura/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Scandi Blue V816 (Group 5)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Hidden Inspiration",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/collections/ (see collection subpage) / thesurfacecollection.co.uk/products/vadara-quartz/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Solterra V834 (Group 5)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Hidden Inspiration",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/collections/ (see collection subpage) / thesurfacecollection.co.uk/products/vadara-quartz/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Soraline Super Jumbo V884 Group 3",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Hidden Inspiration",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/collections/ (see collection subpage) / thesurfacecollection.co.uk/products/vadara-quartz/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Amaranta V813 (Group 4)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Threads Of Nature",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/designs/amaranta/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Aurum V839 (Group 4)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Threads Of Nature",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/designs/aurum/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Calithea V837 (Group 5)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Threads Of Nature",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/designs/calithea/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Gilded Trace V828 (Group 2)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Threads Of Nature",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/collections/ (see collection subpage) / thesurfacecollection.co.uk/products/vadara-quartz/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Lakestone V827 (Group 2)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Threads Of Nature",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/collections/ (see collection subpage) / thesurfacecollection.co.uk/products/vadara-quartz/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Lava Plain V810 (Group 5)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Threads Of Nature",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/collections/ (see collection subpage) / thesurfacecollection.co.uk/products/vadara-quartz/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Luxor V836 (Group 5)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Threads Of Nature",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/designs/luxor/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Sterling Light V804 (Group 5)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Threads Of Nature",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/collections/ (see collection subpage) / thesurfacecollection.co.uk/products/vadara-quartz/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Sunrise Vista (Oro) V812 (Group 5)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Threads Of Nature",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/designs/sunrise-vista/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "White Aurora V738 (Group 5)",
+    "material": "Quartz",
+    "section": "Vadara Quartz - Threads Of Nature",
+    "brand": "Vadara Quartz (US brand, UK site vadara.uk; Thomas Group is the UK distribution partner since Jan 2025)",
+    "product_url": "https://www.vadara.uk/collections/ (see collection subpage) / thesurfacecollection.co.uk/products/vadara-quartz/",
+    "image_kinds_seen": [
+      "slab (Vadara_{Name}_Web.jpg)",
+      "room/install (VQ_INSTALL_{NAME}_H##.jpg, many per design)"
+    ],
+    "slab_sizes_seen": [],
+    "notes": "Confirmed via vadara.uk WordPress site (curl OK) and/or thesurfacecollection.co.uk Vadara subpage."
+  },
+  {
+    "pricebook_colour": "Neolith Avorio",
+    "material": "Sintered Stone",
+    "section": "Neolith by The Size - Neolith 6mm Slab",
+    "brand": "Neolith (by The Size; Thomas Group sells the full range)",
+    "product_url": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/ (6mm/12mm slab range subpages)",
+    "image_kinds_seen": [
+      "slab (lib/photos, small-medium res)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600 (12mm)",
+      "3200x1500 (6mm)"
+    ],
+    "notes": "CONFIRMED on thesurfacecollection.co.uk (curl OK, no bot protection) - full slab-size text in heading. neolith.com itself returns HTTP 403 to curl (bot-protected; site is Nuxt/JS-rendered, backed by Storyblok CDN a.storyblok.com - prior harvest for existing Neolith library entries had to browser-drive Chrome page by page, see tools/scrape_neolith_harvest.py). Recommend thesurfacecollection.co.uk as PRIMARY source for these 16, or claude-in-chrome browser automation on neolith.com for higher-res/room images if TSC quality is too low."
+  },
+  {
+    "pricebook_colour": "Neolith Calacatta 01",
+    "material": "Sintered Stone",
+    "section": "Neolith by The Size - Neolith 12mm Slab",
+    "brand": "Neolith (by The Size; Thomas Group sells the full range)",
+    "product_url": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/ (6mm/12mm slab range subpages)",
+    "image_kinds_seen": [
+      "slab (lib/photos, small-medium res)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600 (12mm)",
+      "3200x1500 (6mm)"
+    ],
+    "notes": "CONFIRMED on thesurfacecollection.co.uk (curl OK, no bot protection) - full slab-size text in heading. neolith.com itself returns HTTP 403 to curl (bot-protected; site is Nuxt/JS-rendered, backed by Storyblok CDN a.storyblok.com - prior harvest for existing Neolith library entries had to browser-drive Chrome page by page, see tools/scrape_neolith_harvest.py). Recommend thesurfacecollection.co.uk as PRIMARY source for these 16, or claude-in-chrome browser automation on neolith.com for higher-res/room images if TSC quality is too low."
+  },
+  {
+    "pricebook_colour": "Neolith Estatuario 01",
+    "material": "Sintered Stone",
+    "section": "Neolith by The Size - Neolith 6mm Slab",
+    "brand": "Neolith (by The Size; Thomas Group sells the full range)",
+    "product_url": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/ (6mm/12mm slab range subpages)",
+    "image_kinds_seen": [
+      "slab (lib/photos, small-medium res)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600 (12mm)",
+      "3200x1500 (6mm)"
+    ],
+    "notes": "CONFIRMED on thesurfacecollection.co.uk (curl OK, no bot protection) - full slab-size text in heading. neolith.com itself returns HTTP 403 to curl (bot-protected; site is Nuxt/JS-rendered, backed by Storyblok CDN a.storyblok.com - prior harvest for existing Neolith library entries had to browser-drive Chrome page by page, see tools/scrape_neolith_harvest.py). Recommend thesurfacecollection.co.uk as PRIMARY source for these 16, or claude-in-chrome browser automation on neolith.com for higher-res/room images if TSC quality is too low."
+  },
+  {
+    "pricebook_colour": "Neolith Nieve",
+    "material": "Sintered Stone",
+    "section": "Neolith by The Size - Neolith 6mm Slab",
+    "brand": "Neolith (by The Size; Thomas Group sells the full range)",
+    "product_url": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/ (6mm/12mm slab range subpages)",
+    "image_kinds_seen": [
+      "slab (lib/photos, small-medium res)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600 (12mm)",
+      "3200x1500 (6mm)"
+    ],
+    "notes": "CONFIRMED on thesurfacecollection.co.uk (curl OK, no bot protection) - full slab-size text in heading. neolith.com itself returns HTTP 403 to curl (bot-protected; site is Nuxt/JS-rendered, backed by Storyblok CDN a.storyblok.com - prior harvest for existing Neolith library entries had to browser-drive Chrome page by page, see tools/scrape_neolith_harvest.py). Recommend thesurfacecollection.co.uk as PRIMARY source for these 16, or claude-in-chrome browser automation on neolith.com for higher-res/room images if TSC quality is too low."
+  },
+  {
+    "pricebook_colour": "Neolith Phedra",
+    "material": "Sintered Stone",
+    "section": "Neolith by The Size - Neolith 6mm Slab",
+    "brand": "Neolith (by The Size; Thomas Group sells the full range)",
+    "product_url": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/ (6mm/12mm slab range subpages)",
+    "image_kinds_seen": [
+      "slab (lib/photos, small-medium res)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600 (12mm)",
+      "3200x1500 (6mm)"
+    ],
+    "notes": "CONFIRMED on thesurfacecollection.co.uk (curl OK, no bot protection) - full slab-size text in heading. neolith.com itself returns HTTP 403 to curl (bot-protected; site is Nuxt/JS-rendered, backed by Storyblok CDN a.storyblok.com - prior harvest for existing Neolith library entries had to browser-drive Chrome page by page, see tools/scrape_neolith_harvest.py). Recommend thesurfacecollection.co.uk as PRIMARY source for these 16, or claude-in-chrome browser automation on neolith.com for higher-res/room images if TSC quality is too low."
+  },
+  {
+    "pricebook_colour": "Neolith Pierre Bleue",
+    "material": "Sintered Stone",
+    "section": "Neolith by The Size - Neolith 6mm Slab",
+    "brand": "Neolith (by The Size; Thomas Group sells the full range)",
+    "product_url": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/ (6mm/12mm slab range subpages)",
+    "image_kinds_seen": [
+      "slab (lib/photos, small-medium res)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600 (12mm)",
+      "3200x1500 (6mm)"
+    ],
+    "notes": "CONFIRMED on thesurfacecollection.co.uk (curl OK, no bot protection) - full slab-size text in heading. neolith.com itself returns HTTP 403 to curl (bot-protected; site is Nuxt/JS-rendered, backed by Storyblok CDN a.storyblok.com - prior harvest for existing Neolith library entries had to browser-drive Chrome page by page, see tools/scrape_neolith_harvest.py). Recommend thesurfacecollection.co.uk as PRIMARY source for these 16, or claude-in-chrome browser automation on neolith.com for higher-res/room images if TSC quality is too low."
+  },
+  {
+    "pricebook_colour": "Neolith Zaha",
+    "material": "Sintered Stone",
+    "section": "Neolith by The Size - Neolith 6mm Slab",
+    "brand": "Neolith (by The Size; Thomas Group sells the full range)",
+    "product_url": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/ (6mm/12mm slab range subpages)",
+    "image_kinds_seen": [
+      "slab (lib/photos, small-medium res)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600 (12mm)",
+      "3200x1500 (6mm)"
+    ],
+    "notes": "CONFIRMED on thesurfacecollection.co.uk (curl OK, no bot protection) - full slab-size text in heading. neolith.com itself returns HTTP 403 to curl (bot-protected; site is Nuxt/JS-rendered, backed by Storyblok CDN a.storyblok.com - prior harvest for existing Neolith library entries had to browser-drive Chrome page by page, see tools/scrape_neolith_harvest.py). Recommend thesurfacecollection.co.uk as PRIMARY source for these 16, or claude-in-chrome browser automation on neolith.com for higher-res/room images if TSC quality is too low."
+  },
+  {
+    "pricebook_colour": "Neolith Basalt Beige",
+    "material": "Sintered Stone",
+    "section": "Neolith by The Size - Neolith 12mm Slab",
+    "brand": "Neolith (by The Size; Thomas Group sells the full range)",
+    "product_url": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/ (6mm/12mm slab range subpages)",
+    "image_kinds_seen": [
+      "slab (lib/photos, small-medium res)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600 (12mm)",
+      "3200x1500 (6mm)"
+    ],
+    "notes": "CONFIRMED on thesurfacecollection.co.uk (curl OK, no bot protection) - full slab-size text in heading. neolith.com itself returns HTTP 403 to curl (bot-protected; site is Nuxt/JS-rendered, backed by Storyblok CDN a.storyblok.com - prior harvest for existing Neolith library entries had to browser-drive Chrome page by page, see tools/scrape_neolith_harvest.py). Recommend thesurfacecollection.co.uk as PRIMARY source for these 16, or claude-in-chrome browser automation on neolith.com for higher-res/room images if TSC quality is too low."
+  },
+  {
+    "pricebook_colour": "Neolith Beton",
+    "material": "Sintered Stone",
+    "section": "Neolith by The Size - Neolith 12mm Slab",
+    "brand": "Neolith (by The Size; Thomas Group sells the full range)",
+    "product_url": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/ (6mm/12mm slab range subpages)",
+    "image_kinds_seen": [
+      "slab (lib/photos, small-medium res)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600 (12mm)",
+      "3200x1500 (6mm)"
+    ],
+    "notes": "CONFIRMED on thesurfacecollection.co.uk (curl OK, no bot protection) - full slab-size text in heading. neolith.com itself returns HTTP 403 to curl (bot-protected; site is Nuxt/JS-rendered, backed by Storyblok CDN a.storyblok.com - prior harvest for existing Neolith library entries had to browser-drive Chrome page by page, see tools/scrape_neolith_harvest.py). Recommend thesurfacecollection.co.uk as PRIMARY source for these 16, or claude-in-chrome browser automation on neolith.com for higher-res/room images if TSC quality is too low."
+  },
+  {
+    "pricebook_colour": "Neolith Bianco Carrara Bc02",
+    "material": "Sintered Stone",
+    "section": "Neolith by The Size - Neolith 12mm Slab",
+    "brand": "Neolith (by The Size; Thomas Group sells the full range)",
+    "product_url": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/ (6mm/12mm slab range subpages)",
+    "image_kinds_seen": [
+      "slab (lib/photos, small-medium res)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600 (12mm)",
+      "3200x1500 (6mm)"
+    ],
+    "notes": "CONFIRMED on thesurfacecollection.co.uk (curl OK, no bot protection) - full slab-size text in heading. neolith.com itself returns HTTP 403 to curl (bot-protected; site is Nuxt/JS-rendered, backed by Storyblok CDN a.storyblok.com - prior harvest for existing Neolith library entries had to browser-drive Chrome page by page, see tools/scrape_neolith_harvest.py). Recommend thesurfacecollection.co.uk as PRIMARY source for these 16, or claude-in-chrome browser automation on neolith.com for higher-res/room images if TSC quality is too low."
+  },
+  {
+    "pricebook_colour": "Neolith Calacatta Gold Cg01",
+    "material": "Sintered Stone",
+    "section": "Neolith by The Size - Neolith 12mm Slab",
+    "brand": "Neolith (by The Size; Thomas Group sells the full range)",
+    "product_url": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/ (6mm/12mm slab range subpages)",
+    "image_kinds_seen": [
+      "slab (lib/photos, small-medium res)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600 (12mm)",
+      "3200x1500 (6mm)"
+    ],
+    "notes": "CONFIRMED on thesurfacecollection.co.uk (curl OK, no bot protection) - full slab-size text in heading. neolith.com itself returns HTTP 403 to curl (bot-protected; site is Nuxt/JS-rendered, backed by Storyblok CDN a.storyblok.com - prior harvest for existing Neolith library entries had to browser-drive Chrome page by page, see tools/scrape_neolith_harvest.py). Recommend thesurfacecollection.co.uk as PRIMARY source for these 16, or claude-in-chrome browser automation on neolith.com for higher-res/room images if TSC quality is too low."
+  },
+  {
+    "pricebook_colour": "Neolith Cement",
+    "material": "Sintered Stone",
+    "section": "Neolith by The Size - Neolith 12mm Slab",
+    "brand": "Neolith (by The Size; Thomas Group sells the full range)",
+    "product_url": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/ (6mm/12mm slab range subpages)",
+    "image_kinds_seen": [
+      "slab (lib/photos, small-medium res)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600 (12mm)",
+      "3200x1500 (6mm)"
+    ],
+    "notes": "CONFIRMED on thesurfacecollection.co.uk (curl OK, no bot protection) - full slab-size text in heading. neolith.com itself returns HTTP 403 to curl (bot-protected; site is Nuxt/JS-rendered, backed by Storyblok CDN a.storyblok.com - prior harvest for existing Neolith library entries had to browser-drive Chrome page by page, see tools/scrape_neolith_harvest.py). Recommend thesurfacecollection.co.uk as PRIMARY source for these 16, or claude-in-chrome browser automation on neolith.com for higher-res/room images if TSC quality is too low."
+  },
+  {
+    "pricebook_colour": "Neolith Estatuario E04",
+    "material": "Sintered Stone",
+    "section": "Neolith by The Size - Neolith 12mm Slab",
+    "brand": "Neolith (by The Size; Thomas Group sells the full range)",
+    "product_url": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/ (6mm/12mm slab range subpages)",
+    "image_kinds_seen": [
+      "slab (lib/photos, small-medium res)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600 (12mm)",
+      "3200x1500 (6mm)"
+    ],
+    "notes": "CONFIRMED on thesurfacecollection.co.uk (curl OK, no bot protection) - full slab-size text in heading. neolith.com itself returns HTTP 403 to curl (bot-protected; site is Nuxt/JS-rendered, backed by Storyblok CDN a.storyblok.com - prior harvest for existing Neolith library entries had to browser-drive Chrome page by page, see tools/scrape_neolith_harvest.py). Recommend thesurfacecollection.co.uk as PRIMARY source for these 16, or claude-in-chrome browser automation on neolith.com for higher-res/room images if TSC quality is too low."
+  },
+  {
+    "pricebook_colour": "Neolith Iron Moss",
+    "material": "Sintered Stone",
+    "section": "Neolith by The Size - Neolith 12mm Slab",
+    "brand": "Neolith (by The Size; Thomas Group sells the full range)",
+    "product_url": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/ (6mm/12mm slab range subpages)",
+    "image_kinds_seen": [
+      "slab (lib/photos, small-medium res)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600 (12mm)",
+      "3200x1500 (6mm)"
+    ],
+    "notes": "CONFIRMED on thesurfacecollection.co.uk (curl OK, no bot protection) - full slab-size text in heading. neolith.com itself returns HTTP 403 to curl (bot-protected; site is Nuxt/JS-rendered, backed by Storyblok CDN a.storyblok.com - prior harvest for existing Neolith library entries had to browser-drive Chrome page by page, see tools/scrape_neolith_harvest.py). Recommend thesurfacecollection.co.uk as PRIMARY source for these 16, or claude-in-chrome browser automation on neolith.com for higher-res/room images if TSC quality is too low."
+  },
+  {
+    "pricebook_colour": "Neolith La Boheme",
+    "material": "Sintered Stone",
+    "section": "Neolith by The Size - Neolith 12mm Slab",
+    "brand": "Neolith (by The Size; Thomas Group sells the full range)",
+    "product_url": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/ (6mm/12mm slab range subpages)",
+    "image_kinds_seen": [
+      "slab (lib/photos, small-medium res)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600 (12mm)",
+      "3200x1500 (6mm)"
+    ],
+    "notes": "CONFIRMED on thesurfacecollection.co.uk (curl OK, no bot protection) - full slab-size text in heading. neolith.com itself returns HTTP 403 to curl (bot-protected; site is Nuxt/JS-rendered, backed by Storyblok CDN a.storyblok.com - prior harvest for existing Neolith library entries had to browser-drive Chrome page by page, see tools/scrape_neolith_harvest.py). Recommend thesurfacecollection.co.uk as PRIMARY source for these 16, or claude-in-chrome browser automation on neolith.com for higher-res/room images if TSC quality is too low."
+  },
+  {
+    "pricebook_colour": "Neolith Nero Marquina",
+    "material": "Sintered Stone",
+    "section": "Neolith by The Size - Neolith 12mm Slab",
+    "brand": "Neolith (by The Size; Thomas Group sells the full range)",
+    "product_url": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/ (6mm/12mm slab range subpages)",
+    "image_kinds_seen": [
+      "slab (lib/photos, small-medium res)"
+    ],
+    "slab_sizes_seen": [
+      "3200x1600 (12mm)",
+      "3200x1500 (6mm)"
+    ],
+    "notes": "CONFIRMED on thesurfacecollection.co.uk (curl OK, no bot protection) - full slab-size text in heading. neolith.com itself returns HTTP 403 to curl (bot-protected; site is Nuxt/JS-rendered, backed by Storyblok CDN a.storyblok.com - prior harvest for existing Neolith library entries had to browser-drive Chrome page by page, see tools/scrape_neolith_harvest.py). Recommend thesurfacecollection.co.uk as PRIMARY source for these 16, or claude-in-chrome browser automation on neolith.com for higher-res/room images if TSC quality is too low."
+  },
+  {
+    "pricebook_colour": "St Annes White",
+    "material": "Quartz",
+    "section": "Architectural Material - Morris Homes",
+    "brand": "Unclear - possibly Radianz (Lotte Chemical) rebrand or bespoke housebuilder-spec colour",
+    "product_url": null,
+    "image_kinds_seen": [],
+    "slab_sizes_seen": [],
+    "notes": "\"St Annes White\" not found verbatim anywhere. Closest hit: Radianz \"St Helens White\" (different name). thesurfacecollection.co.uk lists a separate \"Radianz Quartz - Marble Collection\" line (href seen: /products/radianz-quartz/marble-collection/) not yet fetched. Likely a bespoke colour supplied for a Morris Homes new-build contract; low priority (1 colour, section name suggests trade-only SKU). Recommend asking Thomas Group directly, or checking radianz-quartz.com."
+  }
+]
