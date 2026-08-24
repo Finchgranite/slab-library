@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-24T19:00:33Z",
+ "generated": "2026-08-24T19:23:00Z",
  "slabs": [
   {
    "id": "akg-surfaces--adira-bronze",
@@ -32092,7 +32092,29 @@
     "status": "slab",
     "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "suppliers": [
+    "Thomas Group (Surfaces Collection)"
+   ],
+   "aliases": [
+    "Neolith Beton"
+   ],
+   "images": [
+    {
+     "file": "neolith--beton.webp",
+     "status": "slab",
+     "source": "neolith.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "neolith--beton--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "neolith--black-obsession",
@@ -32132,7 +32154,29 @@
     "status": "slab",
     "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "suppliers": [
+    "Thomas Group (Surfaces Collection)"
+   ],
+   "aliases": [
+    "Neolith Calacatta 01"
+   ],
+   "images": [
+    {
+     "file": "neolith--calacatta-bm.webp",
+     "status": "slab",
+     "source": "neolith.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "neolith--calacatta-bm--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "neolith--calacatta-gold-bm",
@@ -32151,7 +32195,29 @@
     "status": "slab",
     "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "suppliers": [
+    "Thomas Group (Surfaces Collection)"
+   ],
+   "aliases": [
+    "Neolith Calacatta Gold Cg01"
+   ],
+   "images": [
+    {
+     "file": "neolith--calacatta-gold-bm.webp",
+     "status": "slab",
+     "source": "neolith.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "neolith--calacatta-gold-bm--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "neolith--calacatta-luxe-bm",
@@ -32309,7 +32375,29 @@
     "status": "slab",
     "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "suppliers": [
+    "Thomas Group (Surfaces Collection)"
+   ],
+   "aliases": [
+    "Neolith Estatuario 01"
+   ],
+   "images": [
+    {
+     "file": "neolith--estatuario-bm.webp",
+     "status": "slab",
+     "source": "neolith.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "neolith--estatuario-bm--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "neolith--everest-sunrise",
@@ -32803,7 +32891,29 @@
     "status": "slab",
     "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "suppliers": [
+    "Thomas Group (Surfaces Collection)"
+   ],
+   "aliases": [
+    "Neolith Zaha"
+   ],
+   "images": [
+    {
+     "file": "neolith--zaha-stone.webp",
+     "status": "slab",
+     "source": "neolith.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "neolith--zaha-stone--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "nile-stone--absolute-black-extra",
@@ -55438,6 +55548,2575 @@
     "scale": "true"
    },
    "details": "Quartz, Unique Collection"
+  },
+  {
+   "id": "thomas-group-surfaces-collection--arabesque",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Arabesque",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--arabesque.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "borrowedFrom": ""
+   },
+   "details": "Silkstone · Thomas Group's own-label quartz range",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--arabesque.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--arabesque--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--baltic-grey",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Baltic Grey",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--baltic-grey.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "borrowedFrom": ""
+   },
+   "details": "Silkstone · Thomas Group's own-label quartz range",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--baltic-grey.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--baltic-grey--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--calacatta-end-of-line",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Calacatta (End of Line)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--calacatta-end-of-line.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "borrowedFrom": ""
+   },
+   "details": "Silkstone · Thomas Group's own-label quartz range",
+   "slabSizes": "20mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--calacatta-end-of-line.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--calacatta-end-of-line--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--calacatta-oro",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Calacatta Oro",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--calacatta-oro.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "borrowedFrom": ""
+   },
+   "details": "Silkstone · Thomas Group's own-label quartz range",
+   "slabSizes": "20mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--calacatta-oro.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--calacatta-oro--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--charcoal-grey",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Charcoal Grey",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    30
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--charcoal-grey.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "borrowedFrom": ""
+   },
+   "details": "Silkstone · Thomas Group's own-label quartz range",
+   "slabSizes": "30mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--charcoal-grey.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--charcoal-grey--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--clifton-salt",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Clifton Salt",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    30
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--clifton-salt.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "borrowedFrom": ""
+   },
+   "details": "Silkstone · Thomas Group's own-label quartz range",
+   "slabSizes": "30mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--clifton-salt.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--clifton-salt--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--columbia-grey",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Columbia Grey",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--columbia-grey.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "borrowedFrom": ""
+   },
+   "details": "Silkstone · Thomas Group's own-label quartz range",
+   "slabSizes": "20mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--columbia-grey.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--columbia-grey--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--cream-mirror",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Cream Mirror",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--cream-mirror.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "borrowedFrom": ""
+   },
+   "details": "Silkstone · Thomas Group's own-label quartz range",
+   "slabSizes": "20mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--cream-mirror.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--cream-mirror--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--desert-silver-silestone",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Desert Silver (Silestone)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+   "image": {
+    "file": "",
+    "status": "missing",
+    "source": "",
+    "borrowedFrom": ""
+   },
+   "details": "Silkstone · Thomas Group's own-label quartz range",
+   "slabSizes": "20mm: 3200x1600"
+  },
+  {
+   "id": "thomas-group-surfaces-collection--gris-asturias",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Gris Asturias",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--gris-asturias.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "borrowedFrom": ""
+   },
+   "details": "Silkstone · Thomas Group's own-label quartz range",
+   "slabSizes": "20mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--gris-asturias.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--gris-asturias--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--gris-venato",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Gris Venato",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    30
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--gris-venato.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "borrowedFrom": ""
+   },
+   "details": "Silkstone · Thomas Group's own-label quartz range",
+   "slabSizes": "30mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--gris-venato.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--gris-venato--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--honed-angelo-white",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Honed Angelo White",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    30
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+   "image": {
+    "file": "",
+    "status": "missing",
+    "source": "",
+    "borrowedFrom": ""
+   },
+   "details": "Silkstone · Thomas Group's own-label quartz range",
+   "slabSizes": "30mm: 3200x1600"
+  },
+  {
+   "id": "thomas-group-surfaces-collection--montreal",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Montreal",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    30
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--montreal.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "borrowedFrom": ""
+   },
+   "details": "Silkstone · Thomas Group's own-label quartz range",
+   "slabSizes": "30mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--montreal.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--montreal--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--oakham-ash",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Oakham Ash",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--oakham-ash.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "borrowedFrom": ""
+   },
+   "details": "Silkstone · Thomas Group's own-label quartz range",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--oakham-ash.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--oakham-ash--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--obsidian",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Obsidian",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--obsidian.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "borrowedFrom": ""
+   },
+   "details": "Silkstone · Thomas Group's own-label quartz range",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--obsidian.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--obsidian--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--orisa",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Orisa",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--orisa.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "borrowedFrom": ""
+   },
+   "details": "Silkstone · Thomas Group's own-label quartz range",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--orisa.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--orisa--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--sandford",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Sandford",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--sandford.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "borrowedFrom": ""
+   },
+   "details": "Silkstone · Thomas Group's own-label quartz range",
+   "slabSizes": "20mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--sandford.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--sandford--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--sardinian-white",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Sardinian White",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--sardinian-white.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "borrowedFrom": ""
+   },
+   "details": "Silkstone · Thomas Group's own-label quartz range",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--sardinian-white.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--sardinian-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--sardinian-white-series-2",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Sardinian White Series 2",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    30
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--sardinian-white-series-2.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "borrowedFrom": ""
+   },
+   "details": "Silkstone · Thomas Group's own-label quartz range",
+   "slabSizes": "30mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--sardinian-white-series-2.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--sardinian-white-series-2--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--snowy-mountain",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Snowy Mountain",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--snowy-mountain.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "borrowedFrom": ""
+   },
+   "details": "Silkstone · Thomas Group's own-label quartz range",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--snowy-mountain.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--snowy-mountain--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--statuario-venato",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Statuario Venato",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--statuario-venato.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "borrowedFrom": ""
+   },
+   "details": "Silkstone · Thomas Group's own-label quartz range",
+   "slabSizes": "20mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--statuario-venato.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--statuario-venato--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--tibetan-black",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Tibetan Black",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--tibetan-black.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "borrowedFrom": ""
+   },
+   "details": "Silkstone · Thomas Group's own-label quartz range",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--tibetan-black.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--tibetan-black--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--tuscan-grey",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Tuscan Grey",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--tuscan-grey.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "borrowedFrom": ""
+   },
+   "details": "Silkstone · Thomas Group's own-label quartz range",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--tuscan-grey.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--tuscan-grey--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--white-sand",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "White Sand",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--white-sand.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "borrowedFrom": ""
+   },
+   "details": "Silkstone · Thomas Group's own-label quartz range",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--white-sand.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--white-sand--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--white-shimmer",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "White Shimmer",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    30
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--white-shimmer.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+    "borrowedFrom": ""
+   },
+   "details": "Silkstone · Thomas Group's own-label quartz range",
+   "slabSizes": "30mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--white-shimmer.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--white-shimmer--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/silkstone-quartz/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--amaranta-v813-group-4",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Amaranta V813 (Group 4)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/amaranta/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--amaranta-v813-group-4.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/amaranta/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--amaranta-v813-group-4.webp",
+     "status": "slab",
+     "source": "https://www.vadara.uk/designs/amaranta/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--amaranta-v813-group-4--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/amaranta/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--amaranta-v813-group-4--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/amaranta/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--amaranta-v813-group-4--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/amaranta/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--aurum-v839-group-4",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Aurum V839 (Group 4)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/aurum/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--aurum-v839-group-4.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/aurum/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--aurum-v839-group-4.webp",
+     "status": "slab",
+     "source": "https://www.vadara.uk/designs/aurum/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--aurum-v839-group-4--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/aurum/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--aurum-v839-group-4--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/aurum/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--aurum-v839-group-4--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/aurum/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--braewind-super-jumbo-leathered-v882l-group-5",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Braewind Super Jumbo Leathered V882L Group 5",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/vadara-quartz/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--braewind-super-jumbo-leathered-v882l-group-5.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/vadara-quartz/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "3530x2060",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--braewind-super-jumbo-leathered-v882l-group-5.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/vadara-quartz/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--braewind-super-jumbo-leathered-v882l-group-5--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/vadara-quartz/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--calacatta-dorado-v727-group-3",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Calacatta Dorado V727 (Group 3)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/calacatta-dorada/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--calacatta-dorado-v727-group-3.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/calacatta-dorada/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+  },
+  {
+   "id": "thomas-group-surfaces-collection--calithea-v837-group-5",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Calithea V837 (Group 5)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/calithea/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--calithea-v837-group-5.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/calithea/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+  },
+  {
+   "id": "thomas-group-surfaces-collection--desert-blush-v817-group-5",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Desert Blush V817 (Group 5)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/desert-blush/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--desert-blush-v817-group-5.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/desert-blush/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+  },
+  {
+   "id": "thomas-group-surfaces-collection--echo-ridge-v832-group-4",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Echo Ridge V832 (Group 4)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/echo-ridge/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--echo-ridge-v832-group-4.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/echo-ridge/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+  },
+  {
+   "id": "thomas-group-surfaces-collection--ecru-coast-v829-group-3",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Ecru Coast V829 (Group 3)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/ecru-coast/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--ecru-coast-v829-group-3.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/ecru-coast/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+  },
+  {
+   "id": "thomas-group-surfaces-collection--gilded-trace-v828-group-2",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Gilded Trace V828 (Group 2)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/gilded-trace/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--gilded-trace-v828-group-2.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/gilded-trace/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+  },
+  {
+   "id": "thomas-group-surfaces-collection--golden-scribe-v819-group-5",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Golden Scribe V819 (Group 5)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/golden-scribe/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--golden-scribe-v819-group-5.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/golden-scribe/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+  },
+  {
+   "id": "thomas-group-surfaces-collection--golden-steppe-v831-group-3",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Golden Steppe V831 (Group 3)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/golden-steppe/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--golden-steppe-v831-group-3.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/golden-steppe/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+  },
+  {
+   "id": "thomas-group-surfaces-collection--gossamer-sands-v815-group-3",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Gossamer Sands V815 (Group 3)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/gossamer-sands/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--gossamer-sands-v815-group-3.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/gossamer-sands/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+  },
+  {
+   "id": "thomas-group-surfaces-collection--highland-vale-v835-group-5",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Highland Vale V835 (Group 5)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/highland-vale/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--highland-vale-v835-group-5.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/highland-vale/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+  },
+  {
+   "id": "thomas-group-surfaces-collection--lakestone-v827-group-2",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Lakestone V827 (Group 2)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/lakestone/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--lakestone-v827-group-2.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/lakestone/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+  },
+  {
+   "id": "thomas-group-surfaces-collection--lava-plain-v810-group-5",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Lava Plain V810 (Group 5)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/lava-plain/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--lava-plain-v810-group-5.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/lava-plain/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--lava-plain-v810-group-5.webp",
+     "status": "slab",
+     "source": "https://www.vadara.uk/designs/lava-plain/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--lava-plain-v810-group-5--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/lava-plain/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--lava-plain-v810-group-5--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/lava-plain/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--lava-plain-v810-group-5--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/lava-plain/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--lorelei-v824-group-1",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Lorelei V824 (Group 1)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/lorelei/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--lorelei-v824-group-1.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/lorelei/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+  },
+  {
+   "id": "thomas-group-surfaces-collection--luminaria-v838-group-5",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Luminaria V838 (Group 5)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/luminaria/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--luminaria-v838-group-5.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/luminaria/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+  },
+  {
+   "id": "thomas-group-surfaces-collection--lunara-v833-group-4",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Lunara V833 (Group 4)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/lunara/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--lunara-v833-group-4.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/lunara/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+  },
+  {
+   "id": "thomas-group-surfaces-collection--luxor-v836-group-5",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Luxor V836 (Group 5)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/luxor/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--luxor-v836-group-5.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/luxor/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+  },
+  {
+   "id": "thomas-group-surfaces-collection--moon-valley-siena-v811-group-5",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Moon Valley (Siena) V811 (Group 5)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/moon-valley/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--moon-valley-siena-v811-group-5.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/moon-valley/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--moon-valley-siena-v811-group-5.webp",
+     "status": "slab",
+     "source": "https://www.vadara.uk/designs/moon-valley/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--moon-valley-siena-v811-group-5--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/moon-valley/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--moon-valley-siena-v811-group-5--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/moon-valley/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--moon-valley-siena-v811-group-5--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/moon-valley/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--moon-valley-siena-v811-group-5--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/moon-valley/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--moon-valley-siena-v811-group-5--room5.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/moon-valley/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--moon-valley-siena-v811-group-5--room6.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/moon-valley/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--mountain-veil-v830-group-3",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Mountain Veil V830 (Group 3)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/mountain-veil/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--mountain-veil-v830-group-3.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/mountain-veil/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+  },
+  {
+   "id": "thomas-group-surfaces-collection--nomad-valley-super-jumbo-v883-group-5",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Nomad Valley Super Jumbo V883 Group 5",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/vadara-quartz/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--nomad-valley-super-jumbo-v883-group-5.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/vadara-quartz/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "3530x2060",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--nomad-valley-super-jumbo-v883-group-5.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/vadara-quartz/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--nomad-valley-super-jumbo-v883-group-5--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/vadara-quartz/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--ostara-dawn-v743-group-3",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Ostara Dawn V743 (Group 3)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/ostara-dawn/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--ostara-dawn-v743-group-3.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/ostara-dawn/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--ostara-dawn-v743-group-3.webp",
+     "status": "slab",
+     "source": "https://www.vadara.uk/designs/ostara-dawn/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--ostara-dawn-v743-group-3--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/ostara-dawn/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--ostara-dawn-v743-group-3--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/ostara-dawn/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--ostara-dawn-v743-group-3--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/ostara-dawn/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--ostara-dawn-v743-group-3--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/ostara-dawn/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--ostara-dawn-v743-group-3--room5.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/ostara-dawn/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--ostara-dawn-v743-group-3--room6.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/ostara-dawn/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--petro-grigio-v703-group-5",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Petro Grigio V703 (Group 5)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/petra-grigio/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--petro-grigio-v703-group-5.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/petra-grigio/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--petro-grigio-v703-group-5.webp",
+     "status": "slab",
+     "source": "https://www.vadara.uk/designs/petra-grigio/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--petro-grigio-v703-group-5--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/petra-grigio/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--petro-grigio-v703-group-5--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/petra-grigio/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--sakura-v840-group-5",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Sakura V840 (Group 5)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/sakura/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--sakura-v840-group-5.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/sakura/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--sakura-v840-group-5.webp",
+     "status": "slab",
+     "source": "https://www.vadara.uk/designs/sakura/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--sakura-v840-group-5--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/sakura/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--sakura-v840-group-5--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/sakura/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--sakura-v840-group-5--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/sakura/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--sakura-v840-group-5--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/sakura/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--sakura-v840-group-5--room5.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/sakura/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--sakura-v840-group-5--room6.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/sakura/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--sand-weaver-v745-group-3",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Sand Weaver V745 (Group 3)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/sand-weaver/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--sand-weaver-v745-group-3.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/sand-weaver/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--sand-weaver-v745-group-3.webp",
+     "status": "slab",
+     "source": "https://www.vadara.uk/designs/sand-weaver/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--sand-weaver-v745-group-3--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/sand-weaver/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--sand-weaver-v745-group-3--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/sand-weaver/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--sand-weaver-v745-group-3--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/sand-weaver/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--sand-weaver-v745-group-3--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/sand-weaver/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--sand-weaver-v745-group-3--room5.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/sand-weaver/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--sand-weaver-v745-group-3--room6.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/sand-weaver/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--sandstream-v826-group-1",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Sandstream V826 (Group 1)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/sandstream/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--sandstream-v826-group-1.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/sandstream/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+  },
+  {
+   "id": "thomas-group-surfaces-collection--scandi-blue-v816-group-5",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Scandi Blue V816 (Group 5)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/scandi-blue/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--scandi-blue-v816-group-5.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/scandi-blue/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+  },
+  {
+   "id": "thomas-group-surfaces-collection--solterra-v834-group-5",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Solterra V834 (Group 5)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/solterra/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--solterra-v834-group-5.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/solterra/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+  },
+  {
+   "id": "thomas-group-surfaces-collection--soraline-super-jumbo-v884-group-3",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Soraline Super Jumbo V884 Group 3",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/vadara-quartz/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--soraline-super-jumbo-v884-group-3.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/vadara-quartz/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "3530x2060",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--soraline-super-jumbo-v884-group-3.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/vadara-quartz/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--soraline-super-jumbo-v884-group-3--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/vadara-quartz/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--sterling-light-v804-group-5",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Sterling Light V804 (Group 5)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/sterling-light/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--sterling-light-v804-group-5.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/sterling-light/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--sterling-light-v804-group-5.webp",
+     "status": "slab",
+     "source": "https://www.vadara.uk/designs/sterling-light/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--sterling-light-v804-group-5--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/sterling-light/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--sterling-light-v804-group-5--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/sterling-light/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--sterling-light-v804-group-5--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/sterling-light/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--sterling-light-v804-group-5--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/sterling-light/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--sterling-light-v804-group-5--room5.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/sterling-light/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--sterling-light-v804-group-5--room6.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/sterling-light/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--sunrise-vista-oro-v812-group-5",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Sunrise Vista (Oro) V812 (Group 5)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/sunrise-vista/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--sunrise-vista-oro-v812-group-5.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/sunrise-vista/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--sunrise-vista-oro-v812-group-5.webp",
+     "status": "slab",
+     "source": "https://www.vadara.uk/designs/sunrise-vista/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--sunrise-vista-oro-v812-group-5--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/sunrise-vista/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--sunrise-vista-oro-v812-group-5--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/sunrise-vista/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--sunrise-vista-oro-v812-group-5--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/sunrise-vista/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--sunrise-vista-oro-v812-group-5--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/sunrise-vista/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--sunrise-vista-oro-v812-group-5--room5.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/sunrise-vista/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--sunrise-vista-oro-v812-group-5--room6.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/sunrise-vista/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--terra-vista-v821-group-5",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Terra Vista V821 (Group 5)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/terra-vista/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--terra-vista-v821-group-5.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/terra-vista/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+  },
+  {
+   "id": "thomas-group-surfaces-collection--white-aurora-v738-group-5",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "White Aurora V738 (Group 5)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/white-aurora/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--white-aurora-v738-group-5.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/white-aurora/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--white-aurora-v738-group-5.webp",
+     "status": "slab",
+     "source": "https://www.vadara.uk/designs/white-aurora/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--white-aurora-v738-group-5--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/white-aurora/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--white-aurora-v738-group-5--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/white-aurora/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--white-aurora-v738-group-5--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/white-aurora/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--white-aurora-v738-group-5--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/white-aurora/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--white-aurora-v738-group-5--room5.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/white-aurora/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "thomas-group-surfaces-collection--white-aurora-v738-group-5--room6.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.vadara.uk/designs/white-aurora/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--white-mirage-v825-group-1",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "White Mirage V825 (Group 1)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/white-mirage/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--white-mirage-v825-group-1.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/white-mirage/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+  },
+  {
+   "id": "thomas-group-surfaces-collection--white-polar-v822-group-1",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "White Polar V822 (Group 1)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/polar-white/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--white-polar-v822-group-1.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/polar-white/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+  },
+  {
+   "id": "thomas-group-surfaces-collection--white-shimmer-v823-group-1",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "White Shimmer V823 (Group 1)",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://www.vadara.uk/designs/white-shimmer/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--white-shimmer-v823-group-1.webp",
+    "status": "slab",
+    "source": "https://www.vadara.uk/designs/white-shimmer/",
+    "borrowedFrom": ""
+   },
+   "details": "Vadara Quartz · UK distributed by Thomas Group (Jan 2025)",
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600"
+  },
+  {
+   "id": "thomas-group-surfaces-collection--neolith-avorio",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Neolith Avorio",
+   "material": "Sintered Stone",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    6
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--neolith-avorio.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+    "borrowedFrom": ""
+   },
+   "details": "Neolith · by The Size; sold in the UK via Thomas Group (Surfaces Collection)",
+   "slabSizes": "6mm: 3200x1500",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--neolith-avorio.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--neolith-avorio--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--neolith-basalt-beige",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Neolith Basalt Beige",
+   "material": "Sintered Stone",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    12
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--neolith-basalt-beige.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+    "borrowedFrom": ""
+   },
+   "details": "Neolith · by The Size; sold in the UK via Thomas Group (Surfaces Collection)",
+   "slabSizes": "12mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--neolith-basalt-beige.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--neolith-basalt-beige--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--neolith-bianco-carrara-bc02",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Neolith Bianco Carrara Bc02",
+   "material": "Sintered Stone",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    12
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--neolith-bianco-carrara-bc02.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+    "borrowedFrom": ""
+   },
+   "details": "Neolith · by The Size; sold in the UK via Thomas Group (Surfaces Collection)",
+   "slabSizes": "12mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--neolith-bianco-carrara-bc02.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--neolith-bianco-carrara-bc02--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--neolith-cement",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Neolith Cement",
+   "material": "Sintered Stone",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    12
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--neolith-cement.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+    "borrowedFrom": ""
+   },
+   "details": "Neolith · by The Size; sold in the UK via Thomas Group (Surfaces Collection)",
+   "slabSizes": "12mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--neolith-cement.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--neolith-cement--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--neolith-estatuario-e04",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Neolith Estatuario E04",
+   "material": "Sintered Stone",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    12
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--neolith-estatuario-e04.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+    "borrowedFrom": ""
+   },
+   "details": "Neolith · by The Size; sold in the UK via Thomas Group (Surfaces Collection)",
+   "slabSizes": "12mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--neolith-estatuario-e04.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--neolith-estatuario-e04--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--neolith-iron-moss",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Neolith Iron Moss",
+   "material": "Sintered Stone",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    12
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--neolith-iron-moss.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+    "borrowedFrom": ""
+   },
+   "details": "Neolith · by The Size; sold in the UK via Thomas Group (Surfaces Collection)",
+   "slabSizes": "12mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--neolith-iron-moss.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--neolith-iron-moss--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--neolith-la-boheme",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Neolith La Boheme",
+   "material": "Sintered Stone",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    12
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--neolith-la-boheme.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+    "borrowedFrom": ""
+   },
+   "details": "Neolith · by The Size; sold in the UK via Thomas Group (Surfaces Collection)",
+   "slabSizes": "12mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--neolith-la-boheme.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--neolith-la-boheme--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--neolith-nero-marquina",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Neolith Nero Marquina",
+   "material": "Sintered Stone",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    12
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--neolith-nero-marquina.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+    "borrowedFrom": ""
+   },
+   "details": "Neolith · by The Size; sold in the UK via Thomas Group (Surfaces Collection)",
+   "slabSizes": "12mm: 3200x1600",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--neolith-nero-marquina.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--neolith-nero-marquina--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--neolith-nieve",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Neolith Nieve",
+   "material": "Sintered Stone",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    6
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--neolith-nieve.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+    "borrowedFrom": ""
+   },
+   "details": "Neolith · by The Size; sold in the UK via Thomas Group (Surfaces Collection)",
+   "slabSizes": "6mm: 3200x1500",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--neolith-nieve.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--neolith-nieve--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--neolith-phedra",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Neolith Phedra",
+   "material": "Sintered Stone",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    6
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--neolith-phedra.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+    "borrowedFrom": ""
+   },
+   "details": "Neolith · by The Size; sold in the UK via Thomas Group (Surfaces Collection)",
+   "slabSizes": "6mm: 3200x1500",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--neolith-phedra.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--neolith-phedra--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+     "borrowedFrom": ""
+    }
+   ]
+  },
+  {
+   "id": "thomas-group-surfaces-collection--neolith-pierre-bleue",
+   "supplier": "Thomas Group (Surfaces Collection)",
+   "colour": "Neolith Pierre Bleue",
+   "material": "Sintered Stone",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    6
+   ],
+   "productUrl": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+   "image": {
+    "file": "thomas-group-surfaces-collection--neolith-pierre-bleue.webp",
+    "status": "slab",
+    "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+    "borrowedFrom": ""
+   },
+   "details": "Neolith · by The Size; sold in the UK via Thomas Group (Surfaces Collection)",
+   "slabSizes": "6mm: 3200x1500",
+   "images": [
+    {
+     "file": "thomas-group-surfaces-collection--neolith-pierre-bleue.webp",
+     "status": "slab",
+     "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "thomas-group-surfaces-collection--neolith-pierre-bleue--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
+     "borrowedFrom": ""
+    }
+   ]
   }
  ]
 }
