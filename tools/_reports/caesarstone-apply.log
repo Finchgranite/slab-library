@@ -1,0 +1,82 @@
+Whitenna             | match     | Whitenna             | Whitenna             | slab               | 2cu/0rm
+Pure White           | match     | Pure White           | Pure White           | closeup-only->slab | 3cu/0rm
+Snow                 | match     | Snow                 | Snow                 | slab               | 4cu/1rm
+Jet Black            | match     | Jet Black            | Jet Black            | closeup-only->slab | 1cu/0rm
+Fresh Concrete       | match     | Fresh Concrete       | Fresh Concrete       | slab               | 4cu/0rm
+Raw Concrete         | match     | Raw Concrete         | Raw Concrete         | slab               | 4cu/0rm
+Cloudburst Concrete  | match     | Cloudburst Concrete  | Cloudburst Concrete  | slab               | 0cu/3rm
+Topus Concrete       | match     | Topus Concrete       | Topus Concrete       | slab               | 3cu/1rm
+Rugged Concrete      | match     | Rugged Concrete      | Rugged Concrete      | slab               | 2cu/0rm
+Primordia            | match     | Primordia            | Primordia            | slab               | 1cu/1rm
+Airy Concrete        | match     | Airy Concrete        | Airy Concrete        | slab               | 1cu/4rm
+Aluminous            | match     | Aluminous            | Aluminous            | slab               | 1cu/2rm
+Organic Dawn         | UNMATCHED | -                    | NO PRICEBOOK         | -->slab            | 1cu/4rm
+Concrita             | match     | Concrita             | Concrita             | closeup-only->slab | 1cu/2rm
+White Ciment         | match     | White Ciment         | White Ciment         | slab               | 2cu/0rm
+Clamshell            | match     | Clamshell            | Clamshell            | slab               | 1cu/0rm
+Misty Carrera        | match     | Misty Carrera        | Misty Carrera        | slab               | 3cu/0rm
+Organic Dune         | UNMATCHED | -                    | NO PRICEBOOK         | -->slab            | 1cu/4rm
+Shitake              | match     | Shitake              | Shitake              | slab               | 4cu/2rm
+Organic Dusk         | UNMATCHED | -                    | NO PRICEBOOK         | -->slab            | 1cu/4rm
+Organic White        | match     | Organic White        | Organic White        | slab               | 1cu/3rm
+London Grey          | match     | London Grey          | London Grey          | closeup-only->slab | 4cu/0rm
+Snowdrift            | match     | Snowdrift            | Snowdrift            | slab               | 1cu/4rm
+Sleet                | match     | Sleet                | Sleet                | closeup-only->slab | 1cu/0rm
+Circa                | match     | Circa                | Circa                | slab               | 2cu/0rm
+Statuario Maximus    | match     | Statuario Maximus    | Statuario Maximus    | closeup-only->slab | 4cu/0rm
+Lumena               | match     | Lumena               | Lumena               | slab               | 1cu/0rm
+Archetta             | match     | Archetta             | Archetta             | slab               | 2cu/2rm
+Mirabel              | match     | Mirabel              | Mirabel              | closeup-only->slab | 2cu/4rm
+Marbannova           | match     | Marbannova           | Marbannova           | missing->slab      | 2cu/4rm
+Isobellia            | match     | Isobellia            | Isobellia            | missing->slab      | 1cu/3rm
+Onyxa                | match     | Onyxa                | Onyxa                | missing->slab      | 1cu/2rm
+Impermia             | match     | Impernia             | Impernia             | missing->slab      | 2cu/1rm
+Vanilla Noir         | match     | Vanilla Noir         | Vanilla Noir         | slab               | 1cu/4rm
+Calacatta Dreamwave  | match     | Calacatta Dreamwave  | Calacatta Dreamwave  | slab               | 1cu/0rm
+Smokestone           | match     | Smokestone           | Smokestone           | slab               | 1cu/1rm
+Aterra Blanca        | UNMATCHED | -                    | NO PRICEBOOK         | -->slab            | 4cu/0rm
+Solenna              | match     | Solenna              | Solenna              | slab               | 1cu/4rm
+Calacatta Stillstorm | match     | Calacatta Stillstorm | Calacatta Stillstorm | slab               | 1cu/2rm
+Calacatta Nectar     | match     | Calacatta Nectar     | Calacatta Nectar     | slab               | 1cu/4rm
+Transcenda           | match     | Transcenda           | Transcenda           | slab               | 1cu/0rm
+Striata              | match     | Striata              | Striata              | closeup-only->slab | 2cu/4rm
+Calacatta Nuvo       | match     | Calacatta Nuvo       | Calacatta Nuvo       | slab               | 1cu/1rm
+Emprada              | match     | Emprada              | Emprada              | slab               | 1cu/0rm
+Dreamy Carrara       | match     | Dreamy Carrara       | Dreamy Carrara       | slab               | 1cu/4rm
+Frosty Carrina       | match     | Frosty Carrina       | Frosty Carrina       | closeup-only->slab | 2cu/0rm
+White Attica         | match     | White Attica         | White Attica         | slab               | 3cu/2rm
+Empira White         | match     | Empira White         | Empira White         | slab               | 1cu/1rm
+Locura               | match     | Locura               | Locura               | closeup-only->slab | 2cu/0rm
+Arabetto             | match     | Arabetto             | Arabetto             | slab               | 3cu/0rm
+Taj Royale           | match     | Taj Royale           | Taj Royale           | slab               | 2cu/1rm
+Libretta             | match     | Libretta             | Libretta             | closeup-only->slab | 3cu/0rm
+Brillianza           | match     | Brillianza           | Brillianza           | slab               | 1cu/4rm
+Antikella            | UNMATCHED | -                    | NO PRICEBOOK         | -->slab            | 1cu/2rm
+Mosstone             | match     | Mosstone             | Mosstone             | missing->slab      | 1cu/3rm
+Marenstone           | match     | Marenstone           | Marenstone           | missing->slab      | 1cu/4rm
+Auralux              | match     | Auralux              | Auralux              | missing->slab      | 1cu/4rm
+Lunar Frost          | match     | Lunar Frost          | Lunar Frost          | slab               | 1cu/0rm
+Fossillia            | match     | Fossillia            | Fossillia            | missing->slab      | 1cu/4rm
+Silvax               | match     | Silvax               | Silvax               | missing->slab      | 1cu/3rm
+Travina              | match     | Travina              | Travina              | missing->slab      | 1cu/3rm
+Lucillia             | match     | Lucillia             | Lucillia             | missing->slab      | 1cu/4rm
+Black Tempal         | match     | Black Tempal         | Black Tempal         | slab               | 1cu/0rm
+Dolcivio             | match     | Dolcivo              | Dolcivo              | missing->slab      | 1cu/4rm
+Darcrest             | match     | Darcrest             | Darcrest             | slab               | 4cu/1rm
+Moorland Fog         | match     | Moorland Fog         | Moorland Fog         | slab               | 2cu/1rm
+Bianco Drift         | match     | Bianco Drift         | Bianco Drift         | slab               | 4cu/0rm
+Ocean Foam           | match     | Ocean Foam           | Ocean Foam           | slab               | 2cu/3rm
+Woodlands            | match     | Woodlands            | Woodlands            | slab               | 4cu/3rm
+Calacatta Thyme      | match     | Calacatta Thyme      | Calacatta Thyme      | slab               | 1cu/2rm
+Moonflow             | match     | Moonflow             | Moonflow             | slab               | 1cu/4rm
+Andes Trail          | match     | Andes Trail          | Andes Trail          | slab               | 1cu/4rm
+Sedara               | match     | Sedara               | Sedara               | slab               | 1cu/4rm
+Ocean Sage           | match     | Ocean Sage           | Ocean Sage           | slab               | 0cu/4rm
+
+site pages: 74 | matched to library: 69 | NEW (pb-confirmed): 0 | unmatched (neither): 5
+unmatched price-book Caesarstone colours (not seen on site): ['Alpine Mist', 'Ambketta', 'Frozen Terra', 'Pebble', 'Riverlet', 'Turbine Grey', 'Wyndigo']
+
+APPLIED. library entries added: 0 | closeups: 120 | rooms: 126
+library Caesarstone colours not touched this run (no site match): ['Alpine Mist', 'Ambketta', 'Frozen Terra', 'Pebble', 'Riverlet', 'Turbine Grey', 'Wyndigo']
+contact sheets: ['C:\\Users\\thefi\\slab-library\\tools\\_reports\\caesarstone-mains.png'] ['C:\\Users\\thefi\\slab-library\\tools\\_reports\\caesarstone-galleries.png', 'C:\\Users\\thefi\\slab-library\\tools\\_reports\\caesarstone-galleries_2.png']
+wrote C:\Users\thefi\slab-library\tools\_reports\caesarstone-REPORT.md
