@@ -113,3 +113,23 @@ Several supplier agents run AT THE SAME TIME. `slabs.json` is shared. Therefore:
   finish what you can, write the report, and say what's left.
 - Fetch only what you need: one listing/sitemap pass, then one page per colour. Do not
   re-fetch cached pages; do not view contact-sheet images at full size more than once.
+
+## Lessons from wave 2c (works PC, 2026-08-25 — 16 suppliers in one morning)
+- **Run `--apply` in the FOREGROUND (long timeout) or redirect stdout to a log file.** A
+  detached/background launch whose stdout nobody reads blocks on a full pipe after a few
+  hundred prints and looks "hung" (1 s CPU in 20 min, no curl children). Three agents lost
+  time to this; the orchestrator killed and re-ran them.
+- **Resolve every image href with `urllib.parse.urljoin(page_url, href)` and percent-encode
+  it (`urllib.parse.quote(url, safe=':/?&=%')`).** RT Stone's gallery hrefs were page-relative
+  with literal spaces/parens; every curl failed (rc 3/6) while the report looked fine.
+- **Don't trust filename/aspect alone for the kind.** Compac's `closeup` candidates were 3D
+  slab-on-plinth product renders (use `kind: "slab"` for those); WWS embeds unlabelled kitchen
+  photos at slab-like aspect; Lumina's reseller "slab photos" were CGI kitchens. View a sample
+  of each class before writing the classifier, and never promote a main you haven't looked at.
+- **Check the OneDrive supplier folder before fetching** — Technistone, Compac, Clay, AKG and
+  Neolith (an unextracted official asset zip!) already held the galleries locally.
+- **Delisted colours:** WP REST (`/wp-json/wp/v2/<posttype>`) lists everything live in 1–2
+  calls; for delisted pages try archive.org, and note that the image files often still
+  resolve on the live domain even when the product page 404s (CRL).
+- The OneDrive auto-sync makes `WIP: auto-sync` commits mid-run on the works PC too — the
+  orchestrator `git reset --soft`s them and re-commits per supplier; agents should not worry.
