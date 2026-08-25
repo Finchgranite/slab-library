@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T11:51:03Z",
+ "generated": "2026-08-25T12:17:56Z",
  "slabs": [
   {
    "id": "akg-surfaces--adira-bronze",
@@ -54715,13 +54715,17 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://quantumstone.co.uk/product/tuscan/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "picasso-surfaces--tuscan.webp",
+    "status": "slab",
+    "source": "https://quantumstone.co.uk/product/tuscan/",
     "borrowedFrom": ""
-   }
+   },
+   "suppliers": [
+    "Quantum Stone"
+   ],
+   "details": "Picasso Surfaces via Quantum Stone UK · soft ivory base with delicate golden veining"
   },
   {
    "id": "picasso-surfaces--verde-onyx",

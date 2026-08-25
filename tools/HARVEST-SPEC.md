@@ -90,6 +90,11 @@ use those constants.** The `thefi` paths below are the home-PC spellings.
   colours are NOT on bloomstoneslondon.com either (checked live 2026-08-25). Keep the entries
   under `supplier: "LuxeStone"` (price-book string) and add `suppliers: ["Bloomstones"]` when
   their photos arrive; one Bloomstones enquiry covers both ranges.
+- **Picasso Surfaces = Quantum Stone UK Ltd** (Graham, 2026-08-25): we buy every Picasso slab
+  from Carl at Quantum Stone; Picasso is their brand/range. Price-book supplier string stays
+  `Picasso Surfaces`; add `suppliers: ["Quantum Stone"]` on entries as they are touched. Sites:
+  `picassosurfaces.co.uk` (no www; Picasso-only, 40 products) and `quantumstone.co.uk` (no www;
+  113 products incl. Picasso + Artemistone + natural — the fuller catalogue, e.g. Tuscan).
 - **Bot-blocked sites** (neolith.com): do not fight it; use the distributor's pages, note it
   in the report, and list the colours whose photos are low-res so a browser pass can be done
   later by the orchestrator.
