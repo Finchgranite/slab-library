@@ -1,0 +1,34 @@
+{
+ "missing_fills": {
+  "Black Obsession": {
+   "cache_file": "missing__Black_Obsession__BLACK-OBSESSION_3200X1600X12-20_low.jpg",
+   "source": "Neolith UK official asset pack (2026 zip)",
+   "productUrl": "",
+   "fn": "BLACK-OBSESSION_3200X1600X12-20_low.jpg"
+  },
+  "Cappadocia Sunset": {
+   "cache_file": "missing__Cappadocia_Sunset__CAPADOCIA-SUNSET-CS-01_3200X1500X6_low.jpg",
+   "source": "Neolith UK official asset pack (2026 zip)",
+   "productUrl": "",
+   "fn": "CAPADOCIA-SUNSET-CS-01_3200X1500X6_low.jpg"
+  },
+  "Calacatta Roma (BM)": {
+   "cache_file": "live__Calacatta_Roma_BM___calacatta-roma_2000x3945px.jpg",
+   "source": "neolith.com",
+   "productUrl": "https://www.neolith.com/en/collections/classtone/calacatta-roma/",
+   "fn": "calacatta-roma_2000x3945px.jpg"
+  },
+  "Everest Sunrise": {
+   "cache_file": "live__Everest_Sunrise__everest-sunrise-2.jpg",
+   "source": "neolith.com",
+   "productUrl": "https://www.neolith.com/en/collections/classtone/everest-sunrise/",
+   "fn": "everest-sunrise-2.jpg"
+  }
+ },
+ "brochure_room": {
+  "colour": "Himalaya Crystal",
+  "cache_file": "room__himalaya-crystal-room-london.png",
+  "caption": "Private residence, London, UK -- Neolith Himalaya Crystal",
+  "source": "Neolith UK Brochure (kitchen & bath, Jan 2026)"
+ }
+}

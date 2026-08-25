@@ -40783,7 +40783,9 @@
     "status": "slab",
     "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Classtone collection · Decor Polished/Silk finish · 6/12/20mm"
   },
   {
    "id": "neolith--amazonico",
@@ -40802,7 +40804,9 @@
     "status": "slab",
     "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600",
+   "details": "Neolith Classtone collection · Slate finish · 6/12mm"
   },
   {
    "id": "neolith--arabesque",
@@ -40821,7 +40825,9 @@
     "status": "slab",
     "source": "a.storyblok.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600",
+   "details": "Neolith Classtone collection · Silk finish · 6/12mm"
   },
   {
    "id": "neolith--arctic-white",
@@ -40841,7 +40847,9 @@
     "status": "slab",
     "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Colorfeel collection · Silk finish · 6/12/20mm"
   },
   {
    "id": "neolith--artisan",
@@ -40861,7 +40869,9 @@
     "status": "slab",
     "source": "a.storyblok.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Fusion collection · Silk finish · 6/12/20mm"
   },
   {
    "id": "neolith--azure",
@@ -40879,7 +40889,9 @@
     "status": "slab",
     "source": "a.storyblok.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600",
+   "details": "Neolith Classtone collection · Silk finish · 12mm"
   },
   {
    "id": "neolith--basalt-black",
@@ -40899,7 +40911,9 @@
     "status": "slab",
     "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Fusion collection · Satin finish · 6/12/20mm"
   },
   {
    "id": "neolith--basalt-grey",
@@ -40918,7 +40932,9 @@
     "status": "slab",
     "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600",
+   "details": "Neolith Fusion collection · Satin finish · 6/12mm"
   },
   {
    "id": "neolith--beton",
@@ -40960,7 +40976,9 @@
      "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
      "borrowedFrom": ""
     }
-   ]
+   ],
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Fusion collection · Silk finish · 6/12/20mm"
   },
   {
    "id": "neolith--black-obsession",
@@ -40976,11 +40994,13 @@
    ],
    "productUrl": "",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "neolith--black-obsession.webp",
+    "status": "slab",
+    "source": "Neolith UK official asset pack (2026 zip)",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith sintered stone · Silk finish · 6/12/20mm"
   },
   {
    "id": "neolith--calacatta-bm",
@@ -41022,7 +41042,9 @@
      "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
      "borrowedFrom": ""
     }
-   ]
+   ],
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Classtone collection · Decor Polished/Silk finish · 6/12/20mm"
   },
   {
    "id": "neolith--calacatta-gold-bm",
@@ -41063,7 +41085,9 @@
      "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
      "borrowedFrom": ""
     }
-   ]
+   ],
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600",
+   "details": "Neolith Classtone collection · Decor Polished/Silk finish · 6/12mm"
   },
   {
    "id": "neolith--calacatta-luxe-bm",
@@ -41082,7 +41106,9 @@
     "status": "slab",
     "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600",
+   "details": "Neolith Classtone collection · Decor Polished/Ultrasoft finish · 6/12mm"
   },
   {
    "id": "neolith--calacatta-roma-bm",
@@ -41096,13 +41122,15 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.neolith.com/en/collections/classtone/calacatta-roma/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "neolith--calacatta-roma-bm.webp",
+    "status": "slab",
+    "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Classtone collection · Silk finish · 6/12/20mm"
   },
   {
    "id": "neolith--calacatta-royale",
@@ -41122,7 +41150,9 @@
     "status": "slab",
     "source": "a.storyblok.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Classtone collection · Decor Polished/Ultrasoft finish · 6/12/20mm"
   },
   {
    "id": "neolith--calatorao",
@@ -41142,7 +41172,9 @@
     "status": "slab",
     "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Classtone collection · Silk finish · 6/12/20mm"
   },
   {
    "id": "neolith--cappadocia-sunset",
@@ -41158,11 +41190,13 @@
    ],
    "productUrl": "",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "neolith--cappadocia-sunset.webp",
+    "status": "slab",
+    "source": "Neolith UK official asset pack (2026 zip)",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith sintered stone · Silk finish · 6/12/20mm"
   },
   {
    "id": "neolith--colorado-dunes",
@@ -41182,7 +41216,9 @@
     "status": "slab",
     "source": "a.storyblok.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Classtone collection · Decor Polished/Ultrasoft finish · 6/12/20mm"
   },
   {
    "id": "neolith--creme",
@@ -41201,7 +41237,9 @@
     "status": "slab",
     "source": "a.storyblok.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600",
+   "details": "Neolith Fusion collection · Silk finish · 6/12mm"
   },
   {
    "id": "neolith--estatuario-bm",
@@ -41243,7 +41281,9 @@
      "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
      "borrowedFrom": ""
     }
-   ]
+   ],
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Classtone collection · Decor Polished/Silk finish · 6/12/20mm"
   },
   {
    "id": "neolith--everest-sunrise",
@@ -41257,13 +41297,15 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.neolith.com/en/collections/classtone/everest-sunrise/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "neolith--everest-sunrise.webp",
+    "status": "slab",
+    "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Classtone collection · Silk/Ultrasoft finish · 6/12/20mm"
   },
   {
    "id": "neolith--himalaya-crystal",
@@ -41283,7 +41325,26 @@
     "status": "slab",
     "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Classtone collection · Decor Polished/Silk/Ultrasoft finish · 6/12/20mm",
+   "images": [
+    {
+     "file": "neolith--himalaya-crystal.webp",
+     "status": "slab",
+     "source": "neolith.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "neolith--himalaya-crystal--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Neolith UK Brochure (kitchen & bath, Jan 2026)",
+     "borrowedFrom": "",
+     "caption": "Private residence, London, UK -- Neolith Himalaya Crystal"
+    }
+   ]
   },
   {
    "id": "neolith--ignea",
@@ -41303,7 +41364,9 @@
     "status": "slab",
     "source": "a.storyblok.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Fusion collection · Riverwashed finish · 6/12/20mm"
   },
   {
    "id": "neolith--iron-copper",
@@ -41322,7 +41385,9 @@
     "status": "slab",
     "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600",
+   "details": "Neolith Iron collection · Satin finish · 6/12mm"
   },
   {
    "id": "neolith--iron-corten",
@@ -41342,7 +41407,9 @@
     "status": "slab",
     "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Iron collection · Satin finish · 6/12/20mm"
   },
   {
    "id": "neolith--iron-grey",
@@ -41362,7 +41429,9 @@
     "status": "slab",
     "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Iron collection · Satin finish · 6/12/20mm"
   },
   {
    "id": "neolith--just-white",
@@ -41382,7 +41451,9 @@
     "status": "slab",
     "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Colorfeel collection · Silk finish · 6/12/20mm"
   },
   {
    "id": "neolith--layla",
@@ -41402,7 +41473,9 @@
     "status": "slab",
     "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Classtone collection · Decor Polished/Slate finish · 6/12/20mm"
   },
   {
    "id": "neolith--lux",
@@ -41422,7 +41495,9 @@
     "status": "slab",
     "source": "a.storyblok.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Colorfeel collection · Decor Polished finish · 6/12/20mm"
   },
   {
    "id": "neolith--mamba",
@@ -41441,7 +41516,9 @@
     "status": "slab",
     "source": "a.storyblok.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Fusion collection · Silk finish · 12/20mm"
   },
   {
    "id": "neolith--metropolitan",
@@ -41461,7 +41538,9 @@
     "status": "slab",
     "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Steel collection · Steel Touch finish · 6/12/20mm"
   },
   {
    "id": "neolith--mont-blanc",
@@ -41481,7 +41560,9 @@
     "status": "slab",
     "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Classtone collection · Silk finish · 6/12/20mm"
   },
   {
    "id": "neolith--nero",
@@ -41501,7 +41582,9 @@
     "status": "slab",
     "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Colorfeel collection · Satin finish · 6/12/20mm"
   },
   {
    "id": "neolith--new-york-new-york",
@@ -41521,7 +41604,9 @@
     "status": "slab",
     "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Fusion collection · Silk finish · 6/12/20mm"
   },
   {
    "id": "neolith--pietra-di-luna",
@@ -41541,7 +41626,9 @@
     "status": "slab",
     "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Fusion collection · Silk finish · 6/12/20mm"
   },
   {
    "id": "neolith--pietra-di-osso",
@@ -41561,7 +41648,9 @@
     "status": "slab",
     "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Fusion collection · Silk finish · 6/12/20mm"
   },
   {
    "id": "neolith--pietra-di-piombo",
@@ -41581,7 +41670,9 @@
     "status": "slab",
     "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Fusion collection · Silk finish · 6/12/20mm"
   },
   {
    "id": "neolith--rapolano",
@@ -41600,7 +41691,9 @@
     "status": "slab",
     "source": "a.storyblok.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Fusion collection · Natural Touch finish · 12/20mm"
   },
   {
    "id": "neolith--retrostone",
@@ -41620,7 +41713,9 @@
     "status": "slab",
     "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Fusion collection · Silk finish · 6/12/20mm"
   },
   {
    "id": "neolith--shilin",
@@ -41640,7 +41735,9 @@
     "status": "slab",
     "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Fusion collection · Slate finish · 6/12/20mm"
   },
   {
    "id": "neolith--strata-argentum",
@@ -41659,7 +41756,9 @@
     "status": "slab",
     "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600",
+   "details": "Neolith Classtone collection · Riverwashed finish · 6/12mm"
   },
   {
    "id": "neolith--taj-mahal",
@@ -41679,7 +41778,9 @@
     "status": "slab",
     "source": "a.storyblok.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Classtone collection · Silk finish · 6/12/20mm"
   },
   {
    "id": "neolith--terrazo-ceppo",
@@ -41698,7 +41799,9 @@
     "status": "slab",
     "source": "neolith.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600",
+   "details": "Neolith Fusion collection · Silk finish · 6/12mm"
   },
   {
    "id": "neolith--whitesands",
@@ -41717,7 +41820,9 @@
     "status": "slab",
     "source": "a.storyblok.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Classtone collection · Natural Touch finish · 12/20mm"
   },
   {
    "id": "neolith--zaha-stone",
@@ -41759,7 +41864,9 @@
      "source": "https://thesurfacecollection.co.uk/products/neolith-by-the-size/",
      "borrowedFrom": ""
     }
-   ]
+   ],
+   "slabSizes": "6mm: 3200x1500 / 12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Neolith Fusion collection · Silk finish · 6/12/20mm"
   },
   {
    "id": "nile-stone--absolute-black-extra",
