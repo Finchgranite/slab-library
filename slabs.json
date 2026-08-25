@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T07:22:22Z",
+ "generated": "2026-08-25T07:30:46Z",
  "slabs": [
   {
    "id": "akg-surfaces--adira-bronze",
@@ -33039,13 +33039,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/quartz-amazon",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "ksg--amazon.webp",
+    "status": "slab",
+    "source": "https://ksguk.co.uk/NATUREQ/quartz-amazon",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · KSG Factory India · Polished finish",
+   "images": [
+    {
+     "file": "ksg--amazon.webp",
+     "status": "slab",
+     "source": "https://ksguk.co.uk/NATUREQ/quartz-amazon",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "ksg--amazon--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://ksguk.co.uk/NATUREQ/quartz-amazon",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "ksg--amazon-white",
@@ -33077,13 +33095,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/quartz-andes",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "ksg--andes.webp",
+    "status": "slab",
+    "source": "https://ksguk.co.uk/NATUREQ/quartz-andes",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · KSG Factory India · Polished finish",
+   "images": [
+    {
+     "file": "ksg--andes.webp",
+     "status": "slab",
+     "source": "https://ksguk.co.uk/NATUREQ/quartz-andes",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "ksg--andes--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://ksguk.co.uk/NATUREQ/quartz-andes",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "ksg--angola-black-leathered",
@@ -33155,13 +33191,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/quartz-arabesque",
    "image": {
     "file": "ksg--arabesque.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · KSG Factory India · Polished finish",
+   "images": [
+    {
+     "file": "ksg--arabesque.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "ksg--arabesque--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://ksguk.co.uk/NATUREQ/quartz-arabesque",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "ksg--arctic-white",
@@ -33174,13 +33228,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/quartz-arctic-white",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "ksg--arctic-white.webp",
+    "status": "slab",
+    "source": "https://ksguk.co.uk/NATUREQ/quartz-arctic-white",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · KSG Factory India · Polished finish",
+   "images": [
+    {
+     "file": "ksg--arctic-white.webp",
+     "status": "slab",
+     "source": "https://ksguk.co.uk/NATUREQ/quartz-arctic-white",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "ksg--arctic-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://ksguk.co.uk/NATUREQ/quartz-arctic-white",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "ksg--astoria-alexia-gold-ivory-cream",
@@ -33213,13 +33285,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/QuartzAvalanche",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "ksg--avalanche.webp",
+    "status": "slab",
+    "source": "https://ksguk.co.uk/NATUREQ/QuartzAvalanche",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · KSG Factory India · Polished finish"
   },
   {
    "id": "ksg--azul-lago",
@@ -33429,13 +33503,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/quartz-black-mist",
    "image": {
     "file": "ksg--black-mist.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · KSG Factory India · Polished finish"
   },
   {
    "id": "ksg--blue-dunes",
@@ -33564,13 +33640,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/quartz-calacatta-gold",
    "image": {
     "file": "ksg--calacatta-gold.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · KSG Factory India · Polished finish",
+   "images": [
+    {
+     "file": "ksg--calacatta-gold.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "ksg--calacatta-gold--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://ksguk.co.uk/NATUREQ/quartz-calacatta-gold",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "ksg--calacatta-gold-shimmer",
@@ -33602,13 +33696,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/quartz-calacatta-sahara",
    "image": {
     "file": "ksg--calacatta-sahara.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · KSG Factory India · Polished finish"
   },
   {
    "id": "ksg--calacatta-shimmer",
@@ -33621,13 +33717,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/quartz-calacatta-shimmer",
    "image": {
     "file": "ksg--calacatta-shimmer.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · KSG Factory India · Polished finish"
   },
   {
    "id": "ksg--carrara-classic",
@@ -33640,13 +33738,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/quartz-carrara-classic",
    "image": {
     "file": "ksg--carrara-classic.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · KSG Factory India · Polished finish",
+   "images": [
+    {
+     "file": "ksg--carrara-classic.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "ksg--carrara-classic--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://ksguk.co.uk/NATUREQ/quartz-carrara-classic",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "ksg--carrara-classic-leather",
@@ -33659,13 +33775,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/quartz-carrara-classic-leather",
    "image": {
     "file": "ksg--carrara-classic-leather.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · KSG Factory India · Leathered finish"
   },
   {
    "id": "ksg--carrara-gold",
@@ -33678,13 +33796,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/quartz-carrara-gold",
    "image": {
     "file": "ksg--carrara-gold.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · KSG Factory India · Polished finish",
+   "images": [
+    {
+     "file": "ksg--carrara-gold.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "ksg--carrara-gold--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://ksguk.co.uk/NATUREQ/quartz-carrara-gold",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "ksg--carrara-sicilia",
@@ -33697,13 +33833,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/quartz-carrara-sicilia",
    "image": {
     "file": "ksg--carrara-sicilia.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · KSG Factory India · Polished finish",
+   "images": [
+    {
+     "file": "ksg--carrara-sicilia.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "ksg--carrara-sicilia--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://ksguk.co.uk/NATUREQ/quartz-carrara-sicilia",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "ksg--carrara-vena",
@@ -33716,13 +33870,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/quartz-carrara-vena",
    "image": {
     "file": "ksg--carrara-vena.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · KSG Factory India · Polished finish"
   },
   {
    "id": "ksg--cobalt-black",
@@ -33989,13 +34145,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/quartz-desert-silver",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "ksg--desert-silver.webp",
+    "status": "slab",
+    "source": "https://ksguk.co.uk/NATUREQ/quartz-desert-silver",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · KSG Factory India · Polished finish"
   },
   {
    "id": "ksg--diamond-galaxy-leathered",
@@ -34067,13 +34225,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/quartz-dove-grey",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "ksg--dove-grey.webp",
+    "status": "slab",
+    "source": "https://ksguk.co.uk/NATUREQ/quartz-dove-grey",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · KSG Factory India · Polished finish",
+   "images": [
+    {
+     "file": "ksg--dove-grey.webp",
+     "status": "slab",
+     "source": "https://ksguk.co.uk/NATUREQ/quartz-dove-grey",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "ksg--dove-grey--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://ksguk.co.uk/NATUREQ/quartz-dove-grey",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "ksg--eclipsia-bianco-super-white",
@@ -34125,13 +34301,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/quartz-grey-mirror",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "ksg--grey-mirror.webp",
+    "status": "slab",
+    "source": "https://ksguk.co.uk/NATUREQ/quartz-grey-mirror",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · KSG Factory India · Polished finish",
+   "images": [
+    {
+     "file": "ksg--grey-mirror.webp",
+     "status": "slab",
+     "source": "https://ksguk.co.uk/NATUREQ/quartz-grey-mirror",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "ksg--grey-mirror--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://ksguk.co.uk/NATUREQ/quartz-grey-mirror",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "ksg--grey-shimmer",
@@ -34144,13 +34338,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/quartz-grey-shimmer",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "ksg--grey-shimmer.webp",
+    "status": "slab",
+    "source": "https://ksguk.co.uk/NATUREQ/quartz-grey-shimmer",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · KSG Factory India · Polished finish"
   },
   {
    "id": "ksg--grigio-carnico",
@@ -34182,13 +34378,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/quartz-himalaya",
    "image": {
     "file": "ksg--himalaya.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · KSG Factory India · Polished finish",
+   "images": [
+    {
+     "file": "ksg--himalaya.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "ksg--himalaya--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://ksguk.co.uk/NATUREQ/quartz-himalaya",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "ksg--inca",
@@ -34201,13 +34415,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/quartz-inca",
    "image": {
     "file": "ksg--inca.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · KSG Factory India · Polished finish",
+   "images": [
+    {
+     "file": "ksg--inca.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "ksg--inca--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://ksguk.co.uk/NATUREQ/quartz-inca",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "ksg--indian-black-pearl-leather",
@@ -34279,13 +34511,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/quartz-irini",
    "image": {
     "file": "ksg--irini.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · KSG Factory India · Polished finish"
   },
   {
    "id": "ksg--ivory-fantasy",
@@ -34457,13 +34691,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/quartz-nevada",
    "image": {
     "file": "ksg--nevada.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · KSG Factory India · Polished finish",
+   "images": [
+    {
+     "file": "ksg--nevada.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "ksg--nevada--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://ksguk.co.uk/NATUREQ/quartz-nevada",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "ksg--oro-fantastico-leathered",
@@ -34536,13 +34788,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/quartz-portofino",
    "image": {
     "file": "ksg--portofino.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · KSG Factory India · Polished finish",
+   "images": [
+    {
+     "file": "ksg--portofino.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "ksg--portofino--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://ksguk.co.uk/NATUREQ/quartz-portofino",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "ksg--prada-gold",
@@ -34594,13 +34864,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/quartz-sahara",
    "image": {
     "file": "ksg--sahara.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · KSG Factory India · Polished finish"
   },
   {
    "id": "ksg--santorini",
@@ -34613,13 +34885,18 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/quartz-calacatta-nero-santorini",
    "image": {
     "file": "ksg--santorini.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · KSG Factory India · Polished finish",
+   "aliases": [
+    "Calacatta Nero (Santorini)"
+   ]
   },
   {
    "id": "ksg--sapphire-brown",
@@ -34672,13 +34949,34 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/quartz-calacatta-light-seville",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "ksg--seville.webp",
+    "status": "slab",
+    "source": "https://ksguk.co.uk/NATUREQ/quartz-calacatta-light-seville",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · KSG Factory India · Polished finish",
+   "aliases": [
+    "Calacatta Light (Seville)"
+   ],
+   "images": [
+    {
+     "file": "ksg--seville.webp",
+     "status": "slab",
+     "source": "https://ksguk.co.uk/NATUREQ/quartz-calacatta-light-seville",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "ksg--seville--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://ksguk.co.uk/NATUREQ/quartz-calacatta-light-seville",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "ksg--siberian-white",
@@ -34691,13 +34989,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/quartz-siberian-white",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "ksg--siberian-white.webp",
+    "status": "slab",
+    "source": "https://ksguk.co.uk/NATUREQ/quartz-siberian-white",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · KSG Factory India · Polished finish"
   },
   {
    "id": "ksg--silver-waves",
@@ -34730,13 +35030,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/quartz-sorrento",
    "image": {
     "file": "ksg--sorrento.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · KSG Factory India · Polished finish",
+   "images": [
+    {
+     "file": "ksg--sorrento.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "ksg--sorrento--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://ksguk.co.uk/NATUREQ/quartz-sorrento",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "ksg--star-galaxy",
@@ -34927,13 +35245,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/quartz-white-mirror",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "ksg--white-mirror.webp",
+    "status": "slab",
+    "source": "https://ksguk.co.uk/NATUREQ/quartz-white-mirror",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · KSG Factory India · Polished finish",
+   "images": [
+    {
+     "file": "ksg--white-mirror.webp",
+     "status": "slab",
+     "source": "https://ksguk.co.uk/NATUREQ/quartz-white-mirror",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "ksg--white-mirror--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://ksguk.co.uk/NATUREQ/quartz-white-mirror",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "ksg--white-shimmer",
@@ -34946,13 +35282,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://ksguk.co.uk/NATUREQ/quartz-white-shimmer",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "ksg--white-shimmer.webp",
+    "status": "closeup-only",
+    "source": "https://ksguk.co.uk/NATUREQ/quartz-white-shimmer",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "NATUREQ · Polished finish"
   },
   {
    "id": "ksg--zimbabwe-black-extra-leathered-satinato",
