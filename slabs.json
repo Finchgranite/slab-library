@@ -51850,7 +51850,53 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "Wilsonart Collection. Polished finish. Altamonte has a soft misty background accented by swaths of color that gracefully transition from creamy white to shades of gold and bronze. It looks perfect in combination with natural materials. Combine it with muted colors such as beige and cream",
+   "images": [
+    {
+     "file": "technistone--altamonte.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--altamonte--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/altamonte",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--altamonte--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/altamonte",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--altamonte--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/altamonte",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--altamonte--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/altamonte",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--altamonte--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/altamonte",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--badal-grey",
@@ -51869,7 +51915,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "La Natura Collection. Polished finish",
+   "images": [
+    {
+     "file": "technistone--badal-grey.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--badal-grey--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/badal-grey",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--badal-grey--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/badal-grey",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--badal-grey--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/badal-grey",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--badal-grey--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/badal-grey",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--brilliant-arabesco",
@@ -51888,7 +51973,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "Standard Collection. Polished finish. Brilliant Arabesco with a crystal-white background and a distinctive, contrast-colored design is the ideal material for floor tiles in the entrance halls of private and commercial spaces",
+   "images": [
+    {
+     "file": "technistone--brilliant-arabesco.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--brilliant-arabesco--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/brilliant-arabesco",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--brilliant-arabesco--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/brilliant-arabesco",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--brilliant-arabesco--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/brilliant-arabesco",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--brilliant-arabesco--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/brilliant-arabesco",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--brilliant-black",
@@ -51907,7 +52031,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "Standard Collection. Polished finish. A bold and stylish black, enhanced with a brilliant shine",
+   "images": [
+    {
+     "file": "technistone--brilliant-black.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--brilliant-black--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/brilliant-black",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--brilliant-black--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/brilliant-black",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--brilliant-black--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/brilliant-black",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--brilliant-black--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/brilliant-black",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--brilliant-white",
@@ -51926,7 +52089,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "Standard Collection. Polished finish. As freshly fallen snow on a frosty morning the fine mirror structure glistens in the sunlight",
+   "images": [
+    {
+     "file": "technistone--brilliant-white.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--brilliant-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/brilliant-white",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--brilliant-white--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/brilliant-white",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--brilliant-white--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/brilliant-white",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--brilliant-white--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/brilliant-white",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--bronze-coast",
@@ -51945,7 +52147,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "Wilsonart Collection. Polished finish. This marble-like design‘s white base is adorned with meandering veins that cascade in varying shades of warm brown, creating a captivating interplay of colors",
+   "images": [
+    {
+     "file": "technistone--bronze-coast.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--bronze-coast--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/bronze-coast",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--bronze-coast--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/bronze-coast",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--bronze-coast--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/bronze-coast",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--bronze-coast--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/bronze-coast",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--calacatta-olympos",
@@ -51964,7 +52205,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "Wilsonart Collection. Polished finish. Combination of cool grey and warm brown accents will bring harmony and liveliness to your interior. Calacatta Olympos can be perfectly matched with glass, metal or wood in many different shades",
+   "images": [
+    {
+     "file": "technistone--calacatta-olympos.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--calacatta-olympos--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/calacatta-olympos",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--calacatta-olympos--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/calacatta-olympos",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--calacatta-olympos--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/calacatta-olympos",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--calacatta-olympos--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/calacatta-olympos",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--calacatta-serchio",
@@ -51983,7 +52263,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "Wilsonart Collection. Polished finish. The structure of this pattern, set against a white base, is reminiscent of mountain streams flowing through the charming Tuscan landscape, bringing with it freshness and energy",
+   "images": [
+    {
+     "file": "technistone--calacatta-serchio.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--calacatta-serchio--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/calacatta-serchio",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--calacatta-serchio--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/calacatta-serchio",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--calacatta-serchio--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/calacatta-serchio",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--calacatta-serchio--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/calacatta-serchio",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--calacatta-volegno",
@@ -52002,7 +52321,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "Wilsonart Collection. Polished finish. Inspired by natural marble and named after the Italian village of Volegno. Its light grey veins have brown edges that stand out beautifully, especially when combined with golden accessories",
+   "images": [
+    {
+     "file": "technistone--calacatta-volegno.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--calacatta-volegno--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/calacatta-volegno",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--calacatta-volegno--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/calacatta-volegno",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--calacatta-volegno--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/calacatta-volegno",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--calacatta-volegno--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/calacatta-volegno",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--crystal-absolute-white",
@@ -52021,7 +52379,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "Standard Collection. Polished finish. The whitest white on the quartz market. A simply luxurious and beautiful addition to any interior",
+   "images": [
+    {
+     "file": "technistone--crystal-absolute-white.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--crystal-absolute-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/crystal-absolute-white",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--crystal-absolute-white--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/crystal-absolute-white",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--crystal-absolute-white--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/crystal-absolute-white",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--crystal-absolute-white--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/crystal-absolute-white",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--crystal-diamond",
@@ -52040,7 +52437,39 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "Standard Collection. Polished finish. Fine pieces of quartz nested in the all-white background form one of the most popular colors in the Technistone Color Range",
+   "images": [
+    {
+     "file": "technistone--crystal-diamond.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--crystal-diamond--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/crystal-diamond",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--crystal-diamond--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/crystal-diamond",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--crystal-diamond--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/crystal-diamond",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--crystal-nevada",
@@ -52058,7 +52487,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550",
+   "details": "Standard Collection. Polished finish. Gray tint in a white crystalline structure form this unique and peerless product",
+   "images": [
+    {
+     "file": "technistone--crystal-nevada.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--crystal-nevada--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/crystal-nevada",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--crystal-nevada--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/crystal-nevada",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--crystal-nevada--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/crystal-nevada",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--crystal-nevada--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/crystal-nevada",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--crystal-polar-white",
@@ -52077,7 +52545,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "Standard Collection. Polished finish. With its Very fine structure and almost imperceptible grains of sand, Crystal Polar White is the second whitest product in Technistone’s portfolio",
+   "images": [
+    {
+     "file": "technistone--crystal-polar-white.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--crystal-polar-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/crystal-polar-white",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--crystal-polar-white--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/crystal-polar-white",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--crystal-polar-white--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/crystal-polar-white",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--crystal-polar-white--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/crystal-polar-white",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--crystal-royal",
@@ -52096,7 +52603,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "Standard Collection. Polished finish. Royal, light brown shade is characterized by its sandy structure",
+   "images": [
+    {
+     "file": "technistone--crystal-royal.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--crystal-royal--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/crystal-royal",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--crystal-royal--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/crystal-royal",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--crystal-royal--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/crystal-royal",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--crystal-royal--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/crystal-royal",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--duna-beige",
@@ -52115,7 +52661,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "La Natura Collection. Polished finish",
+   "images": [
+    {
+     "file": "technistone--duna-beige.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--duna-beige--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/duna-beige",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--duna-beige--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/duna-beige",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--duna-beige--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/duna-beige",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--duna-beige--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/duna-beige",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--elegance-eco-nev",
@@ -52134,7 +52719,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "Standard Collection. Polished finish. Elegance Eco Nev belongs to the group of white products. Thanks to its neutral appearance, it can easily be combined with colorful and dominant interior elements",
+   "images": [
+    {
+     "file": "technistone--elegance-eco-nev.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--elegance-eco-nev--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/elegance-eco-nev",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--elegance-eco-nev--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/elegance-eco-nev",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--elegance-eco-nev--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/elegance-eco-nev",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--elegance-eco-nev--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/elegance-eco-nev",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--elysian-gold",
@@ -52153,7 +52777,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "La Natura Collection. Polished, Matt finish",
+   "images": [
+    {
+     "file": "technistone--elysian-gold.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--elysian-gold--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/elysian-gold",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--elysian-gold--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/elysian-gold",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--elysian-gold--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/elysian-gold",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--elysian-gold--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/elysian-gold",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--glencoe",
@@ -52172,7 +52835,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "Wilsonart Collection. Polished, Matt finish. Glencoe is a design in a warm neutral color with a slightly translucent, marbled background. Thin veins in creamy white create an active, fractured appearance similar to quartzite stone",
+   "images": [
+    {
+     "file": "technistone--glencoe.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--glencoe--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/glencoe",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--glencoe--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/glencoe",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--glencoe--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/glencoe",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--glencoe--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/glencoe",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--gobi-black",
@@ -52191,7 +52893,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "Standard Collection. Polished finish",
+   "images": [
+    {
+     "file": "technistone--gobi-black.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--gobi-black--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/gobi-black",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--gobi-black--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/gobi-black",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--gobi-black--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/gobi-black",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--gobi-black--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/gobi-black",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--gobi-urban",
@@ -52210,7 +52951,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "Standard Collection. Polished, Matt finish. It is urban, simple, stylish. The fine-grained structure with fractions of white and transparent quartz soften the grey surface of the Gobi Urban material",
+   "images": [
+    {
+     "file": "technistone--gobi-urban.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--gobi-urban--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/gobi-urban",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--gobi-urban--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/gobi-urban",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--gobi-urban--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/gobi-urban",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--gobi-urban--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/gobi-urban",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--harmonia-navajo",
@@ -52229,7 +53009,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "Standard Collection. Polished finish. A time-tested beige, that’s the harmonious and dependable Harmonia Navajo. Found in our Standard collection, this decor is a warm, natural color. A sure thing that will last for generations to come",
+   "images": [
+    {
+     "file": "technistone--harmonia-navajo.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--harmonia-navajo--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/harmonia-navajo",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--harmonia-navajo--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/harmonia-navajo",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--harmonia-navajo--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/harmonia-navajo",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--harmonia-navajo--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/harmonia-navajo",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--mistral-white",
@@ -52248,7 +53067,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "La Natura Collection. Polished, Matt finish",
+   "images": [
+    {
+     "file": "technistone--mistral-white.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--mistral-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/mistral-white",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--mistral-white--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/mistral-white",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--mistral-white--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/mistral-white",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--mistral-white--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/mistral-white",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--morning-daisy",
@@ -52267,7 +53125,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "La Natura Collection. Polished, Matt finish. Morning Daisy is the reflection of morning dew on a meadow dotted with daisies. This decor recalls those moments of the early morning when nature awakens to a new day. It radiates optimism and the energy associated with new beginnings",
+   "images": [
+    {
+     "file": "technistone--morning-daisy.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--morning-daisy--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/morning-daisy",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--morning-daisy--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/morning-daisy",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--morning-daisy--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/morning-daisy",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--morning-daisy--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/morning-daisy",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--mystery-white",
@@ -52286,7 +53183,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Serenity Collection. Polished finish. Beautiful and mysterious. Reveal the mystery of the new Mystery White, a combination of ice white and unconventional blue-grey vein, the unique gloss and depth of the design will evoke exceptional ambience anywhere you desire",
+   "images": [
+    {
+     "file": "technistone--mystery-white.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--mystery-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/mystery-white",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--mystery-white--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/mystery-white",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--mystery-white--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/mystery-white",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--mystery-white--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/mystery-white",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--noble-arco",
@@ -52305,7 +53241,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "Noble Collection. Polished finish. Despite the fact that marble design patterns and materials have been used in interior design for many years already, such patterns are far from losing their popularity, on the contrary! Luxurious materials with a marble pattern mature to perfection, making decors even more sophisticated and the lines ever more subtle. The customer-proven Noble collection, which h",
+   "images": [
+    {
+     "file": "technistone--noble-arco.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--noble-arco--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/noble-arco",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-arco--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-arco",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-arco--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-arco",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-arco--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-arco",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--noble-areti-bianco",
@@ -52324,7 +53299,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "Noble Collection. Polished finish. Popular decor in the white category. Its snowy base is decorated with a network of distinctive dark veins which create a unique pattern of light color contrasts within a pure white background",
+   "images": [
+    {
+     "file": "technistone--noble-areti-bianco.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--noble-areti-bianco--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/noble-areti-bianco",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-areti-bianco--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-areti-bianco",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-areti-bianco--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-areti-bianco",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-areti-bianco--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-areti-bianco",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--noble-athos-brown",
@@ -52343,7 +53357,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "Noble Collection. Polished finish. For information of availability of this material, please contact your sales representative of Technistone",
+   "images": [
+    {
+     "file": "technistone--noble-athos-brown.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--noble-athos-brown--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/noble-athos-brown",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-athos-brown--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-athos-brown",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-athos-brown--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-athos-brown",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-athos-brown--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-athos-brown",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--noble-carrara",
@@ -52362,7 +53415,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "Noble Collection. Polished finish. The famous stones of the northern part of Tuscany in Italy have inspired its noble quartz edition. Discover the shell white look with the various shades of black anarchic veins - a design worthy world class residences!",
+   "images": [
+    {
+     "file": "technistone--noble-carrara.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--noble-carrara--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/noble-carrara",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-carrara--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-carrara",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-carrara--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-carrara",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-carrara--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-carrara",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--noble-concrete-grey",
@@ -52381,7 +53473,53 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "Noble Collection. Polished, Matt finish. For information of availability of this material, please contact your sales representative of Technistone",
+   "images": [
+    {
+     "file": "technistone--noble-concrete-grey.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--noble-concrete-grey--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/noble-concrete-grey",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-concrete-grey--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/noble-concrete-grey",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-concrete-grey--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-concrete-grey",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-concrete-grey--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-concrete-grey",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-concrete-grey--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-concrete-grey",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--noble-ivory-white",
@@ -52400,7 +53538,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "Noble Collection. Polished finish. For information of availability of this material, please contact your sales representative of Technistone",
+   "images": [
+    {
+     "file": "technistone--noble-ivory-white.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--noble-ivory-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/noble-ivory-white",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-ivory-white--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-ivory-white",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-ivory-white--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-ivory-white",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-ivory-white--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-ivory-white",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--noble-olympos-mist",
@@ -52418,7 +53595,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550",
+   "details": "Noble Collection. Polished finish. For information of availability of this material, please contact your sales representative of Technistone",
+   "images": [
+    {
+     "file": "technistone--noble-olympos-mist.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--noble-olympos-mist--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/noble-olympos-mist",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-olympos-mist--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-olympos-mist",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-olympos-mist--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-olympos-mist",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-olympos-mist--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-olympos-mist",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--noble-pietra-grey",
@@ -52437,7 +53653,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "Noble Collection. Polished finish. For information of availability of this material, please contact your sales representative of Technistone",
+   "images": [
+    {
+     "file": "technistone--noble-pietra-grey.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--noble-pietra-grey--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/noble-pietra-grey",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-pietra-grey--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-pietra-grey",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-pietra-grey--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-pietra-grey",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-pietra-grey--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-pietra-grey",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--noble-portland-grey",
@@ -52455,7 +53710,53 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550",
+   "details": "Noble Collection. Polished, Matt finish. Noble Portland Grey contains over 75% of raw materials from its native Czech Republic. This veined design belongs among the subtlest patterns with a concrete look on the global quartz market. It was developed from the onset to suit a Matt finish and matches easily with a broad range of furnishing in kitchens and baths",
+   "images": [
+    {
+     "file": "technistone--noble-portland-grey.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--noble-portland-grey--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/noble-portland-grey",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-portland-grey--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/noble-portland-grey",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-portland-grey--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-portland-grey",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-portland-grey--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-portland-grey",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-portland-grey--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-portland-grey",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--noble-pro-cloud",
@@ -52474,7 +53775,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "Noble Collection. Polished finish. The structure of Noble Pro Cloud represents the changing sky before the upcoming summer storm. The material with its subtle veining in tones of light grey refreshes the interior and adds a new dimension to traditional grey",
+   "images": [
+    {
+     "file": "technistone--noble-pro-cloud.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--noble-pro-cloud--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/noble-pro-cloud",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-pro-cloud--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-pro-cloud",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-pro-cloud--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-pro-cloud",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-pro-cloud--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-pro-cloud",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--noble-pro-frost",
@@ -52493,7 +53833,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "Noble Collection. Polished finish. The name Noble Pro Frost suggests its character and appearance, which forms a white fine grain background interlaced by a network of icy veins",
+   "images": [
+    {
+     "file": "technistone--noble-pro-frost.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--noble-pro-frost--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/noble-pro-frost",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-pro-frost--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-pro-frost",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-pro-frost--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-pro-frost",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-pro-frost--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-pro-frost",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--noble-pro-storm",
@@ -52512,7 +53891,53 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "Noble Collection. Polished finish. The veining structure of Noble Pro Storm enters the deep dark background like a smoky grey mist. A shade developed for lovers of refined dark colours",
+   "images": [
+    {
+     "file": "technistone--noble-pro-storm.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--noble-pro-storm--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/noble-pro-storm",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-pro-storm--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/noble-pro-storm",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-pro-storm--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-pro-storm",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-pro-storm--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-pro-storm",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-pro-storm--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-pro-storm",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--noble-quartzite",
@@ -52531,7 +53956,53 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "Noble Collection. Polished, Matt finish. The light gray shade with a velvety texture and fine veining. This elegant shade highlights the minimalist face of the interior. It blends well with natural materials such as wood, but also works well with metallic accessories",
+   "images": [
+    {
+     "file": "technistone--noble-quartzite.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--noble-quartzite--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/noble-quartzite",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-quartzite--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/noble-quartzite",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-quartzite--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-quartzite",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-quartzite--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-quartzite",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-quartzite--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-quartzite",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--noble-supreme-white",
@@ -52550,7 +54021,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "Noble Collection. Polished finish. The whitest white veined quartz stone, pure white background without any yellowish shadow accented with very delicate and tiny grey veins",
+   "images": [
+    {
+     "file": "technistone--noble-supreme-white.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--noble-supreme-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/noble-supreme-white",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-supreme-white--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-supreme-white",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-supreme-white--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-supreme-white",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-supreme-white--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-supreme-white",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--noble-vintage",
@@ -52569,7 +54079,53 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "Noble Collection. Polished, Matt finish. Monocolor base with rich brownish veins. Noble Vintage contains over 45% raw materials of Czech origin and was developed in close cooperation with the product development team at Wilsonart",
+   "images": [
+    {
+     "file": "technistone--noble-vintage.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--noble-vintage--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/noble-vintage",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-vintage--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/noble-vintage",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-vintage--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-vintage",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-vintage--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-vintage",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--noble-vintage--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/noble-vintage",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--pearl-delta",
@@ -52588,7 +54144,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "Serenity Collection. Polished finish. The new path is never easy and unhindered. The current branches, looking for a new direction, forms the shoulders and passes into the delta. It creates a branched drawing on the canvas of hardened stone",
+   "images": [
+    {
+     "file": "technistone--pearl-delta.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--pearl-delta--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/pearl-delta",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--pearl-delta--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/pearl-delta",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--pearl-delta--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/pearl-delta",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--pearl-delta--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/pearl-delta",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--residente-dark",
@@ -52606,7 +54201,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600",
+   "details": "Trend Collection. Terra finish. The design inspired by industry provides strength in material of the third millennium. The distinct combination of dusty grey with dark shades in the color of concrete created a new trend with precise design",
+   "images": [
+    {
+     "file": "technistone--residente-dark.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--residente-dark--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/residente-dark",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--residente-dark--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/residente-dark",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--residente-dark--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/residente-dark",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--residente-dark--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/residente-dark",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--starlight-black",
@@ -52625,7 +54259,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "Standard Collection. Polished finish. A kitchen with it very own piece of a starry night sky captured in the countertop, Starlight Black will become the highlight of the entire home",
+   "images": [
+    {
+     "file": "technistone--starlight-black.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--starlight-black--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/starlight-black",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--starlight-black--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/starlight-black",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--starlight-black--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/starlight-black",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--starlight-black--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/starlight-black",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--starlight-white",
@@ -52644,7 +54317,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "Standard Collection. Polished finish. The snow-white background comes alive, as the course mirror structure light up even the darkest corners of any space",
+   "images": [
+    {
+     "file": "technistone--starlight-white.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--starlight-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/starlight-white",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--starlight-white--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/starlight-white",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--starlight-white--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/starlight-white",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--starlight-white--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/starlight-white",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--taj-mahal-gold",
@@ -52663,7 +54375,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "La Natura Collection. Polished, Matt finish",
+   "images": [
+    {
+     "file": "technistone--taj-mahal-gold.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--taj-mahal-gold--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/taj-mahal-gold",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--taj-mahal-gold--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/taj-mahal-gold",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--taj-mahal-gold--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/taj-mahal-gold",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--taj-mahal-gold--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/taj-mahal-gold",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--taurus-black",
@@ -52681,7 +54432,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550",
+   "details": "Standard Collection. Polished finish. Darkest product of the series with its visible fragments of granite, conjures up a mysterious atmosphere and adds an air of intrigue to any interior",
+   "images": [
+    {
+     "file": "technistone--taurus-black.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--taurus-black--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/taurus-black",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--taurus-black--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/taurus-black",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--taurus-black--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/taurus-black",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--taurus-black--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/taurus-black",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--taurus-terazzo-white",
@@ -52699,7 +54489,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550",
+   "details": "Standard Collection. Polished finish. The fantastic interplay of two of the biggest players in the field of design, black and white, merge in Taurus Terazzo White to conjure up a perfectly harmonious space. The result is extraordinary",
+   "images": [
+    {
+     "file": "technistone--taurus-terazzo-white.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--taurus-terazzo-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/taurus-terazzo-white",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--taurus-terazzo-white--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/taurus-terazzo-white",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--taurus-terazzo-white--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/taurus-terazzo-white",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--taurus-terazzo-white--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/taurus-terazzo-white",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--verde-peak",
@@ -52718,7 +54547,53 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "Wilsonart Collection. Polished finish. Verde Peak has a bright white, delicately marbled background that is traversed by grey-green veins in different widths. The veins vary in tone and value and extend throughout the slab",
+   "images": [
+    {
+     "file": "technistone--verde-peak.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--verde-peak--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/verde-peak",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--verde-peak--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/verde-peak",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--verde-peak--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/verde-peak",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--verde-peak--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/verde-peak",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--verde-peak--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/verde-peak",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--wedding-lily",
@@ -52737,7 +54612,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "La Natura Collection. Polished, Matt finish. The delicate texture and light color of Technistone’s Wedding Lily design evoke the freshness and purity of a flower, the symbol of love and stability. This decor brings a feeling of elegance and freshness to every space",
+   "images": [
+    {
+     "file": "technistone--wedding-lily.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--wedding-lily--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/wedding-lily",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--wedding-lily--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/wedding-lily",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--wedding-lily--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/wedding-lily",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--wedding-lily--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/wedding-lily",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "technistone--wild-yucca",
@@ -52756,7 +54670,46 @@
     "status": "slab",
     "source": "technistone.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3185x1550 / 30mm: 3185x1550",
+   "details": "La Natura Collection. Polished finish. Wild Yucca takes you on an adventurous journey through the desert, where you encounter the wildness of nature and exotic plants. This decor features bold contrasting colors that speak to you of the power of nature",
+   "images": [
+    {
+     "file": "technistone--wild-yucca.webp",
+     "status": "slab",
+     "source": "technistone.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "technistone--wild-yucca--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.technistone.com/gbr/color/wild-yucca",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--wild-yucca--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/wild-yucca",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--wild-yucca--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/wild-yucca",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "technistone--wild-yucca--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.technistone.com/gbr/color/wild-yucca",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "uk-stone-company--arabescato-porto",
