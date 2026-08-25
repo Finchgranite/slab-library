@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T07:31:47Z",
+ "generated": "2026-08-25T07:40:23Z",
  "slabs": [
   {
    "id": "akg-surfaces--adira-bronze",
@@ -27741,13 +27741,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Amber",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/amber/",
    "image": {
     "file": "fugen--amber.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Enhance your interiors with Amber Quartz from Fugenstone. Its warm tones & lasting durability make it perfect for elegant worktops, vanities & feature walls!; Finish: Polished",
+   "images": [
+    {
+     "file": "fugen--amber.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--amber--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/amber/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--amber--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/amber/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--andromeda-white",
@@ -27779,13 +27804,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Arabescato",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/arabescato/",
    "image": {
     "file": "fugen--arabescato.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Elevate your space with Arabescato Quartz from Fugenstone. Featuring elegant veining and durability, it's the perfect choice for modern luxury interiors.; Finish: Polished",
+   "images": [
+    {
+     "file": "fugen--arabescato.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--arabescato--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/arabescato/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--arabescato--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/arabescato/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--arabesque",
@@ -27798,13 +27848,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Arabesque",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/arabesque/",
    "image": {
     "file": "fugen--arabesque.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Transform your space with Arabesque Quartz from Fugenstone. Its soft veining and polished finish make it ideal for refined, modern kitchen and bath designs.; Finish: Polished",
+   "images": [
+    {
+     "file": "fugen--arabesque.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--arabesque--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/arabesque/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--arabesque--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/arabesque/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--astoria",
@@ -27836,13 +27911,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Avalanche",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/avalanche/",
    "image": {
     "file": "fugen--avalanche.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Elevate your space with Fugen Avalanche Quartz. Its striking patterns and bold elegance make it the perfect choice for standout kitchens and interiors.; Finish: Polished",
+   "images": [
+    {
+     "file": "fugen--avalanche.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--avalanche--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/avalanche/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--avalanche--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/avalanche/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--black",
@@ -27894,13 +27994,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Black+Mirror",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/black-mirror/",
    "image": {
     "file": "fugen--black-mirror.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Add bold sophistication with Fugenstone’s Black Mirror Quartz. Its reflective beauty and strength redefine modern interior design.; Finish: Polished",
+   "images": [
+    {
+     "file": "fugen--black-mirror.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--black-mirror--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/black-mirror/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--black-mirror--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/black-mirror/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--black-pearl",
@@ -27932,13 +28057,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Black+Shimmer",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/black-shimmer/",
    "image": {
     "file": "fugen--black-shimmer.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Transform interiors with Fugenstone’s Black Shimmer Quartz. Its sparkling finish and robust quality make it ideal for sleek designs.; Finish: Polished",
+   "images": [
+    {
+     "file": "fugen--black-shimmer.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--black-shimmer--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/black-shimmer/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--black-shimmer--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/black-shimmer/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--black-taurus",
@@ -27970,13 +28120,45 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Blanco+Noir",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/mid-tones/blanco-noir/",
    "image": {
     "file": "fugen--blanco-noir.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Transform your interiors with Blanco Noir quartz from Fugenstone. Featuring bold black veining on a crisp white background, this durable and low-maintenance surface adds elegance, luxury, and contemporary style to kitchens, bathrooms, and more.; Finish: Polished",
+   "images": [
+    {
+     "file": "fugen--blanco-noir.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--blanco-noir--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/mid-tones/blanco-noir/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--blanco-noir--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/mid-tones/blanco-noir/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--blanco-noir--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/mid-tones/blanco-noir/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--blue-roma-quartzite",
@@ -28008,13 +28190,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Calacatta+Oro",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/calacatta-oro/",
    "image": {
     "file": "fugen--calacatta-oro.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Calacatta Oro quartz features a soft white base with grey veins and copper-like streaks, creating a refined, elegant, and timeless marble look.; Finish: Polished",
+   "images": [
+    {
+     "file": "fugen--calacatta-oro.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--calacatta-oro--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/calacatta-oro/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--calacatta-oro--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/calacatta-oro/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--calacatta-salvatore",
@@ -28046,13 +28253,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Carbon",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/carbon/",
    "image": {
     "file": "fugen--carbon.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Add depth and sophistication with Carbon Quartz by Fugenstone. Its sleek design and durability redefine contemporary interior spaces.; Finish: Matt",
+   "images": [
+    {
+     "file": "fugen--carbon.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--carbon--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/carbon/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--carbon--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/carbon/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--carrara",
@@ -28065,13 +28297,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Carrara",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/carrara/",
    "image": {
     "file": "fugen--carrara.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Discover Fugen Carrara Quartz surfaces. Achieve a timeless look with this versatile stone, perfect for any interior design. Order your sample!; Finish: Polished",
+   "images": [
+    {
+     "file": "fugen--carrara.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--carrara--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/carrara/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--carrara--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/carrara/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--carrara-pulido",
@@ -28084,13 +28341,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Carrara+Pulido",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/carrara-pulido/",
    "image": {
     "file": "fugen--carrara-pulido.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Fugenstone’s Carrara Pulido Quartz offers a smooth, polished finish that adds elegance and resilience to any interior.; Finish: Pulido",
+   "images": [
+    {
+     "file": "fugen--carrara-pulido.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--carrara-pulido--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/carrara-pulido/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--carrara-pulido--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/carrara-pulido/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--carrara-satinato",
@@ -28103,13 +28385,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Carrara+Satinato",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/carrara-satinato/",
    "image": {
     "file": "fugen--carrara-satinato.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Discover Fugenstone’s Carrara Satinato Quartz with a matte finish. Ideal for understated elegance and contemporary designs.; Finish: Satinato",
+   "images": [
+    {
+     "file": "fugen--carrara-satinato.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--carrara-satinato--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/carrara-satinato/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--carrara-satinato--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/carrara-satinato/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--carrara-super-jumbo",
@@ -28122,13 +28429,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/carrara-super-jumbo/",
    "image": {
     "file": "fugen--carrara-super-jumbo.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3400x2000 / 30mm: 3400x2000",
+   "details": "Fugenstone’s Carrara Super Jumbo Quartz offers expansive design possibilities. Perfect for seamless, stunning, and durable surfaces.; Finish: Polished",
+   "images": [
+    {
+     "file": "fugen--carrara-super-jumbo.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--carrara-super-jumbo--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/carrara-super-jumbo/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--carrara-super-jumbo--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/carrara-super-jumbo/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--caspian",
@@ -28141,13 +28473,45 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Caspian",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/caspian/",
    "image": {
     "file": "fugen--caspian.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Upgrade your space with Fugenstone’s Caspian Quartz. A versatile and elegant choice for luxurious interiors.; Finish: Polished",
+   "images": [
+    {
+     "file": "fugen--caspian.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--caspian--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/caspian/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--caspian--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/caspian/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--caspian--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/caspian/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--celestial-leather",
@@ -28160,13 +28524,48 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/celestial/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "fugen--celestial-leather.webp",
+    "status": "slab",
+    "source": "https://fugenstone.co.uk/product/quartz-worktops/celestial/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Celestial Quartz offers a deep, dark surface with bright veining—creating a starry, elegant finish ideal for statement worktops and stylish interiors.; Finish: Leather",
+   "aliases": [
+    "Celestial"
+   ],
+   "images": [
+    {
+     "file": "fugen--celestial-leather.webp",
+     "status": "slab",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/celestial/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--celestial-leather--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/celestial/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--celestial-leather--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/celestial/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--celestial-leather--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/celestial/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--celestial-polished",
@@ -28179,13 +28578,48 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/celestial/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "fugen--celestial-polished.webp",
+    "status": "slab",
+    "source": "https://fugenstone.co.uk/product/quartz-worktops/celestial/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Celestial Quartz offers a deep, dark surface with bright veining—creating a starry, elegant finish ideal for statement worktops and stylish interiors.; Finish: Polished",
+   "aliases": [
+    "Celestial"
+   ],
+   "images": [
+    {
+     "file": "fugen--celestial-polished.webp",
+     "status": "slab",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/celestial/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--celestial-polished--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/celestial/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--celestial-polished--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/celestial/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--celestial-polished--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/celestial/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--cemento",
@@ -28198,13 +28632,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Cemento",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/cemento/",
    "image": {
     "file": "fugen--cemento.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Fugenstone’s Cemento Quartz adds an industrial yet sophisticated touch. Perfect for contemporary interiors and durable surfaces.; Finish: Matt",
+   "images": [
+    {
+     "file": "fugen--cemento.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--cemento--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/cemento/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--cemento--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/cemento/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--centurius-grey",
@@ -28275,13 +28734,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Cotswold+Gold",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/mid-tones/cotswold-gold/",
    "image": {
     "file": "fugen--cotswold-gold.webp",
     "status": "closeup-only",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Cotswold Gold Quartz features a luxurious white base adorned with striking golden and soft grey veining, evoking the timeless elegance of natural marble. Its sophisticated yet modern look makes it an ideal choice for countertops, feature walls, or flooring in upscale interiors. The bold gold accents",
+   "images": [
+    {
+     "file": "fugen--cotswold-gold.webp",
+     "status": "closeup-only",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--cotswold-gold--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/mid-tones/cotswold-gold/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--cotswold-gold--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/mid-tones/cotswold-gold/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--cotswold-white",
@@ -28294,13 +28778,45 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Cotswold+White",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/light-tones/cotswold-white/",
    "image": {
     "file": "fugen--cotswold-white.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Brighten interiors with Cotswold White Quartz by Fugenstone. Elegant, durable, and versatile for modern and classic designs alike.; Finish: Polished",
+   "images": [
+    {
+     "file": "fugen--cotswold-white.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--cotswold-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/light-tones/cotswold-white/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--cotswold-white--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/light-tones/cotswold-white/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--cotswold-white--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/light-tones/cotswold-white/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--cream-mirror",
@@ -28313,13 +28829,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Cream+Mirror",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/cream-mirror/",
    "image": {
     "file": "fugen--cream-mirror.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Add warmth and sparkle with Cream Mirror Quartz by Fugenstone. A radiant choice for chic and durable interior designs.; Finish: Polished",
+   "images": [
+    {
+     "file": "fugen--cream-mirror.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--cream-mirror--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/cream-mirror/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--cream-mirror--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/cream-mirror/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--enigma",
@@ -28332,13 +28873,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Enigma",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/enigma/",
    "image": {
     "file": "fugen--enigma.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Discover Fugenstone’s Enigma Quartz. A bold and unique design, ideal for making a striking statement in modern interiors.; Finish: Polished",
+   "images": [
+    {
+     "file": "fugen--enigma.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--enigma--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/enigma/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--enigma--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/enigma/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--everest",
@@ -28351,13 +28917,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Everest",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/everest/",
    "image": {
     "file": "fugen--everest.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Elevate your interiors with Fugenstone’s Everest Quartz. Timeless beauty and exceptional durability for elegant designs.; Finish: Polished",
+   "images": [
+    {
+     "file": "fugen--everest.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--everest--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/everest/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--everest--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/everest/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--fantasy-brown",
@@ -28389,13 +28980,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Florence",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/florence/",
    "image": {
     "file": "fugen--florence.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Discover Fugen Florence Quartz worktops. Achieve classic elegance with this beautiful stone, perfect for modern interiors. Order your sample!; Finish: Polished",
+   "images": [
+    {
+     "file": "fugen--florence.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--florence--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/florence/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--florence--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/florence/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--galaxy",
@@ -28427,13 +29043,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Grey+Mirror",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/grey-mirror/",
    "image": {
     "file": "fugen--grey-mirror.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Add modern sophistication with Fugenstone’s Grey Mirror Quartz. Reflective surfaces and durability perfect for sleek designs.; Finish: Polished",
+   "images": [
+    {
+     "file": "fugen--grey-mirror.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--grey-mirror--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/grey-mirror/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--grey-mirror--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/grey-mirror/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--grey-shimmer",
@@ -28446,13 +29087,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Grey+Shimmer",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/grey-shimmer/",
    "image": {
     "file": "fugen--grey-shimmer.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Fugenstone’s Grey Shimmer Quartz adds a sparkling touch to interiors. Durable and stylish, ideal for modern spaces.; Finish: Polished",
+   "images": [
+    {
+     "file": "fugen--grey-shimmer.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--grey-shimmer--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/grey-shimmer/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--grey-shimmer--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/grey-shimmer/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--imperium-leather",
@@ -28465,13 +29131,41 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/imperium/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "fugen--imperium-leather.webp",
+    "status": "slab",
+    "source": "https://fugenstone.co.uk/product/quartz-worktops/imperium/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Add royal elegance to your interiors with Fugenstone’s Imperium Quartz. Luxurious, durable, and perfect for timeless designs.; Finish: Leather",
+   "aliases": [
+    "Imperium"
+   ],
+   "images": [
+    {
+     "file": "fugen--imperium-leather.webp",
+     "status": "slab",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/imperium/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--imperium-leather--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/imperium/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--imperium-leather--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/imperium/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--imperium-polished",
@@ -28484,13 +29178,41 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/imperium/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "fugen--imperium-polished.webp",
+    "status": "slab",
+    "source": "https://fugenstone.co.uk/product/quartz-worktops/imperium/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Add royal elegance to your interiors with Fugenstone’s Imperium Quartz. Luxurious, durable, and perfect for timeless designs.; Finish: Polished",
+   "aliases": [
+    "Imperium"
+   ],
+   "images": [
+    {
+     "file": "fugen--imperium-polished.webp",
+     "status": "slab",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/imperium/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--imperium-polished--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/imperium/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--imperium-polished--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/imperium/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--irini",
@@ -28503,13 +29225,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Irini",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/irini/",
    "image": {
     "file": "fugen--irini.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Transform interiors with Fugenstone’s Irini Quartz. A sophisticated and durable option for modern and classic spaces.; Finish: Polished",
+   "images": [
+    {
+     "file": "fugen--irini.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--irini--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/irini/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--irini--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/irini/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--ivory-fantasy",
@@ -28541,13 +29288,41 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/jasper-polished-and-satin/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "fugen--jasper-leather.webp",
+    "status": "slab",
+    "source": "https://fugenstone.co.uk/product/quartz-worktops/jasper-polished-and-satin/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Discover the versatility of Jasper Quartz from Fugenstone. Durable and stylish, ideal for both residential and commercial interiors.; Finish: Leather",
+   "aliases": [
+    "Jasper"
+   ],
+   "images": [
+    {
+     "file": "fugen--jasper-leather.webp",
+     "status": "slab",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/jasper-polished-and-satin/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--jasper-leather--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/jasper-polished-and-satin/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--jasper-leather--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/jasper-polished-and-satin/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--jasper-polished",
@@ -28560,13 +29335,41 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/jasper-polished-and-satin/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "fugen--jasper-polished.webp",
+    "status": "slab",
+    "source": "https://fugenstone.co.uk/product/quartz-worktops/jasper-polished-and-satin/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Discover the versatility of Jasper Quartz from Fugenstone. Durable and stylish, ideal for both residential and commercial interiors.; Finish: Polished",
+   "aliases": [
+    "Jasper"
+   ],
+   "images": [
+    {
+     "file": "fugen--jasper-polished.webp",
+     "status": "slab",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/jasper-polished-and-satin/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--jasper-polished--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/jasper-polished-and-satin/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--jasper-polished--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/jasper-polished-and-satin/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--light-grey",
@@ -28636,13 +29439,45 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Marfil+Luxe",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/marfil-luxe/",
    "image": {
     "file": "fugen--marfil-luxe.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Fugenstone’s Marfil Luxe Quartz combines luxury and durability. Perfect for creating elegant and timeless interior designs.; Finish: Polished and Leathered",
+   "images": [
+    {
+     "file": "fugen--marfil-luxe.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--marfil-luxe--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/marfil-luxe/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--marfil-luxe--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/marfil-luxe/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--marfil-luxe--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/marfil-luxe/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--marfil-luxe-leather",
@@ -28655,13 +29490,48 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/marfil-luxe/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "fugen--marfil-luxe-leather.webp",
+    "status": "slab",
+    "source": "https://fugenstone.co.uk/product/quartz-worktops/marfil-luxe/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Fugenstone’s Marfil Luxe Quartz combines luxury and durability. Perfect for creating elegant and timeless interior designs.; Finish: Leather",
+   "aliases": [
+    "Marfil Luxe"
+   ],
+   "images": [
+    {
+     "file": "fugen--marfil-luxe-leather.webp",
+     "status": "slab",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/marfil-luxe/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--marfil-luxe-leather--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/marfil-luxe/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--marfil-luxe-leather--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/marfil-luxe/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--marfil-luxe-leather--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/marfil-luxe/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--matrix-leather",
@@ -28674,13 +29544,45 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/matrix-leather/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "fugen--matrix-leather.webp",
+    "status": "slab",
+    "source": "https://fugenstone.co.uk/product/quartz-worktops/matrix-leather/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Experience textured elegance with Matrix Leather Quartz from Fugenstone. Durable and stylish, ideal for unique interior designs.; Finish: Leather",
+   "images": [
+    {
+     "file": "fugen--matrix-leather.webp",
+     "status": "slab",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/matrix-leather/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--matrix-leather--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/matrix-leather/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--matrix-leather--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/matrix-leather/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--matrix-leather--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/matrix-leather/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--niagara",
@@ -28693,13 +29595,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/niagara/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "fugen--niagara.webp",
+    "status": "slab",
+    "source": "https://fugenstone.co.uk/product/quartz-worktops/niagara/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Brighten your interiors with Niagara Quartz Worktops by FugenStone. A pristine white surface with subtle shimmer, durability, and timeless elegance.; Finish: Polished",
+   "images": [
+    {
+     "file": "fugen--niagara.webp",
+     "status": "slab",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/niagara/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--niagara--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/niagara/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--niagara--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/niagara/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--piracema",
@@ -28732,13 +29659,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Polar+White",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/polar-white/",
    "image": {
     "file": "fugen--polar-white.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Fugenstone’s Polar White Quartz brightens any interior. Elegant, durable, and perfect for modern and classic designs.; Finish: Polished",
+   "images": [
+    {
+     "file": "fugen--polar-white.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--polar-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/polar-white/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--polar-white--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/polar-white/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--prada-gold",
@@ -28789,13 +29741,48 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/roma/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "fugen--roma-leather.webp",
+    "status": "slab",
+    "source": "https://fugenstone.co.uk/product/quartz-worktops/roma/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Fugenstone’s Roma Quartz offers timeless appeal and exceptional durability, ideal for elegant and versatile interior designs.; Finish: Leather",
+   "aliases": [
+    "Roma"
+   ],
+   "images": [
+    {
+     "file": "fugen--roma-leather.webp",
+     "status": "slab",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/roma/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--roma-leather--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/roma/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--roma-leather--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/roma/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--roma-leather--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/roma/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--roma-polished",
@@ -28808,13 +29795,48 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/roma/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "fugen--roma-polished.webp",
+    "status": "slab",
+    "source": "https://fugenstone.co.uk/product/quartz-worktops/roma/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Fugenstone’s Roma Quartz offers timeless appeal and exceptional durability, ideal for elegant and versatile interior designs.; Finish: Polished",
+   "aliases": [
+    "Roma"
+   ],
+   "images": [
+    {
+     "file": "fugen--roma-polished.webp",
+     "status": "slab",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/roma/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--roma-polished--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/roma/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--roma-polished--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/roma/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--roma-polished--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/roma/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--sahara-waves",
@@ -28827,13 +29849,45 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Sahara+Waves",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/sahara-waves/",
    "image": {
     "file": "fugen--sahara-waves.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Discover the natural elegance of Sahara Waves Quartz by Fugenstone. Durable and stylish, ideal for stunning interior spaces.; Finish: Polished",
+   "images": [
+    {
+     "file": "fugen--sahara-waves.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--sahara-waves--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/sahara-waves/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--sahara-waves--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/sahara-waves/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--sahara-waves--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/sahara-waves/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--salinas-white",
@@ -28884,13 +29938,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Silver+Drift",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/light-tones/silver-drift-2/",
    "image": {
     "file": "fugen--silver-drift.webp",
     "status": "closeup-only",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Upgrade your kitchen with Silver Drift Quartz Worktops by FugenStone. Featuring warm silvery-grey veining, subtle sparkle, and lasting durability.; Finish: Polished",
+   "images": [
+    {
+     "file": "fugen--silver-drift.webp",
+     "status": "closeup-only",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--silver-drift--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/light-tones/silver-drift-2/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--silver-drift--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/light-tones/silver-drift-2/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--steel-grey",
@@ -28922,13 +30001,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Super+White",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/super-white/",
    "image": {
     "file": "fugen--super-white.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Maximise brightness with Pure Super White Quartz. Crafted with fine crystals and subtle aggregates, it offers a crisp, clean look that’s both stylish and practical.; Finish: Polished",
+   "images": [
+    {
+     "file": "fugen--super-white.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--super-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/super-white/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--super-white--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/super-white/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--taj-mahal",
@@ -29018,13 +30122,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Tuscany",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/tuscany/",
    "image": {
     "file": "fugen--tuscany.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3500x2000 / 30mm: 3500x2000",
+   "details": "Bring rustic elegance to your interiors with Fugenstone’s Tuscany Quartz. Durable and stylish for timeless designs.; Finish: Polished",
+   "images": [
+    {
+     "file": "fugen--tuscany.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--tuscany--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/tuscany/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--tuscany--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/tuscany/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--ultimate-black",
@@ -29057,13 +30186,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Valley+White",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/valley-white/",
    "image": {
     "file": "fugen--valley-white.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Discover modern simplicity with Valley White Quartz by Fugenstone. Durable and stylish for versatile interior designs.; Finish: Polished",
+   "images": [
+    {
+     "file": "fugen--valley-white.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--valley-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/valley-white/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--valley-white--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/valley-white/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--viscount-white",
@@ -29095,13 +30249,45 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=Volakas",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/volakas/",
    "image": {
     "file": "fugen--volakas.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Volakas Quartz features soft grey veining on a refined white surface, offering timeless beauty and durability for countertops, vanities, and feature walls.; Finish: Polished",
+   "images": [
+    {
+     "file": "fugen--volakas.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--volakas--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/volakas/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--volakas--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/volakas/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--volakas--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/volakas/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--voyagem-quartzite",
@@ -29171,13 +30357,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=White+Mirror",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/white-mirror/",
    "image": {
     "file": "fugen--white-mirror.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Add radiant elegance with White Mirror Quartz by Fugenstone. Reflective surfaces and durability for modern and luxurious designs.; Finish: Polished",
+   "images": [
+    {
+     "file": "fugen--white-mirror.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--white-mirror--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/white-mirror/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--white-mirror--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/white-mirror/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "fugen--white-pearl",
@@ -29209,13 +30420,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.fugenstone.co.uk/?s=White+Shimmer",
+   "productUrl": "https://fugenstone.co.uk/product/quartz-worktops/white-shimmer/",
    "image": {
     "file": "fugen--white-shimmer.webp",
     "status": "slab",
     "source": "fugenstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Add elegance to your kitchen or bathroom with White Shimmer Quartz. This durable, low-maintenance surface brings a bright, modern look to any interior.; Finish: Polished",
+   "images": [
+    {
+     "file": "fugen--white-shimmer.webp",
+     "status": "slab",
+     "source": "fugenstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "fugen--white-shimmer--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/white-shimmer/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "fugen--white-shimmer--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://fugenstone.co.uk/product/quartz-worktops/white-shimmer/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "international-stones-iq--alabaster",
