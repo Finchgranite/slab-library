@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T07:30:46Z",
+ "generated": "2026-08-25T07:31:47Z",
  "slabs": [
   {
    "id": "akg-surfaces--adira-bronze",
@@ -36076,13 +36076,24 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://pisastone.co.uk/quartz-worktops/lumina-stone",
    "image": {
     "file": "",
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Lumina Stone quartz worktop · Polished finish",
+   "images": [
+    {
+     "file": "lumina-stone--astral-white--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://pisastone.co.uk/quartz-worktops/lumina-stone",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "lumina-stone--belvedere",
@@ -36095,13 +36106,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://pisastone.co.uk/quartz-worktops/lumina-stone",
    "image": {
     "file": "lumina-stone--belvedere.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Lumina Stone quartz worktop · Polished finish",
+   "images": [
+    {
+     "file": "lumina-stone--belvedere.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "lumina-stone--belvedere--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://pisastone.co.uk/quartz-worktops/lumina-stone",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "lumina-stone--bianco-venatino",
@@ -36114,13 +36143,24 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://pisastone.co.uk/quartz-worktops/lumina-stone",
    "image": {
     "file": "",
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Lumina Stone quartz worktop · Polished finish",
+   "images": [
+    {
+     "file": "lumina-stone--bianco-venatino--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://pisastone.co.uk/quartz-worktops/lumina-stone",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "lumina-stone--bronze-cascade",
@@ -36152,13 +36192,24 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://pisastone.co.uk/quartz-worktops/lumina-stone",
    "image": {
     "file": "",
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Lumina Stone quartz worktop · Polished finish",
+   "images": [
+    {
+     "file": "lumina-stone--calacatta-eternal--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://pisastone.co.uk/quartz-worktops/lumina-stone",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "lumina-stone--coral-metro",
@@ -36171,13 +36222,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://pisastone.co.uk/quartz-worktops/lumina-stone",
    "image": {
     "file": "lumina-stone--coral-metro.webp",
     "status": "slab",
     "source": "luminastoneuk.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Lumina Stone quartz worktop · S-Tech & Nano finish",
+   "images": [
+    {
+     "file": "lumina-stone--coral-metro.webp",
+     "status": "slab",
+     "source": "luminastoneuk.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "lumina-stone--coral-metro--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://pisastone.co.uk/quartz-worktops/lumina-stone",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "lumina-stone--coral-naturale",
@@ -36190,13 +36259,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://pisastone.co.uk/quartz-worktops/lumina-stone",
    "image": {
     "file": "lumina-stone--coral-naturale.webp",
     "status": "slab",
     "source": "luminastoneuk.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Lumina Stone quartz worktop · S-Tech & Nano finish",
+   "images": [
+    {
+     "file": "lumina-stone--coral-naturale.webp",
+     "status": "slab",
+     "source": "luminastoneuk.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "lumina-stone--coral-naturale--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://pisastone.co.uk/quartz-worktops/lumina-stone",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "lumina-stone--maya",
@@ -36209,13 +36296,24 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://pisastone.co.uk/quartz-worktops/lumina-stone",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "lumina-stone--maya.webp",
+    "status": "closeup-only",
+    "source": "https://pisastone.co.uk/quartz-worktops/lumina-stone",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Lumina Stone quartz worktop · Polished finish",
+   "images": [
+    {
+     "file": "lumina-stone--maya.webp",
+     "status": "closeup-only",
+     "source": "https://pisastone.co.uk/quartz-worktops/lumina-stone",
+     "borrowedFrom": "",
+     "kind": "closeup"
+    }
+   ]
   },
   {
    "id": "lumina-stone--patagonia",
@@ -36228,13 +36326,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://pisastone.co.uk/quartz-worktops/lumina-stone",
    "image": {
     "file": "lumina-stone--patagonia.webp",
     "status": "closeup-only",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Lumina Stone quartz worktop · Polished finish",
+   "images": [
+    {
+     "file": "lumina-stone--patagonia.webp",
+     "status": "closeup-only",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "closeup"
+    },
+    {
+     "file": "lumina-stone--patagonia--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://pisastone.co.uk/quartz-worktops/lumina-stone",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "lumina-stone--sand-swan",
@@ -36247,13 +36363,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://luminastone.eu/portfolio/sand-swan/",
    "image": {
     "file": "lumina-stone--sand-swan.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Lumina Stone quartz worktop · Polished finish",
+   "images": [
+    {
+     "file": "lumina-stone--sand-swan.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "lumina-stone--sand-swan--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://luminastone.eu/portfolio/sand-swan/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "lumina-stone--sand-swan--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://pisastone.co.uk/quartz-worktops/lumina-stone",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "lumina-stone--soapstone",
@@ -36266,13 +36407,47 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://luminastone.eu/portfolio/soap-stone/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "lumina-stone--soapstone.webp",
+    "status": "slab",
+    "source": "https://luminastone.eu/portfolio/soap-stone/",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Lumina Stone quartz worktop · S-Tech & Nano finish",
+   "images": [
+    {
+     "file": "lumina-stone--soapstone.webp",
+     "status": "slab",
+     "source": "https://luminastone.eu/portfolio/soap-stone/",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "lumina-stone--soapstone--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://luminastone.eu/portfolio/soap-stone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "lumina-stone--soapstone--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://luminastone.eu/portfolio/soap-stone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "lumina-stone--soapstone--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://pisastone.co.uk/quartz-worktops/lumina-stone",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "lumina-stone--statuario-frost",
@@ -36285,13 +36460,24 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://pisastone.co.uk/quartz-worktops/lumina-stone",
    "image": {
     "file": "",
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Lumina Stone quartz worktop · Polished finish",
+   "images": [
+    {
+     "file": "lumina-stone--statuario-frost--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://pisastone.co.uk/quartz-worktops/lumina-stone",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "lumina-stone--statuario-rhin",
@@ -36304,13 +36490,24 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://pisastone.co.uk/quartz-worktops/lumina-stone",
    "image": {
     "file": "",
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Lumina Stone quartz worktop · Polished finish",
+   "images": [
+    {
+     "file": "lumina-stone--statuario-rhin--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://pisastone.co.uk/quartz-worktops/lumina-stone",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "lumina-stone--statuario-venato",
@@ -36323,13 +36520,24 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://pisastone.co.uk/quartz-worktops/lumina-stone",
    "image": {
     "file": "",
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Lumina Stone quartz worktop · Polished finish",
+   "images": [
+    {
+     "file": "lumina-stone--statuario-venato--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://pisastone.co.uk/quartz-worktops/lumina-stone",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "lumina-stone--super-white-marble",
@@ -36342,13 +36550,24 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://pisastone.co.uk/quartz-worktops/lumina-stone",
    "image": {
     "file": "",
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Lumina Stone quartz worktop · Polished & S-Tech finish",
+   "images": [
+    {
+     "file": "lumina-stone--super-white-marble--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://pisastone.co.uk/quartz-worktops/lumina-stone",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "lumina-stone--urban-cemento",
@@ -36361,13 +36580,33 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://luminastone.eu/portfolio/cemento-urban/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
-    "borrowedFrom": ""
-   }
+    "file": "lumina-stone--urban-cemento.webp",
+    "status": "slab",
+    "source": "https://luminastone.eu/portfolio/cemento-urban/",
+    "borrowedFrom": "",
+    "scale": "approx"
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Lumina Stone quartz worktop · Silica-Free finish",
+   "images": [
+    {
+     "file": "lumina-stone--urban-cemento.webp",
+     "status": "slab",
+     "source": "https://luminastone.eu/portfolio/cemento-urban/",
+     "borrowedFrom": "",
+     "scale": "approx",
+     "kind": "slab"
+    },
+    {
+     "file": "lumina-stone--urban-cemento--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://luminastone.eu/portfolio/cemento-urban/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "lumina-stone--white-sand",
@@ -36380,13 +36619,45 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://luminastone.eu/portfolio/white-sand/",
    "image": {
     "file": "lumina-stone--white-sand.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Lumina Stone quartz worktop · Polished finish",
+   "images": [
+    {
+     "file": "lumina-stone--white-sand.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "lumina-stone--white-sand--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://luminastone.eu/portfolio/white-sand/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "lumina-stone--white-sand--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://luminastone.eu/portfolio/white-sand/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "lumina-stone--white-sand--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://pisastone.co.uk/quartz-worktops/lumina-stone",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "lumina-stone--white-swan",
@@ -36399,13 +36670,52 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://luminastone.eu/portfolio/white-swan/",
    "image": {
     "file": "lumina-stone--white-swan.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Lumina Stone quartz worktop · Polished finish",
+   "images": [
+    {
+     "file": "lumina-stone--white-swan.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "lumina-stone--white-swan--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://luminastone.eu/portfolio/white-swan/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "lumina-stone--white-swan--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://luminastone.eu/portfolio/white-swan/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "lumina-stone--white-swan--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://luminastone.eu/portfolio/white-swan/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "lumina-stone--white-swan--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://pisastone.co.uk/quartz-worktops/lumina-stone",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "luxestone--amber",
