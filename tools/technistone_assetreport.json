@@ -1,0 +1,470 @@
+{
+ "Altamonte": {
+  "folder": "Altamonte",
+  "n_closeup": 3,
+  "n_room": 6,
+  "n_slabish": 5,
+  "n_other": 0,
+  "n_skipped": 3,
+  "other": []
+ },
+ "Badal Grey": {
+  "folder": "Badal Grey",
+  "n_closeup": 1,
+  "n_room": 6,
+  "n_slabish": 2,
+  "n_other": 0,
+  "n_skipped": 0,
+  "other": []
+ },
+ "Brilliant Arabesco": {
+  "folder": "Brilliant arabesco",
+  "n_closeup": 1,
+  "n_room": 6,
+  "n_slabish": 3,
+  "n_other": 3,
+  "n_skipped": 2,
+  "other": [
+   "brilliant-arabesco-mediaPackage-lowRes\\technistone brilliant arabesco 1.jpg",
+   "brilliant-arabesco-mediaPackage-lowRes\\technistone brilliant arabesco 2.jpg",
+   "brilliant-arabesco-mediaPackage-lowRes\\technistone brilliant arabesco 3.jpg"
+  ]
+ },
+ "Brilliant Black": {
+  "folder": "Brilliant_Black",
+  "n_closeup": 1,
+  "n_room": 17,
+  "n_slabish": 3,
+  "n_other": 0,
+  "n_skipped": 1,
+  "other": []
+ },
+ "Brilliant White": {
+  "folder": "Brilliant White",
+  "n_closeup": 1,
+  "n_room": 29,
+  "n_slabish": 3,
+  "n_other": 0,
+  "n_skipped": 2,
+  "other": []
+ },
+ "Bronze Coast": {
+  "folder": "Bronze Coast",
+  "n_closeup": 1,
+  "n_room": 11,
+  "n_slabish": 2,
+  "n_other": 0,
+  "n_skipped": 2,
+  "other": []
+ },
+ "Calacatta Olympos": {
+  "folder": "Calacatta Olympos",
+  "n_closeup": 1,
+  "n_room": 10,
+  "n_slabish": 2,
+  "n_other": 0,
+  "n_skipped": 2,
+  "other": []
+ },
+ "Calacatta Serchio": {
+  "folder": "Calacatta Serchio",
+  "n_closeup": 1,
+  "n_room": 7,
+  "n_slabish": 2,
+  "n_other": 0,
+  "n_skipped": 2,
+  "other": []
+ },
+ "Calacatta Volegno": {
+  "folder": "Calacatta Volegno",
+  "n_closeup": 1,
+  "n_room": 12,
+  "n_slabish": 2,
+  "n_other": 0,
+  "n_skipped": 2,
+  "other": []
+ },
+ "Crystal Absolute White": {
+  "folder": "Crystal_Absolute_White-",
+  "n_closeup": 1,
+  "n_room": 38,
+  "n_slabish": 3,
+  "n_other": 0,
+  "n_skipped": 2,
+  "other": []
+ },
+ "Crystal Diamond": {
+  "folder": "Crystal Diamond",
+  "n_closeup": 0,
+  "n_room": 24,
+  "n_slabish": 1,
+  "n_other": 0,
+  "n_skipped": 0,
+  "other": []
+ },
+ "Crystal Nevada": {
+  "folder": "Crystal_Nevada",
+  "n_closeup": 1,
+  "n_room": 6,
+  "n_slabish": 3,
+  "n_other": 0,
+  "n_skipped": 1,
+  "other": []
+ },
+ "Crystal Polar White": {
+  "folder": "Crystal_Polar_White",
+  "n_closeup": 1,
+  "n_room": 43,
+  "n_slabish": 3,
+  "n_other": 0,
+  "n_skipped": 1,
+  "other": []
+ },
+ "Crystal Royal": {
+  "folder": "Crystal_Royal",
+  "n_closeup": 1,
+  "n_room": 15,
+  "n_slabish": 3,
+  "n_other": 0,
+  "n_skipped": 1,
+  "other": []
+ },
+ "Duna Beige": {
+  "folder": "Duna Beige",
+  "n_closeup": 1,
+  "n_room": 6,
+  "n_slabish": 1,
+  "n_other": 0,
+  "n_skipped": 0,
+  "other": []
+ },
+ "Elegance Eco Nev": {
+  "folder": "Elegance-Eco-Nev",
+  "n_closeup": 1,
+  "n_room": 23,
+  "n_slabish": 3,
+  "n_other": 0,
+  "n_skipped": 1,
+  "other": []
+ },
+ "Elysian Gold": {
+  "folder": "Elysian Gold",
+  "n_closeup": 1,
+  "n_room": 4,
+  "n_slabish": 2,
+  "n_other": 0,
+  "n_skipped": 0,
+  "other": []
+ },
+ "Glencoe": {
+  "folder": "Glencoe",
+  "n_closeup": 1,
+  "n_room": 21,
+  "n_slabish": 2,
+  "n_other": 1,
+  "n_skipped": 3,
+  "other": [
+   "glencoe-mediaPackage-lowRes\\Technistone glencoe-full Slab.jpg"
+  ]
+ },
+ "Gobi Black": {
+  "folder": "Gobi_Black-",
+  "n_closeup": 1,
+  "n_room": 53,
+  "n_slabish": 2,
+  "n_other": 0,
+  "n_skipped": 1,
+  "other": []
+ },
+ "Gobi Urban": {
+  "folder": "Gobi Urban",
+  "n_closeup": 1,
+  "n_room": 8,
+  "n_slabish": 3,
+  "n_other": 0,
+  "n_skipped": 1,
+  "other": []
+ },
+ "Harmonia Navajo": {
+  "folder": "Harmonia Navajo",
+  "n_closeup": 1,
+  "n_room": 6,
+  "n_slabish": 2,
+  "n_other": 0,
+  "n_skipped": 2,
+  "other": []
+ },
+ "Mistral White": {
+  "folder": "Mistral White",
+  "n_closeup": 1,
+  "n_room": 7,
+  "n_slabish": 1,
+  "n_other": 0,
+  "n_skipped": 0,
+  "other": []
+ },
+ "Morning Daisy": {
+  "folder": "Morning Daisy",
+  "n_closeup": 1,
+  "n_room": 7,
+  "n_slabish": 2,
+  "n_other": 0,
+  "n_skipped": 2,
+  "other": []
+ },
+ "Mystery White": {
+  "folder": "Mystery-White",
+  "n_closeup": 1,
+  "n_room": 28,
+  "n_slabish": 3,
+  "n_other": 0,
+  "n_skipped": 1,
+  "other": []
+ },
+ "Noble Arco": {
+  "folder": "Noble-Arco",
+  "n_closeup": 1,
+  "n_room": 30,
+  "n_slabish": 3,
+  "n_other": 0,
+  "n_skipped": 2,
+  "other": []
+ },
+ "Noble Areti Bianco": {
+  "folder": "Noble_Areti_Bianco",
+  "n_closeup": 1,
+  "n_room": 46,
+  "n_slabish": 3,
+  "n_other": 0,
+  "n_skipped": 1,
+  "other": []
+ },
+ "Noble Athos Brown": {
+  "folder": "Noble_athos_brown",
+  "n_closeup": 1,
+  "n_room": 11,
+  "n_slabish": 3,
+  "n_other": 0,
+  "n_skipped": 1,
+  "other": []
+ },
+ "Noble Carrara": {
+  "folder": "Noble-Carrara-",
+  "n_closeup": 1,
+  "n_room": 12,
+  "n_slabish": 3,
+  "n_other": 0,
+  "n_skipped": 2,
+  "other": []
+ },
+ "Noble Concrete Grey": {
+  "folder": "Noble Concrete grey",
+  "n_closeup": 2,
+  "n_room": 30,
+  "n_slabish": 2,
+  "n_other": 3,
+  "n_skipped": 2,
+  "other": [
+   "noble-concrete-grey-mediaPackage-lowRes\\Noble Concrete Grey_kitchen.png",
+   "noble-concrete-grey-mediaPackage-lowRes\\Noble Concrete Grey_sample.png",
+   "noble-concrete-grey-mediaPackage-lowRes\\Noble Concrete Grey_SLAB.png"
+  ]
+ },
+ "Noble Ivory White": {
+  "folder": "Noble_ivory_white",
+  "n_closeup": 1,
+  "n_room": 19,
+  "n_slabish": 3,
+  "n_other": 0,
+  "n_skipped": 1,
+  "other": []
+ },
+ "Noble Olympos Mist": {
+  "folder": "Noble_olympos_mist",
+  "n_closeup": 1,
+  "n_room": 22,
+  "n_slabish": 3,
+  "n_other": 0,
+  "n_skipped": 2,
+  "other": []
+ },
+ "Noble Pietra Grey": {
+  "folder": "Noble_pietra_grey",
+  "n_closeup": 1,
+  "n_room": 26,
+  "n_slabish": 3,
+  "n_other": 0,
+  "n_skipped": 2,
+  "other": []
+ },
+ "Noble Portland Grey": {
+  "folder": "Noble Portland Grey",
+  "n_closeup": 2,
+  "n_room": 30,
+  "n_slabish": 3,
+  "n_other": 0,
+  "n_skipped": 3,
+  "other": []
+ },
+ "Noble Pro Cloud": {
+  "folder": "Noble-Pro-Cloud",
+  "n_closeup": 1,
+  "n_room": 9,
+  "n_slabish": 3,
+  "n_other": 0,
+  "n_skipped": 1,
+  "other": []
+ },
+ "Noble Pro Frost": {
+  "folder": "Noble-Pro-Frost",
+  "n_closeup": 1,
+  "n_room": 12,
+  "n_slabish": 3,
+  "n_other": 0,
+  "n_skipped": 1,
+  "other": []
+ },
+ "Noble Pro Storm": {
+  "folder": "Noble Pro storm",
+  "n_closeup": 2,
+  "n_room": 9,
+  "n_slabish": 2,
+  "n_other": 2,
+  "n_skipped": 1,
+  "other": [
+   "noble-pro-storm-mediaPackage-lowRes\\nobel pro storm 1.jpg",
+   "noble-pro-storm-mediaPackage-lowRes\\nobel pro storm 2.jpg"
+  ]
+ },
+ "Noble Quartzite": {
+  "folder": "Noble quartzite",
+  "n_closeup": 2,
+  "n_room": 46,
+  "n_slabish": 3,
+  "n_other": 0,
+  "n_skipped": 4,
+  "other": []
+ },
+ "Noble Supreme White": {
+  "folder": "Noble-Supreme-White-",
+  "n_closeup": 1,
+  "n_room": 26,
+  "n_slabish": 3,
+  "n_other": 0,
+  "n_skipped": 1,
+  "other": []
+ },
+ "Noble Vintage": {
+  "folder": "Noble vintage",
+  "n_closeup": 2,
+  "n_room": 13,
+  "n_slabish": 2,
+  "n_other": 10,
+  "n_skipped": 5,
+  "other": [
+   "noble-vintage-mediaPackage-lowRes (1)\\2022_Noble Vintage_1.jpg",
+   "noble-vintage-mediaPackage-lowRes (1)\\2022_Noble Vintage_3.jpg",
+   "noble-vintage-mediaPackage-lowRes (1)\\2022_Noble Vintage_4.jpg",
+   "noble-vintage-mediaPackage-lowRes (1)\\2022_Noble Vintage_6.jpg",
+   "noble-vintage-mediaPackage-lowRes (1)\\2022_Noble Vintage_7.jpg",
+   "noble-vintage-mediaPackage-lowRes (1)\\2022_Noble Vintage_product shot.jpg"
+  ]
+ },
+ "Pearl Delta": {
+  "folder": "Pearl Delta",
+  "n_closeup": 1,
+  "n_room": 9,
+  "n_slabish": 2,
+  "n_other": 0,
+  "n_skipped": 2,
+  "other": []
+ },
+ "Residente Dark": {
+  "folder": "Residente-Dark",
+  "n_closeup": 1,
+  "n_room": 17,
+  "n_slabish": 3,
+  "n_other": 0,
+  "n_skipped": 2,
+  "other": []
+ },
+ "Starlight Black": {
+  "folder": "Starlight black",
+  "n_closeup": 1,
+  "n_room": 64,
+  "n_slabish": 3,
+  "n_other": 0,
+  "n_skipped": 2,
+  "other": []
+ },
+ "Starlight White": {
+  "folder": "Starlight White",
+  "n_closeup": 1,
+  "n_room": 26,
+  "n_slabish": 3,
+  "n_other": 0,
+  "n_skipped": 1,
+  "other": []
+ },
+ "Taj Mahal Gold": {
+  "folder": "Taj Mahal Gold",
+  "n_closeup": 1,
+  "n_room": 6,
+  "n_slabish": 1,
+  "n_other": 0,
+  "n_skipped": 0,
+  "other": []
+ },
+ "Taurus Black": {
+  "folder": "Taurus-Black",
+  "n_closeup": 1,
+  "n_room": 20,
+  "n_slabish": 3,
+  "n_other": 0,
+  "n_skipped": 1,
+  "other": []
+ },
+ "Taurus Terazzo White": {
+  "folder": "Taurus-Terazzo-White",
+  "n_closeup": 1,
+  "n_room": 29,
+  "n_slabish": 3,
+  "n_other": 0,
+  "n_skipped": 2,
+  "other": []
+ },
+ "Verde Peak": {
+  "folder": "Verde peak",
+  "n_closeup": 2,
+  "n_room": 6,
+  "n_slabish": 2,
+  "n_other": 6,
+  "n_skipped": 3,
+  "other": [
+   "Verde Peak technistone  slab image.jpg",
+   "Verde Peak technistone kitchen 2.jpg",
+   "Verde Peak technistone kitchen 3.jpg",
+   "Verde Peak technistone kitchen.jpg",
+   "Verde Peak technistone media wall.jpg",
+   "verde peak.jpg"
+  ]
+ },
+ "Wedding Lily": {
+  "folder": "Wedding Lily",
+  "n_closeup": 1,
+  "n_room": 7,
+  "n_slabish": 2,
+  "n_other": 0,
+  "n_skipped": 2,
+  "other": []
+ },
+ "Wild Yucca": {
+  "folder": "Wild Yuka",
+  "n_closeup": 1,
+  "n_room": 7,
+  "n_slabish": 2,
+  "n_other": 0,
+  "n_skipped": 2,
+  "other": []
+ }
+}
