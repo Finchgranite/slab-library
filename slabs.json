@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T07:44:02Z",
+ "generated": "2026-08-25T08:08:07Z",
  "slabs": [
   {
    "id": "akg-surfaces--adira-bronze",
@@ -47580,13 +47580,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.quartzhub.co.uk/gallery/",
    "image": {
     "file": "quartz-hub--arabescatta-oro.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz Hub · Quartz · Polished finish · 20mm/30mm",
+   "images": [
+    {
+     "file": "quartz-hub--arabescatta-oro.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartz-hub--arabescatta-oro--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzhub.co.uk/gallery/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartz-hub--arabesque",
@@ -47598,13 +47616,31 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "https://www.quartzhub.co.uk/?s=Arabesque",
+   "productUrl": "https://www.quartzhub.co.uk/gallery/",
    "image": {
     "file": "quartz-hub--arabesque.webp",
     "status": "slab",
     "source": "quartzhub.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600",
+   "details": "Quartz Hub · Ceramic · Matt finish · 20mm",
+   "images": [
+    {
+     "file": "quartz-hub--arabesque.webp",
+     "status": "slab",
+     "source": "quartzhub.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartz-hub--arabesque--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzhub.co.uk/gallery/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartz-hub--black-marquina",
@@ -47617,13 +47653,31 @@
     20,
     30
    ],
-   "productUrl": "https://www.quartzhub.co.uk/?s=Black+Marquina",
+   "productUrl": "https://www.quartzhub.co.uk/gallery/",
    "image": {
     "file": "quartz-hub--black-marquina.webp",
     "status": "slab",
     "source": "quartzhub.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz Hub · Quartz · Polished finish · 20mm/30mm",
+   "images": [
+    {
+     "file": "quartz-hub--black-marquina.webp",
+     "status": "slab",
+     "source": "quartzhub.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartz-hub--black-marquina--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzhub.co.uk/gallery/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartz-hub--calacatta-aurous",
@@ -47636,13 +47690,31 @@
     20,
     30
    ],
-   "productUrl": "https://www.quartzhub.co.uk/?s=Calacatta+Aurous",
+   "productUrl": "https://www.quartzhub.co.uk/gallery/",
    "image": {
     "file": "quartz-hub--calacatta-aurous.webp",
     "status": "slab",
     "source": "quartzhub.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz Hub · Quartz · Polished finish · 20mm/30mm",
+   "images": [
+    {
+     "file": "quartz-hub--calacatta-aurous.webp",
+     "status": "slab",
+     "source": "quartzhub.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartz-hub--calacatta-aurous--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzhub.co.uk/gallery/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartz-hub--calacatta-light",
@@ -47655,13 +47727,31 @@
     20,
     30
    ],
-   "productUrl": "https://www.quartzhub.co.uk/?s=Calacatta+Light",
+   "productUrl": "https://www.quartzhub.co.uk/gallery/",
    "image": {
     "file": "quartz-hub--calacatta-light.webp",
     "status": "slab",
     "source": "quartzhub.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz Hub · Quartz · Polished finish · 20mm/30mm",
+   "images": [
+    {
+     "file": "quartz-hub--calacatta-light.webp",
+     "status": "slab",
+     "source": "quartzhub.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartz-hub--calacatta-light--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzhub.co.uk/gallery/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartz-hub--calacatta-platinum",
@@ -47674,13 +47764,31 @@
     20,
     30
    ],
-   "productUrl": "https://www.quartzhub.co.uk/?s=Calacatta+Platinum",
+   "productUrl": "https://www.quartzhub.co.uk/gallery/",
    "image": {
     "file": "quartz-hub--calacatta-platinum.webp",
     "status": "slab",
     "source": "quartzhub.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz Hub · Quartz · Polished finish · 20mm/30mm",
+   "images": [
+    {
+     "file": "quartz-hub--calacatta-platinum.webp",
+     "status": "slab",
+     "source": "quartzhub.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartz-hub--calacatta-platinum--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzhub.co.uk/gallery/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartz-hub--carrara-classic",
@@ -47693,13 +47801,31 @@
     20,
     30
    ],
-   "productUrl": "https://www.quartzhub.co.uk/?s=Carrara+Classic",
+   "productUrl": "https://www.quartzhub.co.uk/gallery/",
    "image": {
     "file": "quartz-hub--carrara-classic.webp",
     "status": "slab",
     "source": "quartzhub.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz Hub · Quartz · Polished finish · 20mm/30mm",
+   "images": [
+    {
+     "file": "quartz-hub--carrara-classic.webp",
+     "status": "slab",
+     "source": "quartzhub.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartz-hub--carrara-classic--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzhub.co.uk/gallery/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartz-hub--carrara-michelangelo",
@@ -47712,13 +47838,31 @@
     20,
     30
    ],
-   "productUrl": "https://www.quartzhub.co.uk/?s=Carrara+Michelangelo",
+   "productUrl": "https://www.quartzhub.co.uk/gallery/",
    "image": {
     "file": "quartz-hub--carrara-michelangelo.webp",
     "status": "slab",
     "source": "quartzhub.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz Hub · Quartz · Polished finish · 20mm/30mm",
+   "images": [
+    {
+     "file": "quartz-hub--carrara-michelangelo.webp",
+     "status": "slab",
+     "source": "quartzhub.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartz-hub--carrara-michelangelo--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzhub.co.uk/gallery/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartz-hub--carrara-sky",
@@ -47731,13 +47875,31 @@
     20,
     30
    ],
-   "productUrl": "https://www.quartzhub.co.uk/?s=Carrara+Sky",
+   "productUrl": "https://www.quartzhub.co.uk/gallery/",
    "image": {
     "file": "quartz-hub--carrara-sky.webp",
     "status": "slab",
     "source": "quartzhub.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz Hub · Quartz · Polished finish · 20mm/30mm",
+   "images": [
+    {
+     "file": "quartz-hub--carrara-sky.webp",
+     "status": "slab",
+     "source": "quartzhub.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartz-hub--carrara-sky--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzhub.co.uk/gallery/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartz-hub--celeste-white",
@@ -47749,13 +47911,31 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "https://www.quartzhub.co.uk/?s=Celeste+White",
+   "productUrl": "https://www.quartzhub.co.uk/gallery/",
    "image": {
     "file": "quartz-hub--celeste-white.webp",
     "status": "slab",
     "source": "quartzhub.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600",
+   "details": "Quartz Hub · Ceramic · Matt finish · 20mm",
+   "images": [
+    {
+     "file": "quartz-hub--celeste-white.webp",
+     "status": "slab",
+     "source": "quartzhub.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartz-hub--celeste-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzhub.co.uk/gallery/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartz-hub--laurent",
@@ -47767,13 +47947,15 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "https://www.quartzhub.co.uk/?s=Laurent",
+   "productUrl": "https://www.quartzhub.co.uk/gallery/",
    "image": {
     "file": "quartz-hub--laurent.webp",
     "status": "slab",
     "source": "quartzhub.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600",
+   "details": "Quartz Hub · Ceramic · Matt finish · 20mm"
   },
   {
    "id": "quartz-hub--onyx-crema",
@@ -47786,13 +47968,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.quartzhub.co.uk/?s=Onyx+Crema",
+   "productUrl": "https://www.quartzhub.co.uk/gallery/",
    "image": {
     "file": "quartz-hub--onyx-crema.webp",
-    "status": "closeup-only",
-    "source": "quartzhub.co.uk",
+    "status": "slab",
+    "source": "https://www.quartzhub.co.uk/gallery/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz Hub · Quartz · Polished finish · 20mm/30mm",
+   "images": [
+    {
+     "file": "quartz-hub--onyx-crema.webp",
+     "status": "slab",
+     "source": "https://www.quartzhub.co.uk/gallery/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartz-hub--onyx-crema--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzhub.co.uk/gallery/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartz-hub--onyx-crema--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzhub.co.uk/gallery/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartz-hub--roma-gold",
@@ -47804,13 +48011,31 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "https://www.quartzhub.co.uk/?s=Roma+Gold",
+   "productUrl": "https://www.quartzhub.co.uk/gallery/",
    "image": {
     "file": "quartz-hub--roma-gold.webp",
     "status": "slab",
     "source": "quartzhub.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600",
+   "details": "Quartz Hub · Ceramic · Matt finish · 20mm",
+   "images": [
+    {
+     "file": "quartz-hub--roma-gold.webp",
+     "status": "slab",
+     "source": "quartzhub.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartz-hub--roma-gold--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzhub.co.uk/gallery/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartz-hub--statuario-oro",
@@ -47822,13 +48047,31 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "https://www.quartzhub.co.uk/?s=Statuario+Oro",
+   "productUrl": "https://www.quartzhub.co.uk/gallery/",
    "image": {
     "file": "quartz-hub--statuario-oro.webp",
     "status": "slab",
     "source": "quartzhub.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600",
+   "details": "Quartz Hub · Ceramic · Matt finish · 20mm",
+   "images": [
+    {
+     "file": "quartz-hub--statuario-oro.webp",
+     "status": "slab",
+     "source": "quartzhub.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartz-hub--statuario-oro--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzhub.co.uk/gallery/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartz-hub--taj-mahal",
@@ -47841,13 +48084,31 @@
     20,
     30
    ],
-   "productUrl": "https://www.quartzhub.co.uk/?s=Taj+Mahal",
+   "productUrl": "https://www.quartzhub.co.uk/gallery/",
    "image": {
     "file": "quartz-hub--taj-mahal.webp",
     "status": "slab",
     "source": "quartzhub.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz Hub · Quartz · Polished finish · 20mm/30mm",
+   "images": [
+    {
+     "file": "quartz-hub--taj-mahal.webp",
+     "status": "slab",
+     "source": "quartzhub.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartz-hub--taj-mahal--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzhub.co.uk/gallery/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--absolute-white-400",

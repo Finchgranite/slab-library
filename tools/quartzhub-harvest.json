@@ -1,0 +1,250 @@
+{
+ "productUrl": "https://www.quartzhub.co.uk/gallery/",
+ "by_colour": {
+  "Onyx Crema": {
+   "slab": [
+    {
+     "url": "https://quartzhub.co.uk/storage/2025/10/1.Onyx-Creame-30mm-and-20mm.jpg",
+     "width": 2387,
+     "height": 1204,
+     "caption": "Onyx Crema 30mm and 20mm",
+     "kind": "slab",
+     "source": "https://www.quartzhub.co.uk/gallery/"
+    }
+   ],
+   "closeup": [
+    {
+     "url": "https://quartzhub.co.uk/storage/2025/10/2.-Onyx-Creame-30mm-and-20mm-swatch-image.jpg",
+     "width": 2560,
+     "height": 1706,
+     "caption": "Onyx Crema 30mm and 20mm",
+     "kind": "closeup",
+     "source": "https://www.quartzhub.co.uk/gallery/"
+    }
+   ],
+   "room": [
+    {
+     "url": "https://quartzhub.co.uk/storage/2025/10/3.-Onyx-Creame-Lit-up-2.jpg",
+     "width": 2560,
+     "height": 1707,
+     "caption": "Onyx Crema (Quartz) 20mm and 30mm - Backlit",
+     "kind": "room",
+     "source": "https://www.quartzhub.co.uk/gallery/"
+    }
+   ]
+  },
+  "Taj Mahal": {
+   "slab": [],
+   "closeup": [
+    {
+     "url": "https://quartzhub.co.uk/storage/2025/03/Taj-Mahal-20mm-and-30mm-swatch-image-1.jpg",
+     "width": 2560,
+     "height": 1707,
+     "caption": "Taj Mahal 20mm and 30mm",
+     "kind": "closeup",
+     "source": "https://www.quartzhub.co.uk/gallery/"
+    }
+   ],
+   "room": []
+  },
+  "Arabescatta Oro": {
+   "slab": [],
+   "closeup": [
+    {
+     "url": "https://quartzhub.co.uk/storage/2025/03/Arabes-catta-Oro-20mm-and-30mm-swatch-image-1.jpg",
+     "width": 2560,
+     "height": 1707,
+     "caption": "Arabes-catta Oro 20mm and 30mm",
+     "kind": "closeup",
+     "source": "https://www.quartzhub.co.uk/gallery/"
+    }
+   ],
+   "room": []
+  },
+  "Calacatta Platinum": {
+   "slab": [],
+   "closeup": [
+    {
+     "url": "https://quartzhub.co.uk/storage/2024/08/Calacatta-Platinum-20mm-and-30mm-1.jpg",
+     "width": 2560,
+     "height": 2560,
+     "caption": "Calacatta Platinum 20mm and 30mm",
+     "kind": "closeup",
+     "source": "https://www.quartzhub.co.uk/gallery/"
+    }
+   ],
+   "room": []
+  },
+  "Statuario Oro": {
+   "slab": [],
+   "closeup": [
+    {
+     "url": "https://quartzhub.co.uk/storage/2025/03/Statuario-Oro-ceramic-20mm-swatch-image-1.jpg",
+     "width": 2560,
+     "height": 1707,
+     "caption": "Statuario Oro (Ceramic) 20mm",
+     "kind": "closeup",
+     "source": "https://www.quartzhub.co.uk/gallery/"
+    }
+   ],
+   "room": []
+  },
+  "Arabesque": {
+   "slab": [],
+   "closeup": [
+    {
+     "url": "https://quartzhub.co.uk/storage/2025/03/Arabesque-ceramic-20mm-swatch-image-1.jpg",
+     "width": 2560,
+     "height": 1707,
+     "caption": "Arabesque (Ceramic) 20mm",
+     "kind": "closeup",
+     "source": "https://www.quartzhub.co.uk/gallery/"
+    }
+   ],
+   "room": []
+  },
+  "Celeste White": {
+   "slab": [],
+   "closeup": [
+    {
+     "url": "https://quartzhub.co.uk/storage/2025/03/Celeste-White-ceramic-20mm-swatch-image-1.jpg",
+     "width": 2560,
+     "height": 1707,
+     "caption": "Celeste White (Ceramic) 20mm",
+     "kind": "closeup",
+     "source": "https://www.quartzhub.co.uk/gallery/"
+    }
+   ],
+   "room": []
+  },
+  "Roma Gold": {
+   "slab": [],
+   "closeup": [
+    {
+     "url": "https://quartzhub.co.uk/storage/2025/03/Roma-Gold-ceramic-20mm-swatch-image-1.jpg",
+     "width": 2560,
+     "height": 1707,
+     "caption": "Roma Gold (Ceramic) 20mm",
+     "kind": "closeup",
+     "source": "https://www.quartzhub.co.uk/gallery/"
+    }
+   ],
+   "room": []
+  },
+  "Black Marquina": {
+   "slab": [],
+   "closeup": [
+    {
+     "url": "https://quartzhub.co.uk/storage/2024/08/Black-Marquina-20mm-and-30mm-1.jpg",
+     "width": 2560,
+     "height": 2560,
+     "caption": "Black Marquina 20mm and 30mm",
+     "kind": "closeup",
+     "source": "https://www.quartzhub.co.uk/gallery/"
+    }
+   ],
+   "room": []
+  },
+  "Carrara Sky": {
+   "slab": [],
+   "closeup": [
+    {
+     "url": "https://quartzhub.co.uk/storage/2024/08/Carrara-Sky-20mm-and-30mm-1.jpg",
+     "width": 2560,
+     "height": 2560,
+     "caption": "Carrara Sky 20mm and 30mm",
+     "kind": "closeup",
+     "source": "https://www.quartzhub.co.uk/gallery/"
+    }
+   ],
+   "room": []
+  },
+  "Carrara Michelangelo": {
+   "slab": [],
+   "closeup": [
+    {
+     "url": "https://quartzhub.co.uk/storage/2024/08/Carrara-Michaelangelo-20mm-and-30mm-1.jpg",
+     "width": 2560,
+     "height": 2560,
+     "caption": "Carrara Michelangelo 20mm and 30mm",
+     "kind": "closeup",
+     "source": "https://www.quartzhub.co.uk/gallery/"
+    }
+   ],
+   "room": []
+  },
+  "Carrara Classic": {
+   "slab": [],
+   "closeup": [
+    {
+     "url": "https://quartzhub.co.uk/storage/2024/08/Carrara-Classic-20mm-and-30mm-1.jpg",
+     "width": 2560,
+     "height": 2560,
+     "caption": "Carrara Classic 20mm and 30mm",
+     "kind": "closeup",
+     "source": "https://www.quartzhub.co.uk/gallery/"
+    },
+    {
+     "url": "https://quartzhub.co.uk/storage/2022/11/Carrara-Classic-close-up-image-scaled-e1668039123103.jpg",
+     "width": null,
+     "height": null,
+     "caption": "Carrara Classic",
+     "kind": "closeup",
+     "source": "https://www.quartzhub.co.uk/"
+    }
+   ],
+   "room": []
+  },
+  "Calacatta Light": {
+   "slab": [],
+   "closeup": [
+    {
+     "url": "https://quartzhub.co.uk/storage/2024/08/Calacatta-Light-20mm-and-30mm-1.jpg",
+     "width": 2560,
+     "height": 2560,
+     "caption": "Calacatta Light 20mm and 30mm",
+     "kind": "closeup",
+     "source": "https://www.quartzhub.co.uk/gallery/"
+    }
+   ],
+   "room": []
+  },
+  "Calacatta Aurous": {
+   "slab": [],
+   "closeup": [
+    {
+     "url": "https://quartzhub.co.uk/storage/2024/08/Calacatta-Aurous-20mm-and-30mm.jpeg",
+     "width": 2560,
+     "height": 2560,
+     "caption": "Calacatta Aurous 20mm and 30mm",
+     "kind": "closeup",
+     "source": "https://www.quartzhub.co.uk/gallery/"
+    }
+   ],
+   "room": []
+  }
+ },
+ "unmatched_site": {
+  "Ultra White Shimmer": [
+   {
+    "url": "https://quartzhub.co.uk/storage/2024/08/Ultra-White-Shimmer-20mm-and-30mm-1.jpg",
+    "width": 2560,
+    "height": 2560,
+    "caption": "Ultra White Shimmer 20mm and 30mm",
+    "kind": "closeup",
+    "source": "https://www.quartzhub.co.uk/gallery/"
+   }
+  ]
+ },
+ "unmatched_pb": [
+  "Laurent"
+ ],
+ "extra_hits_non_gallery_pages": [
+  [
+   "home",
+   "Carrara Classic",
+   "closeup",
+   "https://quartzhub.co.uk/storage/2022/11/Carrara-Classic-close-up-image-scaled-e1668039123103.jpg"
+  ]
+ ]
+}
