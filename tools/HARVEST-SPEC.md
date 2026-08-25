@@ -85,6 +85,11 @@ use those constants.** The `thefi` paths below are the home-PC spellings.
   `details` starts with the brand + range ("Atlas Plan · Marble Look · 12mm hammered/natural…"),
   `productUrl` = the brand's own page when one exists, else the distributor page. Images from
   the brand site first (better photography), distributor site as fallback/verifier.
+- **LuxeStone = Bloomstones** (Graham, 2026-08-25): LuxeStone is Bloomstones' own brand name
+  for part of their quartz range — same company, no website of its own, and the 22 LuxeStone
+  colours are NOT on bloomstoneslondon.com either (checked live 2026-08-25). Keep the entries
+  under `supplier: "LuxeStone"` (price-book string) and add `suppliers: ["Bloomstones"]` when
+  their photos arrive; one Bloomstones enquiry covers both ranges.
 - **Bot-blocked sites** (neolith.com): do not fight it; use the distributor's pages, note it
   in the report, and list the colours whose photos are low-res so a browser pass can be done
   later by the orchestrator.
