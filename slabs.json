@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T08:26:21Z",
+ "generated": "2026-08-25T08:42:05Z",
  "slabs": [
   {
    "id": "akg-surfaces--adira-bronze",
@@ -53345,7 +53345,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Absolute range; Finishes: polished, matt; Absolute slabs create extremely pure and intense surfaces, made even more attractive and deep by their impressive grain, as fine as stardust. Their unquestionable elegance enhances every space, from kitchen and bathroom counters to facing and flooring.",
+   "images": [
+    {
+     "file": "quartzforms--absolute-white-400.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--absolute-white-400--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/absolute-white/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--absolute-white-400--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/absolute-white/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--absolute-white-400--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/absolute-white/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--add-top-crystal-700",
@@ -53364,7 +53396,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Add range; Finishes: polished, matt; medium grain; The light background of the Top Crystal quartz agglomerate slab is dotted with alternating fine-grain and medium-grain quartz in various natural colours, with occasional translucent glimmers of light. This timeless style enhances all kinds of contex",
+   "images": [
+    {
+     "file": "quartzforms--add-top-crystal-700.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--add-top-crystal-700--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/add-top-crystal/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--add-top-crystal-black-705",
@@ -53383,7 +53433,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "Add range; Finishes: polished, matt; medium grain; Black always conveys character, style, elegance. The black of the Top Crystal Black slab is illuminated and enlivened by a dense constellation of luminous glitter. The eye-catching surface adds sophisticated appeal to all interiors where it is inclu",
+   "images": [
+    {
+     "file": "quartzforms--add-top-crystal-black-705.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--add-top-crystal-black-705--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/add-top-crystal-black/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--brazilian-canadian-white-205",
@@ -53402,7 +53470,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Brazilian range; Finishes: polished, matt; coarse grain; This slab, with irregular medium grain, creates surfaces with a texture covering areas in different shades of colour, extending over a light and luminous background. Ideal for facing and flooring, also in large interiors, and perfect for kitch",
+   "images": [
+    {
+     "file": "quartzforms--brazilian-canadian-white-205.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--brazilian-canadian-white-205--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/brazilian-canadian-white/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--brazilian-canadian-white-205--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/brazilian-canadian-white/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--brazilian-canadian-white-205--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/brazilian-canadian-white/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--breeze-ashen-light-800",
@@ -53421,7 +53521,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "Breeze range; Finishes: polished, matt; widespread veins; This slab features a warm and elegant colour, with a fine uneven grain crossed by small light-coloured through veining. With its timeless charm, Ashen Light is perfect for use in both classic and contemporary contexts.",
+   "images": [
+    {
+     "file": "quartzforms--breeze-ashen-light-800.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--breeze-ashen-light-800--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/breeze-ashen-light/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--breeze-ashen-light-800--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/breeze-ashen-light/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--breeze-ashen-light-800--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/breeze-ashen-light/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--breeze-blanc-805",
@@ -53440,7 +53572,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "Breeze range; Finishes: polished, matt; widespread veins; A light, bright background, illuminated by intermittent soft glimmers of light. The Blanc slab, the lightest in the Breeze collection, is for those who prefer a sober and composed style, but with a strong and distinctly contemporary character",
+   "images": [
+    {
+     "file": "quartzforms--breeze-blanc-805.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--breeze-blanc-805--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/breeze-blanc/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--breeze-blanc-805--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/breeze-blanc/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--breeze-blanc-805--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/breeze-blanc/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--breeze-hull-830",
@@ -53459,7 +53623,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "Breeze range; Finishes: polished, matt; widespread veins; Ideal for modern interior design projects, the Hull quartz agglomerate slab has great visual appeal and a striking character. It allows us to be bold, playing with geometrical shapes, chiaroscuro contrasts and ambient light.",
+   "images": [
+    {
+     "file": "quartzforms--breeze-hull-830.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--breeze-hull-830--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/breeze-hull/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--breeze-hull-830--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/breeze-hull/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--breeze-hull-830--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/breeze-hull/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--breeze-pearl-815",
@@ -53478,7 +53674,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "Breeze range; Finishes: polished, matt; widespread veins; Unlike precious stone, a pearl does not come from the depths of the earth, but from the sea. Its creation is a rare event, and the surface we have given it reproduces the mystery of that intense living light, rich in reflections.",
+   "images": [
+    {
+     "file": "quartzforms--breeze-pearl-815.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--breeze-pearl-815--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/breeze-pearl/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--breeze-pearl-815--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/breeze-pearl/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--breeze-pearl-815--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/breeze-pearl/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--breeze-pier-825",
@@ -53497,7 +53725,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Breeze range; Finishes: polished, matt; widespread veins; A vibrant surface in attractive warm colours, with a fine grain and small widespread veining, creating a refined and elegant texture to give a room character and uniqueness. Ideal for all types of kitchens, especially in a country and traditi",
+   "images": [
+    {
+     "file": "quartzforms--breeze-pier-825.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--breeze-pier-825--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/breeze-pier/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--breeze-sand-810",
@@ -53516,7 +53762,32 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "Breeze range; Finishes: polished, matt; widespread veins; There is no single type of sand: its composition and colour depend on its rocks of origin. For the Sand slab, we have chosen a warm and compact shade, slightly veined by transparent glimmers of light that emerge on the surface.",
+   "images": [
+    {
+     "file": "quartzforms--breeze-sand-810.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--breeze-sand-810--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/breeze-sand/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--breeze-sand-810--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/breeze-sand/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--cloudy-beige-620",
@@ -53535,7 +53806,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "Cloudy range; Finishes: polished, matt; fine grain; Beige is subtle, graceful and elegant. This colour creates harmony, reflects light without exaggeration. It is perfect for any type of context as it expresses personality while being neutral. The colour we have created for the Cloudy collection of ",
+   "images": [
+    {
+     "file": "quartzforms--cloudy-beige-620.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--cloudy-beige-620--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/cloudy-beige/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--cloudy-beige-620--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/cloudy-beige/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--cloudy-beige-620--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/cloudy-beige/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--cloudy-belgian-blue-635",
@@ -53554,7 +53857,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "Cloudy range; Finishes: polished, matt; fine grain; The so-called Blue Stone of Belgium owes its name to its very special colour, a grey that acquires bluish shades when observed in full light. In this interpretation by Quartzforms®, the slab has a deep, intense colour, with a fine grain illuminated",
+   "images": [
+    {
+     "file": "quartzforms--cloudy-belgian-blue-635.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--cloudy-belgian-blue-635--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/cloudy-belgian-blue/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--cloudy-black-600",
@@ -53573,7 +53894,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "Cloudy range; Finishes: polished, matt; fine grain; Black sometimes proves to be the brightest of colours because behind its abyss, it conceals a light that charms and allures. Like the Cloudy Black slab, dotted with a fine grain that gives it character and depth, bringing style to all kinds of inte",
+   "images": [
+    {
+     "file": "quartzforms--cloudy-black-600.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--cloudy-black-600--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/cloudy-black/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--cloudy-black-600--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/cloudy-black/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--cloudy-black-600--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/cloudy-black/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--cloudy-black-and-more-625",
@@ -53592,7 +53945,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "Cloudy range; Finishes: polished, matt; fine grain; As its name suggests, the Black and more surface stands out with its black background, dotted with a variable fine grain. This nocturnal and attractive texture perfectly blends with any style of interior design, from kitchen and bathroom counters t",
+   "images": [
+    {
+     "file": "quartzforms--cloudy-black-and-more-625.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--cloudy-black-and-more-625--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/cloudy-black-and-more/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--cloudy-desert-610",
@@ -53611,7 +53982,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "Cloudy range; Finishes: polished, matt; fine grain; The sand of some deserts appears to be red due to the presence of specific minerals in its rocks of origin, whose colour is combined with that quartz. The Desert slab in the Cloudy collection is inspired by this ancient natural process.",
+   "images": [
+    {
+     "file": "quartzforms--cloudy-desert-610.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--cloudy-desert-610--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/cloudy-desert/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--cloudy-portland-grey-630",
@@ -53630,7 +54019,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Cloudy range; Finishes: polished, matt; fine grain; Used since Roman times, Portland stone has a warm and luminous colour on which a fine grain emerges. Much loved in the English-speaking world, it covers the regal façade of Buckingham Palace. Portland Gray is a slab inspired by this centuries-old t",
+   "images": [
+    {
+     "file": "quartzforms--cloudy-portland-grey-630.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--cloudy-portland-grey-630--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/cloudy-portland-grey/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--cloudy-portland-grey-630--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/cloudy-portland-grey/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--cloudy-portland-grey-630--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/cloudy-portland-grey/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--cloudy-white-615",
@@ -53649,7 +54070,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Cloudy range; Finishes: polished, matt; fine grain; There is optical white, very rarely found in nature, then there are countless shades of white in the world around us, like the many nuances of clouds. The White quartz agglomerate slab is inspired by this richness and depth of shades.",
+   "images": [
+    {
+     "file": "quartzforms--cloudy-white-615.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--cloudy-white-615--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/cloudy-white/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--extreme-iceberg-white-300",
@@ -53668,7 +54107,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Extreme range; Finishes: polished, matt; A white background and a very fine grain for Iceberg White, the quartz agglomerate slab that appears to have been created to bring new light to all interiors, in a contemporary or classic style.",
+   "images": [
+    {
+     "file": "quartzforms--extreme-iceberg-white-300.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--extreme-iceberg-white-300--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/extreme-iceberg-white/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--extreme-iceberg-white-300--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/extreme-iceberg-white/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--extreme-iceberg-white-300--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/extreme-iceberg-white/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--extreme-night-black-305",
@@ -53687,7 +54158,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "Extreme range; Finishes: polished, matt; As its name suggests, the Night Black surface stands out with its black background, highlighted by a grain of varying intensity. An attractive nocturnal texture is perfect for both glossy and brushed finishes, for every interior design use.",
+   "images": [
+    {
+     "file": "quartzforms--extreme-night-black-305.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--extreme-night-black-305--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/extreme-night-black/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--extreme-night-black-305--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/extreme-night-black/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--extreme-night-black-305--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/extreme-night-black/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--forest-betulla-4010",
@@ -53706,7 +54209,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1550 / 30mm: 3200x1550",
+   "details": "Forest range; Finishes: polished, matt; widespread veins; The bark of the birch tree stands out for its uniform whitish background scattered with irregular bluish-grey veins that branch out at its knots. An evocative and unmistakable pattern is created, which we have recreated in this elegant and ve",
+   "images": [
+    {
+     "file": "quartzforms--forest-betulla-4010.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--forest-betulla-4010--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/forest-betulla/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--forest-betulla-4010--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/forest-betulla/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--forest-betulla-4010--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/forest-betulla/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--forest-garrigue-4020",
@@ -53725,7 +54260,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1550 / 30mm: 3200x1550",
+   "details": "Forest range; Finishes: polished, matt; widespread veins; Garrigue is the name given to wasteland that is home to low, thorny and inconspicuous vegetation that grows in grey-green patches interspersed with dry areas. When viewed from a panoramic perspective, an unexpected, fragmented and mimetic tex",
+   "images": [
+    {
+     "file": "quartzforms--forest-garrigue-4020.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--forest-garrigue-4020--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/forest-garrigue/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--forest-garrigue-4020--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/forest-garrigue/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--forest-garrigue-4020--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/forest-garrigue/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--forest-magnolia-4015",
@@ -53744,7 +54311,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1550 / 30mm: 3200x1550",
+   "details": "Forest range; Finishes: polished, matt; widespread veins; The magnolia tree has lush foliage consisting of large shiny, leathery leaves that block sunrays and appear dark and impenetrable when viewed against the light. This image offered by nature has inspired a quartz agglomerate slab with an impre",
+   "images": [
+    {
+     "file": "quartzforms--forest-magnolia-4015.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--forest-magnolia-4015--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/forest-magnolia/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--forest-magnolia-4015--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/forest-magnolia/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--forest-magnolia-4015--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/forest-magnolia/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--forest-sequoia-4025",
@@ -53763,7 +54362,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1550 / 30mm: 3200x1550",
+   "details": "Forest range; Finishes: polished, matt; widespread veins; Majestic and ancient, the Sequoia stands out for its imposing trunk, engraved with deep vertical veins and warm, natural tones, crossed by more intense shades that enhance its depth. This silent strength gives rise to a mineral surface with a",
+   "images": [
+    {
+     "file": "quartzforms--forest-sequoia-4025.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--forest-sequoia-4025--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/forest-sequoia/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--forest-sughero-4005",
@@ -53782,7 +54399,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1550 / 30mm: 3200x1550",
+   "details": "Forest range; Finishes: polished, matt; widespread veins; Cork is obtained from an oak tree that is a quarter of a century old. It takes another nine years for a new layer of bark to form. This slow and patient work of nature has inspired a quartz agglomerate slab scattered with subtle warm veins of",
+   "images": [
+    {
+     "file": "quartzforms--forest-sughero-4005.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--forest-sughero-4005--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/forest-sughero/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--forest-sughero-4005--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/forest-sughero/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--forest-sughero-4005--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/forest-sughero/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--forest-taj-4030",
@@ -53801,7 +54450,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1550 / 30mm: 3200x1550",
+   "details": "Forest range; Finishes: polished, matt; widespread veins; Taj recalls the extraordinary quartzite of the Taj Mahal, with soft, luminous tones that seem suspended between light and matter. The delicate colour layers create a poetic, light effect, transforming surfaces into veritable suspended landsca",
+   "images": [
+    {
+     "file": "quartzforms--forest-taj-4030.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--forest-taj-4030--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/forest-taj/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--fossil-ammonite-855",
@@ -53820,7 +54487,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Fossil range; Finishes: polished, matt; widespread veins; Opaline and iridescent, Ammonite belongs to a small group of stones of fossil origin, which also includes amber and coral. In nature, we can find many different shades of colour. In the Quartzforms version, the background is deep beige dotted",
+   "images": [
+    {
+     "file": "quartzforms--fossil-ammonite-855.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--fossil-ammonite-855--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/fossil-ammonite/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--fossil-jet-870",
@@ -53839,7 +54524,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Fossil range; Finishes: polished, matt; widespread veins; Slow erosion caused by the wind, rivers, the sea and ice leaves its mark on rocks that bear witness to the age-old action of the elements. The Fossil Jet slab brings an attractive fragment of primordial nature to the rooms in your home.",
+   "images": [
+    {
+     "file": "quartzforms--fossil-jet-870.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--fossil-jet-870--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/fossil-jet/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--fossil-nacre-860",
@@ -53858,7 +54561,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Fossil range; Finishes: polished, matt; widespread veins; Mother-of-pearl, considered a precious and decorative material, fascinates us with its luminosity and milky colour, rich in iridescent reflections. Hence Nacre slabs from the Fossil collection create surfaces with irresistible appeal.",
+   "images": [
+    {
+     "file": "quartzforms--fossil-nacre-860.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--fossil-nacre-860--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/fossil-nacre/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--fossil-nacre-860--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/fossil-nacre/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--fossil-nacre-860--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/fossil-nacre/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--fossil-nautilus-850",
@@ -53877,7 +54612,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Fossil range; Finishes: polished, matt; widespread veins; The surfaces of ocean depths are the result of the centuries-old sedimentation of everything the sea contains. The warm, saturated colour of Nautilus quartz agglomerate slabs is dotted with a fine grain, comprising darker flecks with unexpect",
+   "images": [
+    {
+     "file": "quartzforms--fossil-nautilus-850.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--fossil-nautilus-850--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/fossil-nautilus/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--fossil-nautilus-850--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/fossil-nautilus/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--fossil-nautilus-850--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/fossil-nautilus/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--fossil-seashell-865",
@@ -53896,7 +54663,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Fossil range; Finishes: polished, matt; widespread veins; Narrow through veining, combined with a scattered fine grain that creates an attractive sense of movement. The Seashell slab is inspired by the depth and mystery of sea beds, illuminated by a clear and distant light.",
+   "images": [
+    {
+     "file": "quartzforms--fossil-seashell-865.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--fossil-seashell-865--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/fossil-seashell/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--imperial-caramel-930",
@@ -53915,7 +54700,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Imperial range; Finishes: polished, matt; widespread veins; A surface with a liquid and opaline appearance, crossed by a subtle pattern of pronounced veining in an almost golden shade. Caramel is a slab with a classic, elegant and alluring appearance, conveying a feeling of warmth and harmony.",
+   "images": [
+    {
+     "file": "quartzforms--imperial-caramel-930.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--imperial-caramel-930--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/imperial-caramel/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--imperial-cherry-beige-935",
@@ -53934,7 +54737,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Imperial range; Finishes: polished, matt; widespread veins; The ivory background is enlivened by distinct veining in the characteristic burgundy red shade, illuminated by occasional subtle glimmers of light. The Cherry Beige slab is a classic example of stone decoration, enhancing kitchen and bathro",
+   "images": [
+    {
+     "file": "quartzforms--imperial-cherry-beige-935.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--imperial-cherry-beige-935--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/imperial-cherry-beige/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--imperial-dolphin-grey-940",
@@ -53953,7 +54774,32 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Imperial range; Finishes: polished, matt; widespread veins; A dense network of widespread veining and flecks gives the Dolphin Gray slab its lively and dynamic look. Like the other surfaces in the Imperial collection, the classic imprint allows it to be included in contexts in contemporary style, ad",
+   "images": [
+    {
+     "file": "quartzforms--imperial-dolphin-grey-940.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--imperial-dolphin-grey-940--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/imperial-dolphin-grey/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--imperial-dolphin-grey-940--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/imperial-dolphin-grey/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--imperial-gold-960",
@@ -53972,7 +54818,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Imperial range; Finishes: polished, matt; widespread veins; Each grain seems to tell a story, a journey through imaginary landscapes where white blends harmoniously with warm, precious touches. It is like a golden dawn spreading across a white canvas, creating an atmosphere of serenity and timeless ",
+   "images": [
+    {
+     "file": "quartzforms--imperial-gold-960.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--imperial-gold-960--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/imperial-gold/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--imperial-meringa-945",
@@ -53991,7 +54855,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Imperial range; Finishes: polished, matt; coarse grain; The Meringa slab is crossed by a dense network of variegated veining and flecks, adding warm appeal to the opaline background and offering an expressive and dynamic surface. Ideal for any design requirement, from kitchen counters to facing and ",
+   "images": [
+    {
+     "file": "quartzforms--imperial-meringa-945.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--imperial-meringa-945--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/imperial-meringa/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--imperial-meringa-945--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/imperial-meringa/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--imperial-meringa-945--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/imperial-meringa/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--imperial-white-955",
@@ -54010,7 +54906,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Imperial range; Finishes: polished, matt; widespread veins; Statuary marble has always been appreciated for its lustre. In this Quartzforms® creation, the ivory white background is enlivened with distinct veining, with shades ranging from grey to beige. A versatile slab for kitchen and, bathroom cou",
+   "images": [
+    {
+     "file": "quartzforms--imperial-white-955.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--imperial-white-955--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/imperial-white/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--lavic-black-590",
@@ -54029,7 +54943,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "Lavic range; Finishes: polished, matt; coarse grain; Lava stones originate from the gradual cooling of magma produced by a volcanic eruption. They therefore represent the outcome of one of the most evocative and powerful natural phenomena. Their dominant colour is black, which we find in the intense",
+   "images": [
+    {
+     "file": "quartzforms--lavic-black-590.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--lavic-black-590--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/lavic-black/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--lavic-navajo-4545",
@@ -54048,7 +54980,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "Lavic range; Finishes: polished, matt; coarse grain; Featuring medium-sized grain, with colours ranging from white to intense beige, Navajo is a contemporary reinterpretation of the classic Venetian “terrazzo”, a marble grit that has been back in vogue in recent years.",
+   "images": [
+    {
+     "file": "quartzforms--lavic-navajo-4545.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--lavic-navajo-4545--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/lavic-navajo/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--lavic-navajo-4545--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/lavic-navajo/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--lavic-navajo-4545--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/lavic-navajo/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--ma-beige-100",
@@ -54067,7 +55031,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "MA range; Finishes: polished, matt; coarse grain; Medium grain and a variable colour, offering various shades with warm chromatic areas blending from beige to ochre. This texture is familiar to us, as it was very popular in residential buildings in the mid-20th century, now brought up to date by Qua",
+   "images": [
+    {
+     "file": "quartzforms--ma-beige-100.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--ma-beige-100--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/ma-beige/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--ma-grey-101",
@@ -54086,7 +55068,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "MA range; Finishes: polished, matt; coarse grain; Unlike the other slabs in the MA collection, neutral grey provides a softer and more nuanced colour contrast between the background shade and its medium grain. The outcome is a sober and elegant surface ideal for including in contexts based on classi",
+   "images": [
+    {
+     "file": "quartzforms--ma-grey-101.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--ma-grey-101--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/ma-grey/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--ma-white-102",
@@ -54105,7 +55105,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "MA range; Finishes: polished, matt; coarse grain; The opaline whiteness of the surface catches the eye and focuses on the colours and shapes of well-defined and clearly visible quartz grains. An expressive luminous slab, ideal for many uses, for classic kitchen counters, bathrooms and exclusive floo",
+   "images": [
+    {
+     "file": "quartzforms--ma-white-102.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--ma-white-102--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/ma-white/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--madreterra-dune-7010",
@@ -54124,7 +55142,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Ecotone Madreterra range; Finishes: polished, matt; fine grain, widespread veins, long veins; Madreterra Dune evokes the silence of landscapes shaped by the wind, where warm, mineral sand caresses natural forms. An enveloping, harmonious shade that brings a sense of calm, balance and refined eleganc",
+   "images": [
+    {
+     "file": "quartzforms--madreterra-dune-7010.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--madreterra-dune-7010--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/ecotone-madreterra-dune/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--madreterra-isola-7015",
@@ -54143,7 +55179,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Ecotone Madreterra range; Finishes: polished, matt; fine grain; Madreterra Isola evokes sandy coastlines where light dances across rock and sand, creating natural harmonies of depth and softness. Its warm, enveloping tones bring character to interiors, transforming surfaces into distinctive elements",
+   "images": [
+    {
+     "file": "quartzforms--madreterra-isola-7015.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--madreterra-isola-7015--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/ecotone-madreterra-isola/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--madreterra-luce-7005",
@@ -54162,7 +55216,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Ecotone Madreterra range; Finishes: polished, matt; fine grain, long veins, widespread veins; Like a ray of sunshine captured in stone, Luce radiates an ethereal brilliance. Pure and reflective, it gently illuminates spaces, restoring lightness and vitality to every surface. A shade that invites you",
+   "images": [
+    {
+     "file": "quartzforms--madreterra-luce-7005.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--madreterra-luce-7005--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/ecotone-madreterra-luce/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--madreterra-ombra-7020",
@@ -54181,7 +55253,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Ecotone Madreterra range; Finishes: polished, matt; fine grain, long veins, widespread veins; Madreterra Ombra is the voice of the earth in its raw state: an earthy, authentic and dense brown that conveys the material with sincerity and warmth. A shade that combines depth and harmony, offering a dis",
+   "images": [
+    {
+     "file": "quartzforms--madreterra-ombra-7020.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--madreterra-ombra-7020--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/ecotone-madreterra-ombra/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--new-era-atlantis-6225",
@@ -54194,13 +55284,45 @@
     20,
     30
    ],
-   "productUrl": "https://www.quartzforms.com/gb/surfaces/ecotone-new-era-atlantis/",
+   "productUrl": "https://www.quartzforms.com/gb/surfaces/new-era-atlantis/",
    "image": {
     "file": "quartzforms--new-era-atlantis-6225.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1550 / 30mm: 3200x1550",
+   "details": "Ecotone New Era range; Finishes: polished, matt; fine grain, widespread veins; The green colour of Atlantis is dream-like and elusive: an ephemeral chromatic perception, evoking the luminous transparency of seawater. Scattered with tiny contrasting dots, it is crossed by fine light-coloured through ",
+   "images": [
+    {
+     "file": "quartzforms--new-era-atlantis-6225.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--new-era-atlantis-6225--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/new-era-atlantis/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--new-era-atlantis-6225--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/new-era-atlantis/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--new-era-atlantis-6225--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/new-era-atlantis/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--new-era-avalon-6255",
@@ -54219,7 +55341,32 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1550 / 30mm: 3200x1550",
+   "details": "Ecotone New Era range; Finishes: polished, matt; fine grain, widespread veins, long veins; A tribute to the legendary island of Avalon, symbol of magic and transformation, New Era Avalon represents a harmonious balance between creativity and respect for the environment. With a deep red background, r",
+   "images": [
+    {
+     "file": "quartzforms--new-era-avalon-6255.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--new-era-avalon-6255--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/ecotone-new-era-avalon/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--new-era-avalon-6255--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/ecotone-new-era-avalon/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--new-era-crono-6240",
@@ -54238,7 +55385,32 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1550 / 30mm: 3200x1550",
+   "details": "Ecotone New Era range; Finishes: polished, matt; fine grain, widespread veins, long veins; Delving into a mysterious world. Leaping into distant worlds which, on a black background rich in nuances all waiting to be interpreted, create paths, images and galaxies. Crono is a timeless slab, an idea of ",
+   "images": [
+    {
+     "file": "quartzforms--new-era-crono-6240.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--new-era-crono-6240--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/ecotone-new-era-crono/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--new-era-crono-6240--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/ecotone-new-era-crono/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--new-era-flamingo-6250",
@@ -54257,7 +55429,32 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1550 / 30mm: 3200x1550",
+   "details": "Ecotone New Era range; Finishes: polished, matt; fine grain, widespread veins; New Era Flamingo represents the pinnacle of elegance and sustainable innovation. With its delicate pink colour, enriched by subtle and refined veins, this slab evokes lightness and serenity, creating unique and distinctiv",
+   "images": [
+    {
+     "file": "quartzforms--new-era-flamingo-6250.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--new-era-flamingo-6250--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/ecotone-new-era-flamingo/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--new-era-flamingo-6250--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/ecotone-new-era-flamingo/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--new-era-gold-6215",
@@ -54270,13 +55467,45 @@
     20,
     30
    ],
-   "productUrl": "https://www.quartzforms.com/gb/surfaces/ecotone-new-era-gold/",
+   "productUrl": "https://www.quartzforms.com/gb/surfaces/new-era-gold/",
    "image": {
     "file": "quartzforms--new-era-gold-6215.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1550 / 30mm: 3200x1550",
+   "details": "Ecotone New Era range; Finishes: polished, matt; widespread veins, fine grain; A luminous marble background is enhanced by a pattern of elegant and striking golden veins. The Gold slab expresses refined classic elegance, giving interiors a distinctly decorative touch. A style that is both timeless a",
+   "images": [
+    {
+     "file": "quartzforms--new-era-gold-6215.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--new-era-gold-6215--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/new-era-gold/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--new-era-gold-6215--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/new-era-gold/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--new-era-gold-6215--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/new-era-gold/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--new-era-lasa-6230",
@@ -54295,7 +55524,32 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1550 / 30mm: 3200x1550",
+   "details": "Ecotone New Era range; Finishes: polished, matt; fine grain, long veins, widespread veins; The essential elegance of soft, ethereal shades that merge into subtle interwoven veins in shades of grey. The Lasa surface evokes cosy sensations, and, with its warm yet neutral shades, is in perfect harmony ",
+   "images": [
+    {
+     "file": "quartzforms--new-era-lasa-6230.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--new-era-lasa-6230--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/ecotone-new-era-lasa/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--new-era-lasa-6230--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/ecotone-new-era-lasa/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--new-era-mahal-6220",
@@ -54314,7 +55568,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1550 / 30mm: 3200x1550",
+   "details": "Ecotone New Era range; Finishes: polished, matt; fine grain, widespread veins; A luminous touch of elegance. An intangible representation of textured sensations and impressions coming from afar, which become protagonists in highly appealing spaces. Mahal features sinuous pink nuances that glow due t",
+   "images": [
+    {
+     "file": "quartzforms--new-era-mahal-6220.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--new-era-mahal-6220--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/ecotone-new-era-mahal/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--new-era-mahal-6220--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/ecotone-new-era-mahal/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--new-era-mahal-6220--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/ecotone-new-era-mahal/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--new-era-mystic-6210",
@@ -54327,13 +55613,31 @@
     20,
     30
    ],
-   "productUrl": "https://www.quartzforms.com/gb/surfaces/ecotone-new-era-mystic/",
+   "productUrl": "https://www.quartzforms.com/gb/surfaces/new-era-mystic/",
    "image": {
     "file": "quartzforms--new-era-mystic-6210.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1550 / 30mm: 3200x1550",
+   "details": "Ecotone New Era range; Finishes: polished, matt; fine grain, long veins; It is said that black and white are two extremes, between them lies an endless range of shades of grey. Mystic is the new interpretation of this concept: a slab expresses warmth, depth and style, as it has a texture that is a h",
+   "images": [
+    {
+     "file": "quartzforms--new-era-mystic-6210.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--new-era-mystic-6210--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/new-era-mystic/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--new-era-nirvana-6205",
@@ -54346,13 +55650,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.quartzforms.com/gb/surfaces/ecotone-new-era-nirvana/",
+   "productUrl": "https://www.quartzforms.com/gb/surfaces/new-era-nirvana/",
    "image": {
     "file": "quartzforms--new-era-nirvana-6205.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1550 / 30mm: 3200x1550",
+   "details": "Ecotone New Era range; Finishes: polished, matt; fine grain, long veins; The black of the Nirvana slab is alluring and mysterious, like a dark curtain that lets occasional flashes of light shine through: an invitation to exceed the limits of our perception. A contemporary, enigmatic and evocative su",
+   "images": [
+    {
+     "file": "quartzforms--new-era-nirvana-6205.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--new-era-nirvana-6205--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/new-era-nirvana/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--new-era-nirvana-6205--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/new-era-nirvana/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--new-era-poseidon-6235",
@@ -54371,7 +55700,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1550 / 30mm: 3200x1550",
+   "details": "Ecotone New Era range; Finishes: polished, matt; fine grain, widespread veins, long veins; An interplay of balance with subtle shades, tending towards cool sensations without sacrificing impeccable neutrality, and bold streaks, aspiring to a certain geometrical quality yet remaining free and creativ",
+   "images": [
+    {
+     "file": "quartzforms--new-era-poseidon-6235.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--new-era-poseidon-6235--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/ecotone-new-era-poseidon/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--new-era-poseidon-6235--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/ecotone-new-era-poseidon/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--new-era-poseidon-6235--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/ecotone-new-era-poseidon/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--new-era-sienna-6260",
@@ -54390,7 +55751,32 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1550 / 30mm: 3200x1550",
+   "details": "Ecotone New Era range; Finishes: polished, matt; fine grain, widespread veins, long veins; Inspired by the deep tones of sienna, this surface features a rich brown background with delicate white and beige veins. white and beige veins. It evokes the timeless beauty of nature, with each vein telling a",
+   "images": [
+    {
+     "file": "quartzforms--new-era-sienna-6260.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--new-era-sienna-6260--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/ecotone-new-era-sienna/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--new-era-sienna-6260--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/ecotone-new-era-sienna/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--new-era-sunrise-6245",
@@ -54409,7 +55795,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1550 / 30mm: 3200x1550",
+   "details": "Ecotone New Era range; Finishes: polished, matt; fine grain, long veins, widespread veins; Immerse yourself in the enchantment of a new dawn, where light and shadow dance together on an extraordinary surface. The luminous white of the background, criss-crossed by long, sinuous anthracite veins, is d",
+   "images": [
+    {
+     "file": "quartzforms--new-era-sunrise-6245.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--new-era-sunrise-6245--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/ecotone-new-era-sunrise/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--new-era-sunrise-6245--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/ecotone-new-era-sunrise/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--new-era-sunrise-6245--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/ecotone-new-era-sunrise/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--ocean-arctic-5010",
@@ -54428,7 +55846,32 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1550 / 30mm: 3200x1550",
+   "details": "Ocean range; Finishes: polished, matt; widespread veins; The white colour of this deep, compact slab, brings unique luminosity to interiors. It is adorned with an elegant pattern of grey veins, alternately finer or thicker, that attract and capture our attention, like the lines created by waves on s",
+   "images": [
+    {
+     "file": "quartzforms--ocean-arctic-5010.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--ocean-arctic-5010--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/ocean-arctic/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--ocean-arctic-5010--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/ocean-arctic/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--ocean-lagoon-5015",
@@ -54447,7 +55890,32 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1550 / 30mm: 3200x1550",
+   "details": "Ocean range; Finishes: polished, matt; widespread veins; The luminous background of the Lagoon slab is crossed by an impressive pattern of fine grey-green veins. It recalls fine, classic style marbles, given a decorative, contemporary twist. Like all Quartzforms® slabs, it can be used to clad walls,",
+   "images": [
+    {
+     "file": "quartzforms--ocean-lagoon-5015.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--ocean-lagoon-5015--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/ocean-lagoon/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--ocean-lagoon-5015--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/ocean-lagoon/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--ocean-midnight-5005",
@@ -54466,7 +55934,32 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1550 / 30mm: 3200x1550",
+   "details": "Ocean range; Finishes: polished, matt; widespread veins; Black, impenetrable and deep, the surface of Midnight slabs is illuminated by white through veins of varying thickness, from narrow to wide, tracing an undulating pattern of markings that evoke the age-old action of time. For projects inspired",
+   "images": [
+    {
+     "file": "quartzforms--ocean-midnight-5005.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--ocean-midnight-5005--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/ocean-midnight/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--ocean-midnight-5005--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/ocean-midnight/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--ocean-reef-5020",
@@ -54485,7 +55978,32 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1550 / 30mm: 3200x1550",
+   "details": "Ocean range; Finishes: polished, matt; widespread veins; Fine dark red veins alternate with more fleeting ones in a delicate grey colour with golden shimmering effects. They create a refined texture that interrupts and embellishes the pearly white background, rich in depth. A skilful interpretation ",
+   "images": [
+    {
+     "file": "quartzforms--ocean-reef-5020.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--ocean-reef-5020--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/ocean-reef/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--ocean-reef-5020--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/ocean-reef/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--pebble-black-105",
@@ -54504,7 +56022,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "Pebble range; Finishes: polished, matt; coarse grain; In the optical sense, black absorbs all light emission. But in the case of the Pebble Black slab this is compensated for by the opaline brightness of the grain, which adorns and enlivens the surface, making it opulent and attractive.",
+   "images": [
+    {
+     "file": "quartzforms--pebble-black-105.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--pebble-black-105--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/pebble-black/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--pebble-cappuccino-115",
@@ -54523,7 +56059,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "Pebble range; Finishes: polished, matt; coarse grain; Kitchen counters, bathroom shelves, facing and flooring made of the Pebble Cappuccino slab convey warmth and positive energy. The generous grain in a rich variety of shades provides an expressive and vibrant surface, for interior design based on ",
+   "images": [
+    {
+     "file": "quartzforms--pebble-cappuccino-115.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--pebble-cappuccino-115--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/pebble-cappuccino/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--pebble-dark-grey-120",
@@ -54542,7 +56096,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "Pebble range; Finishes: polished, matt; coarse grain; Even the deepest and most intense grey becomes bright when enriched by a precious texture of small polychrome and translucent stones. The Dark Grey quartz agglomerate slab in the Pebble collection combines classicism and contemporary appeal, crea",
+   "images": [
+    {
+     "file": "quartzforms--pebble-dark-grey-120.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--pebble-dark-grey-120--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/pebble-dark-grey/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--pebble-dark-grey-120--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/pebble-dark-grey/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--pebble-dark-grey-120--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/pebble-dark-grey/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--planet-blue-moon-2045",
@@ -54561,7 +56147,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Planet range; Finishes: lucida, opaca; fine grain; Enigmatic and luminous, close yet shrouded in mystery, the Moon has always inspired human imagination. Blue Moon is dedicated to it: a pure white surface crossed by long cobalt-blue veins that flow with natural elegance, like reflections of light ac",
+   "images": [
+    {
+     "file": "quartzforms--planet-blue-moon-2045.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--planet-blue-moon-2045--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-blue-moon/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--planet-halley-3015",
@@ -54580,7 +56184,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Planet range; Finishes: polished, matt; long veins; The luminous trail of Halley's comet cyclically cuts through outer space. The slab named after it was inspired by the anticipation of this event: deep black is crossed by a lightning line of veining that reflects light, surprises and lets us admire",
+   "images": [
+    {
+     "file": "quartzforms--planet-halley-3015.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--planet-halley-3015--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-halley/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--planet-halley-3015--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-halley/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--planet-halley-3015--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-halley/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--planet-honey-galaxy-3005",
@@ -54599,7 +56235,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Planet range; Finishes: polished, matt; long veins; The uniform veining of Honey Galaxy seems to show us an ideal horizon. They create refined surfaces with strong aesthetic appeal, ideal for both contemporary and classic spaces. A distinctive covering to enhance and make contexts unique.",
+   "images": [
+    {
+     "file": "quartzforms--planet-honey-galaxy-3005.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--planet-honey-galaxy-3005--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-honey-galaxy/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--planet-honey-galaxy-3005--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-honey-galaxy/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--planet-honey-galaxy-3005--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-honey-galaxy/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--planet-interstellar-cloud-2035",
@@ -54618,7 +56286,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Planet range; Finishes: polished, matt; long veins; Interstellar expanses are permeated with a subtle, light substance, the same one that creates stars. With their imperceptible veining, vibrant and expressive, Interstellar Cloud slabs offer surfaces with defined contours, reflecting ambient light a",
+   "images": [
+    {
+     "file": "quartzforms--planet-interstellar-cloud-2035.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--planet-interstellar-cloud-2035--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-interstellar-cloud/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--planet-interstellar-cloud-2035--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-interstellar-cloud/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--planet-interstellar-cloud-2035--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-interstellar-cloud/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--planet-interstellar-gold-2050",
@@ -54656,7 +56356,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Planet range; Finishes: polished, matt; long veins; The planet named after the main god in classical mythology is associated with universal and positive ideals such as renewal and transformation. With its elegant veining, the Jupiter slab expresses these timeless values in a contemporary manner, bec",
+   "images": [
+    {
+     "file": "quartzforms--planet-jupiter-2020.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--planet-jupiter-2020--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-jupiter/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--planet-jupiter-2020--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-jupiter/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--planet-jupiter-2020--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-jupiter/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--planet-mars-2010",
@@ -54675,7 +56407,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Planet range; Finishes: polished, matt; long veins; Mars is crossed by a dense network of deep furrows, evidence of ancient geological events. This has inspired a slab with a deep and compact colour, with veining that offers an attractive magnetic pattern. Its surface evokes the energy expressed by ",
+   "images": [
+    {
+     "file": "quartzforms--planet-mars-2010.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--planet-mars-2010--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-mars/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--planet-mars-2010--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-mars/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--planet-mars-2010--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-mars/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--planet-mercury-2001",
@@ -54694,7 +56458,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Planet range; Finishes: polished, matt; long veins; Mercury is small, elusive and mysterious, inspiring rich and complex imagery. The slab bearing its name evokes its appearance: a concrete and strong surface, featuring a tactile mixture and subtle lighter veining alternating with slightly fading sp",
+   "images": [
+    {
+     "file": "quartzforms--planet-mercury-2001.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--planet-mercury-2001--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-mercury/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--planet-mercury-2001--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-mercury/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--planet-mercury-2001--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-mercury/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--planet-neptune-2025",
@@ -54713,7 +56509,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Planet range; Finishes: polished, matt; long veins; Far away and unreachable, invisible to the naked eye, Neptune appears as a bluish, opaline sphere. We have dedicated a slab to Neptune. It has a deep and luminous surface, crossed by a darker veining pattern: a rational design, influenced by time a",
+   "images": [
+    {
+     "file": "quartzforms--planet-neptune-2025.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--planet-neptune-2025--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-neptune/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--planet-neptune-2025--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-neptune/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--planet-neptune-2025--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-neptune/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--planet-pluto-2030",
@@ -54732,7 +56560,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Planet range; Finishes: polished, matt; long veins; Pluto is a slab with a great personality, elegantly decorative and crossed by a subtle texture of thick veining, making the surface deep, dense and tactile. Used for facing and flooring, or for kitchen and bathroom counters, it adds elegance to any",
+   "images": [
+    {
+     "file": "quartzforms--planet-pluto-2030.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--planet-pluto-2030--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-pluto/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--planet-pluto-2030--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-pluto/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--planet-pluto-2030--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-pluto/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--planet-saturn-2015",
@@ -54751,7 +56611,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Planet range; Finishes: polished, matt; long veins; Saturn and its rings, whose origin is still unknown, has always inspired the collective imagination. The Saturn slab has a fine texture of through veining that makes its surface uniform and harmonious, ideal for many uses, from kitchen counters to ",
+   "images": [
+    {
+     "file": "quartzforms--planet-saturn-2015.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--planet-saturn-2015--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-saturn/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--planet-saturn-2015--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-saturn/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--planet-saturn-2015--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-saturn/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--planet-tempel-3020",
@@ -54770,7 +56662,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1550 / 30mm: 3200x1550",
+   "details": "Planet range; Finishes: polished, matt; long veins; Tempel, the exaltation of the umpteenth astral discovery. This unprecedented surface is pure and unique, a white background with straight anthracite and orange veins, the result of precise stratifications inspired by natural geological dynamics.",
+   "images": [
+    {
+     "file": "quartzforms--planet-tempel-3020.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--planet-tempel-3020--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-tempel/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--planet-tempel-3020--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-tempel/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--planet-tempel-3020--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-tempel/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--planet-venus-2005",
@@ -54789,7 +56713,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Planet range; Finishes: polished, matt; long veins; Venus, the morning star, is the only planet visible during the day: it is represented by a hand holding a mirror. The Venus quartz agglomerate slab, featuring subtle veining throughout its entire surface, expresses depth, solidity and lustre.",
+   "images": [
+    {
+     "file": "quartzforms--planet-venus-2005.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--planet-venus-2005--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-venus/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--planet-venus-2005--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-venus/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--planet-venus-2005--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/planet-venus/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--qf-ash-grey-535",
@@ -54808,7 +56764,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "QF range; Finishes: polished, matt; medium grain; The grain of the Ash Grey quartz conglomerate slab adorns the ash background of the surface with a texture of fine tone-on-tone flecks. Elegant without exaggeration, discreet and luminous, and ideal for a huge variety of aesthetic and functional uses",
+   "images": [
+    {
+     "file": "quartzforms--qf-ash-grey-535.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--qf-ash-grey-535--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/qf-ash-grey/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--qf-black-525",
@@ -54827,7 +56801,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "QF range; Finishes: polished, matt; medium grain; Although rare and therefore extremely prestigious, black marble can be found in nature, and is generally of volcanic origin. Quartzforms® proposes this marble with a tone-on-tone grain of different depths and crystalline glimmers of light unevenly sc",
+   "images": [
+    {
+     "file": "quartzforms--qf-black-525.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--qf-black-525--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/qf-black/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--qf-black-525--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/qf-black/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--qf-black-525--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/qf-black/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--qf-dark-grey-515",
@@ -54846,7 +56852,32 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "QF range; Finishes: polished, matt; medium grain; Especially appreciated by architects and interior designers who pay great attention to contemporary trends, grey elegantly blends with all styles of interior furnishing. Dark Grey, as the name suggests, is a particularly intense shade, with occasiona",
+   "images": [
+    {
+     "file": "quartzforms--qf-dark-grey-515.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--qf-dark-grey-515--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/qf-dark-grey/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--qf-dark-grey-515--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/qf-dark-grey/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--qf-light-beige-520",
@@ -54865,7 +56896,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "QF range; Finishes: polished, matt; medium grain; In its many shades, beige is a timeless colour that is easy to match and always elegant. Surfaces made with the Light Beige slab make an interior warmer and more attractive, for details such as kitchen counters or for facing entire walls and floors.",
+   "images": [
+    {
+     "file": "quartzforms--qf-light-beige-520.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--qf-light-beige-520--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/qf-light-beige/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--qf-light-grey-125",
@@ -54881,10 +56930,28 @@
    "productUrl": "https://www.quartzforms.com/gb/surfaces/pebble-light-grey/",
    "image": {
     "file": "quartzforms--qf-light-grey-125.webp",
-    "status": "representative",
-    "source": "onedrive-brands-folder",
-    "borrowedFrom": "Quartzforms QF Light Grey 510"
-   }
+    "status": "slab",
+    "source": "https://www.quartzforms.com/gb/surfaces/pebble-light-grey/",
+    "borrowedFrom": ""
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "Pebble range; Finishes: polished, matt; coarse grain; The neutral grey background is enlivened by a profusion of tone-on-tone medium grain, with many inclusions of brighter flecks and an intermittent golden glow. The Light Grey slab represents style and is destined to become the protagonist of the s",
+   "images": [
+    {
+     "file": "quartzforms--qf-light-grey-125.webp",
+     "status": "slab",
+     "source": "https://www.quartzforms.com/gb/surfaces/pebble-light-grey/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--qf-light-grey-125--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/pebble-light-grey/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--qf-light-grey-510",
@@ -54903,7 +56970,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "QF range; Finishes: polished, matt; medium grain; Grey, the neutral colour par excellence, arises from the fusion of black and white and is a common colour of natural stone. Quartzforms® offers it in many shades; in the Light Grey version in the Qf collection, it is tactile and bright, enriched with",
+   "images": [
+    {
+     "file": "quartzforms--qf-light-grey-510.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--qf-light-grey-510--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/qf-light-grey/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--qf-light-grey-510--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/qf-light-grey/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--qf-light-grey-510--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/qf-light-grey/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--qf-white-505",
@@ -54922,7 +57021,32 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "QF range; Finishes: polished, matt; medium grain; Elegant and bright, white is one of the key colours of contemporary interior design, from minimalist to Scandinavian and industrial style. This stone surface in the Qf collection has a neutral colour, made natural and unique with its uniform fine gra",
+   "images": [
+    {
+     "file": "quartzforms--qf-white-505.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--qf-white-505--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/qf-white/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--qf-white-505--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/qf-white/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--spacco-black-465",
@@ -54941,7 +57065,32 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "Spacco range; Finishes: Split; split; This slab has a strong and distinct character also thanks to its deep black colour and its roughness, which recalls the appearance of natural charcoal. Spacco Black is ideal for contexts that require strong contrasts and a final effect intended to impress.",
+   "images": [
+    {
+     "file": "quartzforms--spacco-black-465.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--spacco-black-465--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/spacco-black/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--spacco-black-465--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/spacco-black/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--spacco-white-450",
@@ -54960,7 +57109,32 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "Spacco range; Finishes: Split; split; A vibrant-looking stone, a uniform milky-white background and a small translucent grain that creates a surface with modern yet timeless appeal. This slab is ideal for kitchen counters and islands with its strong and solid character.",
+   "images": [
+    {
+     "file": "quartzforms--spacco-white-450.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--spacco-white-450--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/spacco-white/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--spacco-white-450--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/spacco-white/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--terrazzo-casanova-235",
@@ -54979,7 +57153,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "Terrazzo range; Finishes: polished, matt; coarse grain; Casanova, an icon of charm and audacity, is expressed in a light, luminous gray, enlivened by sparkles that capture the light. An elegant and discreet surface that whispers lightness and modernity, transforming every room into a refined tale of",
+   "images": [
+    {
+     "file": "quartzforms--terrazzo-casanova-235.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--terrazzo-casanova-235--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/terrazzo-casanova/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--terrazzo-doge-240",
@@ -54998,7 +57190,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "Terrazzo range; Finishes: polished, matt; coarse grain; Doge celebrates Venetian charm: an intense black illuminated by light fragments that sparkle like reflections on the night streets. A refined and enveloping surface that invites mystery and discreet luxury, transforming any space into a setting",
+   "images": [
+    {
+     "file": "quartzforms--terrazzo-doge-240.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--terrazzo-doge-240--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/terrazzo-doge/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--terrazzo-fenice-225",
@@ -55017,7 +57227,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "Terrazzo range; Finishes: polished, matt; coarse grain; Phoenix, symbol of rebirth and mystery, plays with the contrast between black and white. Dark fragments emerge like dancing shadows, narrating depth and character. The surface transforms the space into a theater of light and suggestion.",
+   "images": [
+    {
+     "file": "quartzforms--terrazzo-fenice-225.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--terrazzo-fenice-225--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/terrazzo-fenice/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--terrazzo-goldoni-230",
@@ -55036,7 +57264,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "Terrazzo range; Finishes: polished, matt; coarse grain; Goldoni evokes the warmth and lightness of Venetian comedies: an enveloping beige, illuminated by light fragments, that conveys balance and sophisticated harmony. Every detail reveals timeless elegance and conviviality.",
+   "images": [
+    {
+     "file": "quartzforms--terrazzo-goldoni-230.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--terrazzo-goldoni-230--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/terrazzo-goldoni/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--terrazzo-gritti-220",
@@ -55055,7 +57301,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "Terrazzo range; Finishes: polished, matt; coarse grain; Gritti, like the noble palaces that illuminated Venice, captures light with nobility and delicacy. Pure white is enlivened by light fragments that reflect harmony and refinement, transforming every surface into a luminous breath where history a",
+   "images": [
+    {
+     "file": "quartzforms--terrazzo-gritti-220.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--terrazzo-gritti-220--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/terrazzo-gritti/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--twinkle-black-340",
@@ -55074,7 +57338,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "Twinkle range; Finishes: polished, matt; coarse grain; Both nostalgic and contemporary, the Twinkle Black quartz agglomerate slab re-introduces a style that dominated furniture and architecture throughout much of the 20th century. Black medium grain on a dark background, with random bright and trans",
+   "images": [
+    {
+     "file": "quartzforms--twinkle-black-340.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--twinkle-black-340--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/twinkle-black/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--twinkle-black-340--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/twinkle-black/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--twinkle-black-340--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/twinkle-black/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--twinkle-grey-335",
@@ -55093,7 +57389,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "Twinkle range; Finishes: polished, matt; coarse grain; Countless shades of grey can be found in the surface of the Twinkle Grey slab, dotted by unexpected crystalline glimmers of light. A reassuring, evocative and nostalgic style, which surprises when skilfully included in rooms furnished with conte",
+   "images": [
+    {
+     "file": "quartzforms--twinkle-grey-335.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--twinkle-grey-335--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/twinkle-grey/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--twinkle-white-345",
@@ -55112,7 +57426,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Twinkle range; Finishes: polished, matt; coarse grain; Perfect for use in contemporary or vintage style contexts, the Twinkle White slab adds personality and character to any room. Ideal for kitchen counters, for bathrooms, facing and flooring, even in large spaces.",
+   "images": [
+    {
+     "file": "quartzforms--twinkle-white-345.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--twinkle-white-345--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/twinkle-white/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--veined-africa-900",
@@ -55131,7 +57463,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "Veined range; Finishes: polished, matt; widespread veins; Thanks to its strong colours and intense grain, marble from the African continent has been widespread throughout all ages. Quartzforms® proposes a dark version, featuring a bright pattern of small light points.",
+   "images": [
+    {
+     "file": "quartzforms--veined-africa-900.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--veined-africa-900--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/veined-africa/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--veined-africa-900--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/veined-africa/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--veined-africa-900--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/veined-africa/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--veined-baroque-905",
@@ -55150,7 +57514,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Veined range; Finishes: polished, matt; widespread veins; Just as Baroque art pursued a new balance of art and nature, so Quartzforms® creates surfaces that evoke natural stone despite being the result of innovative technological processes. Deep and intense Baroque quartz agglomerate slabs express t",
+   "images": [
+    {
+     "file": "quartzforms--veined-baroque-905.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--veined-baroque-905--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/veined-baroque/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--veined-baroque-905--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/veined-baroque/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--veined-baroque-905--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/veined-baroque/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--veined-bernini-925",
@@ -55169,7 +57565,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Veined range; Finishes: polished, matt; widespread veins; The greatest protagonist of Baroque sculpture, Gian Lorenzo Bernini was a “poet of marble” who sculpted stone with his powerful creativity. To him, we have dedicated this luminous and evocative slab that adds a touch of classic refinement to ",
+   "images": [
+    {
+     "file": "quartzforms--veined-bernini-925.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--veined-bernini-925--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/veined-bernini/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--veined-bernini-925--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/veined-bernini/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--veined-bernini-925--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/veined-bernini/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--veined-canova-927",
@@ -55188,7 +57616,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Veined range; Finishes: polished, matt; widespread veins; Slabs of white marble were transformed into eternal and captivating neoclassical sculptures by the skilled hands of Antonio Canova. Thanks to Quartzforms® technology and research, a quartz agglomerate surface gives veining contemporary appeal",
+   "images": [
+    {
+     "file": "quartzforms--veined-canova-927.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--veined-canova-927--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/veined-canova/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--veined-canova-927--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/veined-canova/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--veined-canova-927--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/veined-canova/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--veined-deco-915",
@@ -55207,7 +57667,25 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "Veined range; Finishes: polished, matt; widespread veins; This quartz surface perfectly expresses the uniqueness of natural stone, with a fine-grained and uniform brown background and widespread purple flecks with a powerful visual impact. This quartz is ideal for those who want a unique and origina",
+   "images": [
+    {
+     "file": "quartzforms--veined-deco-915.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--veined-deco-915--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/veined-deco/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "quartzforms--veined-michelangelo-920",
@@ -55226,7 +57704,39 @@
     "status": "slab",
     "source": "quartzforms.com",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1640 / 30mm: 3200x1640",
+   "details": "Veined range; Finishes: polished, matt; widespread veins; The soft veining of Michelangelo slabs appears to emerge from the depth of stone. The quartz conglomerate reveals all its expressive power, enhancing surfaces in the kitchen, bathroom and all other rooms.",
+   "images": [
+    {
+     "file": "quartzforms--veined-michelangelo-920.webp",
+     "status": "slab",
+     "source": "quartzforms.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "quartzforms--veined-michelangelo-920--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.quartzforms.com/gb/surfaces/veined-michelangelo/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--veined-michelangelo-920--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/veined-michelangelo/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "quartzforms--veined-michelangelo-920--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.quartzforms.com/gb/surfaces/veined-michelangelo/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "rt-stone--alaska",
