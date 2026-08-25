@@ -17,6 +17,11 @@ material mean nothing once that block is gone; a general description serves bett
 natural entries untouched.
 
 ## Where things live
+**Two PCs.** Home PC (user `thefi`): repos directly under `C:\Users\thefi\`. Works PC (user
+`graha`): repos under `C:\Users\graha\projects\` and OneDrive under `C:\Users\graha\OneDrive - …`.
+**Never hardcode either — `harvest_lib` resolves `LIB_ROOT`, `SLABS_JSON`, `IMAGES_DIR`,
+`PRICEBOOK_CSV`, `BRANDS_ROOT` for whichever PC you are on (added 2026-08-25); import it and
+use those constants.** The `thefi` paths below are the home-PC spellings.
 - Library repo: `C:\Users\thefi\slab-library` (PUBLIC GitHub — NEVER put prices in it).
   `slabs.json` (top-level `generated` + `slabs[]`), `images/` (webp, max 1600px wide,
   `{supplier-slug}--{colour-slug}.webp`; galleries `{id}--closeup1.webp`, `{id}--room1.webp`…).

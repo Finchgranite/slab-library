@@ -32,12 +32,32 @@ from PIL import Image
 
 Image.MAX_IMAGE_PIXELS = None
 
-LIB_ROOT = r"C:\Users\thefi\slab-library"
+# Paths resolve on EITHER PC (home: C:\Users\thefi\<repo>; works: C:\Users\graha\projects\<repo>).
+# The library root is wherever this file lives; the other two are searched under the user
+# profile. Override with env vars SLAB_LIB_ROOT / SLAB_PRICEBOOK_CSV / SLAB_BRANDS_ROOT.
+TOOLS_DIR = os.path.dirname(os.path.abspath(__file__))
+_HOME = os.environ.get("USERPROFILE") or os.path.expanduser("~")
+
+
+def _first_existing(candidates, fallback):
+    for c in candidates:
+        if c and os.path.exists(c):
+            return c
+    return fallback
+
+
+LIB_ROOT = os.environ.get("SLAB_LIB_ROOT") or os.path.dirname(TOOLS_DIR)
 SLABS_JSON = os.path.join(LIB_ROOT, "slabs.json")
 IMAGES_DIR = os.path.join(LIB_ROOT, "images")
-PRICEBOOK_CSV = r"C:\Users\thefi\stone-worktop-quotes\materials\supplier-price-book.csv"
-BRANDS_ROOT = r"C:\Users\thefi\OneDrive - Finch's Stone & marble Ltd\Brands -Slabs -Kitchens-Website"
-TOOLS_DIR = os.path.dirname(os.path.abspath(__file__))
+PRICEBOOK_CSV = _first_existing(
+    [os.environ.get("SLAB_PRICEBOOK_CSV"),
+     os.path.join(_HOME, "stone-worktop-quotes", "materials", "supplier-price-book.csv"),
+     os.path.join(_HOME, "projects", "stone-worktop-quotes", "materials", "supplier-price-book.csv")],
+    r"C:\Users\thefi\stone-worktop-quotes\materials\supplier-price-book.csv")
+BRANDS_ROOT = _first_existing(
+    [os.environ.get("SLAB_BRANDS_ROOT"),
+     os.path.join(_HOME, "OneDrive - Finch's Stone & marble Ltd", "Brands -Slabs -Kitchens-Website")],
+    r"C:\Users\thefi\OneDrive - Finch's Stone & marble Ltd\Brands -Slabs -Kitchens-Website")
 CACHE_ROOT = os.path.join(TOOLS_DIR, "_cache")
 REPORTS_DIR = os.path.join(TOOLS_DIR, "_reports")
 
