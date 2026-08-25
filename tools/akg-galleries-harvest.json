@@ -1,0 +1,725 @@
+[
+ {
+  "colour": "Adira Bronze",
+  "id": "akg-surfaces--adira-bronze",
+  "folder": "Adira Bronze",
+  "productUrl": "https://akgsurfaces.co.uk/products/coante-arteo-3d-range/adira-bronze/",
+  "local_closeups": [],
+  "local_rooms": [
+   "10201-Adira-Bronze-Render-1-1.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site"
+ },
+ {
+  "colour": "Alba Via P",
+  "id": "akg-surfaces--alba-via-p",
+  "folder": "Alba Via P",
+  "productUrl": "https://akgsurfaces.co.uk/products/coante/alba-via/",
+  "local_closeups": [
+   "5507-Alba-Via-Close-Up_2185affb0.jpg",
+   "5507-Alba-Via-Bookmatch-1_21849b067.jpg"
+  ],
+  "local_rooms": [
+   "5507-Alba-Via-Composition-1_2186ade2a.jpg",
+   "5507-Alba-Via-Composition-2_218749988.jpg",
+   "5507-Alba-Via-Composition-3_2188646b5.jpg",
+   "5507-Alba-Via-Composition-4_21896666c.jpg",
+   "5507-Alba-Via-Render-1_219102e3e.jpg",
+   "5507-Alba-Via-Render-2_21923d00f.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": ""
+ },
+ {
+  "colour": "Arabescato Gold",
+  "id": "akg-surfaces--arabescato-gold",
+  "folder": "Arabescato Gold",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre/arabescato-gold/",
+  "local_closeups": [],
+  "local_rooms": [
+   "718-Arabescato-Gold-K_2283e2175.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site"
+ },
+ {
+  "colour": "Aurora Gold",
+  "id": "akg-surfaces--aurora-gold",
+  "folder": "Aurora Gold#",
+  "productUrl": "https://akgsurfaces.co.uk/products/coante/calacatta-aurora-gold-slab/",
+  "local_closeups": [],
+  "local_rooms": [],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site | no room found on site"
+ },
+ {
+  "colour": "Barents",
+  "id": "akg-surfaces--barents",
+  "folder": "Barents",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre/barents/",
+  "local_closeups": [],
+  "local_rooms": [],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site | no room found on site"
+ },
+ {
+  "colour": "Bianco Carrara",
+  "id": "akg-surfaces--bianco-carrara",
+  "folder": "Bianco Carrara",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre/bianco-carrara/",
+  "local_closeups": [],
+  "local_rooms": [
+   "936-Bianco-Carrara-Kitchen_228949b0f.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site"
+ },
+ {
+  "colour": "Bianco Eclipsia",
+  "id": "akg-surfaces--bianco-eclipsia",
+  "folder": "Bianco Eclipsia",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre-printed-full-body-range/bianco-eclipsia/",
+  "local_closeups": [
+   "02-Bianco-Eclipsia-Bookmatched_2263481d3.jpg"
+  ],
+  "local_rooms": [],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no room found on site"
+ },
+ {
+  "colour": "Brittanica",
+  "id": "akg-surfaces--brittanica",
+  "folder": "Brittanica",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre/brittanica/",
+  "local_closeups": [],
+  "local_rooms": [
+   "235-Britannica-Marketing_229333691.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site"
+ },
+ {
+  "colour": "Calacatta Arlena",
+  "id": "akg-surfaces--calacatta-arlena",
+  "folder": "Calacatta Arlena",
+  "productUrl": "https://akgsurfaces.co.uk/products/coante-arteo-3d-range/calacatta-arlena/",
+  "local_closeups": [],
+  "local_rooms": [
+   "10121-Calacatta-Arlena-Render-1-1.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site"
+ },
+ {
+  "colour": "Calacatta Aspen",
+  "id": "akg-surfaces--calacatta-aspen",
+  "folder": "Calacatta Aspen#",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre-printed-full-body-range/calacatta-aspen/",
+  "local_closeups": [
+   "01-Calacatta-Aspen-Bookmatched_226671db8.jpg",
+   "01-Calacatta-Aspen-PQ.jpg"
+  ],
+  "local_rooms": [],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no room found on site"
+ },
+ {
+  "colour": "Calacatta Claire",
+  "id": "akg-surfaces--calacatta-claire",
+  "folder": "Calacatta Claire",
+  "productUrl": "https://akgsurfaces.co.uk/products/coante-arteo-3d-range/calacatta-claire/",
+  "local_closeups": [],
+  "local_rooms": [
+   "10103-Calacatta-Claire-Render-1_1-1.jpg",
+   "10103-Calacatta-Claire-Render-1_2_2163ea647.jpg",
+   "10103-Calacatta-Claire-Render-2_2164c6902.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site"
+ },
+ {
+  "colour": "Calacatta Clara",
+  "id": "akg-surfaces--calacatta-clara",
+  "folder": "Calacatta Clara",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre/calacatta-clara/",
+  "local_closeups": [
+   "937-Calacatta-Clara-Pattern.jpg"
+  ],
+  "local_rooms": [
+   "937-Calacatta-Clara-Kitchen.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": ""
+ },
+ {
+  "colour": "Calacatta Edera Low Silica",
+  "id": "akg-surfaces--calacatta-edera-low-silica",
+  "folder": "Calacatta Edera Low Silica",
+  "productUrl": "https://akgsurfaces.co.uk/products/coante/calacatta-edera/",
+  "local_closeups": [
+   "7701-Calacatta-Edera-Close-Up_219901b1b.jpg"
+  ],
+  "local_rooms": [
+   "7701-Calacatta-Edera-Composition-1_2200278f8.jpg",
+   "7701-Calacatta-Edera-Composition-2_1_220145c91.jpg",
+   "7701-Calacatta-Edera-Composition-2_2.jpg",
+   "7701-Calacatta-Edera-Composition-2_3.jpg",
+   "7701-Calacatta-Edera-Composition-2_4_2204856ba.jpg",
+   "7701-Calacatta-Edera-Render-1_220523626.jpg",
+   "7701-Calacatta-Edera-Render-2_2206aba1e.jpg",
+   "7701-Calacatta-Edera-Render-3_220771425.jpg",
+   "7701-Calacatta-Edera-Render-4_2208755f0.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": ""
+ },
+ {
+  "colour": "Calacatta Encore",
+  "id": "akg-surfaces--calacatta-encore",
+  "folder": "Calacatta Encore",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre/calacatta-encore/",
+  "local_closeups": [
+   "956-Calacatta-Encore-Pattern.jpg"
+  ],
+  "local_rooms": [
+   "956-Calacatta-Encore-Kitchen.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": ""
+ },
+ {
+  "colour": "Calacatta Lucia",
+  "id": "akg-surfaces--calacatta-lucia",
+  "folder": "Calacatta Lucia",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre/calacatta-lucia/",
+  "local_closeups": [],
+  "local_rooms": [
+   "978-Calacatta-Lucia-Kitchen-2_230251086.jpg",
+   "978-Calacatta-Lucia-Kitchen.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site"
+ },
+ {
+  "colour": "Calacatta Magnifico",
+  "id": "akg-surfaces--calacatta-magnifico",
+  "folder": "Calacatta Magnifico",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre/calacatta-magnificio/",
+  "local_closeups": [
+   "910-Calacatta-Magnificio-Pattern_2308511d4.jpg",
+   "Calacatta Magnifico by Cimstone close up.jpg"
+  ],
+  "local_rooms": [
+   "910-Calacatta-Magnificio-Kitchen.jpg",
+   "Calacatta Magnifico by Cimstone kitchen image.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": ""
+ },
+ {
+  "colour": "Calacatta Marbella",
+  "id": "akg-surfaces--calacatta-marbella",
+  "folder": "Calacatta Marbella",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre/calacatta-marbella/",
+  "local_closeups": [],
+  "local_rooms": [
+   "970-Calacatta-Marbella-Kitchen_23094d47c.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site"
+ },
+ {
+  "colour": "Calacatta Mystic",
+  "id": "akg-surfaces--calacatta-mystic",
+  "folder": "Calacatta Mystic",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre-printed-full-body-range/calacatta-mystic/",
+  "local_closeups": [
+   "03-Calacatta-Mystic-Bookmatched.jpg",
+   "03-Calacatta-mystic-PQ.jpg"
+  ],
+  "local_rooms": [],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no room found on site"
+ },
+ {
+  "colour": "Calacatta Nuvo",
+  "id": "akg-surfaces--calacatta-nuvo",
+  "folder": "Calacatta Nuvo",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre/calacatta-nuvo/",
+  "local_closeups": [],
+  "local_rooms": [
+   "932-Calacatta-Nuvo-Kitchen-1_2313634b1.jpg",
+   "932-Calacatta-Nuvo-Kitchen-2_231446a79.jpg",
+   "932-Calacatta-Nuvo-Kitchen-3_23157b580.jpg",
+   "932-Calacatta-Nuvo-Kitchen-4_2316f652d.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site"
+ },
+ {
+  "colour": "Calacatta Venato",
+  "id": "akg-surfaces--calacatta-venato",
+  "folder": "Calacatta Venato",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre/calacatta-venato/",
+  "local_closeups": [],
+  "local_rooms": [
+   "920-Calacatta-Venato-Kitchen-1_23194e575.jpg",
+   "920-Calacatta-Venato-Kitchen-2.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site"
+ },
+ {
+  "colour": "Calacatta Verona",
+  "id": "akg-surfaces--calacatta-verona",
+  "folder": "Calacatta Verona",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre-printed-full-body-range/calacatta-verona/",
+  "local_closeups": [],
+  "local_rooms": [
+   "06-Calacatta-Verona-K.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site"
+ },
+ {
+  "colour": "Calacatta Vicenza",
+  "id": "akg-surfaces--calacatta-vicenza",
+  "folder": "Calacatta Vicenza",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre/calacatta-vicenza/",
+  "local_closeups": [],
+  "local_rooms": [
+   "981-Calacatta-Vicenza-Kitchen_2323d8845.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site"
+ },
+ {
+  "colour": "Calacatta Vivaldi Gold",
+  "id": "akg-surfaces--calacatta-vivaldi-gold",
+  "folder": "Calacatta Vivaldi Gold",
+  "productUrl": "https://akgsurfaces.co.uk/products/coante/calacatta-vivaldi-gold/",
+  "local_closeups": [
+   "9091-Calacatta-Vivaldi-Gold-Close-Up-1.jpg",
+   "9091-Calacatta-Vivaldi-Gold-Close-Up-2_22117dc99.jpg"
+  ],
+  "local_rooms": [
+   "9091-Calacatta-Vivaldi-Gold-Render-1_221271325.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": ""
+ },
+ {
+  "colour": "Carrara Enigma",
+  "id": "akg-surfaces--carrara-enigma",
+  "folder": "Carrara Enigma",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre/carrara-enigma/",
+  "local_closeups": [],
+  "local_rooms": [
+   "180-Carrara-Enigma-Marketing_23273e41f.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site"
+ },
+ {
+  "colour": "Cathara Bronze",
+  "id": "akg-surfaces--cathara-bronze",
+  "folder": "Cathara Bronze",
+  "productUrl": "https://akgsurfaces.co.uk/products/coante-arteo-3d-range/cathara-bronze/",
+  "local_closeups": [],
+  "local_rooms": [
+   "10202-Cathara-Bronze-Render-1-1.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site"
+ },
+ {
+  "colour": "Cemento Matte",
+  "id": "akg-surfaces--cemento-matte",
+  "folder": "Cemento Matte",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre/cemento-matte/",
+  "local_closeups": [],
+  "local_rooms": [
+   "972-Cemento-Matte-Kitchen.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site"
+ },
+ {
+  "colour": "Concrete Terreno",
+  "id": "akg-surfaces--concrete-terreno",
+  "folder": "Concrete Terreno",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre/concrete-terreno/",
+  "local_closeups": [
+   "785-Concrete-Terreno-Pattern.jpg"
+  ],
+  "local_rooms": [
+   "785-Concrete-Terreno-Kitchen_2331fbf05.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": ""
+ },
+ {
+  "colour": "Cortina",
+  "id": "akg-surfaces--cortina",
+  "folder": "Cortina",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre/cortina/",
+  "local_closeups": [],
+  "local_rooms": [
+   "143-Cortina-Kitchen.jpg",
+   "143-Cortina-Marketing_233634fe1.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site"
+ },
+ {
+  "colour": "Cremo Jade",
+  "id": "akg-surfaces--cremo-jade",
+  "folder": "Cremo Jade",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre/cremo-jade/",
+  "local_closeups": [],
+  "local_rooms": [
+   "164-Cremo-Jade-K.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site"
+ },
+ {
+  "colour": "Elvare",
+  "id": "akg-surfaces--elvare",
+  "folder": "Elvare",
+  "productUrl": "https://akgsurfaces.co.uk/products/coante-arteo-3d-range/elvare/",
+  "local_closeups": [],
+  "local_rooms": [
+   "10306-Elvare-Render-1-1.jpg",
+   "10306-Elvare-Render-2_21712f585.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site"
+ },
+ {
+  "colour": "Golden Veil",
+  "id": "akg-surfaces--golden-veil",
+  "folder": "Golden Veil",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre/golden-veil/",
+  "local_closeups": [],
+  "local_rooms": [
+   "726-Golden-Veil-K.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site"
+ },
+ {
+  "colour": "Hielo",
+  "id": "akg-surfaces--hielo",
+  "folder": "Hielo",
+  "productUrl": "https://akgsurfaces.co.uk/products/coante/hielo/",
+  "local_closeups": [
+   "3313-Hielo-Close-Up_221468abe.jpg"
+  ],
+  "local_rooms": [
+   "3313-Hielo-Composition-1_221548364.jpg",
+   "3313-Hielo-Composition-2_22166d71e.jpg",
+   "3313-Hielo-Composition-3_2217a7303.jpg",
+   "3313-Hielo-Composition-4_2218d2153.jpg",
+   "3313-Hielo-Composition-5_22194b183.jpg",
+   "3313-Hielo-Render-1_222105223.jpg",
+   "3313-Hielo-Render-2_222281ba1.jpg",
+   "3313-Hielo-Render-3_222309ba7.jpg",
+   "3313-Hielo-Render-4_22243b8d2.jpg",
+   "3313-Hielo-Render-5_2225ffc60.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": ""
+ },
+ {
+  "colour": "Iceberg Mist",
+  "id": "akg-surfaces--iceberg-mist",
+  "folder": "Iceberg Mist#",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre/iceberg-mist/",
+  "local_closeups": [],
+  "local_rooms": [],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site | no room found on site"
+ },
+ {
+  "colour": "Lapland",
+  "id": "akg-surfaces--lapland",
+  "folder": "Lapland#",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre/lapland/",
+  "local_closeups": [
+   "900-Lapland-Pattern_23453f3a1.jpg"
+  ],
+  "local_rooms": [],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no room found on site"
+ },
+ {
+  "colour": "Lux Grey",
+  "id": "akg-surfaces--lux-grey",
+  "folder": "Lux Grey",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre-printed-full-body-range/lux-grey/",
+  "local_closeups": [
+   "04-Lux-Grey-Bookmatched_22769ee16.jpg",
+   "04-Lux-Grey-PQ.jpg"
+  ],
+  "local_rooms": [],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no room found on site"
+ },
+ {
+  "colour": "Majestic Brown Ultra",
+  "id": "akg-surfaces--majestic-brown-ultra",
+  "folder": "Majestic Brown Ultra",
+  "productUrl": "https://akgsurfaces.co.uk/products/coante/majestic-brown-ultra/",
+  "local_closeups": [
+   "9003-Majestic-Brown-Ultra-Close-up_2231cee9c.jpg",
+   "9003-Majestic-Brown-Ultra-Bookmatch-1_2227e8e25.jpg",
+   "9003-Majestic-Brown-Ultra-Bookmatch-2_1.jpg",
+   "9003-Majestic-Brown-Ultra-Bookmatch-2_2_22296b2e5.jpg",
+   "9003-Majestic-Brown-Ultra-Bookmatch-3_22304b301.jpg"
+  ],
+  "local_rooms": [
+   "9003-Majestic-Brown-Ultra-Composition-1_223243b84.jpg",
+   "9003-Majestic-Brown-Ultra-Composition-2_223312a05.jpg",
+   "9003-Majestic-Brown-Ultra-Composition-3_22348aac4.jpg",
+   "9003-Majestic-Brown-Ultra-Composition-4_22352a0f6.jpg",
+   "9003-Majestic-Brown-Ultra-Composition-5_2236b722d.jpg",
+   "9003-Majestic-Brown-Ultra-Composition-6_22376531c.jpg",
+   "9003-Majestic-Brown-Ultra-Render-1_2238edf33.jpg",
+   "9003-Majestic-Brown-Ultra-Render-2_2239eac08.jpg",
+   "9003-Majestic-Brown-Ultra-Render-3_224088518.jpg",
+   "9003-Majestic-Brown-Ultra-Render-4_2241fcfb7.jpg",
+   "9003-Majestic-Brown-Ultra-Render-5_224205ef9.jpg",
+   "9003-Majestic-Brown-Ultra-Render-6_224324673.jpg",
+   "9003-Majestic-Brown-Ultra-Render-7_22443d00b.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": ""
+ },
+ {
+  "colour": "Misterio Oro",
+  "id": "akg-surfaces--misterio-oro",
+  "folder": "Misterio Oro",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre/misterio-oro/",
+  "local_closeups": [],
+  "local_rooms": [
+   "145-Misterio-Oro-Kitchen.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site"
+ },
+ {
+  "colour": "Nebula",
+  "id": "akg-surfaces--nebula",
+  "folder": "Nebula",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre/nebula/",
+  "local_closeups": [],
+  "local_rooms": [
+   "925-Nebula-Kitchen.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site"
+ },
+ {
+  "colour": "Petra Taj Low Silica",
+  "id": "akg-surfaces--petra-taj-low-silica",
+  "folder": "Petra Taj Low Silica",
+  "productUrl": "https://akgsurfaces.co.uk/products/coante-arteo-3d-range/petra-taj/",
+  "local_closeups": [
+   "10335-Petra-Taj-Close-Up.jpg"
+  ],
+  "local_rooms": [
+   "10335-Petra-Taj-Render-1_21740f561.jpg",
+   "10335-Petra-Taj-Render-2.jpg",
+   "10335-Petra-Taj-Render-3.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": ""
+ },
+ {
+  "colour": "Sierra",
+  "id": "akg-surfaces--sierra",
+  "folder": "Sierra",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre/sierra/",
+  "local_closeups": [],
+  "local_rooms": [
+   "160-Sierra-Kitchen.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site"
+ },
+ {
+  "colour": "Sineda",
+  "id": "akg-surfaces--sineda",
+  "folder": "Sineda",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre/sineda/",
+  "local_closeups": [
+   "Sineda - 990 by Cimstone - close up.jpg"
+  ],
+  "local_rooms": [
+   "990-Sineda-Kitchen.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": ""
+ },
+ {
+  "colour": "Solesta",
+  "id": "akg-surfaces--solesta",
+  "folder": "Solesta",
+  "productUrl": "https://akgsurfaces.co.uk/products/coante-arteo-3d-range/solesta/",
+  "local_closeups": [],
+  "local_rooms": [
+   "10117-Solesta-Render-1_2179333fe.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site"
+ },
+ {
+  "colour": "Strataveris",
+  "id": "akg-surfaces--strataveris",
+  "folder": "Strataveris#",
+  "productUrl": "https://akgsurfaces.co.uk/products/coante-arteo-3d-range/strataveris/",
+  "local_closeups": [],
+  "local_rooms": [
+   "10111-Strataveris-Render-1-WEB_2182613e1.jpg",
+   "10111-Strataveris-Render-1_2183108c4.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site"
+ },
+ {
+  "colour": "Taj Mahal",
+  "id": "akg-surfaces--taj-mahal",
+  "folder": "Taj Mahal",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre-printed-full-body-range/taj-mahal/",
+  "local_closeups": [],
+  "local_rooms": [
+   "05-Taj-Mahal-Kitchen.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site"
+ },
+ {
+  "colour": "Taj Mahal Supreme",
+  "id": "akg-surfaces--taj-mahal-supreme",
+  "folder": "Taj Mahal Supreme",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre-printed-full-body-range/taj-mahal-supreme/",
+  "local_closeups": [],
+  "local_rooms": [
+   "06-Taj-Mahal-Supreme-K.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site"
+ },
+ {
+  "colour": "Valiente Black Low Silica",
+  "id": "akg-surfaces--valiente-black-low-silica",
+  "folder": "Valiente Black Low Silica",
+  "productUrl": "https://akgsurfaces.co.uk/products/coante/valiente-black/",
+  "local_closeups": [
+   "6-Valiente-Black-Close-Up_22468080c.jpg"
+  ],
+  "local_rooms": [
+   "6-Valiente-Black-Render.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": ""
+ },
+ {
+  "colour": "Velare Gold",
+  "id": "akg-surfaces--velare-gold",
+  "folder": null,
+  "productUrl": "https://akgsurfaces.co.uk/?s=Velare+Gold",
+  "local_closeups": [],
+  "local_rooms": [],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": "Product not found on akgsurfaces.co.uk -- confirmed via live site search (?s=Velare+Gold and ?s=Velare both return 'nothing matched your search terms'). No folder, no page, likely discontinued/renamed since price-book row was added. Main image (from an earlier crawl) kept; no gallery possible."
+ },
+ {
+  "colour": "Zenit",
+  "id": "akg-surfaces--zenit",
+  "folder": "Zenit",
+  "productUrl": "https://akgsurfaces.co.uk/products/coante/zenit/",
+  "local_closeups": [
+   "7709-Zenit-Close-Up_225398fea.jpg",
+   "7709-Zenit-Bookmatch-1_1.jpg",
+   "7709-Zenit-Bookmatch-1_2.jpg",
+   "7709-Zenit-Bookmatch-2_225180381.jpg",
+   "7709-Zenit-Bookmatch-3_22525832f.jpg"
+  ],
+  "local_rooms": [
+   "7709-Zenit-Composition-1_22548acd7.jpg",
+   "7709-Zenit-Composition-2_1_2255649cd.jpg",
+   "7709-Zenit-Composition-2_2_225619ffc.jpg",
+   "7709-Zenit-Composition-3_225712dcc.jpg",
+   "7709-Zenit-Composition-4_2258c0fb0.jpg",
+   "7709-Zenit-Render-1_22599f8f0.jpg",
+   "7709-Zenit-Render-2_2260d7695.jpg",
+   "7709-Zenit-Render-3_2261ca356.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": ""
+ },
+ {
+  "colour": "Everest",
+  "id": "akg-surfaces--everest",
+  "folder": "Everest",
+  "productUrl": "https://akgsurfaces.co.uk/products/sempre/everest/",
+  "local_closeups": [],
+  "local_rooms": [
+   "781-Everest-Kitchen.jpg"
+  ],
+  "new_closeups": [],
+  "new_rooms": [],
+  "note": " | no closeup found on site"
+ }
+]
