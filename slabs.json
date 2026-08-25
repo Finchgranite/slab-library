@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T08:57:58Z",
+ "generated": "2026-08-25T09:23:59Z",
  "slabs": [
   {
    "id": "akg-surfaces--adira-bronze",
@@ -66314,13 +66314,41 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/ambient-cemento-polished/",
    "image": {
     "file": "",
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "aliases": [
+    "Ambient Cemento Polished"
+   ],
+   "images": [
+    {
+     "file": "world-wide-stones--ambient-cemento--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/ambient-cemento-polished/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "world-wide-stones--ambient-cemento--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/ambient-cemento-polished/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "world-wide-stones--ambient-cemento--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/ambient-cemento-polished/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--arabescato",
@@ -66332,13 +66360,31 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Arabescato",
+   "productUrl": "https://www.worldwidestones.co.uk/porcelain-slabs/arabescato/",
    "image": {
     "file": "world-wide-stones--arabescato.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600",
+   "details": "Porcelain. Slab size(s): 20mm: 3200x1600. Finish: Matt",
+   "images": [
+    {
+     "file": "world-wide-stones--arabescato.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--arabescato--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/porcelain-slabs/arabescato/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--arabescato-bianco",
@@ -66351,13 +66397,31 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Arabescato+Bianco",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/arabescato-bianco-2/",
    "image": {
     "file": "world-wide-stones--arabescato-bianco.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "images": [
+    {
+     "file": "world-wide-stones--arabescato-bianco.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--arabescato-bianco--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/arabescato-bianco-2/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--arabescato-corchia",
@@ -66370,13 +66434,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Arabescato+Corchia",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/arabescato-corchia-3/",
    "image": {
     "file": "world-wide-stones--arabescato-corchia.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "images": [
+    {
+     "file": "world-wide-stones--arabescato-corchia.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--arabescato-corchia--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/arabescato-corchia-3/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "world-wide-stones--arabescato-corchia--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/arabescato-corchia-3/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--avalanche",
@@ -66389,13 +66478,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Avalanche",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/avalanche/",
    "image": {
     "file": "world-wide-stones--avalanche.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "images": [
+    {
+     "file": "world-wide-stones--avalanche.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--avalanche--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/avalanche/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "world-wide-stones--avalanche--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/avalanche/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--borini",
@@ -66408,13 +66522,31 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Borini",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/borini/",
    "image": {
     "file": "world-wide-stones--borini.webp",
     "status": "closeup-only",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "images": [
+    {
+     "file": "world-wide-stones--borini--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/borini/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "world-wide-stones--borini--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/borini/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--breccia-brown",
@@ -66427,13 +66559,34 @@
     12,
     20
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Breccia+Brown",
+   "productUrl": "https://www.worldwidestones.co.uk/porcelain-slabs/breccia-brown-2/",
    "image": {
     "file": "world-wide-stones--breccia-brown.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Techlam range. Slab size(s): 12mm: 3200x1600 / 20mm: 3200x1600. Finish: Polished",
+   "aliases": [
+    "Techlam Breccia Brown"
+   ],
+   "images": [
+    {
+     "file": "world-wide-stones--breccia-brown.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--breccia-brown--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/porcelain-slabs/breccia-brown-2/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--brooklyn-25",
@@ -66446,13 +66599,31 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Brooklyn+\"25\"",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/brooklyn-25/",
    "image": {
     "file": "world-wide-stones--brooklyn-25.webp",
-    "status": "closeup-only",
-    "source": "worldwidestones.co.uk",
+    "status": "slab",
+    "source": "https://www.worldwidestones.co.uk/quartz-slabs/brooklyn-25/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "images": [
+    {
+     "file": "world-wide-stones--brooklyn-25.webp",
+     "status": "slab",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/brooklyn-25/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--brooklyn-25--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/brooklyn-25/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--calacatta-antique",
@@ -66465,13 +66636,31 @@
     12,
     20
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Calacatta+Antique",
+   "productUrl": "https://www.worldwidestones.co.uk/porcelain-slabs/calacatta-antique/",
    "image": {
     "file": "world-wide-stones--calacatta-antique.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Porcelain. Slab size(s): 12mm: 3200x1600 / 20mm: 3200x1600. Finish: Matt",
+   "images": [
+    {
+     "file": "world-wide-stones--calacatta-antique.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--calacatta-antique--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/porcelain-slabs/calacatta-antique/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--calacatta-borghini",
@@ -66484,13 +66673,34 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Calacatta+Borghini",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/calacatta-borghini-3d/",
    "image": {
     "file": "world-wide-stones--calacatta-borghini.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "aliases": [
+    "Calacatta Borghini 3D"
+   ],
+   "images": [
+    {
+     "file": "world-wide-stones--calacatta-borghini.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--calacatta-borghini--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/calacatta-borghini-3d/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--calacatta-classic",
@@ -66502,13 +66712,31 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Calacatta+Classic",
+   "productUrl": "https://www.worldwidestones.co.uk/porcelain-slabs/calacatta-classic/",
    "image": {
     "file": "world-wide-stones--calacatta-classic.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600",
+   "details": "Porcelain. Slab size(s): 20mm: 3200x1600. Finish: Matt",
+   "images": [
+    {
+     "file": "world-wide-stones--calacatta-classic.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--calacatta-classic--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/porcelain-slabs/calacatta-classic/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--calacatta-emerald",
@@ -66521,13 +66749,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Calacatta+Emerald",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/calacatta-emerald/",
    "image": {
     "file": "world-wide-stones--calacatta-emerald.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "images": [
+    {
+     "file": "world-wide-stones--calacatta-emerald.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--calacatta-emerald--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/calacatta-emerald/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "world-wide-stones--calacatta-emerald--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/calacatta-emerald/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--calacatta-gold",
@@ -66540,13 +66793,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Calacatta+Gold",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/calacatta-gold/",
    "image": {
     "file": "world-wide-stones--calacatta-gold.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "images": [
+    {
+     "file": "world-wide-stones--calacatta-gold.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--calacatta-gold--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/calacatta-gold/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "world-wide-stones--calacatta-gold--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/calacatta-gold/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--calacatta-grey",
@@ -66558,13 +66836,31 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Calacatta+Grey",
+   "productUrl": "https://www.worldwidestones.co.uk/porcelain-slabs/calacatta-grey/",
    "image": {
     "file": "world-wide-stones--calacatta-grey.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600",
+   "details": "Porcelain. Slab size(s): 20mm: 3200x1600. Finish: Matt",
+   "images": [
+    {
+     "file": "world-wide-stones--calacatta-grey.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--calacatta-grey--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/porcelain-slabs/calacatta-grey/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--calacatta-light",
@@ -66577,13 +66873,31 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Calacatta+Light",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/calacatta-light/",
    "image": {
     "file": "world-wide-stones--calacatta-light.webp",
     "status": "closeup-only",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3500x2000 / 30mm: 3500x2000",
+   "details": "Quartz. Slab size(s): 20mm: 3500x2000 / 30mm: 3500x2000. Finish: Polished",
+   "images": [
+    {
+     "file": "world-wide-stones--calacatta-light--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/calacatta-light/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "world-wide-stones--calacatta-light--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/calacatta-light/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--calacatta-oro",
@@ -66596,13 +66910,31 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Calacatta+Oro",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/calacatta-oro/",
    "image": {
     "file": "world-wide-stones--calacatta-oro.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "images": [
+    {
+     "file": "world-wide-stones--calacatta-oro.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--calacatta-oro--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/calacatta-oro/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--calacatta-oro-frost",
@@ -66615,13 +66947,34 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/calacatta-oro-duplicate-941/",
    "image": {
     "file": "world-wide-stones--calacatta-oro-frost.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "aliases": [
+    "Calacatta Oro Claro"
+   ],
+   "images": [
+    {
+     "file": "world-wide-stones--calacatta-oro-frost.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--calacatta-oro-frost--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/calacatta-oro-duplicate-941/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--calacatta-viola",
@@ -66633,13 +66986,31 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Calacatta+Viola",
+   "productUrl": "https://www.worldwidestones.co.uk/porcelain-slabs/statuary-venato/",
    "image": {
     "file": "world-wide-stones--calacatta-viola.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600",
+   "details": "Porcelain. Slab size(s): 20mm: 3200x1600. Finish: Matt",
+   "images": [
+    {
+     "file": "world-wide-stones--calacatta-viola.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--calacatta-viola--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/porcelain-slabs/statuary-venato/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--carrara",
@@ -66652,13 +67023,41 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Carrara",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/carrara-extra/",
    "image": {
     "file": "world-wide-stones--carrara.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3500x2000 / 30mm: 3500x2000",
+   "details": "Quartz. Slab size(s): 20mm: 3500x2000 / 30mm: 3500x2000. Finish: Polished",
+   "aliases": [
+    "Carrara New (Super Jumbo)"
+   ],
+   "images": [
+    {
+     "file": "world-wide-stones--carrara.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--carrara--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/carrara-extra/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "world-wide-stones--carrara--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/carrara-extra/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--carrara-flowery",
@@ -66671,13 +67070,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Carrara+Flowery",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/carrara-flowery/",
    "image": {
     "file": "world-wide-stones--carrara-flowery.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "images": [
+    {
+     "file": "world-wide-stones--carrara-flowery.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--carrara-flowery--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/carrara-flowery/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "world-wide-stones--carrara-flowery--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/carrara-flowery/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--carrara-flowery-extra",
@@ -66689,13 +67113,34 @@
    "thicknesses": [
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Carrara+Flowery+Extra",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/carrara-flowery-extra/",
    "image": {
     "file": "world-wide-stones--carrara-flowery-extra.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "30mm: 3500x2000",
+   "details": "Quartz. Slab size(s): 30mm: 3500x2000. Finish: Polished",
+   "aliases": [
+    "Carrara Flowery Extra (Super Jumbo)"
+   ],
+   "images": [
+    {
+     "file": "world-wide-stones--carrara-flowery-extra.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--carrara-flowery-extra--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/carrara-flowery-extra/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--carrara-onyx",
@@ -66708,13 +67153,31 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Carrara+Onyx",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/carrara-onyx/",
    "image": {
     "file": "world-wide-stones--carrara-onyx.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "images": [
+    {
+     "file": "world-wide-stones--carrara-onyx.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--carrara-onyx--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/carrara-onyx/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--colorado",
@@ -66727,13 +67190,34 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Colorado",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/colorado/",
    "image": {
     "file": "world-wide-stones--colorado.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "aliases": [
+    "Colorado  (Special order colour)"
+   ],
+   "images": [
+    {
+     "file": "world-wide-stones--colorado.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--colorado--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/colorado/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--cosmic-gold",
@@ -66746,13 +67230,34 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Cosmic+Gold",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/cosmic-gold-polished/",
    "image": {
     "file": "world-wide-stones--cosmic-gold.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "aliases": [
+    "Cosmic Gold Polished"
+   ],
+   "images": [
+    {
+     "file": "world-wide-stones--cosmic-gold.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--cosmic-gold--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/cosmic-gold-polished/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--crimson-frost",
@@ -66765,13 +67270,41 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Crimson+Frost",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/carrara-frost-duplicate-12515/",
    "image": {
     "file": "world-wide-stones--crimson-frost.webp",
-    "status": "closeup-only",
-    "source": "worldwidestones.co.uk",
+    "status": "slab",
+    "source": "https://www.worldwidestones.co.uk/quartz-slabs/carrara-frost-duplicate-12515/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "aliases": [
+    "Crimson Frost (Shimmer)"
+   ],
+   "images": [
+    {
+     "file": "world-wide-stones--crimson-frost.webp",
+     "status": "slab",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/carrara-frost-duplicate-12515/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--crimson-frost--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/carrara-frost-duplicate-12515/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "world-wide-stones--crimson-frost--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/carrara-frost-duplicate-12515/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--cristallino-supreme",
@@ -66784,13 +67317,41 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Cristallino+Supreme",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/cristallino-supreme/",
    "image": {
     "file": "world-wide-stones--cristallino-supreme.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "aliases": [
+    "Cristallino"
+   ],
+   "images": [
+    {
+     "file": "world-wide-stones--cristallino-supreme.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--cristallino-supreme--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/cristallino-supreme/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "world-wide-stones--cristallino-supreme--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/cristallino-supreme/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--desert-silver",
@@ -66803,13 +67364,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/desert-silver/",
    "image": {
     "file": "world-wide-stones--desert-silver.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "images": [
+    {
+     "file": "world-wide-stones--desert-silver.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--desert-silver--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/desert-silver/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "world-wide-stones--desert-silver--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/desert-silver/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--embers",
@@ -66822,13 +67408,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Embers",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/embers/",
    "image": {
     "file": "world-wide-stones--embers.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "images": [
+    {
+     "file": "world-wide-stones--embers.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--embers--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/embers/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "world-wide-stones--embers--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/embers/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--essential-gold",
@@ -66841,13 +67452,34 @@
     12,
     20
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Essential+Gold",
+   "productUrl": "https://www.worldwidestones.co.uk/porcelain-slabs/essential-gold-2/",
    "image": {
     "file": "world-wide-stones--essential-gold.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Techlam range. Slab size(s): 12mm: 3200x1600 / 20mm: 3200x1600. Finish: Matt",
+   "aliases": [
+    "Techlam Essential Gold"
+   ],
+   "images": [
+    {
+     "file": "world-wide-stones--essential-gold.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--essential-gold--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/porcelain-slabs/essential-gold-2/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--fior-di-bosco",
@@ -66860,13 +67492,34 @@
     12,
     20
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Fior+Di+Bosco",
+   "productUrl": "https://www.worldwidestones.co.uk/porcelain-slabs/fior-di-bosco/",
    "image": {
     "file": "world-wide-stones--fior-di-bosco.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Techlam range. Slab size(s): 12mm: 3200x1600 / 20mm: 3200x1600. Finish: Matt",
+   "aliases": [
+    "Techlam Fior Di Bosco"
+   ],
+   "images": [
+    {
+     "file": "world-wide-stones--fior-di-bosco.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--fior-di-bosco--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/porcelain-slabs/fior-di-bosco/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--grey-coconut-sparkle",
@@ -66879,13 +67532,34 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/grey-coconut-reflex/",
    "image": {
     "file": "",
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "aliases": [
+    "Grey Coconut"
+   ],
+   "images": [
+    {
+     "file": "world-wide-stones--grey-coconut-sparkle--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/grey-coconut-reflex/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "world-wide-stones--grey-coconut-sparkle--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/grey-coconut-reflex/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--irini",
@@ -66898,13 +67572,31 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Irini",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/irini/",
    "image": {
     "file": "world-wide-stones--irini.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "images": [
+    {
+     "file": "world-wide-stones--irini.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--irini--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/irini/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--levante-gold",
@@ -66917,13 +67609,31 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Levante+Gold",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/levante-gold/",
    "image": {
     "file": "world-wide-stones--levante-gold.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "images": [
+    {
+     "file": "world-wide-stones--levante-gold.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--levante-gold--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/levante-gold/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--levante-grey",
@@ -66936,13 +67646,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/levante-grey/",
    "image": {
     "file": "",
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "images": [
+    {
+     "file": "world-wide-stones--levante-grey--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/levante-grey/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "world-wide-stones--levante-grey--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/levante-grey/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "world-wide-stones--levante-grey--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/levante-grey/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--marvel-gold",
@@ -66955,13 +67690,34 @@
     12,
     20
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Marvel+Gold",
+   "productUrl": "https://www.worldwidestones.co.uk/porcelain-slabs/marvellous-gold/",
    "image": {
     "file": "world-wide-stones--marvel-gold.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Techlam range. Slab size(s): 12mm: 3200x1600 / 20mm: 3200x1600. Finish: Matt",
+   "aliases": [
+    "Techlam Marvel Gold"
+   ],
+   "images": [
+    {
+     "file": "world-wide-stones--marvel-gold.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--marvel-gold--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/porcelain-slabs/marvellous-gold/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--mont-blanc",
@@ -66974,13 +67730,34 @@
     12,
     20
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Mont+Blanc",
+   "productUrl": "https://www.worldwidestones.co.uk/porcelain-slabs/mont-blanc-2/",
    "image": {
     "file": "world-wide-stones--mont-blanc.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Techlam range. Slab size(s): 12mm: 3200x1600 / 20mm: 3200x1600. Finish: Matt",
+   "aliases": [
+    "Techlam Mont Blanc"
+   ],
+   "images": [
+    {
+     "file": "world-wide-stones--mont-blanc.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--mont-blanc--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/porcelain-slabs/mont-blanc-2/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--new-calacatta-gold",
@@ -66993,13 +67770,34 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=New+Calacatta+Gold",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/calacatta-gold-duplicate-973/",
    "image": {
     "file": "world-wide-stones--new-calacatta-gold.webp",
     "status": "closeup-only",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "aliases": [
+    "\"New\"Calacatta Gold"
+   ],
+   "images": [
+    {
+     "file": "world-wide-stones--new-calacatta-gold--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/calacatta-gold-duplicate-973/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "world-wide-stones--new-calacatta-gold--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/calacatta-gold-duplicate-973/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--new-carrara",
@@ -67012,13 +67810,34 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=New+Carrara",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/new-carrara/",
    "image": {
     "file": "world-wide-stones--new-carrara.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "aliases": [
+    "Carrara New"
+   ],
+   "images": [
+    {
+     "file": "world-wide-stones--new-carrara.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--new-carrara--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/new-carrara/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--new-carrara-frost",
@@ -67031,13 +67850,34 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/carrara-frost/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "world-wide-stones--new-carrara-frost.webp",
+    "status": "slab",
+    "source": "https://www.worldwidestones.co.uk/quartz-slabs/carrara-frost/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "aliases": [
+    "Carrara Frost (Shimmer)"
+   ],
+   "images": [
+    {
+     "file": "world-wide-stones--new-carrara-frost.webp",
+     "status": "slab",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/carrara-frost/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--new-carrara-frost--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/carrara-frost/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--noir-st-laurent",
@@ -67050,13 +67890,34 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://www.worldwidestones.co.uk/porcelain-slabs/noir/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "world-wide-stones--noir-st-laurent.webp",
+    "status": "slab",
+    "source": "https://www.worldwidestones.co.uk/porcelain-slabs/noir/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Techlam range. Slab size(s): 12mm: 3200x1600 / 20mm: 3200x1600. Finish: Matt",
+   "aliases": [
+    "Techlam Noir"
+   ],
+   "images": [
+    {
+     "file": "world-wide-stones--noir-st-laurent.webp",
+     "status": "slab",
+     "source": "https://www.worldwidestones.co.uk/porcelain-slabs/noir/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--noir-st-laurent--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/porcelain-slabs/noir/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--pacific-white",
@@ -67069,13 +67930,31 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Pacific+White",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/pacific-white/",
    "image": {
     "file": "world-wide-stones--pacific-white.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "images": [
+    {
+     "file": "world-wide-stones--pacific-white.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--pacific-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/pacific-white/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--patagonia",
@@ -67088,13 +67967,31 @@
     12,
     20
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Patagonia",
+   "productUrl": "https://www.worldwidestones.co.uk/porcelain-slabs/patagonia/",
    "image": {
     "file": "world-wide-stones--patagonia.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Porcelain. Slab size(s): 12mm: 3200x1600 / 20mm: 3200x1600. Finish: Polished",
+   "images": [
+    {
+     "file": "world-wide-stones--patagonia.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--patagonia--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/porcelain-slabs/patagonia/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--patagonia-oro",
@@ -67107,13 +68004,31 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Patagonia+Oro",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/patagonia-oro-2/",
    "image": {
     "file": "world-wide-stones--patagonia-oro.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "images": [
+    {
+     "file": "world-wide-stones--patagonia-oro.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--patagonia-oro--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/patagonia-oro-2/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--perla-venato",
@@ -67126,13 +68041,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Perla+Venato",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/perla-venato/",
    "image": {
     "file": "world-wide-stones--perla-venato.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "images": [
+    {
+     "file": "world-wide-stones--perla-venato.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--perla-venato--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/perla-venato/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "world-wide-stones--perla-venato--closeup2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/perla-venato/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--raw-concrete",
@@ -67145,13 +68085,34 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/raw-concrete-textured/",
    "image": {
     "file": "",
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Leathered",
+   "aliases": [
+    "Raw Concrete  (Leather)"
+   ],
+   "images": [
+    {
+     "file": "world-wide-stones--raw-concrete--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/raw-concrete-textured/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "world-wide-stones--raw-concrete--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/raw-concrete-textured/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--rosa-bulgari",
@@ -67164,13 +68125,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Rosa+Bulgari",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/rosa-bulgari/",
    "image": {
     "file": "world-wide-stones--rosa-bulgari.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "images": [
+    {
+     "file": "world-wide-stones--rosa-bulgari.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--rosa-bulgari--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/rosa-bulgari/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "world-wide-stones--rosa-bulgari--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/rosa-bulgari/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--sahara-waves",
@@ -67183,13 +68169,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Sahara+Waves",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/irini-classic/",
    "image": {
     "file": "world-wide-stones--sahara-waves.webp",
-    "status": "closeup-only",
-    "source": "worldwidestones.co.uk",
+    "status": "slab",
+    "source": "https://www.worldwidestones.co.uk/quartz-slabs/irini-classic/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "images": [
+    {
+     "file": "world-wide-stones--sahara-waves.webp",
+     "status": "slab",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/irini-classic/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--sahara-waves--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/irini-classic/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "world-wide-stones--sahara-waves--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/irini-classic/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--st-laurent",
@@ -67202,13 +68213,31 @@
     12,
     20
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=St+Laurent",
+   "productUrl": "https://www.worldwidestones.co.uk/porcelain-slabs/noir-st-laurent/",
    "image": {
     "file": "world-wide-stones--st-laurent.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "Porcelain. Slab size(s): 12mm: 3200x1600 / 20mm: 3200x1600. Finish: Matt",
+   "images": [
+    {
+     "file": "world-wide-stones--st-laurent.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--st-laurent--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/porcelain-slabs/noir-st-laurent/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--super-white",
@@ -67221,13 +68250,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Super+White",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/super-white/",
    "image": {
     "file": "world-wide-stones--super-white.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3500x2000",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3500x2000. Finish: Polished",
+   "images": [
+    {
+     "file": "world-wide-stones--super-white.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--super-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/super-white/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "world-wide-stones--super-white--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/super-white/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--taj-mahal",
@@ -67240,13 +68294,38 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Taj+Mahal",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/taj-mahal/",
    "image": {
     "file": "world-wide-stones--taj-mahal.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Matt, Polished",
+   "images": [
+    {
+     "file": "world-wide-stones--taj-mahal.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--taj-mahal--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/taj-mahal/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "world-wide-stones--taj-mahal--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/taj-mahal/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--taj-mahal-extra",
@@ -67259,13 +68338,34 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/taj-mahal-extra-3d/",
    "image": {
     "file": "world-wide-stones--taj-mahal-extra.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "aliases": [
+    "Taj Mahal Extra 3D"
+   ],
+   "images": [
+    {
+     "file": "world-wide-stones--taj-mahal-extra.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--taj-mahal-extra--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/taj-mahal-extra-3d/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--tuscan-gold",
@@ -67278,13 +68378,31 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=Tuscan+Gold",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/tuscan-gold/",
    "image": {
     "file": "world-wide-stones--tuscan-gold.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Quartz. Slab size(s): 20mm: 3200x1600 / 30mm: 3200x1600. Finish: Polished",
+   "images": [
+    {
+     "file": "world-wide-stones--tuscan-gold.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--tuscan-gold--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/tuscan-gold/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--white-frost",
@@ -67297,13 +68415,34 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=White+Frost",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/white-frost/",
    "image": {
     "file": "world-wide-stones--white-frost.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3500x2000 / 30mm: 3500x2000",
+   "details": "Quartz. Slab size(s): 20mm: 3500x2000 / 30mm: 3500x2000. Finish: Polished",
+   "aliases": [
+    "White Frost  (Shimmer)"
+   ],
+   "images": [
+    {
+     "file": "world-wide-stones--white-frost.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--white-frost--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/white-frost/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "world-wide-stones--white-sparkle",
@@ -67316,13 +68455,31 @@
     20,
     30
    ],
-   "productUrl": "https://www.worldwidestones.co.uk/?s=White+Sparkle",
+   "productUrl": "https://www.worldwidestones.co.uk/quartz-slabs/white-sparkle/",
    "image": {
     "file": "world-wide-stones--white-sparkle.webp",
     "status": "slab",
     "source": "worldwidestones.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3500x2000 / 30mm: 3500x2000",
+   "details": "Quartz. Slab size(s): 20mm: 3500x2000 / 30mm: 3500x2000. Finish: Polished",
+   "images": [
+    {
+     "file": "world-wide-stones--white-sparkle.webp",
+     "status": "slab",
+     "source": "worldwidestones.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "world-wide-stones--white-sparkle--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://www.worldwidestones.co.uk/quartz-slabs/white-sparkle/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "natural--albus",

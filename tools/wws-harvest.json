@@ -1,0 +1,2472 @@
+{
+ "manifest": {
+  "Ambient Cemento": {
+   "slug": "quartz-slabs/ambient-cemento-polished",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/ambient-cemento-polished/",
+   "colour": "Ambient Cemento",
+   "h1": "Ambient Cemento Polished",
+   "index_name": "Ambient Cemento Polished",
+   "sizes": [],
+   "slab": null,
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2024/01/Amb-Cemento-close.jpg"
+   ],
+   "rooms": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2023/02/Afyon.jpg",
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2023/02/Afyon-1.jpg"
+   ],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/02/Afyon.jpg",
+     "kind": "slab",
+     "w": 1024,
+     "h": 768,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/02/Afyon-1.jpg",
+     "kind": "slab",
+     "w": 1024,
+     "h": 768,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/02/Afyon-2.jpg",
+     "kind": "slab",
+     "w": 1024,
+     "h": 768,
+     "tag": "p3"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/01/Amb-Cemento-close.jpg",
+     "kind": "closeup(index)",
+     "w": 265,
+     "h": 234,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Arabescato Bianco": {
+   "slug": "quartz-slabs/arabescato-bianco-2",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/arabescato-bianco-2/",
+   "colour": "Arabescato Bianco",
+   "h1": "Arabescato Bianco",
+   "index_name": "Arabescato Bianco",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Arabescato-Bianco-.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2024/06/Close-Arabescato-Bianco.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Arabescato-Bianco-.jpg",
+     "kind": "slab",
+     "w": 1280,
+     "h": 960,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Arabescato-Bianco-1.jpg",
+     "kind": "slab",
+     "w": 1280,
+     "h": 960,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Arabescato-Bianco-2.jpg",
+     "kind": "slab",
+     "w": 1280,
+     "h": 960,
+     "tag": "p3"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/06/Close-Arabescato-Bianco.jpg",
+     "kind": "closeup(index)",
+     "w": 1600,
+     "h": 1200,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Arabescato Corchia": {
+   "slug": "quartz-slabs/arabescato-corchia-3",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/arabescato-corchia-3/",
+   "colour": "Arabescato Corchia",
+   "h1": "Arabescato Corchia",
+   "index_name": "Arabescato Corchia",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/01/Slab-Arabescato-Corchia.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2025/01/Close-Arabescato-Corchia-rotated.jpg"
+   ],
+   "rooms": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2026/04/Arabescato-Corchia-2.jpg"
+   ],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/01/Slab-Arabescato-Corchia.jpg",
+     "kind": "slab",
+     "w": 1080,
+     "h": 719,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/04/Arabescato-Corchia-1.jpg",
+     "kind": "slab",
+     "w": 1600,
+     "h": 1200,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/04/Arabescato-Corchia-2.jpg",
+     "kind": "closeup",
+     "w": 1200,
+     "h": 1600,
+     "tag": "p3"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/04/Arabescato-Corchia-3.jpg",
+     "kind": "closeup",
+     "w": 1200,
+     "h": 1600,
+     "tag": "p4"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/01/Close-Arabescato-Corchia-rotated.jpg",
+     "kind": "closeup(index)",
+     "w": 1600,
+     "h": 900,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Avalanche": {
+   "slug": "quartz-slabs/avalanche",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/avalanche/",
+   "colour": "Avalanche",
+   "h1": "Avalanche",
+   "index_name": "Avalanche",
+   "sizes": [],
+   "slab": null,
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2024/01/Avalanche-close.jpg"
+   ],
+   "rooms": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2024/11/Avalanche.jpeg"
+   ],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/11/Avalanche.jpeg",
+     "kind": "closeup",
+     "w": 1536,
+     "h": 2048,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/11/Avalanche1.jpeg",
+     "kind": "closeup",
+     "w": 990,
+     "h": 1320,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/01/Avalanche-close.jpg",
+     "kind": "closeup(index)",
+     "w": 210,
+     "h": 234,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Borini": {
+   "slug": "quartz-slabs/borini",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/borini/",
+   "colour": "Borini",
+   "h1": "Borini",
+   "index_name": "Borini",
+   "sizes": [],
+   "slab": null,
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Borini-1.jpg"
+   ],
+   "rooms": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2021/12/Close-Borini.jpeg"
+   ],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Borini.jpg",
+     "kind": null,
+     "w": 225,
+     "h": 225,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Borini-1.jpg",
+     "kind": "closeup",
+     "w": 736,
+     "h": 736,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Borini-2.jpg",
+     "kind": null,
+     "w": 225,
+     "h": 225,
+     "tag": "p3"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2021/12/Close-Borini.jpeg",
+     "kind": "closeup(index)",
+     "w": 1706,
+     "h": 1279,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Brooklyn \"25\"": {
+   "slug": "quartz-slabs/brooklyn-25",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/brooklyn-25/",
+   "colour": "Brooklyn \"25\"",
+   "h1": "Brooklyn \"25\"",
+   "index_name": "Brooklyn \"25\"",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/01/Slab-Brooklyn-25.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2025/01/Close-Brooklyn-25-1.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/01/Slab-Brooklyn-25.jpg",
+     "kind": "slab",
+     "w": 1579,
+     "h": 934,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/01/Close-Brooklyn-25-1.jpg",
+     "kind": "closeup(index)",
+     "w": 1200,
+     "h": 1600,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Calacatta Borghini": {
+   "slug": "quartz-slabs/calacatta-borghini-3d",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/calacatta-borghini-3d/",
+   "colour": "Calacatta Borghini",
+   "h1": "Calacatta Borghini 3D",
+   "index_name": "Calacatta Borghini 3D",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/02/Slab-Calacatta-Borghini-3D.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2026/02/Calacatta-Borghini-3D-Close-1-e1770307752981.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/02/Slab-Calacatta-Borghini-3D.jpg",
+     "kind": "slab",
+     "w": 5048,
+     "h": 2530,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/03/Calacatta-Borghini-2.jpeg",
+     "kind": "slab",
+     "w": 4032,
+     "h": 3024,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/02/Calacatta-Borghini-3D-Close-1-e1770307752981.jpg",
+     "kind": "closeup(index)",
+     "w": 1583,
+     "h": 794,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Calacatta Emerald": {
+   "slug": "quartz-slabs/calacatta-emerald",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/calacatta-emerald/",
+   "colour": "Calacatta Emerald",
+   "h1": "Calacatta Emerald",
+   "index_name": "Calacatta Emerald",
+   "sizes": [],
+   "slab": null,
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2024/09/Calacatta-Emerald-1.jpg"
+   ],
+   "rooms": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2025/01/Cal-Emerald-fit-1.jpg"
+   ],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/01/Cal-Emerald-fit-1.jpg",
+     "kind": "closeup",
+     "w": 900,
+     "h": 1600,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/01/Cal-Emerald-fit-4.jpg",
+     "kind": "closeup",
+     "w": 900,
+     "h": 1600,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/01/Cal-Emerald-fit.jpg",
+     "kind": "closeup",
+     "w": 900,
+     "h": 1600,
+     "tag": "p3"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/09/Calacatta-Emerald-1.jpg",
+     "kind": "closeup(index)",
+     "w": 1820,
+     "h": 932,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Calacatta Gold": {
+   "slug": "quartz-slabs/calacatta-gold",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/calacatta-gold/",
+   "colour": "Calacatta Gold",
+   "h1": "Calacatta Gold",
+   "index_name": "Calacatta Gold",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Cal-Gold-1.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2024/01/Calacatta-Gold-close.jpg"
+   ],
+   "rooms": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Cal-Gold.jpg"
+   ],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Cal-Gold.jpg",
+     "kind": "closeup",
+     "w": 900,
+     "h": 900,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Cal-Gold-1.jpg",
+     "kind": "slab",
+     "w": 1600,
+     "h": 900,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Cal-Gold-2.jpg",
+     "kind": "closeup",
+     "w": 900,
+     "h": 900,
+     "tag": "p3"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/01/Calacatta-Gold-close.jpg",
+     "kind": "closeup(index)",
+     "w": 397,
+     "h": 234,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Calacatta Light": {
+   "slug": "quartz-slabs/calacatta-light",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/calacatta-light/",
+   "colour": "Calacatta Light",
+   "h1": "Calacatta Light",
+   "index_name": "Calacatta Light",
+   "sizes": [],
+   "slab": null,
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2024/01/Calacatta-Light-close.jpg"
+   ],
+   "rooms": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2023/02/20221224_124539.jpg"
+   ],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/02/20221224_124539.jpg",
+     "kind": "closeup",
+     "w": 1920,
+     "h": 1920,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/02/20221224_124646.jpg",
+     "kind": "closeup",
+     "w": 1920,
+     "h": 1920,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/02/20221224_124550.jpg",
+     "kind": "closeup",
+     "w": 1920,
+     "h": 1920,
+     "tag": "p3"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/01/Calacatta-Light-close.jpg",
+     "kind": "closeup(index)",
+     "w": 412,
+     "h": 234,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Calacatta Oro": {
+   "slug": "quartz-slabs/calacatta-oro",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/calacatta-oro/",
+   "colour": "Calacatta Oro",
+   "h1": "Calacatta Oro",
+   "index_name": "Calacatta Oro",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/elementor/thumbs/IMG_0268-scaled-q2ldkfxy6bxubyudq3qib9kxsn41jww7ams9s2ctbk.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2024/01/Calacatta-Oro-close-1.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/elementor/thumbs/IMG_0268-scaled-q2ldkfxy6bxubyudq3qib9kxsn41jww7ams9s2ctbk.jpg",
+     "kind": "slab",
+     "w": 1000,
+     "h": 600,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/elementor/thumbs/IMG_0269-scaled-q2le0tar7gcmjh2b4ohl8muy98f6m4vwjntpok2yy8.jpg",
+     "kind": "slab",
+     "w": 1000,
+     "h": 600,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/01/Calacatta-Oro-close-1.jpg",
+     "kind": "closeup(index)",
+     "w": 266,
+     "h": 234,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Calacatta Oro Frost": {
+   "slug": "quartz-slabs/calacatta-oro-duplicate-941",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/calacatta-oro-duplicate-941/",
+   "colour": "Calacatta Oro Frost",
+   "h1": "Calacatta Oro Claro",
+   "index_name": "Calacatta Oro Claro",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/08/Calacatta-Oro-Claro-Slab.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2026/08/Calacatta-Oro-Claro-Close-e1785937409594.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/08/Calacatta-Oro-Claro-Slab.jpg",
+     "kind": "slab",
+     "w": 1322,
+     "h": 648,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/08/Calacatta-Oro-Claro-Close-e1785937409594.jpg",
+     "kind": "closeup(index)",
+     "w": 2016,
+     "h": 1370,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "New Carrara": {
+   "slug": "quartz-slabs/new-carrara",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/new-carrara/",
+   "colour": "New Carrara",
+   "h1": "New Carrara",
+   "index_name": "Carrara New",
+   "sizes": [
+    [
+     "3200x1600",
+     20,
+     "In stock"
+    ]
+   ],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/03/New-Carrara.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2024/01/Carrara-close.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/03/New-Carrara.jpg",
+     "kind": "slab",
+     "w": 1600,
+     "h": 1200,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/03/New-Carrara-1.jpg",
+     "kind": "slab",
+     "w": 1600,
+     "h": 1200,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/03/New-Carrara-2.jpg.png",
+     "kind": "slab",
+     "w": 1280,
+     "h": 719,
+     "tag": "p3"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/01/Carrara-close.jpg",
+     "kind": "closeup(index)",
+     "w": 360,
+     "h": 252,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Carrara Flowery": {
+   "slug": "quartz-slabs/carrara-flowery",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/carrara-flowery/",
+   "colour": "Carrara Flowery",
+   "h1": "Carrara Flowery",
+   "index_name": "Carrara Flowery",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/02/Flowery.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2024/01/Carrara-Flowery-close.jpg",
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2023/02/Flowery-1.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/02/Flowery.jpg",
+     "kind": "slab",
+     "w": 1600,
+     "h": 1200,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/02/Flowery-1.jpg",
+     "kind": "closeup",
+     "w": 1200,
+     "h": 1600,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/01/Carrara-Flowery-close.jpg",
+     "kind": "closeup(index)",
+     "w": 226,
+     "h": 234,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Carrara Flowery Extra": {
+   "slug": "quartz-slabs/carrara-flowery-extra",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/carrara-flowery-extra/",
+   "colour": "Carrara Flowery Extra",
+   "h1": "Carrara Flowery Extra (Super Jumbo)",
+   "index_name": "Carrara Flowery Extra (Super Jumbo)",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/CFX.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2022/04/IMG_3729.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/CFX.jpg",
+     "kind": "slab",
+     "w": 1600,
+     "h": 1200,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/CFX-1.jpg",
+     "kind": "slab",
+     "w": 1600,
+     "h": 1200,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/CFX-2.jpg",
+     "kind": "slab",
+     "w": 1600,
+     "h": 1200,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2022/04/IMG_3729.jpg",
+     "kind": "closeup(index)",
+     "w": 1544,
+     "h": 1544,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "New Carrara Frost": {
+   "slug": "quartz-slabs/carrara-frost",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/carrara-frost/",
+   "colour": "New Carrara Frost",
+   "h1": "Carrara Frost (Shimmer)",
+   "index_name": "Carrara Frost (Shimmer)",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/11/Carrara-Frost-Slab.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2025/11/Carrara-Frost-Close.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/11/Carrara-Frost-Slab.jpg",
+     "kind": "slab",
+     "w": 1491,
+     "h": 628,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/elementor/thumbs/White-Warranty-ox8r3fgd8thhtm889q64bro15f9bom9fisi2xkrgmg.jpg",
+     "kind": null,
+     "w": 100,
+     "h": 100,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/11/Carrara-Frost-Close.jpg",
+     "kind": "closeup(index)",
+     "w": 1600,
+     "h": 1200,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Carrara Onyx": {
+   "slug": "quartz-slabs/carrara-onyx",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/carrara-onyx/",
+   "colour": "Carrara Onyx",
+   "h1": "Carrara Onyx",
+   "index_name": "Carrara Onyx",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Onyx-1.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2024/01/Carrara-Onyx-close-2.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Onyx-1.jpg",
+     "kind": "slab",
+     "w": 4624,
+     "h": 3468,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Onyx-2.jpg",
+     "kind": "slab",
+     "w": 4624,
+     "h": 3468,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Onyx-3.jpg",
+     "kind": "slab",
+     "w": 4624,
+     "h": 3468,
+     "tag": "p3"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/01/Carrara-Onyx-close-2.jpg",
+     "kind": "closeup(index)",
+     "w": 226,
+     "h": 234,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Colorado": {
+   "slug": "quartz-slabs/colorado",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/colorado/",
+   "colour": "Colorado",
+   "h1": "",
+   "index_name": "Colorado  (Special order colour)",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Colorado-2.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2022/03/Close-Colorado-scaled-e1646763156487.jpeg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Colorado-2.jpg",
+     "kind": "slab",
+     "w": 4000,
+     "h": 1800,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Colorado-3.jpg",
+     "kind": "slab",
+     "w": 4000,
+     "h": 1800,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Colorado-1.jpg",
+     "kind": "slab",
+     "w": 4000,
+     "h": 1800,
+     "tag": "p3"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2022/03/Close-Colorado-scaled-e1646763156487.jpeg",
+     "kind": "closeup(index)",
+     "w": 1702,
+     "h": 1702,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Cosmic Gold": {
+   "slug": "quartz-slabs/cosmic-gold-polished",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/cosmic-gold-polished/",
+   "colour": "Cosmic Gold",
+   "h1": "Cosmic Gold Polished",
+   "index_name": "Cosmic Gold Polished",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/04/Cosmic-Gold-pol-2.jpeg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2025/06/Cosmic-Gold-Close.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/04/Cosmic-Gold-pol-2.jpeg",
+     "kind": "slab",
+     "w": 4032,
+     "h": 3024,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/04/Cosmic-Gold-pol.jpeg",
+     "kind": "slab",
+     "w": 4032,
+     "h": 3024,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/06/Cosmic-Gold-Close.jpg",
+     "kind": "closeup(index)",
+     "w": 1050,
+     "h": 551,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Crimson Frost": {
+   "slug": "quartz-slabs/carrara-frost-duplicate-12515",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/carrara-frost-duplicate-12515/",
+   "colour": "Crimson Frost",
+   "h1": "Crimson Frost (Shimmer)",
+   "index_name": "Crimson Frost (Shimmer)",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/02/Slab-Crimson-Frost.jpg",
+   "closeups": [],
+   "rooms": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2026/02/Crimson-Frost-Close-1.jpg",
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2026/04/Crimson-1.jpg"
+   ],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/02/Slab-Crimson-Frost.jpg",
+     "kind": "slab",
+     "w": 1355,
+     "h": 550,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/04/Crimson-1.jpg",
+     "kind": "closeup",
+     "w": 1200,
+     "h": 1600,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/04/Crimson-2.jpg",
+     "kind": "closeup",
+     "w": 1200,
+     "h": 1600,
+     "tag": "p3"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/04/Crimson-1-1.jpg",
+     "kind": "closeup",
+     "w": 1200,
+     "h": 1600,
+     "tag": "p4"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/02/Crimson-Frost-Close-1.jpg",
+     "kind": "closeup(index)",
+     "w": 1322,
+     "h": 1273,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Cristallino Supreme": {
+   "slug": "quartz-slabs/cristallino-supreme",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/cristallino-supreme/",
+   "colour": "Cristallino Supreme",
+   "h1": "Cristallino Supreme",
+   "index_name": "Cristallino",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/06/Slab-Cristallino-Supreme-e1749815405446.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2025/06/Cristallino-Supreme-Close-e1749814965255.jpg"
+   ],
+   "rooms": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2026/04/Cristallino-2.jpg"
+   ],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/06/Slab-Cristallino-Supreme-e1749815405446.jpg",
+     "kind": "slab",
+     "w": 1770,
+     "h": 794,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/09/1000006884.jpg",
+     "kind": "slab",
+     "w": 4080,
+     "h": 3060,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/04/Cristallino-2.jpg",
+     "kind": "closeup",
+     "w": 1536,
+     "h": 2048,
+     "tag": "p3"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/04/Cristallino-1.jpg",
+     "kind": "closeup",
+     "w": 1536,
+     "h": 2048,
+     "tag": "p4"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/06/Cristallino-Supreme-Close-e1749814965255.jpg",
+     "kind": "closeup(index)",
+     "w": 2560,
+     "h": 1527,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Desert Silver": {
+   "slug": "quartz-slabs/desert-silver",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/desert-silver/",
+   "colour": "Desert Silver",
+   "h1": "Desert Silver",
+   "index_name": "Desert Silver",
+   "sizes": [],
+   "slab": null,
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2024/01/Desert-Silver-close.jpg"
+   ],
+   "rooms": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/IMG_0836.jpg"
+   ],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/IMG_0834.jpg",
+     "kind": null,
+     "w": 259,
+     "h": 194,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/IMG_0835.jpg",
+     "kind": null,
+     "w": 259,
+     "h": 194,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/IMG_0836.jpg",
+     "kind": "closeup",
+     "w": 478,
+     "h": 850,
+     "tag": "p3"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/01/Desert-Silver-close.jpg",
+     "kind": "closeup(index)",
+     "w": 256,
+     "h": 234,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Embers": {
+   "slug": "quartz-slabs/embers",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/embers/",
+   "colour": "Embers",
+   "h1": "Embers",
+   "index_name": "Embers",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/02/Embers-Slab.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2025/02/Embers-Close.jpg"
+   ],
+   "rooms": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2025/02/Embers-3.jpg"
+   ],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/02/Embers-Slab.jpg",
+     "kind": "slab",
+     "w": 4498,
+     "h": 1894,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/02/Embers-3.jpg",
+     "kind": "closeup",
+     "w": 3024,
+     "h": 4032,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/03/Embers.jpg",
+     "kind": "closeup",
+     "w": 768,
+     "h": 1024,
+     "tag": "p3"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/02/Embers-4.jpg",
+     "kind": "closeup",
+     "w": 3024,
+     "h": 4032,
+     "tag": "p4"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/02/Embers-Close.jpg",
+     "kind": "closeup(index)",
+     "w": 1366,
+     "h": 2536,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Grey Coconut Sparkle": {
+   "slug": "quartz-slabs/grey-coconut-reflex",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/grey-coconut-reflex/",
+   "colour": "Grey Coconut Sparkle",
+   "h1": "Grey Coconut (Sparkle)",
+   "index_name": "Grey Coconut",
+   "sizes": [],
+   "slab": null,
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2022/02/Grey-Coconut-Close-Thumbnail.jpeg"
+   ],
+   "rooms": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Grey-Coco.jpg"
+   ],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Grey-Coco.jpg",
+     "kind": "slab",
+     "w": 1600,
+     "h": 1200,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Grey-Coco-1.png",
+     "kind": "slab",
+     "w": 940,
+     "h": 645,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2022/02/Grey-Coconut-Close-Thumbnail.jpeg",
+     "kind": "closeup(index)",
+     "w": 2860,
+     "h": 2860,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Irini": {
+   "slug": "quartz-slabs/irini",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/irini/",
+   "colour": "Irini",
+   "h1": "Irini (Luna Supreme)",
+   "index_name": "Irini",
+   "sizes": [],
+   "slab": null,
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2021/12/Close-Borini.jpeg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2021/12/Close-Borini.jpeg",
+     "kind": "closeup(index)",
+     "w": 1706,
+     "h": 1279,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Levante Grey": {
+   "slug": "quartz-slabs/levante-grey",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/levante-grey/",
+   "colour": "Levante Grey",
+   "h1": "Levante Grey",
+   "index_name": "Levante Grey",
+   "sizes": [],
+   "slab": null,
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2024/07/Close-Levante-Grey.jpg"
+   ],
+   "rooms": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2024/09/Levante-Grey-install-4.jpg",
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2024/09/Levante-Grey-install-6.jpg"
+   ],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/09/Levante-Grey-install-4.jpg",
+     "kind": "room",
+     "w": 2048,
+     "h": 1536,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/09/Levante-Grey-install-6.jpg",
+     "kind": "room",
+     "w": 2048,
+     "h": 1536,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/09/Levante-Grey-install-3.jpg",
+     "kind": "room",
+     "w": 1600,
+     "h": 1200,
+     "tag": "p3"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/07/Close-Levante-Grey.jpg",
+     "kind": "closeup(index)",
+     "w": 960,
+     "h": 572,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Levante Gold": {
+   "slug": "quartz-slabs/levante-gold",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/levante-gold/",
+   "colour": "Levante Gold",
+   "h1": "Levante Gold",
+   "index_name": "Levante Gold",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/04/Lev-Gold-1.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2024/07/Close-Levante-Gold.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/04/Lev-Gold-1.jpg",
+     "kind": "slab",
+     "w": 1600,
+     "h": 1204,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/04/Lev-Gold-4.jpg",
+     "kind": "slab",
+     "w": 1600,
+     "h": 1204,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/04/Lev-Gold-2.jpg",
+     "kind": "slab",
+     "w": 1600,
+     "h": 1204,
+     "tag": "p3"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/07/Close-Levante-Gold.jpg",
+     "kind": "closeup(index)",
+     "w": 2036,
+     "h": 1789,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "New Calacatta Gold": {
+   "slug": "quartz-slabs/calacatta-gold-duplicate-973",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/calacatta-gold-duplicate-973/",
+   "colour": "New Calacatta Gold",
+   "h1": "\"New\" Calacatta Gold",
+   "index_name": "\"New\"Calacatta Gold",
+   "sizes": [],
+   "slab": null,
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2025/01/New-Calacatta-Gold-Close.jpg"
+   ],
+   "rooms": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2026/04/New-Cal-Gold-1.jpg"
+   ],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/04/New-Cal-Gold-1.jpg",
+     "kind": "closeup",
+     "w": 1500,
+     "h": 1500,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/04/New-Cal-Gold-2.jpg",
+     "kind": "closeup",
+     "w": 1500,
+     "h": 1500,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/04/New-Cal-Gold-3.jpg",
+     "kind": "closeup",
+     "w": 1500,
+     "h": 1500,
+     "tag": "p3"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/01/New-Calacatta-Gold-Close.jpg",
+     "kind": "closeup(index)",
+     "w": 1200,
+     "h": 1032,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Pacific White": {
+   "slug": "quartz-slabs/pacific-white",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/pacific-white/",
+   "colour": "Pacific White",
+   "h1": "Pacific White",
+   "index_name": "Pacific White",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Pacific-White-1.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2019/10/Pacific-White-close-up-2.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Pacific-White-1.jpg",
+     "kind": "slab",
+     "w": 4032,
+     "h": 1816,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Pacific-White-2.jpg",
+     "kind": "slab",
+     "w": 4032,
+     "h": 1816,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Pacific-White-3.jpg",
+     "kind": "slab",
+     "w": 4032,
+     "h": 1816,
+     "tag": "p3"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2019/10/Pacific-White-close-up-2.jpg",
+     "kind": "closeup(index)",
+     "w": 600,
+     "h": 600,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Patagonia Oro": {
+   "slug": "quartz-slabs/patagonia-oro-2",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/patagonia-oro-2/",
+   "colour": "Patagonia Oro",
+   "h1": "Patagonia Oro",
+   "index_name": "Patagonia Oro",
+   "sizes": [],
+   "slab": null,
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2023/02/Patagonia-Oro-close.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Patagonia-Gris-2.jpg",
+     "kind": null,
+     "w": 360,
+     "h": 270,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/02/Patagonia-Oro-close.jpg",
+     "kind": "closeup(index)",
+     "w": 2016,
+     "h": 1456,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Perla Venato": {
+   "slug": "quartz-slabs/perla-venato",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/perla-venato/",
+   "colour": "Perla Venato",
+   "h1": "Perla Venato",
+   "index_name": "Perla Venato",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/06/Slab-Perla-Venato.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2025/06/Perla-Venato-Close-e1749815063673.jpg",
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2026/04/Perla-Venato-1.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/06/Slab-Perla-Venato.jpg",
+     "kind": "slab",
+     "w": 2160,
+     "h": 1093,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/04/Perla-Venato-2.jpg",
+     "kind": "slab",
+     "w": 1170,
+     "h": 869,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/04/Perla-Venato-1.jpg",
+     "kind": "closeup",
+     "w": 1170,
+     "h": 1218,
+     "tag": "p3"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/04/Perla-Venato-3.jpg",
+     "kind": "closeup",
+     "w": 1170,
+     "h": 1401,
+     "tag": "p4"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/06/Perla-Venato-Close-e1749815063673.jpg",
+     "kind": "closeup(index)",
+     "w": 2560,
+     "h": 1520,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Raw Concrete": {
+   "slug": "quartz-slabs/raw-concrete-textured",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/raw-concrete-textured/",
+   "colour": "Raw Concrete",
+   "h1": "Raw Concrete  (Leather)",
+   "index_name": "Raw Concrete  (Leather)",
+   "sizes": [],
+   "slab": null,
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2024/01/Raw-Concrete-close.jpg"
+   ],
+   "rooms": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Concrete-leather.jpg"
+   ],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Concrete-leather.jpg",
+     "kind": "closeup",
+     "w": 801,
+     "h": 800,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Concrete-leather-1.jpg",
+     "kind": null,
+     "w": 300,
+     "h": 168,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/01/Raw-Concrete-close.jpg",
+     "kind": "closeup(index)",
+     "w": 297,
+     "h": 234,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Rosa Bulgari": {
+   "slug": "quartz-slabs/rosa-bulgari",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/rosa-bulgari/",
+   "colour": "Rosa Bulgari",
+   "h1": "Rosa Bvlgari",
+   "index_name": "Rosa Bulgari",
+   "sizes": [],
+   "slab": null,
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2024/01/Bulgari.jpg"
+   ],
+   "rooms": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/elementor/thumbs/Bvlgari-fit-1-qj2y6rvnotqzmr97cponhkhhaw74yh0muc5vom1kwk.jpg"
+   ],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/elementor/thumbs/Bvlgari-fit-1-qj2y6rvnotqzmr97cponhkhhaw74yh0muc5vom1kwk.jpg",
+     "kind": "closeup",
+     "w": 450,
+     "h": 450,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/elementor/thumbs/Bvlgari-fit-2-qj2y7x8k1jbltll4n7k8ja1rfujad5kto0v8ssc9as.jpg",
+     "kind": "closeup",
+     "w": 450,
+     "h": 450,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/01/Bulgari.jpg",
+     "kind": "closeup(index)",
+     "w": 720,
+     "h": 500,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Sahara Waves": {
+   "slug": "quartz-slabs/irini-classic",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/irini-classic/",
+   "colour": "Sahara Waves",
+   "h1": "Sahara Waves",
+   "index_name": "Sahara Waves",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/11/Slab-Sahara-Waves.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2025/11/Sahara-Waves-Close-e1764345201538.jpg"
+   ],
+   "rooms": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2026/03/Sahara-Waves-6.jpg"
+   ],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/11/Slab-Sahara-Waves.jpg",
+     "kind": "slab",
+     "w": 1217,
+     "h": 648,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/03/Sahara-Waves-6.jpg",
+     "kind": "closeup",
+     "w": 1200,
+     "h": 1600,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/03/Sahara-Waves-4.jpg",
+     "kind": "closeup",
+     "w": 1200,
+     "h": 1600,
+     "tag": "p3"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/03/Sahara-Waves-5.jpg",
+     "kind": "closeup",
+     "w": 1200,
+     "h": 1600,
+     "tag": "p4"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/11/Sahara-Waves-Close-e1764345201538.jpg",
+     "kind": "closeup(index)",
+     "w": 1536,
+     "h": 1922,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Super White": {
+   "slug": "quartz-slabs/super-white",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/super-white/",
+   "colour": "Super White",
+   "h1": "Super White",
+   "index_name": "Super White",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Super-White.jpeg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2022/03/Super-White-Close.jpg",
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Super-White-1.jpeg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Super-White-1.jpeg",
+     "kind": "closeup",
+     "w": 1500,
+     "h": 2000,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Super-White.jpeg",
+     "kind": "slab",
+     "w": 2000,
+     "h": 1500,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/Super-White-2.jpeg",
+     "kind": "slab",
+     "w": 2000,
+     "h": 1500,
+     "tag": "p3"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2022/03/Super-White-Close.jpg",
+     "kind": "closeup(index)",
+     "w": 5591,
+     "h": 3600,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Taj Mahal": {
+   "slug": "quartz-slabs/taj-mahal",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/taj-mahal/",
+   "colour": "Taj Mahal",
+   "h1": "Taj Mahal",
+   "index_name": "Taj Mahal",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/05/Slab-Taj-Mahal.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2023/11/Taj-Mahal-close.jpg",
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2024/03/Taj.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/05/Slab-Taj-Mahal.jpg",
+     "kind": "slab",
+     "w": 1456,
+     "h": 801,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/03/Taj.jpg",
+     "kind": "closeup",
+     "w": 1080,
+     "h": 1920,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/03/Taj-1.jpg",
+     "kind": "slab",
+     "w": 1920,
+     "h": 1080,
+     "tag": "p3"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/03/Taj-2.jpg",
+     "kind": "slab",
+     "w": 1920,
+     "h": 1080,
+     "tag": "p4"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2019/10/Grey-sparkle-close-up.jpg",
+     "kind": "closeup",
+     "w": 1500,
+     "h": 1461,
+     "tag": "p5"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2019/10/Grey-Frost-Close-up.jpg",
+     "kind": "closeup",
+     "w": 1500,
+     "h": 1125,
+     "tag": "p6"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2019/10/Dark-Grey-frost-close-up.jpg",
+     "kind": "closeup",
+     "w": 1488,
+     "h": 1120,
+     "tag": "p7"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/11/Taj-Mahal-close.jpg",
+     "kind": "closeup(index)",
+     "w": 1024,
+     "h": 683,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Taj Mahal Extra": {
+   "slug": "quartz-slabs/taj-mahal-extra-3d",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/taj-mahal-extra-3d/",
+   "colour": "Taj Mahal Extra",
+   "h1": "Taj Mahal Extra (3D)",
+   "index_name": "Taj Mahal Extra 3D",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/03/Slab-Taj-Mahal-3D.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2026/03/Taj-Mahal-3D-Close.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/03/Slab-Taj-Mahal-3D.jpg",
+     "kind": "slab",
+     "w": 5056,
+     "h": 2766,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/03/Taj-Mahal-3D-Close.jpg",
+     "kind": "closeup(index)",
+     "w": 1421,
+     "h": 754,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Tuscan Gold": {
+   "slug": "quartz-slabs/tuscan-gold",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/tuscan-gold/",
+   "colour": "Tuscan Gold",
+   "h1": "Tuscan Gold",
+   "index_name": "Tuscan Gold",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/01/Tuscan-1.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2024/06/Tuscan-Gold-close.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/01/Tuscan-1.jpg",
+     "kind": "slab",
+     "w": 1600,
+     "h": 1200,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/01/Tuscan-2.jpg",
+     "kind": "slab",
+     "w": 1600,
+     "h": 1200,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/01/Tuscan-3.jpg",
+     "kind": "slab",
+     "w": 1600,
+     "h": 1200,
+     "tag": "p3"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/06/Tuscan-Gold-close.jpg",
+     "kind": "closeup(index)",
+     "w": 1200,
+     "h": 1086,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "White Frost": {
+   "slug": "quartz-slabs/white-frost",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/white-frost/",
+   "colour": "White Frost",
+   "h1": "White Frost (Shimmer)",
+   "index_name": "White Frost  (Shimmer)",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/White-Frost-1.jpeg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2019/10/White-Frost-Extra-close-up-2.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/White-Frost-1.jpeg",
+     "kind": "slab",
+     "w": 1632,
+     "h": 1224,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/White-Frost-2.jpeg",
+     "kind": "slab",
+     "w": 1632,
+     "h": 1224,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/White-Frost-3.jpeg",
+     "kind": "slab",
+     "w": 1632,
+     "h": 1224,
+     "tag": "p3"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2019/10/White-Frost-Extra-close-up-2.jpg",
+     "kind": "closeup(index)",
+     "w": 960,
+     "h": 960,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "White Sparkle": {
+   "slug": "quartz-slabs/white-sparkle",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/white-sparkle/",
+   "colour": "White Sparkle",
+   "h1": "White Sparkle",
+   "index_name": "White Sparkle",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/02/Kate-Wallace-4.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2024/01/White-Sparkle-close-1.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/02/Kate-Wallace-4.jpg",
+     "kind": "slab",
+     "w": 640,
+     "h": 480,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/02/Kate-Wallace-3.jpg",
+     "kind": "slab",
+     "w": 640,
+     "h": 480,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/02/Kate-Wallace-2.jpg",
+     "kind": "slab",
+     "w": 640,
+     "h": 480,
+     "tag": "p3"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/01/White-Sparkle-close-1.jpg",
+     "kind": "closeup(index)",
+     "w": 408,
+     "h": 236,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Arabescato": {
+   "slug": "porcelain-slabs/arabescato",
+   "url": "https://www.worldwidestones.co.uk/porcelain-slabs/arabescato/",
+   "colour": "Arabescato",
+   "h1": "Arabescato",
+   "index_name": "Arabescato",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/07/Arabescato-slab-e1751474352328.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2025/07/Arabescato-close-e1751474242620.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/07/Arabescato-slab-e1751474352328.jpg",
+     "kind": "slab",
+     "w": 1388,
+     "h": 493,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/07/Arabescato-close-e1751474242620.jpg",
+     "kind": "closeup(index)",
+     "w": 503,
+     "h": 450,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Breccia Brown": {
+   "slug": "porcelain-slabs/breccia-brown-2",
+   "url": "https://www.worldwidestones.co.uk/porcelain-slabs/breccia-brown-2/",
+   "colour": "Breccia Brown",
+   "h1": "Techlam Breccia Brown",
+   "index_name": "Techlam Breccia Brown",
+   "sizes": [],
+   "slab": null,
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2024/05/Breccia-Brown-rotated.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/05/Breccia-Brown-rotated.jpg",
+     "kind": "closeup(index)",
+     "w": 1969,
+     "h": 984,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Calacatta Antique": {
+   "slug": "porcelain-slabs/calacatta-antique",
+   "url": "https://www.worldwidestones.co.uk/porcelain-slabs/calacatta-antique/",
+   "colour": "Calacatta Antique",
+   "h1": "Calacatta Antique",
+   "index_name": "Calacatta Antique",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/05/DB2M329BRDB2M329BP-Cal-Vintage-type-1.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2025/02/Calacatta-Antique-close.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/05/DB2M329BRDB2M329BP-Cal-Vintage-type-1.jpg",
+     "kind": "slab",
+     "w": 5000,
+     "h": 2640,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/02/Calacatta-Antique-close.jpg",
+     "kind": "closeup(index)",
+     "w": 648,
+     "h": 882,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Calacatta Classic": {
+   "slug": "porcelain-slabs/calacatta-classic",
+   "url": "https://www.worldwidestones.co.uk/porcelain-slabs/calacatta-classic/",
+   "colour": "Calacatta Classic",
+   "h1": "Calacatta Classic",
+   "index_name": "Calacatta Classic",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/05/DB0G199CX-1-Cal-Classic-type-2.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2025/02/Calacatta-Classic-close.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/05/DB0G199CX-1-Cal-Classic-type-2.jpg",
+     "kind": "slab",
+     "w": 4500,
+     "h": 2851,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/05/DB0G199CX-1-Cal-Classic-type-3.jpg",
+     "kind": "slab",
+     "w": 4000,
+     "h": 3000,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/02/Calacatta-Classic-close.jpg",
+     "kind": "closeup(index)",
+     "w": 426,
+     "h": 620,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Calacatta Grey": {
+   "slug": "porcelain-slabs/calacatta-grey",
+   "url": "https://www.worldwidestones.co.uk/porcelain-slabs/calacatta-grey/",
+   "colour": "Calacatta Grey",
+   "h1": "Calacatta Grey",
+   "index_name": "Calacatta Grey",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/05/DB0G173BX-Cal-Grey-type.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2025/02/Calacatta-Grey-close.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/05/DB0G173BX-Cal-Grey-type.jpg",
+     "kind": "slab",
+     "w": 3500,
+     "h": 2499,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/05/DB0G199CX-1-Cal-Classic-type-3.jpg",
+     "kind": "slab",
+     "w": 4000,
+     "h": 3000,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/02/Calacatta-Grey-close.jpg",
+     "kind": "closeup(index)",
+     "w": 614,
+     "h": 938,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Calacatta Viola": {
+   "slug": "porcelain-slabs/statuary-venato",
+   "url": "https://www.worldwidestones.co.uk/porcelain-slabs/statuary-venato/",
+   "colour": "Calacatta Viola",
+   "h1": "Calacatta Viola",
+   "index_name": "Calacatta Viola",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/02/Calacatta-Viola-slab.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2026/06/Calacatta-Viola-close.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/02/Calacatta-Viola-slab.jpg",
+     "kind": "slab",
+     "w": 1756,
+     "h": 872,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/06/Calacatta-Viola-close.jpg",
+     "kind": "closeup(index)",
+     "w": 2016,
+     "h": 1512,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Essential Gold": {
+   "slug": "porcelain-slabs/essential-gold-2",
+   "url": "https://www.worldwidestones.co.uk/porcelain-slabs/essential-gold-2/",
+   "colour": "Essential Gold",
+   "h1": "Techlam Essential Gold",
+   "index_name": "Techlam Essential Gold",
+   "sizes": [],
+   "slab": null,
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2024/05/Essential-Gold.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/05/Essential-Gold.jpg",
+     "kind": "closeup(index)",
+     "w": 3544,
+     "h": 7087,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Fior Di Bosco": {
+   "slug": "porcelain-slabs/fior-di-bosco",
+   "url": "https://www.worldwidestones.co.uk/porcelain-slabs/fior-di-bosco/",
+   "colour": "Fior Di Bosco",
+   "h1": "Techlam Fior Di Bosco",
+   "index_name": "Techlam Fior Di Bosco",
+   "sizes": [],
+   "slab": null,
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2024/05/FIOR-DI-BOSCO-320X160.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/05/FIOR-DI-BOSCO-320X160.jpg",
+     "kind": "closeup(index)",
+     "w": 3543,
+     "h": 7087,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Marvel Gold": {
+   "slug": "porcelain-slabs/marvellous-gold",
+   "url": "https://www.worldwidestones.co.uk/porcelain-slabs/marvellous-gold/",
+   "colour": "Marvel Gold",
+   "h1": "Techlam Marvel Gold",
+   "index_name": "Techlam Marvel Gold",
+   "sizes": [],
+   "slab": null,
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2024/05/Marvel-Gold.jpeg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/05/Marvel-Gold.jpeg",
+     "kind": "closeup(index)",
+     "w": 6496,
+     "h": 3248,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Mont Blanc": {
+   "slug": "porcelain-slabs/mont-blanc-2",
+   "url": "https://www.worldwidestones.co.uk/porcelain-slabs/mont-blanc-2/",
+   "colour": "Mont Blanc",
+   "h1": "Techlam Mont Blanc",
+   "index_name": "Techlam Mont Blanc",
+   "sizes": [],
+   "slab": null,
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2024/05/Mont-Blanc-close.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/05/Mont-Blanc-close.jpg",
+     "kind": "closeup(index)",
+     "w": 560,
+     "h": 641,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Noir St Laurent": {
+   "slug": "porcelain-slabs/noir",
+   "url": "https://www.worldwidestones.co.uk/porcelain-slabs/noir/",
+   "colour": "Noir St Laurent",
+   "h1": "Techlam Noir",
+   "index_name": "Techlam Noir",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/08/Techlam-Noir-slab.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2024/08/Techlam-Noir-close.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/08/Techlam-Noir-slab.jpg",
+     "kind": "slab",
+     "w": 1635,
+     "h": 1276,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/04/Tehlam-Noir-1.jpg",
+     "kind": "slab",
+     "w": 2016,
+     "h": 1512,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/08/Techlam-Noir-close.jpg",
+     "kind": "closeup(index)",
+     "w": 842,
+     "h": 479,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "St Laurent": {
+   "slug": "porcelain-slabs/noir-st-laurent",
+   "url": "https://www.worldwidestones.co.uk/porcelain-slabs/noir-st-laurent/",
+   "colour": "St Laurent",
+   "h1": "St Laurent",
+   "index_name": "St Laurent",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/05/DB0G89BC-Noir-type.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2025/02/St-Laurent-slab.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/05/DB0G89BC-Noir-type.jpg",
+     "kind": "slab",
+     "w": 5000,
+     "h": 3570,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/02/St-Laurent-slab.jpg",
+     "kind": "closeup(index)",
+     "w": 1908,
+     "h": 926,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Patagonia": {
+   "slug": "porcelain-slabs/patagonia",
+   "url": "https://www.worldwidestones.co.uk/porcelain-slabs/patagonia/",
+   "colour": "Patagonia",
+   "h1": "Patagonia",
+   "index_name": "Patagonia",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/05/DB2L200CP-Y-Patagonia-type-1.jpg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2025/02/Patagonia-close.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/05/DB2L200CP-Y-Patagonia-type-1.jpg",
+     "kind": "slab",
+     "w": 4000,
+     "h": 2501,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2026/04/Patagonia-1.jpg",
+     "kind": "slab",
+     "w": 1600,
+     "h": 1200,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2025/02/Patagonia-close.jpg",
+     "kind": "closeup(index)",
+     "w": 761,
+     "h": 938,
+     "tag": "idxclose"
+    }
+   ]
+  },
+  "Carrara": {
+   "slug": "quartz-slabs/carrara-extra",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/carrara-extra/",
+   "colour": "Carrara",
+   "h1": "Carrara (Super Jumbo)",
+   "index_name": "Carrara New (Super Jumbo)",
+   "sizes": [],
+   "slab": "https://www.worldwidestones.co.uk/wp-content/uploads/2021/12/Slab-New-Carrara-scaled-e1640020345373.jpeg",
+   "closeups": [
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2024/01/Carrara-close.jpg",
+    "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/New-Carrara-2-rotated.jpg"
+   ],
+   "rooms": [],
+   "candidates": [
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2020/10/White-Warranty.jpg",
+     "kind": null,
+     "w": 511,
+     "h": 523,
+     "tag": "p0"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2021/12/Slab-New-Carrara-scaled-e1640020345373.jpeg",
+     "kind": "slab",
+     "w": 2560,
+     "h": 1523,
+     "tag": "p1"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/New-Carrara-1.jpg",
+     "kind": "slab",
+     "w": 640,
+     "h": 480,
+     "tag": "p2"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/New-Carrara-2-rotated.jpg",
+     "kind": "closeup",
+     "w": 480,
+     "h": 640,
+     "tag": "p3"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2023/03/New-Carrara-4.jpg",
+     "kind": "slab",
+     "w": 640,
+     "h": 480,
+     "tag": "p4"
+    },
+    {
+     "url": "https://www.worldwidestones.co.uk/wp-content/uploads/2024/01/Carrara-close.jpg",
+     "kind": "closeup(index)",
+     "w": 360,
+     "h": 252,
+     "tag": "idxclose"
+    }
+   ]
+  }
+ },
+ "unmatched_site": [
+  {
+   "slug": "porcelain-slabs/bronze-matte",
+   "url": "https://www.worldwidestones.co.uk/porcelain-slabs/bronze-matte/",
+   "note": "Bronze -- not in price book"
+  },
+  {
+   "slug": "porcelain-slabs/reggio-2",
+   "url": "https://www.worldwidestones.co.uk/porcelain-slabs/reggio-2/",
+   "note": "Techlam Bellagio -- not in price book"
+  },
+  {
+   "slug": "porcelain-slabs/taj-mahal",
+   "url": "https://www.worldwidestones.co.uk/porcelain-slabs/taj-mahal/",
+   "note": "Taj Mahal (Porcelain) -- price book HAS a Porcelain Taj Mahal row but the library has no porcelain entry (only the Quartz one) -- reported, not created"
+  },
+  {
+   "slug": "porcelain-slabs/techlam-bellagio",
+   "url": "https://www.worldwidestones.co.uk/porcelain-slabs/techlam-bellagio/",
+   "note": "Techlam Alhambra -- not in price book"
+  },
+  {
+   "slug": "quartz-slabs/amazon-green",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/amazon-green/",
+   "note": "Amazon Green -- not in price book"
+  },
+  {
+   "slug": "quartz-slabs/ambient-cemento-leathered",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/ambient-cemento-leathered/",
+   "note": "Leathered finish variant -- pb only has Polished"
+  },
+  {
+   "slug": "quartz-slabs/avalanche-extra",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/avalanche-extra/",
+   "note": "orphaned page, no H1/content"
+  },
+  {
+   "slug": "quartz-slabs/brooklyn",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/brooklyn/",
+   "note": "Brooklyn \"24\" -- not in price book (only \"25\" is)"
+  },
+  {
+   "slug": "quartz-slabs/calacatta-oro-nuevo",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/calacatta-oro-nuevo/",
+   "note": "Calacatta Oro Nuevo -- orphaned, distinct from Oro Claro"
+  },
+  {
+   "slug": "quartz-slabs/carrara-y2",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/carrara-y2/",
+   "note": "Carrara Y2 -- not in price book"
+  },
+  {
+   "slug": "quartz-slabs/cosmic-gold-leather",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/cosmic-gold-leather/",
+   "note": "Leathered finish variant -- pb only has Polished"
+  },
+  {
+   "slug": "quartz-slabs/golden-flowery",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/golden-flowery/",
+   "note": "Golden Flowery -- not in price book"
+  },
+  {
+   "slug": "quartz-slabs/patagonia-gris-2",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/patagonia-gris-2/",
+   "note": "Patagonia Gris -- not in price book (site says discontinuing 2026)"
+  },
+  {
+   "slug": "quartz-slabs/statuary-1st",
+   "url": "https://www.worldwidestones.co.uk/quartz-slabs/statuary-1st/",
+   "note": "Statuary 1st (Super Jumbo) -- not in price book"
+  }
+ ]
+}
