@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T08:08:07Z",
+ "generated": "2026-08-25T08:26:21Z",
  "slabs": [
   {
    "id": "akg-surfaces--adira-bronze",
@@ -13967,7 +13967,9 @@
     "status": "slab",
     "source": "web",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1500 / 20mm: 3200x1500",
+   "details": "CRL Ceralsio (Porcelain) · Textured"
   },
   {
    "id": "crl--antonella",
@@ -13986,7 +13988,46 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "CRL Quartz · Polished · Antonella’s on trend finish gives it the versatility to be teamed with dark cabinets for a dramatic effect or it can be used in harmony with raw materials such as untreated timber, metal and exposed brick for an luxurious and professional finish. Drawing its inspiration from marble, Antonella has a crisp white surf",
+   "images": [
+    {
+     "file": "crl--antonella.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--antonella--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--antonella--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--antonella--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--antonella--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--arabescato-vagli",
@@ -14005,7 +14046,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "CRL Quartz · Polished · A bold and beautiful marble-inspired surface characterised by dark and dramatic veining, Arabescato Vagli brings stand-out style to the kitchen. With distinctive anthracite patterning elegantly balanced by a classic white backdrop, Arabescato Vagli has real depth and personality to create confident yet comfortable ",
+   "images": [
+    {
+     "file": "crl--arabescato-vagli.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--arabescato-vagli--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--arabescato-vagli--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/arabescato-vagli/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--arabescato-vagli--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/arabescato-vagli/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--arctic-shimmer",
@@ -14024,7 +14097,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "CRL Quartz · Polished · Arctic Shimmer is a cool white with a touch of silver sparkle to give a little something extra to your kitchen. Inspired by falling flakes of frost, this pristine worksurface will transform and open up any space and will look stunning no matter the style of kitchen.",
+   "images": [
+    {
+     "file": "crl--arctic-shimmer.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--arctic-shimmer--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--arctic-shimmer--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--arctic-shimmer--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--armani-gris",
@@ -14042,7 +14147,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620",
+   "details": "CRL Ceralsio (Porcelain) · Natural · Armani Gris draws its inspiration from the renowned Armani Bronze, a sophisticated brown marble sourced from Spain. Characterised by fine grey veining and reminiscent of Crotone Pulpis, Armani Gris offers a trendy yet timeless aesthetic with rich visual depth.",
+   "images": [
+    {
+     "file": "crl--armani-gris.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--armani-gris--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/armani-gris/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--armani-gris--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/armani-gris/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--armani-gris--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/armani-gris/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--atalaia-super-blanco",
@@ -14063,7 +14200,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1600 / 20mm: 3200x1500",
+   "details": "CRL Ceralsio (Porcelain) · Textured · A delightfully simple surface inspired by white sand that is highly practical as well as beautiful. Its matt finish is perfect for any environment while its smooth surface exudes simplicity and elegance. The material is easy to care for, water and scratch resistant, ensuring it will stand the test of ",
+   "images": [
+    {
+     "file": "crl--atalaia-super-blanco.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--atalaia-super-blanco--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/atalaia-super-blanco/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--atalaia-super-blanco--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/atalaia-super-blanco/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--atalaia-super-blanco--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/atalaia-super-blanco/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--atlantic-gris",
@@ -14082,7 +14251,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "CRL Quartz · Polished · Satisfying the trend for grey shades in the kitchen is Atlantic Girls. Imitating the on-trend high class marble effect, this surface is perfect for those wanting the look of marble, but with all the qualities of Quartz. The elegant and flowing  combination of light grey and white tones creates a calming and tranqui",
+   "images": [
+    {
+     "file": "crl--atlantic-gris.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--atlantic-gris--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--atlantic-gris--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--atlantic-gris--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--azalai-negro",
@@ -14102,7 +14303,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1600",
+   "details": "CRL Ceralsio (Porcelain) · Natural · Deep, dark and sophisticated, Azalai Negro brings an air of drama to the home. The surface, with its natural finish and marble-inspired bold veining is full of character. Powerful and intense with its striking beauty Azalai creates its own exclusive elegance, with its white and orange patterning set ag",
+   "images": [
+    {
+     "file": "crl--azalai-negro.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--azalai-negro--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/azalai-negro/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--azalai-negro--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/azalai-negro/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--azalai-negro--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/azalai-negro/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--barletta",
@@ -14121,7 +14354,32 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "CRL Quartz · Polished · Infinitely elegant, Barletta is a dreamy, light and luminous marble-inspired surface featuring neutral shades that swirl organically to bring an air of subtle sophistication to any space. Layered upon a soft white canvas, the captivating beige and cream shades create a warm and welcoming aesthetic in classic and co",
+   "images": [
+    {
+     "file": "crl--barletta.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--barletta--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--barletta--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--belvedere-black",
@@ -14140,7 +14398,46 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "CRL Ceralsio (Porcelain) · Natural · Dark and sophisticated, Belvedere Black will make a striking impression in the modern setting, whether chosen in a Natural or Polished finish. Contrast with white for a stylish monochrome effect, made all the more special with the beautiful marble-inspired patterning running throughout the surface.",
+   "images": [
+    {
+     "file": "crl--belvedere-black.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--belvedere-black--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/belvedere-black/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--belvedere-black--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/belvedere-black/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--belvedere-black--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/belvedere-black/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--belvedere-black--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/belvedere-black/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--brazza-crema",
@@ -14160,7 +14457,9 @@
     "status": "slab",
     "source": "web",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1600",
+   "details": "CRL Ceralsio (Porcelain) · Textured"
   },
   {
    "id": "crl--calacatta",
@@ -14179,7 +14478,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "CRL Quartz · Polished · Calacatta quartz is perfect for those wanting the natural beauty of marble without any of the disadvantages of a marble worktop. With its sleek and glossy finish, Calacatta is whiter than most marbles but with more pronounced veining for a dramatic effect, giving any kitchen a high end and luxurious feel. No matter",
+   "images": [
+    {
+     "file": "crl--calacatta.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--calacatta--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--calacatta--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--calacatta--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--calacatta-dorado",
@@ -14198,7 +14529,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "CRL Quartz · Polished · With its dramatic veining CRL Quartz Calacatta Dorado is a luxurious surface that is perfect for making a statement. Drawing the eye with its beautiful and individual sense of character, Calacatta Dorado will bring elegance to proceedings whether used as a splashback or as a waterfall end on a kitchen island.",
+   "images": [
+    {
+     "file": "crl--calacatta-dorado.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--calacatta-dorado--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--calacatta-dorado--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--calacatta-dorado--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--calacatta-extreme",
@@ -14217,7 +14580,46 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "CRL Ceralsio (Porcelain) · Natural, Polished · The perfect accompaniment to virtually any other material, from timber to metal, Calacatta Extreme features a bold marble-effect pattern running throughout, adding a sense of grandeur to any setting. Available in a natural and polished finish.",
+   "images": [
+    {
+     "file": "crl--calacatta-extreme.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--calacatta-extreme--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/calacatta-extreme/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--calacatta-extreme--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/calacatta-extreme/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--calacatta-extreme--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/calacatta-extreme/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--calacatta-extreme--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/calacatta-extreme/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--carrara",
@@ -14236,7 +14638,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "CRL Quartz · Polished · Add the finishing touch to your dream kitchen with this versatile and beautiful worksurface. Synonymous with luxury, this in-demand surface has the same stunning appearance as marble, but with the resilience and durability of Quartz.",
+   "images": [
+    {
+     "file": "crl--carrara.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--carrara--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--carrara--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--carrara--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--carrara-vagli",
@@ -14255,7 +14689,46 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "CRL Ceralsio (Porcelain) · Natural, Polished · Replicating the natural beauty of Carrara marble, this ceramic surface brings opulence and a sense of glamour to the kitchen or bathroom. Its grey and gold veining emulates the look of marble from the Tuscany quarries, for a wow-factor design statement whether it is used for a worktop, wall c",
+   "images": [
+    {
+     "file": "crl--carrara-vagli.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--carrara-vagli--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/carrara-vagli/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--carrara-vagli--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/carrara-vagli/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--carrara-vagli--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/carrara-vagli/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--carrara-vagli--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/carrara-vagli/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--chalk",
@@ -14274,7 +14747,32 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "CRL Quartz · Polished · If you like the idea of white but aren’t sure about choosing a pure white worktop then our Chalk finish could be the surface for you. The softer white appearance brings a hint of warmth to any space. A Chalk surface will give your kitchen a gentle and fresh makeover combining the classic appeal of a white work surf",
+   "images": [
+    {
+     "file": "crl--chalk.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--chalk--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--chalk--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--clear-white",
@@ -14286,13 +14784,31 @@
    "thicknesses": [
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Clear+White",
+   "productUrl": "https://crlstone.co.uk/surfaces/clear-white/",
    "image": {
     "file": "crl--clear-white.webp",
     "status": "slab",
     "source": "web",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "30mm: 3050x1400",
+   "details": "CRL Quartz · Polished · Our cool Clear White finish offers a feeling of space even in the most compact of spaces. Adding a crisp and fresh feel to even the most compact of spaces, the versatility of this shade will bring a touch of elegance to any modern kitchen – especially when paired with cabinets of a softer and lighter shade.",
+   "images": [
+    {
+     "file": "crl--clear-white.webp",
+     "status": "slab",
+     "source": "web",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--clear-white--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--colorado",
@@ -14311,7 +14827,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "CRL Quartz · Polished",
+   "images": [
+    {
+     "file": "crl--colorado.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--colorado--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--colorado--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--colorado--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--cosmopolitan-grey",
@@ -14329,7 +14877,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620",
+   "details": "CRL Ceralsio (Porcelain) · Natural · Responding to the growing trend for natural grey tones in interior design, Cosmopolitan Grey exudes an industrial style in a natural finish that will fit seamlessly into any urban, contemporary space, working in harmony with other of-the-moment materials such as exposed metal and brickwork.",
+   "images": [
+    {
+     "file": "crl--cosmopolitan-grey.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--cosmopolitan-grey--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/cosmopolitan-grey/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--cosmopolitan-grey--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/cosmopolitan-grey/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--cosmopolitan-grey--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/cosmopolitan-grey/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--cristallo-azure",
@@ -14348,7 +14928,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3470x2010 / 30mm: 3470x2010",
+   "details": "CRL Quartz · Polished · Blue is the new black in interior design, Cristallo Azure makes it extremely simple to introduce this stunning colourway into any interior. The quartz surface is not only highly durable, but the striking intensity of the colour also ensures it makes a stunning visual statement too.",
+   "images": [
+    {
+     "file": "crl--cristallo-azure.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--cristallo-azure--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--cristallo-azure--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--cristallo-azure--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--cristallo-gris",
@@ -14367,7 +14979,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3470x2010 / 30mm: 3470x2010",
+   "details": "CRL Quartz · Polished · Cristallo Gris is a beautiful, marble-inspired surface, characterised by a sultry grey base, combined with a stone-effect patterning and subtle copper-like effects that capture the light. Modern yet with a timeless appeal, the rustic look patterning pairs excellently with metallic finishes and organic elements in t",
+   "images": [
+    {
+     "file": "crl--cristallo-gris.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--cristallo-gris--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--cristallo-gris--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--cristallo-gris--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--cristallo-perla",
@@ -14380,13 +15024,45 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Cristallo+Perla",
+   "productUrl": "https://crlstone.co.uk/surfaces/cristallo-perla/",
    "image": {
     "file": "crl--cristallo-perla.webp",
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3470x2010 / 30mm: 3470x2010",
+   "details": "CRL Quartz · Polished · Shades of grey unite with Cristallo Perla, a beautiful quartz surface that offers a classic take on industrial-inspired design. The fine grain of the quartz matches seamlessly with the long veining that runs throughout the surface. Together they make a striking impression when used over large areas. Pair and contra",
+   "images": [
+    {
+     "file": "crl--cristallo-perla.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--cristallo-perla--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--cristallo-perla--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--cristallo-perla--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--cristallo-platino",
@@ -14405,7 +15081,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3470x2010 / 30mm: 3470x2010",
+   "details": "CRL Quartz · Polished · Featuring a robust, industrial style, Cristallo Platino reflects the distinctive look of natural stone. This is a surface that is accentuated by dramatic dark grey lines and brushstrokes of browns and golds set against a lighter grey backdrop. Simple, classic design that works in harmony with an abundance of colour",
+   "images": [
+    {
+     "file": "crl--cristallo-platino.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--cristallo-platino--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--cristallo-platino--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--cristallo-platino--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--cristallo-verde",
@@ -14424,7 +15132,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3470x2010 / 30mm: 3470x2010",
+   "details": "CRL Quartz · Polished · Bringing a bohemian vibe to the modern interior Cristallo Verde is a surface defined by strong colours and strong patterning. An intricate array of organic veins and fine lines make a dramatic impact, perfect for adding instant personality and a strong industrial-inspired presence to spaces large and small.",
+   "images": [
+    {
+     "file": "crl--cristallo-verde.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--cristallo-verde--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--cristallo-verde--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--cristallo-verde--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--crystal-lux-blanco",
@@ -14442,7 +15182,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620",
+   "details": "CRL Ceralsio (Porcelain) · Natural · Crystal Lux Blanco captures the luminous beauty of crystal with a stunning indirect light effect. Inspired by the elegance of marble, this surface is perfect for creating refined, sophisticated environments, it brings a sense of brightness and modern luxury to any space.",
+   "images": [
+    {
+     "file": "crl--crystal-lux-blanco.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--crystal-lux-blanco--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/crystal-lux-blanco/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--crystal-lux-blanco--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/crystal-lux-blanco/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--crystal-lux-blanco--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/crystal-lux-blanco/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--dual-blanco",
@@ -14460,7 +15232,9 @@
     "status": "closeup-only",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600",
+   "details": "CRL Ceralsio (Porcelain) · Natural"
   },
   {
    "id": "crl--dual-negro",
@@ -14478,7 +15252,9 @@
     "status": "closeup-only",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600",
+   "details": "CRL Ceralsio (Porcelain) · Natural"
   },
   {
    "id": "crl--dukhan-marron",
@@ -14493,13 +15269,45 @@
     12,
     20
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Dukhan+Marron",
+   "productUrl": "https://web.archive.org/web/20250214190101/https://crlstone.co.uk/surfaces/dukhan-marron/",
    "image": {
     "file": "crl--dukhan-marron.webp",
-    "status": "closeup-only",
-    "source": "crlstone.co.uk",
+    "status": "slab",
+    "source": "https://web.archive.org/web/20250214190101/https://crlstone.co.uk/surfaces/dukhan-marron/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1600 / 20mm: 3200x1500",
+   "details": "CRL Ceralsio (Porcelain) · Textured · Discontinued by CRL (archived page). Dukhan Marron is an exclusive surface with a striking visual appeal. With its unique texture, Dukhan Marron taps into the trend for darker interiors and will combine beautifully with natural materials such as wood.",
+   "images": [
+    {
+     "file": "crl--dukhan-marron.webp",
+     "status": "slab",
+     "source": "https://web.archive.org/web/20250214190101/https://crlstone.co.uk/surfaces/dukhan-marron/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--dukhan-marron--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://web.archive.org/web/20250214190101/https://crlstone.co.uk/surfaces/dukhan-marron/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--dukhan-marron--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://web.archive.org/web/20250214190101/https://crlstone.co.uk/surfaces/dukhan-marron/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--dukhan-marron--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://web.archive.org/web/20250214190101/https://crlstone.co.uk/surfaces/dukhan-marron/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--forest",
@@ -14517,7 +15325,32 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600",
+   "details": "CRL Quartz · Polished · The warm, earthy, inviting tone of Forest will work in perfect harmony with many popular materials including wood and metal, giving you the flexibility of design. When paired with cabinets of lighter tones, this surface will make even the most spacious of kitchens feel warm and intimate.",
+   "images": [
+    {
+     "file": "crl--forest.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--forest--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--forest--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--geo-crema",
@@ -14537,7 +15370,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1600",
+   "details": "CRL Ceralsio (Porcelain) · Textured · Geo Crema is inspired by travertine marble, one of nature’s most beautiful and finest stones. The surface combines this with superb durability and ease of maintenance, enabling it to be enjoyed with ease over large areas and busy spaces including the family kitchen or bathroom.",
+   "images": [
+    {
+     "file": "crl--geo-crema.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--geo-crema--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/geo-crema/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--geo-crema--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/geo-crema/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--geo-crema--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/geo-crema/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--geo-gris",
@@ -14557,7 +15422,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1600",
+   "details": "CRL Ceralsio (Porcelain) · Textured · Standing out for its rich colour, beautiful textured appearance and strong pattern, this travertine marble-look responds to the trend for natural materials in the home, with all the durability and ease of maintenance that Inalco MDi has to offer.",
+   "images": [
+    {
+     "file": "crl--geo-gris.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--geo-gris--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/geo-gris-2/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--geo-gris--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/geo-gris-2/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--geo-gris--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/geo-gris-2/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--grey-reflection",
@@ -14570,13 +15467,38 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Grey+Reflection",
+   "productUrl": "https://crlstone.co.uk/surfaces/grey-reflection/",
    "image": {
     "file": "crl--grey-reflection.webp",
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "CRL Quartz · Polished · The striking mirror chip in this grey Quartz worksurface will bring a touch of class and luxury to any space. With glimmering, reflective specks, combined with a timeless colour, this versatile surface exudes glamour and will definitely make any space shine – no matter what its size.",
+   "images": [
+    {
+     "file": "crl--grey-reflection.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--grey-reflection--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/grey-reflection/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--grey-reflection--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/grey-reflection/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--grey-shimmer",
@@ -14595,7 +15517,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "CRL Quartz · Polished · Give your kitchen a stunning focal point with this glamorous grey work surface. Find intricate metallic flecks that reflect the light, giving this its stunning shimmer. Guaranteed to turn your worktop into a standout feature, Grey Shimmer is ideal to make any contemporary setting standout from the crowd.",
+   "images": [
+    {
+     "file": "crl--grey-shimmer.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--grey-shimmer--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--grey-shimmer--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--grey-shimmer--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--iseo-gris",
@@ -14615,7 +15569,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1600",
+   "details": "CRL Ceralsio (Porcelain) · Textured · Emulating the natural effect of newly quarried stone, Iseo Gris is full of character and definition, enhanced by its tactile textured finish. The perfect addition to an industrial style kitchen where raw materials are brought to the fore, Iseo Gris brings warmth and character to interiors.",
+   "images": [
+    {
+     "file": "crl--iseo-gris.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--iseo-gris--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/iseo-gris/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--iseo-gris--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/iseo-gris/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--iseo-gris--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/iseo-gris/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--jasper-moka",
@@ -14630,13 +15616,45 @@
     12,
     20
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Jasper+Moka",
+   "productUrl": "https://web.archive.org/web/20251007191719/https://crlstone.co.uk/surfaces/jasper-moka/",
    "image": {
     "file": "crl--jasper-moka.webp",
-    "status": "closeup-only",
-    "source": "crlstone.co.uk",
+    "status": "slab",
+    "source": "https://web.archive.org/web/20251007191719/https://crlstone.co.uk/surfaces/jasper-moka/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1600 / 20mm: 3200x1500",
+   "details": "CRL Ceralsio (Porcelain) · Textured · Discontinued by CRL (archived page). With its textured finish, Jasper Moka conveys the beautiful richness of natural stone, in a highly durable and easy to care for surface that is ideal for flooring, kitchens and bathrooms. Heat, water and impact resistant, Jasper keeps the need for maintenance to a ",
+   "images": [
+    {
+     "file": "crl--jasper-moka.webp",
+     "status": "slab",
+     "source": "https://web.archive.org/web/20251007191719/https://crlstone.co.uk/surfaces/jasper-moka/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--jasper-moka--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://web.archive.org/web/20251007191719/https://crlstone.co.uk/surfaces/jasper-moka/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--jasper-moka--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://web.archive.org/web/20251007191719/https://crlstone.co.uk/surfaces/jasper-moka/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--jasper-moka--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://web.archive.org/web/20251007191719/https://crlstone.co.uk/surfaces/jasper-moka/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--kaizen-bronce",
@@ -14648,13 +15666,45 @@
    "thicknesses": [
     6
    ],
-   "productUrl": "",
+   "productUrl": "https://web.archive.org/web/20250321105320/https://crlstone.co.uk/surfaces/kaizen-bronce/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "crl--kaizen-bronce.webp",
+    "status": "slab",
+    "source": "https://web.archive.org/web/20250321105320/https://crlstone.co.uk/surfaces/kaizen-bronce/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 3200x1600",
+   "details": "CRL Ceralsio (Porcelain) · Textured · Discontinued by CRL (archived page). Kaizen Bronce is a surface with a strong personality, offering a new take on bronze metal. It’s chic appearance is enhanced by its unique digital texture, while its bronze finish marries traditional with an innovative avant-garde appeal.",
+   "images": [
+    {
+     "file": "crl--kaizen-bronce.webp",
+     "status": "slab",
+     "source": "https://web.archive.org/web/20250321105320/https://crlstone.co.uk/surfaces/kaizen-bronce/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--kaizen-bronce--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://web.archive.org/web/20250321105320/https://crlstone.co.uk/surfaces/kaizen-bronce/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--kaizen-bronce--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://web.archive.org/web/20250321105320/https://crlstone.co.uk/surfaces/kaizen-bronce/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--kaizen-bronce--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://web.archive.org/web/20250321105320/https://crlstone.co.uk/surfaces/kaizen-bronce/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--kalahari",
@@ -14673,7 +15723,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "CRL Quartz · Polished · Emulating the raw beauty of stone and providing an unmistakable style, Kalahari is a popular choice for those wanting to add a natural and intimate feel to their  kitchen. Due to its soft beige tones, combined with subtle white veining, this surface will make even the largest of spaces feel warm and inviting.",
+   "images": [
+    {
+     "file": "crl--kalahari.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--kalahari--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--kalahari--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--kalahari--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--korten-corten",
@@ -14687,13 +15769,45 @@
     6,
     12
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Korten+Corten",
+   "productUrl": "https://web.archive.org/web/20250113075532/https://crlstone.co.uk/surfaces/korten-corten/",
    "image": {
     "file": "crl--korten-corten.webp",
-    "status": "closeup-only",
-    "source": "crlstone.co.uk",
+    "status": "slab",
+    "source": "https://web.archive.org/web/20250113075532/https://crlstone.co.uk/surfaces/korten-corten/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1600",
+   "details": "CRL Ceralsio (Porcelain) · Textured · Discontinued by CRL (archived page). Korten is a surface that boasts a fascinating and eye-catching design. Different shades of red, orange and yellow gently combine, creating subtle lines that are full of movement and vitality. With its distinctive coppery look, Korten can be combined with the latest",
+   "images": [
+    {
+     "file": "crl--korten-corten.webp",
+     "status": "slab",
+     "source": "https://web.archive.org/web/20250113075532/https://crlstone.co.uk/surfaces/korten-corten/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--korten-corten--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://web.archive.org/web/20250113075532/https://crlstone.co.uk/surfaces/korten-corten/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--korten-corten--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://web.archive.org/web/20250113075532/https://crlstone.co.uk/surfaces/korten-corten/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--korten-corten--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://web.archive.org/web/20250113075532/https://crlstone.co.uk/surfaces/korten-corten/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--labradorite",
@@ -14711,7 +15825,49 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620",
+   "details": "CRL Ceralsio (Porcelain) · Natural, Polished · Reminiscent of the exclusive gems and precious gems from which its name is derived, Labradorite is a regal ceramic surface that creates a luxury ambience. Intense in appearance thanks to its dark blue background, the brown marble-like veining provides a rich aesthetic that really draws the ey",
+   "aliases": [
+    "Labradorite Royal Blue"
+   ],
+   "images": [
+    {
+     "file": "crl--labradorite.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--labradorite--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/labradorite-royal-blue/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--labradorite--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/labradorite-royal-blue/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--labradorite--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/labradorite-royal-blue/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--labradorite--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/labradorite-royal-blue/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--larsen-super-blanco-gris",
@@ -14731,7 +15887,9 @@
     "status": "closeup-only",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1600",
+   "details": "CRL Ceralsio (Porcelain) · Honed, Natural"
   },
   {
    "id": "crl--laurent-black",
@@ -14750,7 +15908,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "CRL Ceralsio (Porcelain) · Natural · Visually striking, Laurent Black is the ideal ceramic surface for those looking for a dramatic black marble without compromising on durability. With its black background and bold orange veining, this surface will instantly capture attention and add a touch of sophistication to any space. Whether used o",
+   "images": [
+    {
+     "file": "crl--laurent-black.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--laurent-black--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/laurent-black/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--laurent-black--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/laurent-black/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--laurent-black--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/laurent-black/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--lucca-oro",
@@ -14769,7 +15959,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "CRL Ceralsio (Porcelain) · Natural · Drawing inspiration from the picturesque town of Lucca in Tuscany, this pristine white surface becomes a canvas for soft ash-grey veining, while subtle golden flecks shimmer like the first light over the Tuscan hills.",
+   "images": [
+    {
+     "file": "crl--lucca-oro.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--lucca-oro--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/lucca-oro/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--lucca-oro--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/lucca-oro/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--lucca-oro--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/lucca-oro/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--luna-bianco",
@@ -14788,7 +16010,42 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "CRL Quartz · Polished · Luna Bianco Honed is a cool grey and white quartz surface featuring cloud-like swirls and soft grey veining. With all the enduring and durable qualities CRL Quartz offers, this extremely versatile design can be paired with a multitude of colour palettes and textural design elements.",
+   "aliases": [
+    "Luna Bianco Honed"
+   ],
+   "images": [
+    {
+     "file": "crl--luna-bianco.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--luna-bianco--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--luna-bianco--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--luna-bianco--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--lyra-gris",
@@ -14802,13 +16059,45 @@
     6,
     12
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Lyra+Gris",
+   "productUrl": "https://web.archive.org/web/20250113074627/https://crlstone.co.uk/surfaces/lyra-gris/",
    "image": {
     "file": "crl--lyra-gris.webp",
-    "status": "closeup-only",
-    "source": "crlstone.co.uk",
+    "status": "slab",
+    "source": "https://web.archive.org/web/20250113074627/https://crlstone.co.uk/surfaces/lyra-gris/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1500 / 12mm: 3200x1500",
+   "details": "CRL Ceralsio (Porcelain) · Honed, Textured · Discontinued by CRL (archived page). Lyra Gris combines grey and marble tones with tiny glittering particles inspired by star constellations. Delicate and versatile and with a magnetic appeal Lyra Gris can be used to create a striking focal point in any space, from the highly contemporary to th",
+   "images": [
+    {
+     "file": "crl--lyra-gris.webp",
+     "status": "slab",
+     "source": "https://web.archive.org/web/20250113074627/https://crlstone.co.uk/surfaces/lyra-gris/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--lyra-gris--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://web.archive.org/web/20250113074627/https://crlstone.co.uk/surfaces/lyra-gris/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--lyra-gris--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://web.archive.org/web/20250113074627/https://crlstone.co.uk/surfaces/lyra-gris/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--lyra-gris--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://web.archive.org/web/20250113074627/https://crlstone.co.uk/surfaces/lyra-gris/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--macchia-vecchia",
@@ -14827,7 +16116,46 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "CRL Ceralsio (Porcelain) · Natural, Polished · Go for gold with Macchia Vecchia, boasting all the natural beauty of marble combined with the many practical advantages of Ceralsio to create a surface that is visually and functionally striking. Create the perfect bookmatched island – guaranteed to be the focal point of the kitchen and effor",
+   "images": [
+    {
+     "file": "crl--macchia-vecchia.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--macchia-vecchia--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/macchia-vecchia/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--macchia-vecchia--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/macchia-vecchia/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--macchia-vecchia--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/macchia-vecchia/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--macchia-vecchia--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/macchia-vecchia/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--marquina",
@@ -14845,7 +16173,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620",
+   "details": "CRL Ceralsio (Porcelain) · Natural · Defined by its deep black base and striking white veining, Marquina exudes elegance. The bold veins create a dynamic visual flow, adding depth and character to any space. Increasingly popular in interior design, this marble pairs beautifully with lighter materials to introduce a touch of glamour—making",
+   "images": [
+    {
+     "file": "crl--marquina.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--marquina--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/ceralsio-marquina/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--marquina--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/ceralsio-marquina/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--marquina--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/ceralsio-marquina/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--masai-blanco-plus",
@@ -14865,7 +16225,9 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1600",
+   "details": "CRL Ceralsio (Porcelain) · Textured"
   },
   {
    "id": "crl--masai-piedra",
@@ -14885,7 +16247,9 @@
     "status": "closeup-only",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1600",
+   "details": "CRL Ceralsio (Porcelain) · Textured"
   },
   {
    "id": "crl--matteria-antracita",
@@ -14899,13 +16263,45 @@
     6,
     12
    ],
-   "productUrl": "",
+   "productUrl": "https://web.archive.org/web/20250214185856/https://crlstone.co.uk/surfaces/matteria-antracita/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "crl--matteria-antracita.webp",
+    "status": "slab",
+    "source": "https://web.archive.org/web/20250214185856/https://crlstone.co.uk/surfaces/matteria-antracita/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1500",
+   "details": "CRL Ceralsio (Porcelain) · Textured · Discontinued by CRL (archived page). Standing out for its natural beauty and natural organic influences, Matteria Antracita is inspired by nature, exuding a combination of sobriety and minimalist appeal. Creating a sense of calm sophistication in the modern home, Matteria is extremely durable, resista",
+   "images": [
+    {
+     "file": "crl--matteria-antracita.webp",
+     "status": "slab",
+     "source": "https://web.archive.org/web/20250214185856/https://crlstone.co.uk/surfaces/matteria-antracita/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--matteria-antracita--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://web.archive.org/web/20250214185856/https://crlstone.co.uk/surfaces/matteria-antracita/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--matteria-antracita--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://web.archive.org/web/20250214185856/https://crlstone.co.uk/surfaces/matteria-antracita/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--matteria-antracita--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://web.archive.org/web/20250214185856/https://crlstone.co.uk/surfaces/matteria-antracita/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--matteria-gris",
@@ -14919,13 +16315,45 @@
     6,
     12
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Matteria+Gris",
+   "productUrl": "https://web.archive.org/web/20250214170248/https://crlstone.co.uk/surfaces/matteria-gris/",
    "image": {
     "file": "crl--matteria-gris.webp",
-    "status": "closeup-only",
-    "source": "crlstone.co.uk",
+    "status": "slab",
+    "source": "https://web.archive.org/web/20250214170248/https://crlstone.co.uk/surfaces/matteria-gris/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1500",
+   "details": "CRL Ceralsio (Porcelain) · Textured · Discontinued by CRL (archived page). Combining exquisite design with exceptional durability, Matteria Gris is reminiscent of natural stone yet has all the practical qualities that make it suitable for use around the home. This beautiful grey adds depth and interest to the kitchen, pairing beautifully ",
+   "images": [
+    {
+     "file": "crl--matteria-gris.webp",
+     "status": "slab",
+     "source": "https://web.archive.org/web/20250214170248/https://crlstone.co.uk/surfaces/matteria-gris/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--matteria-gris--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://web.archive.org/web/20250214170248/https://crlstone.co.uk/surfaces/matteria-gris/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--matteria-gris--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://web.archive.org/web/20250214170248/https://crlstone.co.uk/surfaces/matteria-gris/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--matteria-gris--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://web.archive.org/web/20250214170248/https://crlstone.co.uk/surfaces/matteria-gris/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--matteria-muschio",
@@ -14939,13 +16367,45 @@
     6,
     12
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Matteria+Muschio",
+   "productUrl": "https://web.archive.org/web/20250214184509/https://crlstone.co.uk/surfaces/matteria-muschio/",
    "image": {
     "file": "crl--matteria-muschio.webp",
-    "status": "closeup-only",
-    "source": "crlstone.co.uk",
+    "status": "slab",
+    "source": "https://web.archive.org/web/20250214184509/https://crlstone.co.uk/surfaces/matteria-muschio/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1500",
+   "details": "CRL Ceralsio (Porcelain) · Textured · Discontinued by CRL (archived page). A dark and beautiful surface, Matteria Muschio is characterised by its mysteriously earthy base, inspired by the stones found in nature. Evoking luxury and modernity, the surface transforms the kitchen into a stunning and timeless space in which to work, rest and p",
+   "images": [
+    {
+     "file": "crl--matteria-muschio.webp",
+     "status": "slab",
+     "source": "https://web.archive.org/web/20250214184509/https://crlstone.co.uk/surfaces/matteria-muschio/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--matteria-muschio--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://web.archive.org/web/20250214184509/https://crlstone.co.uk/surfaces/matteria-muschio/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--matteria-muschio--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://web.archive.org/web/20250214184509/https://crlstone.co.uk/surfaces/matteria-muschio/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--matteria-muschio--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://web.archive.org/web/20250214184509/https://crlstone.co.uk/surfaces/matteria-muschio/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--matteria-taupe",
@@ -14963,7 +16423,9 @@
     "status": "closeup-only",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "6mm: 1600x1600",
+   "details": "CRL Ceralsio (Porcelain) · Textured"
   },
   {
    "id": "crl--mercurio",
@@ -14982,7 +16444,42 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "CRL Quartz · Polished · The soft grey veining featured in the Mercurio Honed quartz surface creates a rich stone-inspired design. Enriching interiors with a refined elegance and unmistakable beauty, this durable surface evokes a modern feel by gently reflecting light.",
+   "aliases": [
+    "Mercurio Honed"
+   ],
+   "images": [
+    {
+     "file": "crl--mercurio.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--mercurio--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--mercurio--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--mercurio--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--messina",
@@ -15001,7 +16498,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "CRL Quartz · Polished · Inspired by marble but with none of the maintenance issues, CRL Quartz Messina, the latest addition to this leading collection of quartz surfaces from CRL Stone, brings nature indoors with its soft white base reflecting light and adds brightness to any setting.",
+   "images": [
+    {
+     "file": "crl--messina.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--messina--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/messina/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--messina--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/messina/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--messina--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/messina/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--messina-gold",
@@ -15020,7 +16549,32 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "CRL Quartz · Polished · Bringing a natural elegance to either a classic or contemporary setting, Messina Gold features fine veining on a crisp white background, to make a subtle design statement. Working in harmony with any décor, from bold, bright colours to the earthy tones of raw timber and brushed metallics, Messina Gold beautifully c",
+   "images": [
+    {
+     "file": "crl--messina-gold.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--messina-gold--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--messina-gold--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--meteora-gris",
@@ -15041,7 +16595,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1500 / 20mm: 3200x1500",
+   "details": "CRL Ceralsio (Porcelain) · Textured · Bring nature indoors with Meteora Gris, a surface with a distinctive stone-effect that combines wonderfully with a whole range of colours and materials in the modern home. Available in a textured finish, the surface reflects the trend for dark tones in interior design, creating a strong and sophistica",
+   "images": [
+    {
+     "file": "crl--meteora-gris.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--meteora-gris--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/meteora-gris/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--meteora-gris--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/meteora-gris/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--meteora-gris--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/meteora-gris/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--milano",
@@ -15060,7 +16646,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "CRL Quartz · Polished · Milano boasts the luxurious look of marble, with its delicate veining traversing a white background to truly dramatic effect. Combine this stand-out surface with other nature-inspired materials such as timber for a rustic look that is on-trend yet ultimately timeless.",
+   "images": [
+    {
+     "file": "crl--milano.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--milano--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--milano--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--milano--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--modena",
@@ -15079,7 +16697,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "CRL Quartz · Polished · With Modena, a timeless white base provides the backdrop for striking veining, characterised by alluring earthy tones, which exude a natural elegance. Clean and contemporary, this beautiful surface expertly replicates the organic beauty of marble without any of the upkeep to bring a light and airy ambiance to any s",
+   "images": [
+    {
+     "file": "crl--modena.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--modena--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--modena--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--modena--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--monte-bianco",
@@ -15098,7 +16748,46 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "CRL Quartz · Polished · The natural grey background Of Monte Bianco gives depth which, with the contrast of the darker grey veining and the white highlights, presents a sense of movement and fluidity across the surface. This on trend material makes a stunning visual impact and is perfect for any style of room as it works in harmony with o",
+   "images": [
+    {
+     "file": "crl--monte-bianco.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--monte-bianco--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--monte-bianco--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--monte-bianco--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--monte-bianco--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--mystic-grey",
@@ -15117,7 +16806,32 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3050x1400 / 30mm: 3050x1400",
+   "details": "CRL Quartz · Polished · Sleek in design, this surface has a timeless appeal and a look of luxury that will never fade. Mystic Grey is perfect for those wanting to add a modern twist to their home. The addition of darker grey specks within provides an extra layer of mystery and interest, making this surface truly unique.",
+   "images": [
+    {
+     "file": "crl--mystic-grey.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--mystic-grey--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--mystic-grey--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--nebula-marron",
@@ -15136,7 +16850,46 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "CRL Ceralsio (Porcelain) · Natural · Experience the refined elegance of Nebula Marron, a stone inspired by Turkey’s timeless Silver Roots. Its taupe hues and rich dark brown accents unveil layered, expressive textures that echo the earth’s natural beauty and the enigma of its ancient origins.",
+   "images": [
+    {
+     "file": "crl--nebula-marron.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--nebula-marron--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/nebula-marron/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--nebula-marron--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/nebula-marron/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--nebula-marron--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/nebula-marron/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--nebula-marron--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/nebula-marron/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--pacific-blanco-plus",
@@ -15157,7 +16910,42 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1600 / 20mm: 3200x1500",
+   "details": "CRL Ceralsio (Porcelain) · Textured · Inspired by natural rock formations and available in a textured finish, Pacific Blanco is a surface that will sit comfortably in either the classic or contemporary kitchen and bathroom. Combining gracefully with materials including wood, metal and laminate, Pacific Blanco is versatile and durable.",
+   "aliases": [
+    "Pacific Blanco"
+   ],
+   "images": [
+    {
+     "file": "crl--pacific-blanco-plus.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--pacific-blanco-plus--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/pacific-blanco/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--pacific-blanco-plus--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/pacific-blanco/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--pacific-blanco-plus--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/pacific-blanco/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--pacific-grey",
@@ -15176,7 +16964,46 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "CRL Quartz · Polished · Pacific Grey is one of our more individual finishes. With its dark grey veins on a softer grey background it can be paired with both light and dark colours adding personality to any kitchen. Pacific Grey marries well with other trending materials for a modern twist on a traditional marble finish.",
+   "images": [
+    {
+     "file": "crl--pacific-grey.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--pacific-grey--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--pacific-grey--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--pacific-grey--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--pacific-grey--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--pacific-gris",
@@ -15196,7 +17023,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1600",
+   "details": "CRL Ceralsio (Porcelain) · Textured · With a textured finish, this surface looks and feels just like real slate, with a slightly worn effect lending it character. Dark and sophisticated Pacific Gris combines brilliantly with on-trend materials and colours to really make an impact in the contemporary kitchen or bathroom.",
+   "images": [
+    {
+     "file": "crl--pacific-gris.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--pacific-gris--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/pacific-gris/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--pacific-gris--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/pacific-gris/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--pacific-gris--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/pacific-gris/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--palermo",
@@ -15215,7 +17074,46 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "CRL Quartz · Polished · Opulence and luxury in interior design is defined with Palermo. A crisp white background is the perfect setting for bold, veining that adds instant character and eye-catching detail to any setting. Inspired by nature, the quartz surface elevates any interior into a fresh, sophisticated space.",
+   "images": [
+    {
+     "file": "crl--palermo.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--palermo--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--palermo--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--palermo--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--palermo--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--pantheon-bronze",
@@ -15234,7 +17132,32 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3470x2010 / 30mm: 3470x2010",
+   "details": "CRL Quartz · Polished · Refined opulence defines Pantheon Bronze, where bold patterning makes the most stylish and individual of impressions. Set against a simple white backdrop, the bronze veining truly shines, to give any interior a bohemian feel, where marble-inspired flair adds instant personality. Drawing the eye for all the right re",
+   "images": [
+    {
+     "file": "crl--pantheon-bronze.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--pantheon-bronze--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--pantheon-bronze--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--pantheon-grey",
@@ -15253,7 +17176,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3470x2010 / 30mm: 3470x2010",
+   "details": "CRL Quartz · Polished · Add distinctive marbling to your kitchen or bathroom with Pantheon Grey, as sophisticated as it is bold and beautiful. Set on a crisp white base, the grey veining is brought to life, creating an air of luxury that is far from understated. A classy choice for any setting, Pantheon Grey has a refined elegance yet doe",
+   "images": [
+    {
+     "file": "crl--pantheon-grey.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--pantheon-grey--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--pantheon-grey--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--pantheon-grey--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--patagonia",
@@ -15272,7 +17227,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "CRL Ceralsio (Porcelain) · Natural · Inspired by the breathtaking grandeur of Patagonia, Ceralsio Patagonia captures the essence of beauty and authenticity. This surface is distinguished by its striking golden crystallizations and unique design, which add a radiant glow and an air of luxury and distinction to any space.",
+   "images": [
+    {
+     "file": "crl--patagonia.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--patagonia--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/patagonia/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--patagonia--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/patagonia/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--patagonia--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/patagonia/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--petra-crema",
@@ -15293,7 +17280,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1500 / 20mm: 3200x1500",
+   "details": "CRL Ceralsio (Porcelain) · Textured · A timeless, natural-looking surface that stands out for its delicate blend of creamy beige with gentle brown flakes, Petra Crema is available in a textured finish and will create a luxurious impression in any environment, including the kitchen and bathroom.",
+   "images": [
+    {
+     "file": "crl--petra-crema.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--petra-crema--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/petra-crema/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--petra-crema--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/petra-crema/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--petra-crema--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/petra-crema/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--pietra-grey",
@@ -15311,7 +17330,46 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620",
+   "details": "CRL Ceralsio (Porcelain) · Natural · Grey is the colour of the moment and marble is a hot material for the kitchen, making Pietra Grey a surface that will be a stand-out feature of any space. Available in a polished or a natural finish, the ceramic’s subtle white veining comes to the fore on a muted grey background, the perfect canvas for",
+   "images": [
+    {
+     "file": "crl--pietra-grey.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--pietra-grey--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/pietra-grey/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--pietra-grey--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/pietra-grey/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--pietra-grey--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/pietra-grey/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--pietra-grey--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/pietra-grey/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--polar-white",
@@ -15324,13 +17382,38 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Polar+White",
+   "productUrl": "https://crlstone.co.uk/surfaces/polar-white/",
    "image": {
     "file": "crl--polar-white.webp",
     "status": "slab",
     "source": "web",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "CRL Quartz · Polished · Whatever the style of your kitchen, our Polar White worktop can really set it off. The soft grain effect scattered throughout this worktop helps to soften its appearance, creating a warm and homely appeal. A versatile surface, Polar White can bring together other elements of the kitchen and help create an inviting ",
+   "images": [
+    {
+     "file": "crl--polar-white.webp",
+     "status": "slab",
+     "source": "web",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--polar-white--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/polar-white/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--polar-white--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/polar-white/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--portland-limestone",
@@ -15349,7 +17432,46 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "CRL Ceralsio (Porcelain) · Textured · Subtle sophistication meets contemporary design in Portland Limestone, a ceramic surface that captures the timeless appeal of natural stone with a soft, neutral palette. Featuring an understated texture, this elegant surface is perfect for those seeking a refined and minimalist aesthetic.",
+   "images": [
+    {
+     "file": "crl--portland-limestone.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--portland-limestone--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/portland-limestone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--portland-limestone--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/portland-limestone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--portland-limestone--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/portland-limestone/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--portland-limestone--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/portland-limestone/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--quartz-reflection",
@@ -15368,7 +17490,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "CRL Quartz · Polished · Make a statement in your kitchen with this sophisticated Quartz Reflection Worktop. Its bright colour creates a feeling of space in even the most compact of areas. The mirror chip set in this white surface draws the eye as light dances across it giving a wow factor to any room.",
+   "images": [
+    {
+     "file": "crl--quartz-reflection.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--quartz-reflection--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--quartz-reflection--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--quartz-reflection--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--regency-white",
@@ -15386,7 +17540,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "30mm: 3200x1600",
+   "details": "CRL Quartz · Polished · Warm and homely, the soft, classic tones of Regency White will look timeless and add a sense of calm to any space. No matter the style of your kitchen, the  warm, neutral tones of this surface intertwined with a freckled effect, will definitely carry your room through all changing trends.",
+   "images": [
+    {
+     "file": "crl--regency-white.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--regency-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--regency-white--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--regency-white--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--river-white",
@@ -15405,7 +17591,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "CRL Quartz · Polished · River White features an elegant marble pattern of whites, greys and browns for a look of movement and depth that is visually stunning. This surface has always been a popular choice for a sophisticated finish.",
+   "images": [
+    {
+     "file": "crl--river-white.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--river-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--river-white--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--river-white--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--sahara",
@@ -15423,7 +17641,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650",
+   "details": "CRL Quartz · Polished · Sahara has an earthy base colour which is complemented with a subtle grey veining, along with lighter grey and white flecks to give a sense of character to the finish.",
+   "images": [
+    {
+     "file": "crl--sahara.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--sahara--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--sahara--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--sahara--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--savannah",
@@ -15442,7 +17692,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "CRL Quartz · Polished · Savannah has the look of marble with its intricate network of unique dark brown flecks contrasted against grey veining. A centre-piece on its own, this luxurious surface, with its warm and inviting appearance is guaranteed to uplift any room.",
+   "images": [
+    {
+     "file": "crl--savannah.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--savannah--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--savannah--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--savannah--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--siena-honed",
@@ -15461,7 +17743,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "CRL Quartz · Honed · Combining all the practical benefits of quartz with all the beauty of marble, CRL Quartz Siena Honed has a dark and sophisticated character that makes it the perfect choice for the contemporary kitchen or bathroom. The dark grey base of the surface, coupled with its chalky white lines gives the material its authentic ",
+   "images": [
+    {
+     "file": "crl--siena-honed.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--siena-honed--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--siena-honed--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--siena-honed--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--silk-blanco",
@@ -15476,13 +17790,45 @@
     12,
     20
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Silk+Blanco",
+   "productUrl": "https://web.archive.org/web/20250113075613/https://crlstone.co.uk/surfaces/silk-blanco/",
    "image": {
     "file": "crl--silk-blanco.webp",
-    "status": "closeup-only",
-    "source": "crlstone.co.uk",
+    "status": "slab",
+    "source": "https://web.archive.org/web/20250113075613/https://crlstone.co.uk/surfaces/silk-blanco/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1600 / 20mm: 3200x1500",
+   "details": "CRL Ceralsio (Porcelain) · Natural, Textured · Discontinued by CRL (archived page). When less is more in the contemporary home, Silk Blanco is a surface that delivers on every level. Adding a minimalist and neutral feel, Silk Blanco is striking in its simplicity, conveying a discreet elegance and providing the perfect canvas to inject ind",
+   "images": [
+    {
+     "file": "crl--silk-blanco.webp",
+     "status": "slab",
+     "source": "https://web.archive.org/web/20250113075613/https://crlstone.co.uk/surfaces/silk-blanco/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--silk-blanco--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://web.archive.org/web/20250113075613/https://crlstone.co.uk/surfaces/silk-blanco/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--silk-blanco--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://web.archive.org/web/20250113075613/https://crlstone.co.uk/surfaces/silk-blanco/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--silk-blanco--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://web.archive.org/web/20250113075613/https://crlstone.co.uk/surfaces/silk-blanco/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--silk-camel",
@@ -15502,7 +17848,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1600",
+   "details": "CRL Ceralsio (Porcelain) · Natural · Less is more with Silk Camel, a delightfully simple surface that is highly practical as well as beautiful. The camel colouring adds warmth to any environment while combining comfortably with mutually neutral shades and bold tones alike. The material is easy to care for, water and scratch resistant, ens",
+   "images": [
+    {
+     "file": "crl--silk-camel.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--silk-camel--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/silk-camel/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--silk-camel--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/silk-camel/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--silk-camel--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/silk-camel/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--silk-gris",
@@ -15516,13 +17894,45 @@
     6,
     12
    ],
-   "productUrl": "",
+   "productUrl": "https://web.archive.org/web/20250321105542/https://crlstone.co.uk/surfaces/silk-gris/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "crl--silk-gris.webp",
+    "status": "slab",
+    "source": "https://web.archive.org/web/20250321105542/https://crlstone.co.uk/surfaces/silk-gris/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1600",
+   "details": "CRL Ceralsio (Porcelain) · Natural · Discontinued by CRL (archived page). There is no better way to introduce grey tones into the kitchen than with Silk Gris. This minimal surface is simple in design yet huge on practical benefits making this the perfect addition to virtually any interior.",
+   "images": [
+    {
+     "file": "crl--silk-gris.webp",
+     "status": "slab",
+     "source": "https://web.archive.org/web/20250321105542/https://crlstone.co.uk/surfaces/silk-gris/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--silk-gris--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://web.archive.org/web/20250321105542/https://crlstone.co.uk/surfaces/silk-gris/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--silk-gris--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://web.archive.org/web/20250321105542/https://crlstone.co.uk/surfaces/silk-gris/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--silk-gris--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://web.archive.org/web/20250321105542/https://crlstone.co.uk/surfaces/silk-gris/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--silk-negro",
@@ -15543,7 +17953,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1600 / 20mm: 3200x1500",
+   "details": "CRL Ceralsio (Porcelain) · Natural, Textured · Available in a natural finish, Silk Negro is a dark, contemporary surface that fits beautifully with modern designs, particularly when matched with natural materials such as wood, bringing the outdoors inside in the most elegant of ways.",
+   "images": [
+    {
+     "file": "crl--silk-negro.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--silk-negro--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/silk-negro/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--silk-negro--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/silk-negro/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--silk-negro--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/silk-negro/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--silver-shimmer",
@@ -15562,7 +18004,32 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "CRL Quartz · Polished · Give your kitchen that breathtaking wow factor with this beautiful worksurface. With its contemporary base tones and intricate sparkles scattered all over, Silver Shimmer will provide a premium and prestigious finish to all spaces and will definitely look the part in any modern kitchen for that on trend finish.",
+   "images": [
+    {
+     "file": "crl--silver-shimmer.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--silver-shimmer--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/silver-shimmer/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--silver-shimmer--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--soft-black",
@@ -15581,7 +18048,32 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "CRL Ceralsio (Porcelain) · Natural · Soft Black is designed for those who are looking for a pure black on their worktops or spaces. Available in a natural finish, combine this surface with white coloured cabinets to create elegant and timeless spaces or contrast with bold pops of colour.",
+   "images": [
+    {
+     "file": "crl--soft-black.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--soft-black--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/soft-black/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--soft-black--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/soft-black/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--soft-white",
@@ -15600,7 +18092,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "CRL Ceralsio (Porcelain) · Natural · Elegantly simple, Soft White is a ceramic surface that complements any kitchen or bathroom décor. Adding a sense of spaciousness where it is needed most, this surface offers a blank canvas for working with any materials and colours for endless creative opportunities. Available in a natural finish.",
+   "images": [
+    {
+     "file": "crl--soft-white.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--soft-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/soft-white/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--soft-white--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/soft-white/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--soft-white--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/soft-white/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--statuario",
@@ -15618,7 +18142,46 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600",
+   "details": "CRL Ceralsio (Porcelain) · Polished · Inspired by nature, Statuario is a marble-effect ceramic surface that has a distinctive and highly individual grey veining set against a crisp, white background. Tapping into the trend for the use of natural stone in interior design, Statuario has all the beauty of the real thing, with all the practic",
+   "images": [
+    {
+     "file": "crl--statuario.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--statuario--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/statuario/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--statuario--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/statuario/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--statuario--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/statuario/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--statuario--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/statuario/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--statuario-bianco",
@@ -15637,7 +18200,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "CRL Quartz · Polished · Inspired by marble, but with the durability of Quartz, this unique surface, which is scattered with intricate veins, is a popular choice for those wanting a strong and distinctive worksurface that epitomises style and grace.",
+   "images": [
+    {
+     "file": "crl--statuario-bianco.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--statuario-bianco--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--statuario-bianco--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--statuario-bianco--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--statuario-extreme",
@@ -15656,7 +18251,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620 / 20mm: 3240x1620",
+   "details": "CRL Ceralsio (Porcelain) · Natural · Sourced from premium natural stone quarries in Italy,  Statuario Extreme is a go-to choice for infusing spaces with elegance and luxury. Its bold, graceful veining creates a striking effect making it ideal for a statement kitchen island or feature wall. Perfect for elevating living rooms, dining areas,",
+   "images": [
+    {
+     "file": "crl--statuario-extreme.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--statuario-extreme--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/statuario-extreme/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--statuario-extreme--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/statuario-extreme/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--statuario-extreme--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/statuario-extreme/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--statuario-oro",
@@ -15675,7 +18302,32 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "CRL Quartz · Polished · A creamy white base interspersed with prominent golden-brown veins sets the scene for Statuario Oro, an eye-catching surface destined to take centre stage in classic and contemporary spaces. With a versatile, natural beauty that radiates elegance, Statuario Oro is a marble-effect surface that strikes the perfect ba",
+   "images": [
+    {
+     "file": "crl--statuario-oro.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--statuario-oro--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/statuario-oro/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--statuario-oro--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--statuario-verde",
@@ -15688,13 +18340,48 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Statuario+Verde",
+   "productUrl": "https://crlstone.co.uk/surfaces/statuario-verde-super-honed/",
    "image": {
     "file": "crl--statuario-verde.webp",
     "status": "slab",
     "source": "web",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "CRL Quartz · Polished · A tale of darkness and light, Statuario Verde Honed features a pure and timeless white base interjected with dark patterning that effortlessly creates a luxurious look. A surface that is full of depth and interest, the versatile design can be paired with a myriad of decors that make it suited to both classic and co",
+   "aliases": [
+    "Statuario Verde Honed"
+   ],
+   "images": [
+    {
+     "file": "crl--statuario-verde.webp",
+     "status": "slab",
+     "source": "web",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--statuario-verde--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--statuario-verde--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--statuario-verde--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--stella-gris",
@@ -15713,7 +18400,42 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "CRL Quartz · Polished · Tapping into the timeless trend for dark and sultry colours in modern interiors, Stella Gris Honed is defined by rich charcoal grey swirls that evoke the texture of natural slate. Team the dramatic quartz surface with brushed metals, textured finishes, and coarse textiles to create an organic ambience.",
+   "aliases": [
+    "Stella Gris Honed"
+   ],
+   "images": [
+    {
+     "file": "crl--stella-gris.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--stella-gris--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/stella-gris-super-honed/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--stella-gris--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--stella-gris--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--storm-gris",
@@ -15733,7 +18455,25 @@
     "status": "slab",
     "source": "web",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1600",
+   "details": "CRL Ceralsio (Porcelain) · Natural",
+   "images": [
+    {
+     "file": "crl--storm-gris.webp",
+     "status": "slab",
+     "source": "web",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--storm-gris--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--storm-negro",
@@ -15753,7 +18493,9 @@
     "status": "slab",
     "source": "web",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1600",
+   "details": "CRL Ceralsio (Porcelain) · Natural"
   },
   {
    "id": "crl--taj-mahal",
@@ -15772,7 +18514,32 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "CRL Quartz · Polished · Aptly named after one of the Seven Wonders of the World, Taj Mahal is an intriguing surface packed with charm and style. With its warm, rich tones, Taj Mahal brings balance to darker palettes and instant impact to paler colour schemes. A versatile stone-effect surface that is instinctively stylish, Taj Mahal will e",
+   "images": [
+    {
+     "file": "crl--taj-mahal.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--taj-mahal--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--taj-mahal--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--terra-marron",
@@ -15793,7 +18560,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1500 / 20mm: 3200x1500",
+   "details": "CRL Ceralsio (Porcelain) · Textured · Inspired by traditional fired clay, Terra Marron is elegantly simple yet extremely striking. Dark and bold, this is a surface that can be combined with matching intensive tones or contrasted with bold, light colourways for a look that is truly your own.",
+   "images": [
+    {
+     "file": "crl--terra-marron.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--terra-marron--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/terra-marron/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--terra-marron--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/terra-marron/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--terra-marron--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/terra-marron/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--the-new-blacks-muschio",
@@ -15807,13 +18606,45 @@
     6,
     12
    ],
-   "productUrl": "",
+   "productUrl": "https://web.archive.org/web/20240919142755/https://crlstone.co.uk/surfaces/the-new-blacks-muschio/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "crl--the-new-blacks-muschio.webp",
+    "status": "slab",
+    "source": "https://web.archive.org/web/20240919142755/https://crlstone.co.uk/surfaces/the-new-blacks-muschio/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1600",
+   "details": "CRL Ceralsio (Porcelain) · Natural · Discontinued by CRL (archived page). Dark surfaces are all the rage and with The New Blacks Muschio it is easy to see why. Mysteriously sophisticated, this hardwearing surface is perfect for combining with light and bold tones for a wonderfully striking two-tone effect.",
+   "images": [
+    {
+     "file": "crl--the-new-blacks-muschio.webp",
+     "status": "slab",
+     "source": "https://web.archive.org/web/20240919142755/https://crlstone.co.uk/surfaces/the-new-blacks-muschio/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--the-new-blacks-muschio--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://web.archive.org/web/20240919142755/https://crlstone.co.uk/surfaces/the-new-blacks-muschio/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--the-new-blacks-muschio--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://web.archive.org/web/20240919142755/https://crlstone.co.uk/surfaces/the-new-blacks-muschio/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--the-new-blacks-muschio--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://web.archive.org/web/20240919142755/https://crlstone.co.uk/surfaces/the-new-blacks-muschio/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--the-new-blacks-prugna",
@@ -15827,13 +18658,45 @@
     6,
     12
    ],
-   "productUrl": "",
+   "productUrl": "https://web.archive.org/web/20250113074822/https://crlstone.co.uk/surfaces/the-new-blacks-prugna/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "crl--the-new-blacks-prugna.webp",
+    "status": "slab",
+    "source": "https://web.archive.org/web/20250113074822/https://crlstone.co.uk/surfaces/the-new-blacks-prugna/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1600",
+   "details": "CRL Ceralsio (Porcelain) · Natural · Discontinued by CRL (archived page). Adding personality and individuality by playing with lights and shadows, The New Blacks Prugna is elegantly simple yet extremely striking. Dark and bold, this is a surface that can be combined with matching intensive tones or contrasted with bold, light colourways f",
+   "images": [
+    {
+     "file": "crl--the-new-blacks-prugna.webp",
+     "status": "slab",
+     "source": "https://web.archive.org/web/20250113074822/https://crlstone.co.uk/surfaces/the-new-blacks-prugna/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--the-new-blacks-prugna--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://web.archive.org/web/20250113074822/https://crlstone.co.uk/surfaces/the-new-blacks-prugna/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--the-new-blacks-prugna--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://web.archive.org/web/20250113074822/https://crlstone.co.uk/surfaces/the-new-blacks-prugna/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--the-new-blacks-prugna--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://web.archive.org/web/20250113074822/https://crlstone.co.uk/surfaces/the-new-blacks-prugna/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--tivoli",
@@ -15851,7 +18714,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3240x1620",
+   "details": "CRL Ceralsio (Porcelain) · Natural · Inspired by Travertino marble, a timeless material originating from the ancient Roman quarries of Italy. Its warm beige tones, accented by delicate and darker veining, bring a sense of refined quality to any space. A classic choice, it remains a favourite among architects and interior designers for a w",
+   "images": [
+    {
+     "file": "crl--tivoli.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--tivoli--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/tivoli/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--tivoli--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/tivoli/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--tivoli--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/tivoli/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--totem-gris",
@@ -15872,7 +18767,9 @@
     "status": "slab",
     "source": "web",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1600 / 20mm: 3200x1500",
+   "details": "CRL Ceralsio (Porcelain) · Textured"
   },
   {
    "id": "crl--touche-super-blanco-gris",
@@ -15892,7 +18789,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1600",
+   "details": "CRL Ceralsio (Porcelain) · Natural · Inspired by marble and ideal for any classically styled living space, Touche Super Blanco Gris features a subtle, elegant, grey-veined pattern on a white background. Available in a natural finish, Touche Super Blanco Gris can be used to create surfaces with a book matching mirror effect for a luxurious",
+   "images": [
+    {
+     "file": "crl--touche-super-blanco-gris.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--touche-super-blanco-gris--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/touche-super-blanco-gris/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--touche-super-blanco-gris--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/touche-super-blanco-gris/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--touche-super-blanco-gris--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/touche-super-blanco-gris/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--umbra-marron",
@@ -15913,7 +18842,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1500 / 20mm: 3200x1500",
+   "details": "CRL Ceralsio (Porcelain) · Textured · With a growing trend for darker materials in interior design, Umbra Marron brings an air of sophistication to any setting. Inspired by the natural beauty of marble, the rich, dark tones of Umbra Marron are offset by a lighter fleck running throughout the surface, while its textured finish is wonderful",
+   "images": [
+    {
+     "file": "crl--umbra-marron.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--umbra-marron--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/umbra-marron/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--umbra-marron--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/umbra-marron/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--umbra-marron--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/umbra-marron/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--venetian-grande",
@@ -15932,7 +18893,32 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "CRL Quartz · Polished · Featuring an unmistakable Terrazzo design, the traditional and natural coarse grain of Venetian Grande is a timeless reflection of modern style that exudes luxury. Pair this durable quartz surface with light woods, brushed metals, and soft pastel colours for a playful ambience in any space.",
+   "images": [
+    {
+     "file": "crl--venetian-grande.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--venetian-grande--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--venetian-grande--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--verona",
@@ -15951,7 +18937,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "CRL Quartz · Polished · Mirroring the raw and unrefined beauty of natural stone, this marble-effect surface is extremely popular for those wanting to add a touch of warmth and character to their kitchen. With brown veins floating throughout, the softer, elegant finish to this surface will bring a pleasing and aesthetic feel to any space.",
+   "images": [
+    {
+     "file": "crl--verona.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--verona--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/verona/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--verona--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--verona--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--verona-gold",
@@ -15970,7 +18988,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "CRL Quartz · Polished · Effortlessly elegant, Verona Gold features delicate gold veining, which creates a natural, marble-inspired surface that exudes an air of quiet luxury. Set against a creamy white background, the gold patterns have a gentle, floating effect with the soft, metallic tones bringing a touch of refinement and warmth to cl",
+   "images": [
+    {
+     "file": "crl--verona-gold.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--verona-gold--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--verona-gold--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--verona-gold--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--vicenza",
@@ -15989,7 +19039,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "CRL Quartz · Polished · The perfect contrast to trending bold colours in interior design, Vicenza is one of the new 2018 colours that is striking to the eye with its movement of colours from soft whites and greys to dark, bold veins.",
+   "images": [
+    {
+     "file": "crl--vicenza.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--vicenza--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--vicenza--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--vicenza--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--vint-gris",
@@ -16010,7 +19092,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "4mm: 3200x1600 / 6mm: 3200x1600 / 12mm: 3200x1500 / 20mm: 3200x1500",
+   "details": "CRL Ceralsio (Porcelain) · Natural · Adopting the appearance of poured concrete, Vint Gris gives a softer alternative to the often harsh lines of industrial-inspired designs. Whether combined with neutral shades or used to contrast with bold colours, this surface will be a stand-out feature of any room. Available in a natural finish.",
+   "images": [
+    {
+     "file": "crl--vint-gris.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--vint-gris--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://crlstone.co.uk/surfaces/vint-gris/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--vint-gris--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/vint-gris/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--vint-gris--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://crlstone.co.uk/surfaces/vint-gris/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--white-water",
@@ -16029,7 +19143,39 @@
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3300x1650 / 30mm: 3300x1650",
+   "details": "CRL Quartz · Polished · With intricate soft grey veins lined throughout, White Water mimics the serene nature of flowing waves, creating a tranquil and inviting feeling. If you’re wanting to add a touch of luxury to your kitchen, team this marble-like surface with stainless steel or bold, matte black appliances – or even a classic White W",
+   "images": [
+    {
+     "file": "crl--white-water.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--white-water--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--white-water--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "crl--white-water--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "crl--windsor-grey",
@@ -16042,13 +19188,31 @@
     20,
     30
    ],
-   "productUrl": "https://crlstone.co.uk/?s=Windsor+Grey",
+   "productUrl": "https://crlstone.co.uk/surfaces/windsor-grey/",
    "image": {
     "file": "crl--windsor-grey.webp",
     "status": "slab",
     "source": "crlstone.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "CRL Quartz · Polished · Windsor Grey has a solid dark grey finish suitable for any modern kitchen. A great contrast to lighter furniture Windsor grey works well with modern stainless steel appliances for that on trend industrial feel.",
+   "images": [
+    {
+     "file": "crl--windsor-grey.webp",
+     "status": "slab",
+     "source": "crlstone.co.uk",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "crl--windsor-grey--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "OneDrive original",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "caesarstone--airy-concrete",
