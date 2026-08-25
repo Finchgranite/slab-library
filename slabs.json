@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T09:23:59Z",
+ "generated": "2026-08-25T11:51:03Z",
  "slabs": [
   {
    "id": "akg-surfaces--adira-bronze",
@@ -53027,13 +53027,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://picassosurfaces.co.uk/product/annapurna/",
    "image": {
     "file": "picasso-surfaces--annapurna.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Annapurna features sweeping veins of soft gold shimmer and cool mineral tones flowing across a calm, pale canvas, creating a strong sense of movement and scale. Designed for statement interiors, it brings bold architectural presence while maintaining a quiet, timeless elegance. Finish: Polished.",
+   "images": [
+    {
+     "file": "picasso-surfaces--annapurna.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--annapurna--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/annapurna/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--annapurna--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/annapurna/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--aqua-gold",
@@ -53046,7 +53071,7 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/aqua-gold-backlit",
+   "productUrl": "https://picassosurfaces.co.uk/product/aqua-gold/",
    "image": {
     "file": "picasso-surfaces--aqua-gold.webp",
     "status": "slab",
@@ -53054,7 +53079,7 @@
     "borrowedFrom": ""
    },
    "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
-   "details": "Picasso · Designer Series · Polished",
+   "details": "Radiates an ethereal, dreamlike beauty, a delicate fusion of soft cerulean blues and warm golden ochres that flow together like clouds in sunlight. Subtle veining lending a sense of depth and organic movement reminiscent of watercolor art on stone Finish: Polished.",
    "images": [
     {
      "file": "picasso-surfaces--aqua-gold.webp",
@@ -53064,10 +53089,17 @@
      "kind": "slab"
     },
     {
+     "file": "picasso-surfaces--aqua-gold--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/aqua-gold/",
+     "borrowedFrom": ""
+    },
+    {
      "file": "picasso-surfaces--aqua-gold--room1.webp",
      "status": "representative",
      "kind": "room",
-     "source": "https://www.picassostones.com/aqua-gold-backlit",
+     "source": "https://picassosurfaces.co.uk/product/aqua-gold/",
      "borrowedFrom": ""
     }
    ]
@@ -53083,7 +53115,7 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/arabescato-corchia",
+   "productUrl": "https://picassosurfaces.co.uk/product/arabescato-corchia/",
    "image": {
     "file": "picasso-surfaces--arabescato-corchia.webp",
     "status": "slab",
@@ -53091,7 +53123,7 @@
     "borrowedFrom": ""
    },
    "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
-   "details": "Picasso · Designer Series · Matte, Polished",
+   "details": "A refined expression of natural artistry, a pristine white background interwoven with organic clusters of soft grey veining, creating a pebble like mosaic that feels both structured and fluid. The intricate network of marbling evokes a sense of quiet movement. Finish: Polished and Matte.",
    "images": [
     {
      "file": "picasso-surfaces--arabescato-corchia.webp",
@@ -53101,10 +53133,17 @@
      "kind": "slab"
     },
     {
+     "file": "picasso-surfaces--arabescato-corchia--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/arabescato-corchia/",
+     "borrowedFrom": ""
+    },
+    {
      "file": "picasso-surfaces--arabescato-corchia--room1.webp",
      "status": "representative",
      "kind": "room",
-     "source": "https://www.picassostones.com/arabescato-corchia",
+     "source": "https://picassosurfaces.co.uk/product/arabescato-corchia/",
      "borrowedFrom": ""
     }
    ]
@@ -53120,13 +53159,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://picassosurfaces.co.uk/product/arabescato-creme/",
    "image": {
     "file": "picasso-surfaces--arabescato-creme.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "This surface captures the allure of natural artistry, a luminous white canvas veined with intricate webs of soft greys and golden taupe, forming an elegant mosaic of organic movement. Each fragment appears naturally set within the stone, giving it depth and a tactile sense of authenticity. Finish: Polished and Matte.",
+   "images": [
+    {
+     "file": "picasso-surfaces--arabescato-creme.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--arabescato-creme--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/arabescato-creme/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--arabescato-creme--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/arabescato-creme/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--arctic-storm",
@@ -53139,7 +53203,7 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/arctic-storm-4",
+   "productUrl": "https://picassosurfaces.co.uk/product/arctic-storm/",
    "image": {
     "file": "picasso-surfaces--arctic-storm.webp",
     "status": "slab",
@@ -53147,7 +53211,7 @@
     "borrowedFrom": ""
    },
    "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
-   "details": "Picasso · Designer Series · Polished",
+   "details": "A delicate interplay of cream and soft olive tones over white, enriched by a subtle, shimmering sparkle that dances across the surface. The lustrous sheen amplifies the stone’s natural depth, bringing warmth and gentle movement to its intricate crystalline pattern. Finish: Polished.",
    "images": [
     {
      "file": "picasso-surfaces--arctic-storm.webp",
@@ -53157,24 +53221,24 @@
      "kind": "slab"
     },
     {
+     "file": "picasso-surfaces--arctic-storm--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/arctic-storm/",
+     "borrowedFrom": ""
+    },
+    {
      "file": "picasso-surfaces--arctic-storm--room1.webp",
      "status": "representative",
      "kind": "room",
-     "source": "https://www.picassostones.com/arctic-storm-4",
+     "source": "https://picassosurfaces.co.uk/product/arctic-storm/",
      "borrowedFrom": ""
     },
     {
      "file": "picasso-surfaces--arctic-storm--room2.webp",
      "status": "representative",
      "kind": "room",
-     "source": "https://www.picassostones.com/arctic-storm-4",
-     "borrowedFrom": ""
-    },
-    {
-     "file": "picasso-surfaces--arctic-storm--room3.webp",
-     "status": "representative",
-     "kind": "room",
-     "source": "https://www.picassostones.com/arctic-storm-4",
+     "source": "https://picassosurfaces.co.uk/product/arctic-storm/",
      "borrowedFrom": ""
     }
    ]
@@ -53190,7 +53254,7 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/aspen",
+   "productUrl": "https://picassosurfaces.co.uk/product/aspen/",
    "image": {
     "file": "picasso-surfaces--aspen.webp",
     "status": "slab",
@@ -53198,7 +53262,23 @@
     "borrowedFrom": ""
    },
    "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
-   "details": "Picasso · Marble Series · Polished"
+   "details": "Embodies modern refinement, a crisp white background traced with delicate, charcoal grey veining that flows organically across its polished finish. The fine, branching lines add a whisper of movement and sophistication, lending a sense of quiet drama without overwhelming. Finish: Polished.",
+   "images": [
+    {
+     "file": "picasso-surfaces--aspen.webp",
+     "status": "slab",
+     "source": "picassostones.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--aspen--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/aspen/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--aspen-gold",
@@ -53211,13 +53291,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://picassosurfaces.co.uk/product/aspen-gold/",
    "image": {
     "file": "picasso-surfaces--aspen-gold.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "A soft, luminous canvas traced with delicate champagne veining that branches gently across the surface, adding warmth and subtle definition. Understated yet expressive, it creates a clean architectural backdrop with a quiet sense of luxury and light Finish: Polished.",
+   "images": [
+    {
+     "file": "picasso-surfaces--aspen-gold.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--aspen-gold--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/aspen-gold/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--black-mirror",
@@ -53302,7 +53400,7 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/calacatta-oro",
+   "productUrl": "https://picassosurfaces.co.uk/product/calacatta-oro/",
    "image": {
     "file": "picasso-surfaces--calacatta-oro.webp",
     "status": "slab",
@@ -53310,7 +53408,30 @@
     "borrowedFrom": ""
    },
    "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
-   "details": "Picasso · Marble Series · Polished"
+   "details": "a pristine white backdrop gracefully traversed by sweeping veins of soft taupe and subtle gold, enhanced by a luminous polished finish. The gentle golden veining adds warmth and depth, infusing the design with a refined touch of luxury while maintaining an airy, contemporary elegance. Finish: Polished.",
+   "images": [
+    {
+     "file": "picasso-surfaces--calacatta-oro.webp",
+     "status": "slab",
+     "source": "picassostones.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--calacatta-oro--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/calacatta-oro/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--calacatta-oro--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/calacatta-oro/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--carrara-gold",
@@ -53360,7 +53481,7 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/carrara-ice-3",
+   "productUrl": "https://picassosurfaces.co.uk/product/carrara-ice/",
    "image": {
     "file": "picasso-surfaces--carrara-ice-shimmer.webp",
     "status": "slab",
@@ -53368,7 +53489,26 @@
     "borrowedFrom": ""
    },
    "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
-   "details": "Picasso · Marble Series · Polished"
+   "details": "A soft white background delicately marbled with fine, misty grey veining and subtle, shimmering sparkles that catch the light with refined grace. The gentle interplay between matte texture and glimmering highlights adds quiet depth. Finish: Polished.",
+   "aliases": [
+    "Carrara Ice"
+   ],
+   "images": [
+    {
+     "file": "picasso-surfaces--carrara-ice-shimmer.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--carrara-ice-shimmer--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/carrara-ice/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--carrara-neo",
@@ -53381,7 +53521,7 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/carrara-neo-4",
+   "productUrl": "https://picassosurfaces.co.uk/product/carrara-neo/",
    "image": {
     "file": "picasso-surfaces--carrara-neo.webp",
     "status": "slab",
@@ -53389,7 +53529,7 @@
     "borrowedFrom": ""
    },
    "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
-   "details": "Picasso · Marble Series · Polished",
+   "details": "Pure, contemporary calm, a soft white base delicately brushed with whisper fine veins of pale grey, creating a subtle, almost cloud like texture. Its restrained elegance and gentle movement give it a tranquil, airy presence that enhances both light and space Finish: Polished.",
    "images": [
     {
      "file": "picasso-surfaces--carrara-neo.webp",
@@ -53399,10 +53539,24 @@
      "kind": "slab"
     },
     {
+     "file": "picasso-surfaces--carrara-neo--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/carrara-neo/",
+     "borrowedFrom": ""
+    },
+    {
      "file": "picasso-surfaces--carrara-neo--room1.webp",
      "status": "representative",
      "kind": "room",
-     "source": "https://www.picassostones.com/carrara-neo-4",
+     "source": "https://picassosurfaces.co.uk/product/carrara-neo/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--carrara-neo--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/carrara-neo/",
      "borrowedFrom": ""
     }
    ]
@@ -53418,7 +53572,7 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/carrara-white-3",
+   "productUrl": "https://picassosurfaces.co.uk/product/carrara-white/",
    "image": {
     "file": "picasso-surfaces--carrara-white.webp",
     "status": "slab",
@@ -53426,7 +53580,7 @@
     "borrowedFrom": ""
    },
    "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
-   "details": "Picasso · Marble Series · Polished",
+   "details": "A clean, luminous surface defined by a soft white base with subtle, dispersed mineral detailing that adds gentle texture without overwhelming the space. Minimal and versatile, it provides a crisp architectural foundation suited to both contemporary and timeless interiors Finish: Polished.",
    "images": [
     {
      "file": "picasso-surfaces--carrara-white.webp",
@@ -53439,7 +53593,14 @@
      "file": "picasso-surfaces--carrara-white--room1.webp",
      "status": "representative",
      "kind": "room",
-     "source": "https://www.picassostones.com/carrara-white-3",
+     "source": "https://picassosurfaces.co.uk/product/carrara-white/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--carrara-white--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/carrara-white/",
      "borrowedFrom": ""
     }
    ]
@@ -53455,13 +53616,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://picassosurfaces.co.uk/product/cashmere/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "picasso-surfaces--cashmere.webp",
+    "status": "slab",
+    "source": "https://picassosurfaces.co.uk/product/cashmere/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Cashmere is defined by a soft, enveloping palette of warm neutrals, delicately layered with subtle, organic movement that reveals itself with quiet sophistication. Effortlessly elegant, it creates a serene architectural foundation bringing a sense of understated luxury, balance, and timeless refinement to contemporary ",
+   "images": [
+    {
+     "file": "picasso-surfaces--cashmere.webp",
+     "status": "slab",
+     "source": "https://picassosurfaces.co.uk/product/cashmere/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--cashmere--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/cashmere/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--cashmere--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/cashmere/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--celestial-gold",
@@ -53474,7 +53660,7 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/celestial-gold",
+   "productUrl": "https://picassosurfaces.co.uk/product/celestial-gold/",
    "image": {
     "file": "picasso-surfaces--celestial-gold.webp",
     "status": "slab",
@@ -53482,7 +53668,37 @@
     "borrowedFrom": ""
    },
    "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
-   "details": "Picasso · Designer Series · Polished"
+   "details": "Embodies timeless elegance, a creamy white base softly veined with delicate tracings of warm grey and champagne gold. The intricate, organic patterning feels sophisticated yet natural, creating an impression of movement and quiet luxury. Finish: Polished.",
+   "images": [
+    {
+     "file": "picasso-surfaces--celestial-gold.webp",
+     "status": "slab",
+     "source": "picassostones.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--celestial-gold--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/celestial-gold/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--celestial-gold--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/celestial-gold/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--celestial-gold--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/celestial-gold/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--celestial-grey",
@@ -53495,7 +53711,7 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/celestial-grey-7",
+   "productUrl": "https://picassosurfaces.co.uk/product/celestial-grey/",
    "image": {
     "file": "picasso-surfaces--celestial-grey.webp",
     "status": "slab",
@@ -53503,7 +53719,7 @@
     "borrowedFrom": ""
    },
    "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
-   "details": "Picasso · Designer Series · Polished",
+   "details": "This surface embodies quiet luxury, a soft dove grey base subtly marbled with lighter silvery tones, creating a refined, tonal harmony. The intricate detailing feels organic and balanced, reminiscent of natural stone softened by time. Finish: Polished.",
    "images": [
     {
      "file": "picasso-surfaces--celestial-grey.webp",
@@ -53532,7 +53748,7 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/celestial-white-4",
+   "productUrl": "https://picassosurfaces.co.uk/product/celestial-white/",
    "image": {
     "file": "picasso-surfaces--celestial-white.webp",
     "status": "slab",
@@ -53540,7 +53756,7 @@
     "borrowedFrom": ""
    },
    "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
-   "details": "Picasso · Designer Series · Polished",
+   "details": "Refined simplicity, a crisp white foundation elegantly interwoven with delicate veining in soft silver and pale mineral grey. The subtle marbling creates a sense of fluidity and natural balance, reminiscent of fine Italian marble yet with a contemporary freshness Finish: Polished.",
    "images": [
     {
      "file": "picasso-surfaces--celestial-white.webp",
@@ -53550,17 +53766,24 @@
      "kind": "slab"
     },
     {
+     "file": "picasso-surfaces--celestial-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/celestial-white/",
+     "borrowedFrom": ""
+    },
+    {
      "file": "picasso-surfaces--celestial-white--room1.webp",
      "status": "representative",
      "kind": "room",
-     "source": "https://www.picassostones.com/celestial-white-4",
+     "source": "https://picassosurfaces.co.uk/product/celestial-white/",
      "borrowedFrom": ""
     },
     {
      "file": "picasso-surfaces--celestial-white--room2.webp",
      "status": "representative",
      "kind": "room",
-     "source": "https://www.picassostones.com/celestial-white-4",
+     "source": "https://picassosurfaces.co.uk/product/celestial-white/",
      "borrowedFrom": ""
     }
    ]
@@ -53576,7 +53799,7 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/crema-royal",
+   "productUrl": "https://picassosurfaces.co.uk/product/crema-royal/",
    "image": {
     "file": "picasso-surfaces--crema-royal.webp",
     "status": "slab",
@@ -53584,7 +53807,30 @@
     "borrowedFrom": ""
    },
    "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
-   "details": "Picasso · Designer Series · Matte, Polished"
+   "details": "Embodies quiet refinement, a soft, creamy beige canvas with gentle, feathery veining exudes natural warmth. Its delicate crystalline pattern adds depth without distraction, evoking the polished elegance of traditional marble reimagined for modern sensibilities. Finish: Polished and Matte.",
+   "images": [
+    {
+     "file": "picasso-surfaces--crema-royal.webp",
+     "status": "slab",
+     "source": "picassostones.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--crema-royal--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/crema-royal/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--crema-royal--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/crema-royal/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--cristallo",
@@ -53597,13 +53843,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://picassosurfaces.co.uk/product/cristallo/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "picasso-surfaces--cristallo.webp",
+    "status": "slab",
+    "source": "https://picassosurfaces.co.uk/product/cristallo/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "A mineral inspired surface layered with flowing warm veining in deeper amber tones that moves naturally across the slab, creating depth and gentle contrast. Elegant yet expressive, it brings a sense of light, scale, and quiet architectural sophistication to any space. Finish: Polished.",
+   "images": [
+    {
+     "file": "picasso-surfaces--cristallo.webp",
+     "status": "slab",
+     "source": "https://picassosurfaces.co.uk/product/cristallo/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--cristallo--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/cristallo/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--cristallo--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/cristallo/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--erebus",
@@ -53616,13 +53887,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://picassosurfaces.co.uk/product/erebus/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "picasso-surfaces--erebus.webp",
+    "status": "slab",
+    "source": "https://picassosurfaces.co.uk/product/erebus/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "A pristine white canvas elegantly traced with flowing veins of warm gold and soft grey. The contrast between its luminous background and delicate linear patterning creates a sense of effortless movement, reminiscent of fine Calacatta marble. Finish: Polished."
   },
   {
    "id": "picasso-surfaces--golden-storm",
@@ -53635,13 +53908,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://picassosurfaces.co.uk/product/golden-storm/",
    "image": {
     "file": "picasso-surfaces--golden-storm.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Exudes understated sophistication a soft interplay of cool greys and warm taupe undertones The subtle veining gives it a fluid, almost driftwood like movement, lending the impression of organic calm and timeless elegance. Finish: Polished.",
+   "images": [
+    {
+     "file": "picasso-surfaces--golden-storm.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--golden-storm--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/golden-storm/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--golden-storm--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/golden-storm/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--golden-thunder",
@@ -53654,7 +53952,7 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/golden-thunder",
+   "productUrl": "https://picassosurfaces.co.uk/product/golden-thunder/",
    "image": {
     "file": "picasso-surfaces--golden-thunder.webp",
     "status": "slab",
@@ -53665,7 +53963,37 @@
     "Thunder Gold"
    ],
    "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
-   "details": "Picasso · Marble Series · Polished"
+   "details": "This surface embodies contemporary elegance at its most graceful, a soft ivory base traced with delicate, golden veining that flows across the surface. The lines are subtle yet refined, offering a sense of movement without overwhelming the eye, evoking the quiet luxury. Finish: Polished.",
+   "images": [
+    {
+     "file": "picasso-surfaces--golden-thunder.webp",
+     "status": "slab",
+     "source": "picassostones.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--golden-thunder--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/golden-thunder/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--golden-thunder--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/golden-thunder/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--golden-thunder--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/golden-thunder/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--golden-thunder-shimmer",
@@ -53718,13 +54046,41 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://picassosurfaces.co.uk/product/himalayan-pink-onyx/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "picasso-surfaces--himalyan-pink-onyx.webp",
+    "status": "slab",
+    "source": "https://picassosurfaces.co.uk/product/himalayan-pink-onyx/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Radiates refined elegance, a blush pink canvas interlaced with soft ivory undertones and fine veins of warm gold. Its translucent depth and natural sheen evoke the romantic allure of rose quartz, while the subtle geometry of the veining introduces a touch of Art Deco sophistication. Finish: Polished.",
+   "aliases": [
+    "Himalayan Pink Onyx"
+   ],
+   "images": [
+    {
+     "file": "picasso-surfaces--himalyan-pink-onyx.webp",
+     "status": "slab",
+     "source": "https://picassosurfaces.co.uk/product/himalayan-pink-onyx/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--himalyan-pink-onyx--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/himalayan-pink-onyx/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--himalyan-pink-onyx--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/himalayan-pink-onyx/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--jade-glacia",
@@ -53737,13 +54093,41 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://picassosurfaces.co.uk/product/jade-galcia/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "picasso-surfaces--jade-glacia.webp",
+    "status": "slab",
+    "source": "https://picassosurfaces.co.uk/product/jade-galcia/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "A muted sage green base delicately traced with veins of soft white and warm bronze. The fine marbling lends it an organic rhythm, while the gentle finish brings a subtle glow that shifts beautifully under changing light. Evoking the calm of nature with a whisper of Art Deco elegance. Finish: Polished.",
+   "aliases": [
+    "Jade Galcia"
+   ],
+   "images": [
+    {
+     "file": "picasso-surfaces--jade-glacia.webp",
+     "status": "slab",
+     "source": "https://picassosurfaces.co.uk/product/jade-galcia/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--jade-glacia--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/jade-galcia/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--jade-glacia--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/jade-galcia/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--moonlight",
@@ -53756,7 +54140,7 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/moonlight",
+   "productUrl": "https://picassosurfaces.co.uk/product/moonlight/",
    "image": {
     "file": "picasso-surfaces--moonlight.webp",
     "status": "slab",
@@ -53764,7 +54148,37 @@
     "borrowedFrom": ""
    },
    "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
-   "details": "Picasso · Marble Series · Polished"
+   "details": "A cool, silvery white canvas adorned with delicate veining that flows like strands of fine silk. Its subtle translucence and soft luminosity lend an air of calm sophistication, perfectly balancing texture and tone. Finish: Polished.",
+   "images": [
+    {
+     "file": "picasso-surfaces--moonlight.webp",
+     "status": "slab",
+     "source": "picassostones.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--moonlight--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/moonlight/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--moonlight--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/moonlight/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--moonlight--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/moonlight/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--nacorado",
@@ -53777,13 +54191,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://picassosurfaces.co.uk/product/nacorado/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "picasso-surfaces--nacorado.webp",
+    "status": "slab",
+    "source": "https://picassosurfaces.co.uk/product/nacorado/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "A warm, layered surface defined by soft, flowing striations that sweep gently across the slab, evoking natural movement and depth. Rich in tone yet understated in expression, it brings a grounded, architectural warmth to contemporary interiors. Finish: Polished.",
+   "images": [
+    {
+     "file": "picasso-surfaces--nacorado.webp",
+     "status": "slab",
+     "source": "https://picassosurfaces.co.uk/product/nacorado/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--nacorado--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/nacorado/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--opal-royale",
@@ -53796,13 +54228,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://picassosurfaces.co.uk/product/opal-royale/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "picasso-surfaces--opal-royale.webp",
+    "status": "slab",
+    "source": "https://picassosurfaces.co.uk/product/opal-royale/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "A translucent alabaster base elegantly traced with fine golden beige veining that drifts across like gentle brushstrokes. Its soft luminosity creates a serene, ethereal effect, reminiscent of onyx illuminated from within. Finish: Polished.",
+   "images": [
+    {
+     "file": "picasso-surfaces--opal-royale.webp",
+     "status": "slab",
+     "source": "https://picassosurfaces.co.uk/product/opal-royale/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--opal-royale--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/opal-royale/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--opal-royale--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/opal-royale/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--orella",
@@ -53815,13 +54272,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://picassosurfaces.co.uk/product/orella/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "picasso-surfaces--orella.webp",
+    "status": "slab",
+    "source": "https://picassosurfaces.co.uk/product/orella/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "A soft, luminous surface defined by intricate veining that weaves organically across the slab, forming delicate networks of warm mineral tones. Light yet detailed, it introduces subtle movement and texture, creating a refined architectural backdrop with a natural sense of depth. Finish: Polished.",
+   "images": [
+    {
+     "file": "picasso-surfaces--orella.webp",
+     "status": "slab",
+     "source": "https://picassosurfaces.co.uk/product/orella/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--orella--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/orella/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--orella--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/orella/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--patagonia",
@@ -53834,13 +54316,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://picassosurfaces.co.uk/product/patagonia/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "picasso-surfaces--patagonia.webp",
+    "status": "slab",
+    "source": "https://picassosurfaces.co.uk/product/patagonia/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Commanding attention with its bold, dramatic contrast, vast ivory expanses fractured by deep, earthy veins of espresso and taupe. The pattern feels geological, like cracked ice revealing the richness of stone beneath, lending it a powerful sense of natural artistry. Finish: Polished.",
+   "images": [
+    {
+     "file": "picasso-surfaces--patagonia.webp",
+     "status": "slab",
+     "source": "https://picassosurfaces.co.uk/product/patagonia/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--patagonia--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/patagonia/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--patagonia--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/patagonia/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--pearla",
@@ -53853,13 +54360,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://picassosurfaces.co.uk/product/pearla/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "picasso-surfaces--pearla.webp",
+    "status": "slab",
+    "source": "https://picassosurfaces.co.uk/product/pearla/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Captures the essence of opulent tranquility, a rich jade green canvas interlaced with warm amber and golden veins, reminiscent of ancient onyx. The interplay between translucent layers gives it a luminous depth. It brings an unmistakable sense of grandeur. Finish: Polished.",
+   "images": [
+    {
+     "file": "picasso-surfaces--pearla.webp",
+     "status": "slab",
+     "source": "https://picassosurfaces.co.uk/product/pearla/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--pearla--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/pearla/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--pearla--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/pearla/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--snowdale",
@@ -53872,7 +54404,7 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/snowdale-3",
+   "productUrl": "https://picassosurfaces.co.uk/product/snowdale/",
    "image": {
     "file": "picasso-surfaces--snowdale.webp",
     "status": "slab",
@@ -53880,7 +54412,23 @@
     "borrowedFrom": ""
    },
    "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
-   "details": "Picasso · Stellar Series · Polished"
+   "details": "Exudes quiet luxury, a pure white canvas delicately scattered with subtle shimmer sparkles that catch the light in the most understated way. The effect is soft yet radiant, offering a refined glow that enhances both natural and artificial lighting. Perfect for minimalist or modern interiors. Finish: Polished.",
+   "images": [
+    {
+     "file": "picasso-surfaces--snowdale.webp",
+     "status": "slab",
+     "source": "picassostones.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--snowdale--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/snowdale/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--solarius",
@@ -53893,13 +54441,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://picassosurfaces.co.uk/product/solarius/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "picasso-surfaces--solarius.webp",
+    "status": "slab",
+    "source": "https://picassosurfaces.co.uk/product/solarius/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "A richly textured surface where warm mineral tones and intricate patterning create depth and visual interest across the slab. Organic and expressive, it brings a sense of natural movement and grounded architectural character to interior spaces. Finish: Polished.",
+   "images": [
+    {
+     "file": "picasso-surfaces--solarius.webp",
+     "status": "slab",
+     "source": "https://picassosurfaces.co.uk/product/solarius/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--solarius--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/solarius/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--solarius--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/solarius/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--sunlight",
@@ -53912,7 +54485,7 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/sunlight",
+   "productUrl": "https://picassosurfaces.co.uk/product/sunlight/",
    "image": {
     "file": "picasso-surfaces--sunlight.webp",
     "status": "slab",
@@ -53920,7 +54493,37 @@
     "borrowedFrom": ""
    },
    "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
-   "details": "Picasso · Marble Series · Matte, Polished"
+   "details": "Quiet sophistication. A warm, creamy beige backdrop gently marbled with soft, interlacing veins of ivory and taupe. Its delicate patterning feels organic and fluid, like light reflecting across polished stone, bringing both warmth and refinement to any setting. Finish: Polished and Matte.",
+   "images": [
+    {
+     "file": "picasso-surfaces--sunlight.webp",
+     "status": "slab",
+     "source": "picassostones.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--sunlight--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/sunlight/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--sunlight--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/sunlight/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--sunlight--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/sunlight/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--super-white",
@@ -53933,7 +54536,7 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/super-white-3",
+   "productUrl": "https://picassosurfaces.co.uk/product/super-white/",
    "image": {
     "file": "picasso-surfaces--super-white.webp",
     "status": "slab",
@@ -53941,7 +54544,23 @@
     "borrowedFrom": ""
    },
    "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
-   "details": "Picasso · Plain Series · Polished"
+   "details": "This surface captures the essence of modern minimalism, a pure, crisp white with a flawlessly smooth finish. Its clean, luminous tone reflects light beautifully, creating an airy and expansive feel within any space. Perfect for contemporary interiors. Finish: Polished.",
+   "images": [
+    {
+     "file": "picasso-surfaces--super-white.webp",
+     "status": "slab",
+     "source": "picassostones.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--super-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/super-white/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--taj-honey-onyx",
@@ -53954,13 +54573,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://picassosurfaces.co.uk/product/taj-honey-onyx/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "picasso-surfaces--taj-honey-onyx.webp",
+    "status": "slab",
+    "source": "https://picassosurfaces.co.uk/product/taj-honey-onyx/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "A warm, creamy surface enriched with soft honeyed tones and delicate, flowing veining that drifts gently across the slab. Subtle yet inviting, it brings a sense of natural warmth and understated architectural elegance to interior spaces. Finish: Polished.",
+   "images": [
+    {
+     "file": "picasso-surfaces--taj-honey-onyx.webp",
+     "status": "slab",
+     "source": "https://picassosurfaces.co.uk/product/taj-honey-onyx/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--taj-honey-onyx--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/taj-honey-onyx/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--taj-honey-onyx--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/taj-honey-onyx/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--taj-mahal-extra",
@@ -53973,13 +54617,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://picassosurfaces.co.uk/product/taj-mahal-extra/",
    "image": {
     "file": "picasso-surfaces--taj-mahal-extra.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "A soft, stone inspired surface layered with gentle tonal variation and subtle movement that flows naturally across the slab. Warm and understated, it offers a calm architectural backdrop with a quiet sense of depth and organic character. Finish: Polished.",
+   "images": [
+    {
+     "file": "picasso-surfaces--taj-mahal-extra.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--taj-mahal-extra--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/taj-mahal-extra/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--taj-mahal-extra--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/taj-mahal-extra/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--thunder-gold",
@@ -53992,7 +54661,7 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/golden-thunder",
+   "productUrl": "https://picassosurfaces.co.uk/product/golden-thunder/",
    "image": {
     "file": "picasso-surfaces--golden-thunder.webp",
     "status": "slab",
@@ -54003,7 +54672,37 @@
     "Golden Thunder"
    ],
    "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
-   "details": "Picasso · Marble Series · Polished"
+   "details": "This surface embodies contemporary elegance at its most graceful, a soft ivory base traced with delicate, golden veining that flows across the surface. The lines are subtle yet refined, offering a sense of movement without overwhelming the eye, evoking the quiet luxury. Finish: Polished.",
+   "images": [
+    {
+     "file": "picasso-surfaces--golden-thunder.webp",
+     "status": "slab",
+     "source": "picassostones.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--thunder-gold--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/golden-thunder/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--thunder-gold--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/golden-thunder/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--thunder-gold--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/golden-thunder/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--tuscan",
@@ -54035,13 +54734,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://picassosurfaces.co.uk/product/verde-onyx/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "picasso-surfaces--verde-onyx.webp",
+    "status": "slab",
+    "source": "https://picassosurfaces.co.uk/product/verde-onyx/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "Captures the essence of opulent tranquility, a rich jade green canvas interlaced with warm amber and golden veins, reminiscent of ancient onyx. The interplay between translucent layers gives it a luminous depth. It brings an unmistakable sense of grandeur. Finish: Polished.",
+   "images": [
+    {
+     "file": "picasso-surfaces--verde-onyx.webp",
+     "status": "slab",
+     "source": "https://picassosurfaces.co.uk/product/verde-onyx/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--verde-onyx--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "https://picassosurfaces.co.uk/product/verde-onyx/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--verde-onyx--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://picassosurfaces.co.uk/product/verde-onyx/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--verde-tempsta",
@@ -54092,7 +54816,7 @@
     20,
     30
    ],
-   "productUrl": "https://www.picassostones.com/white-lake-3",
+   "productUrl": "https://picassosurfaces.co.uk/product/white-lake/",
    "image": {
     "file": "picasso-surfaces--white-lake.webp",
     "status": "slab",
@@ -54100,7 +54824,7 @@
     "borrowedFrom": ""
    },
    "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
-   "details": "Picasso · Marble Series · Matte, Polished",
+   "details": "A luminous white base delicately threaded with the faintest wisps of cool grey. The muted texture gives the stone a velvety touch, diffusing light gently to create a sense of calm and understated elegance Finish: Polished and Matte.",
    "images": [
     {
      "file": "picasso-surfaces--white-lake.webp",
@@ -54113,14 +54837,7 @@
      "file": "picasso-surfaces--white-lake--room1.webp",
      "status": "representative",
      "kind": "room",
-     "source": "https://www.picassostones.com/white-lake-3",
-     "borrowedFrom": ""
-    },
-    {
-     "file": "picasso-surfaces--white-lake--room2.webp",
-     "status": "representative",
-     "kind": "room",
-     "source": "https://www.picassostones.com/white-lake-3",
+     "source": "https://picassosurfaces.co.uk/product/white-lake/",
      "borrowedFrom": ""
     }
    ]

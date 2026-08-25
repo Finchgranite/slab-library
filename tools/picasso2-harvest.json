@@ -1,0 +1,916 @@
+{
+ "colours": [
+  {
+   "url": "https://picassosurfaces.co.uk/product/annapurna/",
+   "slug": "annapurna",
+   "name": "Annapurna",
+   "description": "Annapurna features sweeping veins of soft gold shimmer and cool mineral tones flowing across a calm, pale canvas, creating a strong sense of movement and scale. Designed for statement interiors, it brings bold architectural presence while maintaining a quiet, timeless elegance.",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/03/anna2.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/03/anna3.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/03/anna1.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/03/anna4.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/aqua-gold/",
+   "slug": "aqua-gold",
+   "name": "Aqua Gold",
+   "description": "Radiates an ethereal, dreamlike beauty, a delicate fusion of soft cerulean blues and warm golden ochres that flow together like clouds in sunlight. Subtle veining lending a sense of depth and organic movement reminiscent of watercolor art on stone",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/03/Aqua-Gold23.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/03/Aqua-Gold2.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/03/sgb.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/arabescato-corchia/",
+   "slug": "arabescato-corchia",
+   "name": "Arabescato Corchia",
+   "description": "A refined expression of natural artistry, a pristine white background interwoven with organic clusters of soft grey veining, creating a pebble like mosaic that feels both structured and fluid. The intricate network of marbling evokes a sense of quiet movement.",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished and Matte",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/03/Arabescato-Corchia-1.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/03/Arabescato-Corchia.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/03/Arabescato-Corchia234.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/arabescato-creme/",
+   "slug": "arabescato-creme",
+   "name": "Arabescato Creme",
+   "description": "This surface captures the allure of natural artistry, a luminous white canvas veined with intricate webs of soft greys and golden taupe, forming an elegant mosaic of organic movement. Each fragment appears naturally set within the stone, giving it depth and a tactile sense of authenticity.",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished and Matte",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/03/1235.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/03/123.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/arctic-storm/",
+   "slug": "arctic-storm",
+   "name": "Arctic Storm",
+   "description": "A delicate interplay of cream and soft olive tones over white, enriched by a subtle, shimmering sparkle that dances across the surface. The lustrous sheen amplifies the stone’s natural depth, bringing warmth and gentle movement to its intricate crystalline pattern.",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/as1.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/as2.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/as3.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/aspen-gold/",
+   "slug": "aspen-gold",
+   "name": "Aspen Gold",
+   "description": "A soft, luminous canvas traced with delicate champagne veining that branches gently across the surface, adding warmth and subtle definition. Understated yet expressive, it creates a clean architectural backdrop with a quiet sense of luxury and light",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/ag1.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/ag2.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/aspen/",
+   "slug": "aspen",
+   "name": "Aspen",
+   "description": "Embodies modern refinement, a crisp white background traced with delicate, charcoal grey veining that flows organically across its polished finish. The fine, branching lines add a whisper of movement and sophistication, lending a sense of quiet drama without overwhelming.",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/aspem.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/calacatta-oro/",
+   "slug": "calacatta-oro",
+   "name": "Calacatta Oro",
+   "description": "a pristine white backdrop gracefully traversed by sweeping veins of soft taupe and subtle gold, enhanced by a luminous polished finish. The gentle golden veining adds warmth and depth, infusing the design with a refined touch of luxury while maintaining an airy, contemporary elegance.",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/calc2.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/calc3.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/calc.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/carrara-ice/",
+   "slug": "carrara-ice",
+   "name": "Carrara Ice",
+   "description": "A soft white background delicately marbled with fine, misty grey veining and subtle, shimmering sparkles that catch the light with refined grace. The gentle interplay between matte texture and glimmering highlights adds quiet depth.",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/ci1.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/carrara-neo/",
+   "slug": "carrara-neo",
+   "name": "Carrara Neo",
+   "description": "Pure, contemporary calm, a soft white base delicately brushed with whisper fine veins of pale grey, creating a subtle, almost cloud like texture. Its restrained elegance and gentle movement give it a tranquil, airy presence that enhances both light and space",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/neo.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/neo2.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/neo3.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/carrara-white/",
+   "slug": "carrara-white",
+   "name": "Carrara White",
+   "description": "A clean, luminous surface defined by a soft white base with subtle, dispersed mineral detailing that adds gentle texture without overwhelming the space. Minimal and versatile, it provides a crisp architectural foundation suited to both contemporary and timeless interiors",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/cerw1.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/cerw.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/cashmere/",
+   "slug": "cashmere",
+   "name": "Cashmere",
+   "description": "Cashmere is defined by a soft, enveloping palette of warm neutrals, delicately layered with subtle, organic movement that reveals itself with quiet sophistication. Effortlessly elegant, it creates a serene architectural foundation bringing a sense of understated luxury, balance, and timeless refinement to contemporary interiors",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/cash.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/cash21.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/cash4.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/celestial-gold/",
+   "slug": "celestial-gold",
+   "name": "Celestial Gold",
+   "description": "Embodies timeless elegance, a creamy white base softly veined with delicate tracings of warm grey and champagne gold. The intricate, organic patterning feels sophisticated yet natural, creating an impression of movement and quiet luxury.",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/cg2.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/cg3.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/cg4.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/cg1.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/celestial-grey/",
+   "slug": "celestial-grey",
+   "name": "Celestial Grey",
+   "description": "This surface embodies quiet luxury, a soft dove grey base subtly marbled with lighter silvery tones, creating a refined, tonal harmony. The intricate detailing feels organic and balanced, reminiscent of natural stone softened by time.",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/cw3.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/cw1.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/cw2.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/celestial-white/",
+   "slug": "celestial-white",
+   "name": "Celestial White",
+   "description": "Refined simplicity, a crisp white foundation elegantly interwoven with delicate veining in soft silver and pale mineral grey. The subtle marbling creates a sense of fluidity and natural balance, reminiscent of fine Italian marble yet with a contemporary freshness",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/cw3.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/cw1.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/cw2.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/crema-royal/",
+   "slug": "crema-royal",
+   "name": "Crema Royal",
+   "description": "Embodies quiet refinement, a soft, creamy beige canvas with gentle, feathery veining exudes natural warmth. Its delicate crystalline pattern adds depth without distraction, evoking the polished elegance of traditional marble reimagined for modern sensibilities.",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished and Matte",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/cr3.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/cr1.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/cr2.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/cristallo/",
+   "slug": "cristallo",
+   "name": "Cristallo",
+   "description": "A mineral inspired surface layered with flowing warm veining in deeper amber tones that moves naturally across the slab, creating depth and gentle contrast. Elegant yet expressive, it brings a sense of light, scale, and quiet architectural sophistication to any space.",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/cristall2.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/cristall1.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/cristall.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/cristall4.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/erebus/",
+   "slug": "erebus",
+   "name": "Erebus",
+   "description": "A pristine white canvas elegantly traced with flowing veins of warm gold and soft grey. The contrast between its luminous background and delicate linear patterning creates a sense of effortless movement, reminiscent of fine Calacatta marble.",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/ereb-1.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/golden-storm/",
+   "slug": "golden-storm",
+   "name": "Golden Storm",
+   "description": "Exudes understated sophistication a soft interplay of cool greys and warm taupe undertones The subtle veining gives it a fluid, almost driftwood like movement, lending the impression of organic calm and timeless elegance.",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/gs1.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/gs2.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/gs3.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/golden-thunder/",
+   "slug": "golden-thunder",
+   "name": "Golden Thunder",
+   "description": "This surface embodies contemporary elegance at its most graceful, a soft ivory base traced with delicate, golden veining that flows across the surface. The lines are subtle yet refined, offering a sense of movement without overwhelming the eye, evoking the quiet luxury.",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/gt1.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/gt3-1.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/gt2.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/himalayan-pink-onyx/",
+   "slug": "himalayan-pink-onyx",
+   "name": "Himalayan Pink Onyx",
+   "description": "Radiates refined elegance, a blush pink canvas interlaced with soft ivory undertones and fine veins of warm gold. Its translucent depth and natural sheen evoke the romantic allure of rose quartz, while the subtle geometry of the veining introduces a touch of Art Deco sophistication.",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/hpo3.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/hpo1.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/hop4.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/hop2.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/jade-galcia/",
+   "slug": "jade-galcia",
+   "name": "Jade Galcia",
+   "description": "A muted sage green base delicately traced with veins of soft white and warm bronze. The fine marbling lends it an organic rhythm, while the gentle finish brings a subtle glow that shifts beautifully under changing light. Evoking the calm of nature with a whisper of Art Deco elegance.",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/jg2.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/jg3.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/jg1.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/moonlight/",
+   "slug": "moonlight",
+   "name": "Moonlight",
+   "description": "A cool, silvery white canvas adorned with delicate veining that flows like strands of fine silk. Its subtle translucence and soft luminosity lend an air of calm sophistication, perfectly balancing texture and tone.",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/moon3.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/moon.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/moon2.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/nacorado/",
+   "slug": "nacorado",
+   "name": "Nacorado",
+   "description": "A warm, layered surface defined by soft, flowing striations that sweep gently across the slab, evoking natural movement and depth. Rich in tone yet understated in expression, it brings a grounded, architectural warmth to contemporary interiors.",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/nasrc.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/narc.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/opal-royale/",
+   "slug": "opal-royale",
+   "name": "Opal Royale",
+   "description": "A translucent alabaster base elegantly traced with fine golden beige veining that drifts across like gentle brushstrokes. Its soft luminosity creates a serene, ethereal effect, reminiscent of onyx illuminated from within.",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/op2.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/op3.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/op1.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/orella/",
+   "slug": "orella",
+   "name": "Orella",
+   "description": "A soft, luminous surface defined by intricate veining that weaves organically across the slab, forming delicate networks of warm mineral tones. Light yet detailed, it introduces subtle movement and texture, creating a refined architectural backdrop with a natural sense of depth.",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/orella4.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/orella2.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/orella.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/orella23.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/patagonia/",
+   "slug": "patagonia",
+   "name": "Patagonia",
+   "description": "Commanding attention with its bold, dramatic contrast, vast ivory expanses fractured by deep, earthy veins of espresso and taupe. The pattern feels geological, like cracked ice revealing the richness of stone beneath, lending it a powerful sense of natural artistry.",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/pata3.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/pata.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/pata2.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/pearla/",
+   "slug": "pearla",
+   "name": "Pearla",
+   "description": "Captures the essence of opulent tranquility, a rich jade green canvas interlaced with warm amber and golden veins, reminiscent of ancient onyx. The interplay between translucent layers gives it a luminous depth. It brings an unmistakable sense of grandeur.",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/perl.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/perl2.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/perl3.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/snowdale/",
+   "slug": "snowdale",
+   "name": "Snowdale",
+   "description": "Exudes quiet luxury, a pure white canvas delicately scattered with subtle shimmer sparkles that catch the light in the most understated way. The effect is soft yet radiant, offering a refined glow that enhances both natural and artificial lighting. Perfect for minimalist or modern interiors.",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/snowd.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/solarius/",
+   "slug": "solarius",
+   "name": "Solarius",
+   "description": "A richly textured surface where warm mineral tones and intricate patterning create depth and visual interest across the slab. Organic and expressive, it brings a sense of natural movement and grounded architectural character to interior spaces.",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/solar3.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/solar.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/solar2.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/sunlight/",
+   "slug": "sunlight",
+   "name": "Sunlight",
+   "description": "Quiet sophistication. A warm, creamy beige backdrop gently marbled with soft, interlacing veins of ivory and taupe. Its delicate patterning feels organic and fluid, like light reflecting across polished stone, bringing both warmth and refinement to any setting.",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished and Matte",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/sunlight2.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/sunlight3.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/sunlight4.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/sunlight.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/super-white/",
+   "slug": "super-white",
+   "name": "Super White",
+   "description": "This surface captures the essence of modern minimalism, a pure, crisp white with a flawlessly smooth finish. Its clean, luminous tone reflects light beautifully, creating an airy and expansive feel within any space. Perfect for contemporary interiors.",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/super1.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/taj-honey-onyx/",
+   "slug": "taj-honey-onyx",
+   "name": "Taj Honey Onyx",
+   "description": "A warm, creamy surface enriched with soft honeyed tones and delicate, flowing veining that drifts gently across the slab. Subtle yet inviting, it brings a sense of natural warmth and understated architectural elegance to interior spaces.",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/tajh4.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/tajh.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/tajh2.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/tajh3.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/taj-mahal-extra/",
+   "slug": "taj-mahal-extra",
+   "name": "Taj Mahal Extra",
+   "description": "A soft, stone inspired surface layered with gentle tonal variation and subtle movement that flows naturally across the slab. Warm and understated, it offers a calm architectural backdrop with a quiet sense of depth and organic character.",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/taj3.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/taj2.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/taj1.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/verde-onyx/",
+   "slug": "verde-onyx",
+   "name": "Verde Onyx",
+   "description": "Captures the essence of opulent tranquility, a rich jade green canvas interlaced with warm amber and golden veins, reminiscent of ancient onyx. The interplay between translucent layers gives it a luminous depth. It brings an unmistakable sense of grandeur.",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/vo3.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/vo4.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/vo1.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/vo2.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "url": "https://picassosurfaces.co.uk/product/white-lake/",
+   "slug": "white-lake",
+   "name": "White Lake",
+   "description": "A luminous white base delicately threaded with the faintest wisps of cool grey. The muted texture gives the stone a velvety touch, diffusing light gently to create a sense of calm and understated elegance",
+   "slab_size": "3200x1600mm",
+   "slab_thickness": "20mm and 30mm",
+   "slab_finish": "Polished and Matte",
+   "images": [
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/wl1.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/wl2.png",
+     "w": 1920,
+     "h": 1200
+    },
+    {
+     "url": "https://picassosurfaces.co.uk/wp-content/uploads/2026/04/wl3.png",
+     "w": 1920,
+     "h": 1200
+    }
+   ]
+  }
+ ],
+ "symphony": [
+  "https://picassosurfaces.co.uk/product/symphony-ice-age-matte-finish-hd-print/",
+  "https://picassosurfaces.co.uk/product/symphony-taj-mahal-hd-print/",
+  "https://picassosurfaces.co.uk/product/symphony-water-shadow-hd-print/",
+  "https://picassosurfaces.co.uk/product/symphony-winter-field-hd-print/"
+ ]
+}
