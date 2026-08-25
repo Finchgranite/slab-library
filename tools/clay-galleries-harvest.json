@@ -1,0 +1,1129 @@
+[
+ {
+  "colour": "Absolute Black",
+  "status": "ok",
+  "folder": "Absolute Black",
+  "closeup": null,
+  "room": {
+   "name": "2IF_BAGNO_MB17_ALTA_V2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Absolute Black\\2IF_BAGNO_MB17_ALTA_V2.png",
+   "kind": "room"
+  },
+  "n_candidates": 2
+ },
+ {
+  "colour": "Absolute White",
+  "status": "ok",
+  "folder": "Absolute White",
+  "closeup": {
+   "name": "absolute-white-2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Absolute White\\absolute-white-2.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "absolute-white-1.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Absolute White\\absolute-white-1.png",
+   "kind": "room"
+  },
+  "n_candidates": 2
+ },
+ {
+  "colour": "Aegan Blue",
+  "status": "ok",
+  "folder": "Aegan Blue",
+  "closeup": {
+   "name": "holos-blue2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Aegan Blue\\holos-blue2.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "holos-blue.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Aegan Blue\\holos-blue.png",
+   "kind": "room"
+  },
+  "n_candidates": 4
+ },
+ {
+  "colour": "Andaman Emerald",
+  "status": "ok",
+  "folder": "Andaman Emerald",
+  "closeup": {
+   "name": "holos-andaman2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Andaman Emerald\\holos-andaman2.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "holos-andaman.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Andaman Emerald\\holos-andaman.png",
+   "kind": "room"
+  },
+  "n_candidates": 3
+ },
+ {
+  "colour": "Andromeda",
+  "status": "ok",
+  "folder": "Andromeda",
+  "closeup": {
+   "name": "Screenshot-2025-02-10-110233.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Andromeda\\Screenshot-2025-02-10-110233.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "Andromeda.jpg",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Andromeda\\Andromeda.jpg",
+   "kind": "room"
+  },
+  "n_candidates": 8
+ },
+ {
+  "colour": "Antibes",
+  "status": "not-on-site",
+  "folder": null,
+  "closeup": null,
+  "room": null,
+  "productUrl": "",
+  "note": "confirmed absent from product-sitemap.xml and site search; no OneDrive folder"
+ },
+ {
+  "colour": "Arabescato Diva",
+  "status": "ok",
+  "folder": "Arabescato Diva",
+  "closeup": {
+   "name": "Arabescato-Diva2.jpg",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Arabescato Diva\\Arabescato-Diva2.jpg",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "Arabescato-Diva1-e1761556360792.jpg",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Arabescato Diva\\Arabescato-Diva1-e1761556360792.jpg",
+   "kind": "room"
+  },
+  "n_candidates": 3
+ },
+ {
+  "colour": "Bercy",
+  "status": "not-on-site",
+  "folder": null,
+  "closeup": null,
+  "room": null,
+  "productUrl": "",
+  "note": "confirmed absent from product-sitemap.xml and site search; no OneDrive folder"
+ },
+ {
+  "colour": "Buxy Select",
+  "status": "ok",
+  "folder": "Buxy Select",
+  "closeup": {
+   "name": "buxy-select-2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Buxy Select\\buxy-select-2.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "buxy-select-1.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Buxy Select\\buxy-select-1.png",
+   "kind": "room"
+  },
+  "n_candidates": 3
+ },
+ {
+  "colour": "Calacatta Brasile",
+  "status": "ok",
+  "folder": "Calacatta Brasile",
+  "closeup": {
+   "name": "Screenshot-2025-02-10-130107.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Calacatta Brasile\\Screenshot-2025-02-10-130107.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "Brasile.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Calacatta Brasile\\Brasile.png",
+   "kind": "room"
+  },
+  "n_candidates": 6
+ },
+ {
+  "colour": "Calacatta Glory",
+  "status": "ok",
+  "folder": "Calacatta Glory",
+  "closeup": null,
+  "room": {
+   "name": "MB07_CalacattaLincoln_Ambiente_Dettaglio_1.jpg",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Calacatta Glory\\MB07_CalacattaLincoln_Ambiente_Dettaglio_1.jpg",
+   "kind": "room"
+  },
+  "n_candidates": 3
+ },
+ {
+  "colour": "Calacatta Hermitage",
+  "status": "ok",
+  "folder": "Calacatta Hermitage",
+  "closeup": {
+   "name": "Flat1.jpg",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Calacatta Hermitage\\Flat1.jpg",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "Crouch-Herm2.jpg",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Calacatta Hermitage\\Crouch-Herm2.jpg",
+   "kind": "room"
+  },
+  "n_candidates": 11
+ },
+ {
+  "colour": "Calacatta Hermitage Vein Tech",
+  "status": "ok",
+  "folder": "Calacatta Hermitage",
+  "closeup": {
+   "name": "Flat1.jpg",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Calacatta Hermitage\\Flat1.jpg",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "Crouch-Herm2.jpg",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Calacatta Hermitage\\Crouch-Herm2.jpg",
+   "kind": "room"
+  },
+  "n_candidates": 11,
+  "productUrl": "https://clayinternational.co.uk/product/calacatta-hermitage-mb17/",
+  "vein_tech_of": "Calacatta Hermitage",
+  "slabSizes": "20mm: 3240x1590",
+  "details": "Infinity Calacatta Hermitage -- Vein Tech (bookmatched, 20mm). Same slab design as Calacatta Hermitage."
+ },
+ {
+  "colour": "Calacatta Magnifico",
+  "status": "ok",
+  "folder": "Calacatta Magnifico",
+  "closeup": {
+   "name": "magnifico2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Calacatta Magnifico\\magnifico2.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "magnifico.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Calacatta Magnifico\\magnifico.png",
+   "kind": "room"
+  },
+  "n_candidates": 4
+ },
+ {
+  "colour": "Calacatta Magnifico Vein Tech",
+  "status": "ok",
+  "folder": "Calacatta Magnifico",
+  "closeup": {
+   "name": "magnifico2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Calacatta Magnifico\\magnifico2.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "magnifico.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Calacatta Magnifico\\magnifico.png",
+   "kind": "room"
+  },
+  "n_candidates": 4,
+  "productUrl": "https://clayinternational.co.uk/product/calacatta-magnifico-mb16/",
+  "vein_tech_of": "Calacatta Magnifico",
+  "slabSizes": "20mm: 3240x1590",
+  "details": "Infinity Calacatta Magnifico -- Vein Tech (bookmatched, 20mm). Same slab design as Calacatta Magnifico."
+ },
+ {
+  "colour": "Calacatta Oro",
+  "status": "ok",
+  "folder": "Calacatta Oro",
+  "closeup": {
+   "name": "MB062.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Calacatta Oro\\MB062.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "OakTreesHouse-11-scaled.jpg",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Calacatta Oro\\OakTreesHouse-11-scaled.jpg",
+   "kind": "room"
+  },
+  "n_candidates": 7
+ },
+ {
+  "colour": "Calacatta Viola",
+  "status": "ok",
+  "folder": "Calacatta Viola",
+  "closeup": {
+   "name": "calacatta-viola-1.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Calacatta Viola\\calacatta-viola-1.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "Viola.jpg",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Calacatta Viola\\Viola.jpg",
+   "kind": "room"
+  },
+  "n_candidates": 6
+ },
+ {
+  "colour": "Cammeo",
+  "status": "ok",
+  "folder": "Cammeo",
+  "closeup": {
+   "name": "Screenshot-2025-02-10-103953.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Cammeo\\Screenshot-2025-02-10-103953.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "Screenshot-2025-02-10-103849.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Cammeo\\Screenshot-2025-02-10-103849.png",
+   "kind": "room"
+  },
+  "n_candidates": 6
+ },
+ {
+  "colour": "Ceppo Romano",
+  "status": "ok",
+  "folder": "Ceppo Romano",
+  "closeup": {
+   "name": "ceppo-romano-1.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Ceppo Romano\\ceppo-romano-1.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "Ceppo-Romano.jpg",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Ceppo Romano\\Ceppo-Romano.jpg",
+   "kind": "room"
+  },
+  "n_candidates": 8
+ },
+ {
+  "colour": "Chianca Di Ostuni",
+  "status": "ok",
+  "folder": "Chianca Di Ostuni",
+  "closeup": null,
+  "room": null,
+  "n_candidates": 0
+ },
+ {
+  "colour": "Cipollino",
+  "status": "ok",
+  "folder": "Cipollino",
+  "closeup": {
+   "name": "cipollino2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Cipollino\\cipollino2.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "cipollino-1.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Cipollino\\cipollino-1.png",
+   "kind": "room"
+  },
+  "n_candidates": 5
+ },
+ {
+  "colour": "Classic Statuario",
+  "status": "ok",
+  "folder": "Classic Statuario",
+  "closeup": {
+   "name": "MB03_WD01_ClassicStatuario_PlainSwan_Ambienti_Dettaglio_Luc_Sat_01-1.jpg",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Classic Statuario\\MB03_WD01_ClassicStatuario_PlainSwan_Ambienti_Dettaglio_Luc_Sat_01-1.jpg",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "MB03_ClassicStatuario_Ambiente_Museo_Generale_2.jpg",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Classic Statuario\\MB03_ClassicStatuario_Ambiente_Museo_Generale_2.jpg",
+   "kind": "room"
+  },
+  "n_candidates": 4
+ },
+ {
+  "colour": "Concrete Grey",
+  "status": "ok",
+  "folder": "Concrete Grey",
+  "closeup": {
+   "name": "concrete-grey-2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Concrete Grey\\concrete-grey-2.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "concrete-grey-1.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Concrete Grey\\concrete-grey-1.png",
+   "kind": "room"
+  },
+  "n_candidates": 3
+ },
+ {
+  "colour": "Concrete Light",
+  "status": "ok",
+  "folder": "Concrete Light",
+  "closeup": {
+   "name": "ME02-4.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Concrete Light\\ME02-4.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "ME02-2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Concrete Light\\ME02-2.png",
+   "kind": "room"
+  },
+  "n_candidates": 5
+ },
+ {
+  "colour": "Crystal Clear",
+  "status": "ok",
+  "folder": "Crystal Clear",
+  "closeup": {
+   "name": "Crystal-Clear-3.webp",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Crystal Clear\\Crystal-Clear-3.webp",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "Crystal-Clear-2.webp",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Crystal Clear\\Crystal-Clear-2.webp",
+   "kind": "room"
+  },
+  "n_candidates": 5
+ },
+ {
+  "colour": "Crystal Ice",
+  "status": "ok",
+  "folder": "Crystal Ice",
+  "closeup": {
+   "name": "Crystal-Ice-2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Crystal Ice\\Crystal-Ice-2.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "Crystal-Ice-1.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Crystal Ice\\Crystal-Ice-1.png",
+   "kind": "room"
+  },
+  "n_candidates": 2
+ },
+ {
+  "colour": "Defense",
+  "status": "ok",
+  "folder": "Defense",
+  "closeup": {
+   "name": "Defense2.webp",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Defense\\Defense2.webp",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "Defense1.webp",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Defense\\Defense1.webp",
+   "kind": "room"
+  },
+  "n_candidates": 5
+ },
+ {
+  "colour": "Doro",
+  "status": "ok",
+  "folder": "Doro",
+  "closeup": {
+   "name": "Screenshot-2025-02-10-114658.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Doro\\Screenshot-2025-02-10-114658.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "Screenshot-2025-02-10-114650.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Doro\\Screenshot-2025-02-10-114650.png",
+   "kind": "room"
+  },
+  "n_candidates": 4
+ },
+ {
+  "colour": "Extra Statuario",
+  "status": "ok",
+  "folder": "Extra Statuario",
+  "closeup": null,
+  "room": {
+   "name": "2MB04_ME03_CE02_ExtraStatuario_MetalCorten_ConcreteGrey_Living_Dettaglio.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Extra Statuario\\2MB04_ME03_CE02_ExtraStatuario_MetalCorten_ConcreteGrey_Living_Dettaglio.png",
+   "kind": "room"
+  },
+  "n_candidates": 3
+ },
+ {
+  "colour": "Fossil",
+  "status": "ok",
+  "folder": "Fossil",
+  "closeup": null,
+  "room": {
+   "name": "GB01-Fossil-Ambiente2.webp",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Fossil\\GB01-Fossil-Ambiente2.webp",
+   "kind": "room"
+  },
+  "n_candidates": 2
+ },
+ {
+  "colour": "Fossil Row",
+  "status": "ok",
+  "folder": "Fossil Row",
+  "closeup": null,
+  "room": {
+   "name": "GB03-FossilRow-Ambiente1.webp",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Fossil Row\\GB03-FossilRow-Ambiente1.webp",
+   "kind": "room"
+  },
+  "n_candidates": 2
+ },
+ {
+  "colour": "Fossil Tartan",
+  "status": "ok",
+  "folder": "Fossil Tartan",
+  "closeup": null,
+  "room": {
+   "name": "GB02-Fossil-Ambiente3.webp",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Fossil Tartan\\GB02-Fossil-Ambiente3.webp",
+   "kind": "room"
+  },
+  "n_candidates": 2
+ },
+ {
+  "colour": "Gordes",
+  "status": "not-on-site",
+  "folder": null,
+  "closeup": null,
+  "room": null,
+  "productUrl": "",
+  "note": "confirmed absent from product-sitemap.xml and site search; no OneDrive folder"
+ },
+ {
+  "colour": "Hyams White",
+  "status": "ok",
+  "folder": "Hyams White",
+  "closeup": {
+   "name": "holos-white2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Hyams White\\holos-white2.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "holos-white1.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Hyams White\\holos-white1.png",
+   "kind": "room"
+  },
+  "n_candidates": 3
+ },
+ {
+  "colour": "Magellano",
+  "status": "ok",
+  "folder": "Magellano",
+  "closeup": {
+   "name": "magellano2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Magellano\\magellano2.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "magellano1.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Magellano\\magellano1.png",
+   "kind": "room"
+  },
+  "n_candidates": 4
+ },
+ {
+  "colour": "Metal Corten",
+  "status": "ok",
+  "folder": "Metal Corten",
+  "closeup": {
+   "name": "ME03-3.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Metal Corten\\ME03-3.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "ME03-2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Metal Corten\\ME03-2.png",
+   "kind": "room"
+  },
+  "n_candidates": 4
+ },
+ {
+  "colour": "Metal Dark",
+  "status": "ok",
+  "folder": "Metal Dark",
+  "closeup": {
+   "name": "ME02-4.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Metal Dark\\ME02-4.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "ME02-2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Metal Dark\\ME02-2.png",
+   "kind": "room"
+  },
+  "n_candidates": 3
+ },
+ {
+  "colour": "Midori",
+  "status": "ok",
+  "folder": "Midori",
+  "closeup": {
+   "name": "Screenshot-2025-02-10-122326.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Midori\\Screenshot-2025-02-10-122326.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "Screenshot-2025-02-10-122316.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Midori\\Screenshot-2025-02-10-122316.png",
+   "kind": "room"
+  },
+  "n_candidates": 4
+ },
+ {
+  "colour": "Milan Stone",
+  "status": "ok",
+  "folder": "Milan Stone",
+  "closeup": null,
+  "room": null,
+  "n_candidates": 0
+ },
+ {
+  "colour": "Nero Marquinia",
+  "status": "ok",
+  "folder": "Nero Marquinia",
+  "closeup": {
+   "name": "WhatsApp-Image-2025-08-12-at-11.56.28.jpeg",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Nero Marquinia\\WhatsApp-Image-2025-08-12-at-11.56.28.jpeg",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "WhatsApp-Image-2025-08-12-at-11.56.28-1.jpeg",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Nero Marquinia\\WhatsApp-Image-2025-08-12-at-11.56.28-1.jpeg",
+   "kind": "room"
+  },
+  "n_candidates": 5
+ },
+ {
+  "colour": "Onyx White",
+  "status": "ok",
+  "folder": "Onyx White",
+  "closeup": {
+   "name": "Onyx-pearl-2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Onyx White\\Onyx-pearl-2.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "Onyx-pearl-1.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Onyx White\\Onyx-pearl-1.png",
+   "kind": "room"
+  },
+  "n_candidates": 3
+ },
+ {
+  "colour": "Orobico Luxe",
+  "status": "ok",
+  "folder": "Orobico Luxe",
+  "closeup": {
+   "name": "DC4819-044-scaled.jpg",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Orobico Luxe\\DC4819-044-scaled.jpg",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "DC4819-036-scaled.jpg",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Orobico Luxe\\DC4819-036-scaled.jpg",
+   "kind": "room"
+  },
+  "n_candidates": 6
+ },
+ {
+  "colour": "Palladium Ivory",
+  "status": "ok",
+  "folder": "Palladium Ivory",
+  "closeup": {
+   "name": "palladium-ivory2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Palladium Ivory\\palladium-ivory2.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "palladium-ivory-1.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Palladium Ivory\\palladium-ivory-1.png",
+   "kind": "room"
+  },
+  "n_candidates": 4
+ },
+ {
+  "colour": "Panda White",
+  "status": "ok",
+  "folder": "Panda White",
+  "closeup": {
+   "name": "panda-white-2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Panda White\\panda-white-2.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "suchin_rowland_07.jpeg",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Panda White\\suchin_rowland_07.jpeg",
+   "kind": "room"
+  },
+  "n_candidates": 6
+ },
+ {
+  "colour": "Pietra Grey",
+  "status": "ok",
+  "folder": "Pietra Grey",
+  "closeup": {
+   "name": "pietra-grey-2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Pietra Grey\\pietra-grey-2.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "pietra-grey-1.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Pietra Grey\\pietra-grey-1.png",
+   "kind": "room"
+  },
+  "n_candidates": 2
+ },
+ {
+  "colour": "Pigalle",
+  "status": "ok",
+  "folder": "Pigalle",
+  "closeup": {
+   "name": "pigalle-3.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Pigalle\\pigalle-3.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "pigalle-1.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Pigalle\\pigalle-1.png",
+   "kind": "room"
+  },
+  "n_candidates": 3
+ },
+ {
+  "colour": "Plaster Ash",
+  "status": "ok",
+  "folder": "Plaster Ash",
+  "closeup": null,
+  "room": {
+   "name": "GB25PlasterAsh-Thumb2.webp",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Plaster Ash\\GB25PlasterAsh-Thumb2.webp",
+   "kind": "room"
+  },
+  "n_candidates": 1
+ },
+ {
+  "colour": "Plaster Bone",
+  "status": "ok",
+  "folder": "Plaster Bone",
+  "closeup": null,
+  "room": {
+   "name": "GB23PlasterBone-Thumb2.webp",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Plaster Bone\\GB23PlasterBone-Thumb2.webp",
+   "kind": "room"
+  },
+  "n_candidates": 1
+ },
+ {
+  "colour": "Plaster Ground",
+  "status": "ok",
+  "folder": "Plaster Ground",
+  "closeup": null,
+  "room": {
+   "name": "GB24PlasterGround-Thumb2.webp",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Plaster Ground\\GB24PlasterGround-Thumb2.webp",
+   "kind": "room"
+  },
+  "n_candidates": 1
+ },
+ {
+  "colour": "Plaster Sand",
+  "status": "ok",
+  "folder": "Plaster Sand",
+  "closeup": null,
+  "room": {
+   "name": "GB22PlasterSand-Thumb2.webp",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Plaster Sand\\GB22PlasterSand-Thumb2.webp",
+   "kind": "room"
+  },
+  "n_candidates": 1
+ },
+ {
+  "colour": "Plaster Snow",
+  "status": "ok",
+  "folder": "Plaster Snow",
+  "closeup": null,
+  "room": {
+   "name": "GB21PlasterSnow-Thumb2.webp",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Plaster Snow\\GB21PlasterSnow-Thumb2.webp",
+   "kind": "room"
+  },
+  "n_candidates": 1
+ },
+ {
+  "colour": "Plaster Warm",
+  "status": "ok",
+  "folder": "Plaster Warm",
+  "closeup": null,
+  "room": {
+   "name": "GB26PlasterWarm-Thumb2.webp",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Plaster Warm\\GB26PlasterWarm-Thumb2.webp",
+   "kind": "room"
+  },
+  "n_candidates": 1
+ },
+ {
+  "colour": "Provencale",
+  "status": "ok",
+  "folder": "Provencale",
+  "closeup": {
+   "name": "Screenshot-2025-02-10-123107.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Provencale\\Screenshot-2025-02-10-123107.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "Provencale-H.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Provencale\\Provencale-H.png",
+   "kind": "room"
+  },
+  "n_candidates": 6
+ },
+ {
+  "colour": "Pulpis Brown",
+  "status": "ok",
+  "folder": "Pulpis Brown",
+  "closeup": null,
+  "room": null,
+  "n_candidates": 0
+ },
+ {
+  "colour": "Rosso Domus",
+  "status": "ok",
+  "folder": "Rosso Domus",
+  "closeup": {
+   "name": "rosso-domus2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Rosso Domus\\rosso-domus2.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "rosso-domus-1.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Rosso Domus\\rosso-domus-1.png",
+   "kind": "room"
+  },
+  "n_candidates": 5
+ },
+ {
+  "colour": "Royal",
+  "status": "ok",
+  "folder": "Royal",
+  "closeup": {
+   "name": "royal2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Royal\\royal2.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "royal-1.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Royal\\royal-1.png",
+   "kind": "room"
+  },
+  "n_candidates": 6
+ },
+ {
+  "colour": "Royal Peacock",
+  "status": "ok",
+  "folder": "Royal Peacock",
+  "closeup": {
+   "name": "original-DF4B49D0-7775-4D2B-864D-0BBE18898629.jpeg",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Royal Peacock\\original-DF4B49D0-7775-4D2B-864D-0BBE18898629.jpeg",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "original-C651C453-E5F5-44A8-A438-D144D4A53695.jpeg",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Royal Peacock\\original-C651C453-E5F5-44A8-A438-D144D4A53695.jpeg",
+   "kind": "room"
+  },
+  "n_candidates": 5
+ },
+ {
+  "colour": "Sahara Noir",
+  "status": "ok",
+  "folder": "Sahara Noir",
+  "closeup": {
+   "name": "sahara2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Sahara Noir\\sahara2.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "sahara1.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Sahara Noir\\sahara1.png",
+   "kind": "room"
+  },
+  "n_candidates": 3
+ },
+ {
+  "colour": "Sandstone Gray",
+  "status": "ok",
+  "folder": "Sandstone Gray",
+  "closeup": null,
+  "room": {
+   "name": "GB12SandstoneGrey-Thumb2.webp",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Sandstone Gray\\GB12SandstoneGrey-Thumb2.webp",
+   "kind": "room"
+  },
+  "n_candidates": 1
+ },
+ {
+  "colour": "Sandstone Light",
+  "status": "ok",
+  "folder": "Sandstone Light",
+  "closeup": null,
+  "room": {
+   "name": "GB14SandstoneLight-Thumb2.webp",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Sandstone Light\\GB14SandstoneLight-Thumb2.webp",
+   "kind": "room"
+  },
+  "n_candidates": 1
+ },
+ {
+  "colour": "Sandstone Silver",
+  "status": "ok",
+  "folder": "Sandstone Silver",
+  "closeup": null,
+  "room": {
+   "name": "GB13SandstoneSilver-Thumb2.webp",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Sandstone Silver\\GB13SandstoneSilver-Thumb2.webp",
+   "kind": "room"
+  },
+  "n_candidates": 1
+ },
+ {
+  "colour": "Sandstone Warm",
+  "status": "ok",
+  "folder": "Sandstone Warm",
+  "closeup": null,
+  "room": {
+   "name": "GB11SandstoneWarm-Thumb2-1.webp",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Sandstone Warm\\GB11SandstoneWarm-Thumb2-1.webp",
+   "kind": "room"
+  },
+  "n_candidates": 1
+ },
+ {
+  "colour": "Santos",
+  "status": "ok",
+  "folder": "Santos",
+  "closeup": {
+   "name": "santos-2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Santos\\santos-2.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "santos-1.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Santos\\santos-1.png",
+   "kind": "room"
+  },
+  "n_candidates": 4
+ },
+ {
+  "colour": "Sorario",
+  "status": "ok",
+  "folder": "Sorario",
+  "closeup": {
+   "name": "Screenshot-2025-02-10-121500.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Sorario\\Screenshot-2025-02-10-121500.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "Screenshot-2025-02-10-121450.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Sorario\\Screenshot-2025-02-10-121450.png",
+   "kind": "room"
+  },
+  "n_candidates": 4
+ },
+ {
+  "colour": "Statuario Principe",
+  "status": "ok",
+  "folder": "Statuario Principe",
+  "closeup": {
+   "name": "statuario-principe2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Statuario Principe\\statuario-principe2.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "statuario-principe-1.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Statuario Principe\\statuario-principe-1.png",
+   "kind": "room"
+  },
+  "n_candidates": 4
+ },
+ {
+  "colour": "Statuario Principe Vein Tech",
+  "status": "ok",
+  "folder": "Statuario Principe",
+  "closeup": {
+   "name": "statuario-principe2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Statuario Principe\\statuario-principe2.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "statuario-principe-1.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Statuario Principe\\statuario-principe-1.png",
+   "kind": "room"
+  },
+  "n_candidates": 4,
+  "productUrl": "https://clayinternational.co.uk/product/statuario-principe-mb21/",
+  "vein_tech_of": "Statuario Principe",
+  "slabSizes": "20mm: 3240x1590",
+  "details": "Infinity Statuario Principe -- Vein Tech (bookmatched, 20mm). Same slab design as Statuario Principe."
+ },
+ {
+  "colour": "Taj Mahal",
+  "status": "ok",
+  "folder": "Taj Mahal",
+  "closeup": {
+   "name": "Screenshot-2025-02-10-123801.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Taj Mahal\\Screenshot-2025-02-10-123801.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "Taj-Bathroom.jpg",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Taj Mahal\\Taj-Bathroom.jpg",
+   "kind": "room"
+  },
+  "n_candidates": 7
+ },
+ {
+  "colour": "Terrazzo White",
+  "status": "ok",
+  "folder": "Terrazzo White",
+  "closeup": null,
+  "room": null,
+  "n_candidates": 0
+ },
+ {
+  "colour": "Total Grey",
+  "status": "ok",
+  "folder": "Total Grey",
+  "closeup": null,
+  "room": null,
+  "n_candidates": 0
+ },
+ {
+  "colour": "Total White",
+  "status": "ok",
+  "folder": "Total White",
+  "closeup": null,
+  "room": null,
+  "n_candidates": 0
+ },
+ {
+  "colour": "Travertine Bianco",
+  "status": "ok",
+  "folder": "Travertine Bianco",
+  "closeup": {
+   "name": "Screenshot-2025-02-10-111752.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Travertine Bianco\\Screenshot-2025-02-10-111752.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "Screenshot-2025-02-10-111744.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Travertine Bianco\\Screenshot-2025-02-10-111744.png",
+   "kind": "room"
+  },
+  "n_candidates": 4
+ },
+ {
+  "colour": "Travertine Chiaro",
+  "status": "ok",
+  "folder": "Travertine Chiaro",
+  "closeup": {
+   "name": "travertine-chiaro2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Travertine Chiaro\\travertine-chiaro2.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "FF_HarleyGdns_021.jpeg",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Travertine Chiaro\\FF_HarleyGdns_021.jpeg",
+   "kind": "room"
+  },
+  "n_candidates": 5
+ },
+ {
+  "colour": "Travertine Grey",
+  "status": "ok",
+  "folder": "Travertine Grey",
+  "closeup": {
+   "name": "travertine-grey-2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Travertine Grey\\travertine-grey-2.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "travertine-grey-1.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Travertine Grey\\travertine-grey-1.png",
+   "kind": "room"
+  },
+  "n_candidates": 2
+ },
+ {
+  "colour": "Travertine Trilogy",
+  "status": "ok",
+  "folder": "Travertine Trilogy",
+  "closeup": {
+   "name": "Travertine-Trilogy-3.webp",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Travertine Trilogy\\Travertine-Trilogy-3.webp",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "Travertine-Trilogy-2.webp",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Travertine Trilogy\\Travertine-Trilogy-2.webp",
+   "kind": "room"
+  },
+  "n_candidates": 6
+ },
+ {
+  "colour": "Tundra Select",
+  "status": "ok",
+  "folder": "Tundra Select",
+  "closeup": {
+   "name": "tundra2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Tundra Select\\tundra2.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "tundra.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Tundra Select\\tundra.png",
+   "kind": "room"
+  },
+  "n_candidates": 3
+ },
+ {
+  "colour": "Verde France",
+  "status": "ok",
+  "folder": "Verde France",
+  "closeup": {
+   "name": "verde2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Verde France\\verde2.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "verde.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Verde France\\verde.png",
+   "kind": "room"
+  },
+  "n_candidates": 4
+ },
+ {
+  "colour": "Vik Black",
+  "status": "ok",
+  "folder": "Vik Black",
+  "closeup": {
+   "name": "holos-black2.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Vik Black\\holos-black2.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "holos-black1.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\Vik Black\\holos-black1.png",
+   "kind": "room"
+  },
+  "n_candidates": 3
+ },
+ {
+  "colour": "White Macaubas",
+  "status": "ok",
+  "folder": "White Macaubas",
+  "closeup": {
+   "name": "Screenshot-2025-02-10-124907.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\White Macaubas\\Screenshot-2025-02-10-124907.png",
+   "kind": "closeup"
+  },
+  "room": {
+   "name": "Macaubus-MB28-H.png",
+   "path": "C:\\Users\\graha\\OneDrive - Finch's Stone & marble Ltd\\Brands -Slabs -Kitchens-Website\\3. CERAMIC- PORCELAIN\\Infinity porcelain - clay international\\White Macaubas\\Macaubus-MB28-H.png",
+   "kind": "room"
+  },
+  "n_candidates": 7
+ }
+]
