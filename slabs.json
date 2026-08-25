@@ -1066,13 +1066,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://bstoneuk.co.uk/material/bquartz/",
    "image": {
     "file": "b-stone--aegean.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "B-Stone BQuartz · Quartz · Polished finish. Inspired by the beauty of rare blue quartzite, this surface combines delicate colour with remarkable natural depth. This surface can also be backlit, adding an extra dimension to your interior.",
+   "images": [
+    {
+     "file": "b-stone--aegean.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "b-stone--aegean--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://bstoneuk.co.uk/material/bquartz/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "b-stone--aegean--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://bstoneuk.co.uk/material/bquartz/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "b-stone--albus",
@@ -1105,13 +1130,38 @@
     20,
     30
    ],
-   "productUrl": "https://bstoneuk.co.uk/?s=Ambiente+Cemento",
+   "productUrl": "https://bstoneuk.co.uk/material/bquartz/",
    "image": {
-    "file": "b-stone--ambiente-cemento-matt.webp",
-    "status": "representative",
-    "source": "onedrive-brands-folder",
-    "borrowedFrom": "B-Stone Ambiente Cemento matt"
-   }
+    "file": "b-stone--ambiente-cemento.webp",
+    "status": "slab",
+    "source": "https://bstoneuk.co.uk/material/bquartz/",
+    "borrowedFrom": ""
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "B-Stone BQuartz · Quartz · Polished finish. The rich hues in this version offer countless combination possibilities. The Ambiente Cemento is also available in a matt finish.",
+   "images": [
+    {
+     "file": "b-stone--ambiente-cemento.webp",
+     "status": "slab",
+     "source": "https://bstoneuk.co.uk/material/bquartz/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "b-stone--ambiente-cemento--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://bstoneuk.co.uk/material/bquartz/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "b-stone--ambiente-cemento--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://bstoneuk.co.uk/material/bquartz/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "b-stone--ambiente-cemento-matt",
@@ -1124,13 +1174,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://bstoneuk.co.uk/material/bquartz/",
    "image": {
     "file": "b-stone--ambiente-cemento-matt.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "B-Stone BQuartz · Quartz · Matt finish. The variety of warm colour tones makes this material extremely versatile and offers countless kitchen colour combinations. Also available in a polished finish.",
+   "images": [
+    {
+     "file": "b-stone--ambiente-cemento-matt.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "b-stone--ambiente-cemento-matt--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://bstoneuk.co.uk/material/bquartz/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "b-stone--ambiente-cemento-matt--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://bstoneuk.co.uk/material/bquartz/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "b-stone--angola-black",
@@ -1203,13 +1278,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://bstoneuk.co.uk/material/bquartz/",
    "image": {
     "file": "b-stone--arabescato-corchia.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x2000 / 30mm: 3200x1600",
+   "details": "B-Stone BQuartz · Quartz · Polished finish. Add a luxurious touch to any concept with BQuartz Arabescato Corchia, inspired by the Corchia marble.",
+   "images": [
+    {
+     "file": "b-stone--arabescato-corchia.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "b-stone--arabescato-corchia--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://bstoneuk.co.uk/material/bquartz/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "b-stone--arabescato-corchia--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://bstoneuk.co.uk/material/bquartz/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "b-stone--atacama",
@@ -1222,13 +1322,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://bstoneuk.co.uk/material/bquartz/",
    "image": {
     "file": "b-stone--atacama.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "B-Stone BQuartz · Quartz · Polished finish. Soft warm hues and delicate organic movement bring effortless sophistication to living spaces."
   },
   {
    "id": "b-stone--avocatus",
@@ -1497,13 +1599,15 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://bstoneuk.co.uk/material/techlam/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "b-stone--breccia-brown.webp",
+    "status": "slab",
+    "source": "https://bstoneuk.co.uk/material/techlam/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "B-Stone Techlam · Sintered Stone · 3D Textured finish. This surface is a tribute to the classic marbles, characterised by its beige tones, merged with unified browns and more intense veins."
   },
   {
    "id": "b-stone--breccia-capraia",
@@ -1555,13 +1659,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://bstoneuk.co.uk/material/bquartz/",
    "image": {
     "file": "b-stone--brilliant-ice.webp",
-    "status": "closeup-only",
-    "source": "onedrive-brands-folder",
+    "status": "slab",
+    "source": "https://bstoneuk.co.uk/material/bquartz/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "B-Stone BQuartz · Quartz · Polished finish. The subtle sparkles in this design will give your decor a glimmering result.",
+   "images": [
+    {
+     "file": "b-stone--brilliant-ice.webp",
+     "status": "slab",
+     "source": "https://bstoneuk.co.uk/material/bquartz/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "b-stone--brilliant-ice--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://bstoneuk.co.uk/material/bquartz/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "b-stone--brilliant-ice--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://bstoneuk.co.uk/material/bquartz/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "b-stone--brown-silk",
@@ -1614,13 +1743,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://bstoneuk.co.uk/material/bquartz/",
    "image": {
     "file": "b-stone--calacatta-dorada.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "B-Stone BQuartz · Quartz · Polished finish. The prominent veining adds excitement and thrill to any purpose. This version is available bookmatched.",
+   "images": [
+    {
+     "file": "b-stone--calacatta-dorada.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "b-stone--calacatta-dorada--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://bstoneuk.co.uk/material/bquartz/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "b-stone--calacatta-dorada--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://bstoneuk.co.uk/material/bquartz/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "b-stone--calacatta-imperial-white",
@@ -1632,13 +1786,15 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://bstoneuk.co.uk/material/bquartz/",
    "image": {
     "file": "b-stone--calacatta-imperial-white.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600",
+   "details": "B-Stone BQuartz · Quartz · Polished finish. A crisp white surface with elegant grey veining, bringing timeless sophistication to both classic and contemporary interiors."
   },
   {
    "id": "b-stone--calacatta-mysterio",
@@ -1651,13 +1807,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://bstoneuk.co.uk/material/bquartz/",
    "image": {
     "file": "b-stone--calacatta-mysterio.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "B-Stone BQuartz · Quartz · Polished finish. This warm-white version contains a deep grey, mysterious veining that will make your interior serene and classy.",
+   "images": [
+    {
+     "file": "b-stone--calacatta-mysterio.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "b-stone--calacatta-mysterio--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://bstoneuk.co.uk/material/bquartz/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "b-stone--calacatta-oro-ligero",
@@ -1670,13 +1844,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://bstoneuk.co.uk/material/bquartz/",
    "image": {
     "file": "b-stone--calacatta-oro-ligero.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "B-Stone BQuartz · Quartz · Polished finish. Golden days, golden hearts. The Calacatta Oro Ligero gives every concept a golden lining. This version is available bookmatched.",
+   "images": [
+    {
+     "file": "b-stone--calacatta-oro-ligero.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "b-stone--calacatta-oro-ligero--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://bstoneuk.co.uk/material/bquartz/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "b-stone--calacatta-oro-nuovo",
@@ -1689,13 +1881,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://bstoneuk.co.uk/material/bquartz/",
    "image": {
     "file": "b-stone--calacatta-oro-nuovo.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "B-Stone BQuartz · Quartz · Polished finish. Give your project a subtle unique touch with the soft gold and grey veining in this version. This version is available bookmatched.",
+   "images": [
+    {
+     "file": "b-stone--calacatta-oro-nuovo.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "b-stone--calacatta-oro-nuovo--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://bstoneuk.co.uk/material/bquartz/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "b-stone--calacatta-oro-nuovo--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://bstoneuk.co.uk/material/bquartz/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "b-stone--calacatta-royale",
@@ -1708,13 +1925,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://bstoneuk.co.uk/material/bquartz/",
    "image": {
     "file": "b-stone--calacatta-royale.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "B-Stone BQuartz · Quartz · Polished finish. The most generous version in the BQuartz collection is this one with a soft white background and striking gold veining. A high-class look assured in any application.",
+   "images": [
+    {
+     "file": "b-stone--calacatta-royale.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "b-stone--calacatta-royale--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://bstoneuk.co.uk/material/bquartz/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "b-stone--calacatta-royale--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://bstoneuk.co.uk/material/bquartz/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "b-stone--calacatta-vagli",
@@ -1784,13 +2026,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://bstoneuk.co.uk/material/bquartz/",
    "image": {
     "file": "b-stone--carrara-extra.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "B-Stone BQuartz · Quartz · Polished finish. The mysterious light grey veins in this design give your design a dreamy, soft look.",
+   "images": [
+    {
+     "file": "b-stone--carrara-extra.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "b-stone--carrara-extra--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://bstoneuk.co.uk/material/bquartz/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "b-stone--cheyenne",
@@ -1941,13 +2201,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://bstoneuk.co.uk/material/bquartz/",
    "image": {
     "file": "b-stone--dark-cemento-matt.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "B-Stone BQuartz · Quartz · Matt finish. The dark cement look is powerful and fits all designs. This stone is available in our matt finish",
+   "images": [
+    {
+     "file": "b-stone--dark-cemento-matt.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "b-stone--dark-cemento-matt--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://bstoneuk.co.uk/material/bquartz/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "b-stone--elegant-brown",
@@ -2218,13 +2496,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://bstoneuk.co.uk/material/bquartz/",
    "image": {
     "file": "b-stone--florentine.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "B-Stone BQuartz · Quartz · Polished finish. This warm-white marble colour with soft golden and light-grey veins will definitely add serenity and class to your  interior.",
+   "images": [
+    {
+     "file": "b-stone--florentine.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "b-stone--florentine--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://bstoneuk.co.uk/material/bquartz/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "b-stone--fusion",
@@ -2296,13 +2592,38 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://bstoneuk.co.uk/material/bquartz/",
    "image": {
     "file": "b-stone--glacier-white.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "B-Stone BQuartz · Quartz · Polished finish. The adventurous nature of this cream-coloured BQuartz is a smooth choice either way.",
+   "images": [
+    {
+     "file": "b-stone--glacier-white.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "b-stone--glacier-white--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://bstoneuk.co.uk/material/bquartz/",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "b-stone--glacier-white--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://bstoneuk.co.uk/material/bquartz/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "b-stone--green-army",
@@ -2374,13 +2695,15 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://bstoneuk.co.uk/material/bquartz/",
    "image": {
     "file": "b-stone--grigio-venato.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600",
+   "details": "B-Stone BQuartz · Quartz · Polished finish. The grey veining against the warm white background gives a powerful yet playful touch to any interior."
   },
   {
    "id": "b-stone--ijgen-blue",
@@ -2571,13 +2894,15 @@
     12,
     20
    ],
-   "productUrl": "https://bstoneuk.co.uk/?s=Limestone",
+   "productUrl": "https://bstoneuk.co.uk/material/techlam/",
    "image": {
     "file": "b-stone--limestone.webp",
     "status": "slab",
     "source": "bstoneuk.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "B-Stone Techlam · Sintered Stone · 3D Textured finish. This light beige colour has a soft grain that gives it an unbeatable texture and richness. Ideal for adding harmony and warmth to your spaces."
   },
   {
    "id": "b-stone--macaubus-white",
@@ -2610,13 +2935,15 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://bstoneuk.co.uk/material/techlam/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "b-stone--macchia-gold.webp",
+    "status": "slab",
+    "source": "https://bstoneuk.co.uk/material/techlam/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "B-Stone Techlam · Sintered Stone · Matt finish. Macchia Gold is inspired by the iconic white marbles with intense grey veins and rusty-orange hues. It’s an elegant choice that adds character to any space."
   },
   {
    "id": "b-stone--malachite",
@@ -2827,13 +3154,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://bstoneuk.co.uk/material/bquartz/",
    "image": {
     "file": "b-stone--nilas.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "B-Stone BQuartz · Quartz · Polished finish. This surface has a very soft, ethereal appearance. The subtle white-on-white movement gives it a calm, luxurious feel, reminiscent of translucent quartzite or lightly clouded ice.",
+   "images": [
+    {
+     "file": "b-stone--nilas.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "b-stone--nilas--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://bstoneuk.co.uk/material/bquartz/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "b-stone--olympia-white",
@@ -2905,13 +3250,15 @@
    "thicknesses": [
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://bstoneuk.co.uk/material/bquartz/",
    "image": {
     "file": "b-stone--oro-venato.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600",
+   "details": "B-Stone BQuartz · Quartz · Polished finish. Looking for a classy, luxurious look for your kitchen or bathroom? Then the fine golden lines in the Venato Oro offer an answer to that question."
   },
   {
    "id": "b-stone--orobico-grigio",
@@ -3042,13 +3389,15 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://bstoneuk.co.uk/material/techlam/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "b-stone--pure-black.webp",
+    "status": "slab",
+    "source": "https://bstoneuk.co.uk/material/techlam/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "B-Stone Techlam · Sintered Stone · Matt finish. Pure Black is the perfect choice for those who appreciate the most elegant simplicity."
   },
   {
    "id": "b-stone--quartzite-black",
@@ -3257,13 +3606,15 @@
     12,
     20
    ],
-   "productUrl": "",
+   "productUrl": "https://bstoneuk.co.uk/material/techlam/",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "b-stone--starlight.webp",
+    "status": "slab",
+    "source": "https://bstoneuk.co.uk/material/techlam/",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "B-Stone Techlam · Sintered Stone · Matt finish. Startlight balances elegance and luxury. This surface achieves its spectacular authenticity in the detail and intensity of its colours."
   },
   {
    "id": "b-stone--steel-grey",
@@ -3377,13 +3728,15 @@
     12,
     20
    ],
-   "productUrl": "https://bstoneuk.co.uk/?s=Travertino+Pearl",
+   "productUrl": "https://bstoneuk.co.uk/material/techlam/",
    "image": {
     "file": "b-stone--travertino-pearl.webp",
     "status": "slab",
     "source": "bstoneuk.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "B-Stone Techlam · Sintered Stone · 3D Textured finish. This earthy toned colour is light and elegant. The appearance stands out with its veined fine layers creating soft variations in tone. The 3D textured finish creates a three-dimensional appearance, adding depth and relief to the material's surfa"
   },
   {
    "id": "b-stone--tribeca",
@@ -3396,13 +3749,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://bstoneuk.co.uk/material/bquartz/",
    "image": {
     "file": "b-stone--tribeca.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "B-Stone BQuartz · Quartz · Polished finish. Inspired by the grandeur of premium Italian marble, this surface combines soft coloured veining with refined warmth.",
+   "images": [
+    {
+     "file": "b-stone--tribeca.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "b-stone--tribeca--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://bstoneuk.co.uk/material/bquartz/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "b-stone--tropical-green",
@@ -3415,13 +3786,15 @@
     12,
     20
    ],
-   "productUrl": "https://bstoneuk.co.uk/?s=Tropical+Green",
+   "productUrl": "https://bstoneuk.co.uk/material/techlam/",
    "image": {
     "file": "b-stone--tropical-green.webp",
     "status": "slab",
     "source": "bstoneuk.co.uk",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "B-Stone Techlam · Sintered Stone · Matt finish. The Tropical Green brings a fresh and exotic vibe to spaces that aim to stand out."
   },
   {
    "id": "b-stone--verde-bamboo",
@@ -3493,13 +3866,31 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://bstoneuk.co.uk/material/bquartz/",
    "image": {
     "file": "b-stone--veridian.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "B-Stone BQuartz · Quartz · Polished finish. Soft sage-green tones and delicate copper veining create a distinctive surface with refined natural elegance.",
+   "images": [
+    {
+     "file": "b-stone--veridian.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "b-stone--veridian--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "https://bstoneuk.co.uk/material/bquartz/",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "b-stone--viscount-white",
@@ -3532,13 +3923,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://bstoneuk.co.uk/material/bquartz/",
    "image": {
     "file": "b-stone--volcanic-cemento-matt.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "B-Stone BQuartz · Quartz · Matt finish. The warm, rust-brown accents and discreet blue details add a sultry look to any project. This version is available in our matt finish."
   },
   {
    "id": "b-stone--wasabi",
@@ -3611,13 +4004,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://bstoneuk.co.uk/material/bquartz/",
    "image": {
     "file": "b-stone--yuma.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "B-Stone BQuartz · Quartz · Polished finish. A refined blend of warm ivory hues and subtle organic movement for effortlessly elegant interiors. Also available in matt finish."
   },
   {
    "id": "b-stone--yuma-matt",
@@ -3630,13 +4025,15 @@
     20,
     30
    ],
-   "productUrl": "",
+   "productUrl": "https://bstoneuk.co.uk/material/bquartz/",
    "image": {
     "file": "b-stone--yuma-matt.webp",
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "B-Stone BQuartz · Quartz · Matt finish. A refined blend of warm ivory hues and subtle organic movement for effortlessly elegant interiors. Also available in polished finish."
   },
   {
    "id": "bqs--arctic",
@@ -73884,6 +74281,90 @@
      "borrowedFrom": ""
     }
    ]
+  },
+  {
+   "id": "b-stone--cadiz",
+   "supplier": "B-Stone",
+   "colour": "Cadiz",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "https://bstoneuk.co.uk/material/bquartz/",
+   "image": {
+    "file": "b-stone--cadiz.webp",
+    "status": "slab",
+    "source": "https://bstoneuk.co.uk/material/bquartz/",
+    "borrowedFrom": ""
+   },
+   "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
+   "details": "B-Stone BQuartz · Quartz · Polished finish. A beautifully balanced quartz surface featuring warm cream hues and gentle veining for bright, welcoming interiors. (NEW (arriving end of August 2026))"
+  },
+  {
+   "id": "b-stone--colossal-cream",
+   "supplier": "B-Stone",
+   "colour": "Colossal Cream",
+   "material": "Sintered Stone",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    12,
+    20
+   ],
+   "productUrl": "https://bstoneuk.co.uk/material/techlam/",
+   "image": {
+    "file": "b-stone--colossal-cream.webp",
+    "status": "slab",
+    "source": "https://bstoneuk.co.uk/material/techlam/",
+    "borrowedFrom": ""
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "B-Stone Techlam · Sintered Stone · Matt finish. Soft golden veining flows across a warm cream background, creating a refined surface of understated luxury."
+  },
+  {
+   "id": "b-stone--forest",
+   "supplier": "B-Stone",
+   "colour": "Forest",
+   "material": "Sintered Stone",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    12,
+    20
+   ],
+   "productUrl": "https://bstoneuk.co.uk/material/techlam/",
+   "image": {
+    "file": "b-stone--forest.webp",
+    "status": "slab",
+    "source": "https://bstoneuk.co.uk/material/techlam/",
+    "borrowedFrom": ""
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "B-Stone Techlam · Sintered Stone · Matt finish. Flowing mineral-inspired movement and contrasting white veining create a bold, sophisticated aesthetic."
+  },
+  {
+   "id": "b-stone--salina-ivory",
+   "supplier": "B-Stone",
+   "colour": "Salina Ivory",
+   "material": "Sintered Stone",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    12,
+    20
+   ],
+   "productUrl": "https://bstoneuk.co.uk/material/techlam/",
+   "image": {
+    "file": "b-stone--salina-ivory.webp",
+    "status": "slab",
+    "source": "https://bstoneuk.co.uk/material/techlam/",
+    "borrowedFrom": ""
+   },
+   "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
+   "details": "B-Stone Techlam · Sintered Stone · 3D Textured finish. Inspired by the timeless beauty of natural limestone, this textured surface offers warmth, simplicity and enduring style."
   }
  ]
 }
