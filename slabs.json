@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T12:17:56Z",
+ "generated": "2026-08-26T16:55:37Z",
  "slabs": [
   {
    "id": "akg-surfaces--adira-bronze",
@@ -6579,6 +6579,34 @@
      "kind": "closeup",
      "source": "https://static.wixstatic.com/media/3e3672_e4659daba247469ca4a46d15623ca8a5~mv2.jpg",
      "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--alabasta--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Alabasta/Alabasta Full Slab.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--alabasta--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Alabasta/Alabasta Close up  3.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--alabasta--closeup4.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Alabasta/Alabasta Close up 1.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--alabasta--closeup5.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Alabasta/Alabasta Close up 2.JPG)",
+     "borrowedFrom": ""
     }
    ]
   },
@@ -6688,6 +6716,34 @@
      "borrowedFrom": "",
      "scale": "true",
      "kind": "slab"
+    },
+    {
+     "file": "bloomstones--arabescato-bianco--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Arabescato Bianco/Arabescato Bianco Full Slab.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--arabescato-bianco--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Arabescato Bianco/Arabescato Bianco Close up 1.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--arabescato-bianco--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Arabescato Bianco/Arabescato Bianco Close up 2.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--arabescato-bianco--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Arabescato Bianco/Arabescato Bianco Close up 3.jpg)",
+     "borrowedFrom": ""
     }
    ]
   },
@@ -6704,11 +6760,34 @@
    ],
    "productUrl": "",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "bloomstones--arctic-wave.webp",
+    "status": "slab",
+    "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Arctic Wave/Arctic Wave.JPG)",
     "borrowedFrom": ""
-   }
+   },
+   "images": [
+    {
+     "file": "bloomstones--arctic-wave.webp",
+     "status": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Arctic Wave/Arctic Wave.JPG)",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--arctic-wave--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Arctic Wave/Arctic WAve Close up 1.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--arctic-wave--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Arctic Wave/Arctic Wave close up 2.JPG)",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--atlantis-smoke",
@@ -6754,13 +6833,25 @@
    ],
    "productUrl": "https://www.bloomstoneslondon.com/quartz-samples/aurora-beige-",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "bloomstones--aurora-beige.webp",
+    "status": "slab",
+    "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Aurora Beige Polished/Aurora Beige Full Slab.jpg)",
     "borrowedFrom": ""
    },
    "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
-   "details": "Bloomstones · Quartz · Polished"
+   "details": "Bloomstones · Quartz · Polished",
+   "images": [
+    {
+     "file": "bloomstones--aurora-beige.webp",
+     "status": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Aurora Beige Polished/Aurora Beige Full Slab.jpg)",
+     "borrowedFrom": "",
+     "kind": "slab"
+    }
+   ],
+   "aliases": [
+    "Aurora Beige Polished"
+   ]
   },
   {
    "id": "bloomstones--azul-palomino",
@@ -6831,11 +6922,41 @@
    ],
    "productUrl": "",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "bloomstones--bayside.webp",
+    "status": "slab",
+    "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Bayside/Bayside Full Slab.jpg)",
     "borrowedFrom": ""
-   }
+   },
+   "images": [
+    {
+     "file": "bloomstones--bayside.webp",
+     "status": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Bayside/Bayside Full Slab.jpg)",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--bayside--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Bayside/Bayside Close Up 1.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--bayside--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Bayside/Bayside Close Up 2.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--bayside--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Bayside/Bayside Close Up 3.jpg)",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--bianco-arizona",
@@ -6873,6 +6994,20 @@
      "kind": "closeup",
      "source": "https://static.wixstatic.com/media/3e3672_f256cb3b6ca9484b94274c311009f0a6~mv2.jpg",
      "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--bianco-arizona--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Bianco Arizona/Bianco Arizona Full Slab.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--bianco-arizona--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Bianco Arizona/Bianco Arizona Close up.jpg)",
+     "borrowedFrom": ""
     }
    ]
   },
@@ -6905,7 +7040,24 @@
      "borrowedFrom": "",
      "scale": "true",
      "kind": "slab"
+    },
+    {
+     "file": "bloomstones--bianco-calacatta--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Bianco Calacutta/Bianco Calacatta.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--bianco-calacatta--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Bianco Calacutta/Bianco Calacutta Close Up.jpg)",
+     "borrowedFrom": ""
     }
+   ],
+   "aliases": [
+    "Bianco Calacutta"
    ]
   },
   {
@@ -6958,6 +7110,34 @@
      "kind": "closeup",
      "source": "https://static.wixstatic.com/media/e9822b_3394396b504b4c999a81712643ee6e15~mv2.jpg",
      "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--bianco-galaxy--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Bianco Galaxy/Bianco Galaxy Full Slab.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--bianco-galaxy--closeup4.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Bianco Galaxy/Bianco Galaxy Close Up 1.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--bianco-galaxy--closeup5.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Bianco Galaxy/Bianco Galaxy Close Up 2.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--bianco-galaxy--closeup6.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Bianco Galaxy/Bianco Galaxy Close Up 3.JPG)",
+     "borrowedFrom": ""
     }
    ]
   },
@@ -7003,6 +7183,27 @@
      "status": "closeup",
      "kind": "closeup",
      "source": "https://static.wixstatic.com/media/e9822b_a95b423e1e78421a8b4fc7af2b879bdf~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--bianco-glitter--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Bianco Glitter/Bianco Glitter Full Slab.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--bianco-glitter--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Bianco Glitter/Bianco Glitter Close Up 2.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--bianco-glitter--closeup4.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Bianco Glitter/Bianco Glitter Close up 1.JPG)",
      "borrowedFrom": ""
     }
    ]
@@ -7062,6 +7263,20 @@
      "kind": "closeup",
      "source": "https://static.wixstatic.com/media/e9822b_0ad2f7d802144c3384e45a7918011a01~mv2.jpg",
      "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--bianco-merino--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Bianco Merino/Bianco Merino Full Slab.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--bianco-merino--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Bianco Merino/Bianco Merino Close up.jpg)",
+     "borrowedFrom": ""
     }
    ]
   },
@@ -7120,6 +7335,27 @@
      "kind": "closeup",
      "source": "https://static.wixstatic.com/media/3e3672_3c7f9b0c3ba9485dae3d53fd631fca2b~mv2.jpg",
      "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--bianco-sparkle--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Bianco Sparkle/Bianco Sparkle.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--bianco-sparkle--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Bianco Sparkle/Bianco Sparkle Close up 1.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--bianco-sparkle--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Bianco Sparkle/Bianco Sparkle close up 2.jpg)",
+     "borrowedFrom": ""
     }
    ]
   },
@@ -7140,7 +7376,9 @@
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "discontinued": true,
+   "discontinuedNote": "Absent from Bloomstones' July/Aug 2026 lists; Chad Gage 26/08/2026: discontinued ('small amounts of stock but not pushing'). Removed from the price book (PLR-20260825-01)."
   },
   {
    "id": "bloomstones--bianco-vagli",
@@ -7189,7 +7427,24 @@
      "borrowedFrom": "",
      "scale": "true",
      "kind": "slab"
+    },
+    {
+     "file": "bloomstones--bianco-white--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Blanco White/Blanco White Full Slab.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--bianco-white--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Blanco White/Blanco White Close Up.JPG)",
+     "borrowedFrom": ""
     }
+   ],
+   "aliases": [
+    "Blanco White"
    ]
   },
   {
@@ -7379,11 +7634,20 @@
    ],
    "productUrl": "",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "bloomstones--blue-sparkle.webp",
+    "status": "closeup-only",
+    "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Blue Sparkle/Blue Sparkle.jpg)",
     "borrowedFrom": ""
-   }
+   },
+   "images": [
+    {
+     "file": "bloomstones--blue-sparkle.webp",
+     "status": "closeup-only",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Blue Sparkle/Blue Sparkle.jpg)",
+     "borrowedFrom": "",
+     "kind": "slab"
+    }
+   ]
   },
   {
    "id": "bloomstones--blues-in-the-night",
@@ -7452,6 +7716,13 @@
      "borrowedFrom": "",
      "scale": "true",
      "kind": "slab"
+    },
+    {
+     "file": "bloomstones--breccia-gold--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Breccia Gold/Breccia Gold.jpg)",
+     "borrowedFrom": ""
     }
    ]
   },
@@ -7468,11 +7739,34 @@
    ],
    "productUrl": "",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "bloomstones--calacatta-aurelia.webp",
+    "status": "slab",
+    "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Calacatta Aurelia/Calacatta Aurelia/Calacatta Aurelia Full Slab.jpg)",
     "borrowedFrom": ""
-   }
+   },
+   "images": [
+    {
+     "file": "bloomstones--calacatta-aurelia.webp",
+     "status": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Calacatta Aurelia/Calacatta Aurelia/Calacatta Aurelia Full Slab.jpg)",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--calacatta-aurelia--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Calacatta Aurelia/Calacatta Aurelia/Calacatta Aruelia Close up 2.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--calacatta-aurelia--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Calacatta Aurelia/Calacatta Aurelia/Calacatta Aurelia Close up 1.JPG)",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--calacatta-borghini",
@@ -7555,6 +7849,41 @@
      "kind": "closeup",
      "source": "https://static.wixstatic.com/media/3e3672_e2fe3f4eb63e4f308f34ca2ebd314f55~mv2.jpg",
      "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--calacatta-classico--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Calacatta Classico/Calacatta Classico Full Slab.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--calacatta-classico--closeup4.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Calacatta Classico/Calacatta Classico Close up 1.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--calacatta-classico--closeup5.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Calacatta Classico/Calacatta Classico Close up 2.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--calacatta-classico--closeup6.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Calacatta Classico/Calacatta Classico Close up 3.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--calacatta-classico--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Calacatta Classico/Calacatta Classico Fitted.jpg)",
+     "borrowedFrom": ""
     }
    ]
   },
@@ -7619,7 +7948,67 @@
      "borrowedFrom": "",
      "scale": "true",
      "kind": "slab"
+    },
+    {
+     "file": "bloomstones--calacatta-gold--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Calacatta Gold/DSC01229.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--calacatta-gold--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Calacatta Gold/DSC01230.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--calacatta-gold--alt3.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Calacatta Gold/DSC01233.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--calacatta-gold--alt4.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Super Jumbos/CALACATTA GOLD SJ.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--calacatta-gold--alt5.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Calacutta Gold/Calacatta Gold.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--calacatta-gold--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Calacatta Gold/IMG_0174.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--calacatta-gold--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Calacatta Gold/IMG_0175.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--calacatta-gold--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Calacatta Gold/IMG_0176.JPG)",
+     "borrowedFrom": ""
     }
+   ],
+   "aliases": [
+    "CALACATTA GOLD SJ",
+    "Calacutta Gold"
    ]
   },
   {
@@ -7715,6 +8104,41 @@
      "kind": "closeup",
      "source": "https://static.wixstatic.com/media/3e3672_cbacf0a697504d92b5789dec62ab5d24~mv2.jpg",
      "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--calacatta-lusso--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Calacatta Lusso/Calacatta Lusso Full Slab.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--calacatta-lusso--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Calacatta Lusso/Calacatta Lusso Close up 1.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--calacatta-lusso--closeup4.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Calacatta Lusso/Calacatta Lusso Close up 2.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--calacatta-lusso--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Calacatta Lusso/Calacatta Lusso Fitted 1.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--calacatta-lusso--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Calacatta Lusso/Calacatta Lusso Fitted 2.jpg)",
+     "borrowedFrom": ""
     }
    ]
   },
@@ -7794,11 +8218,23 @@
    ],
    "productUrl": "",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "bloomstones--calacatta-nile.webp",
+    "status": "slab",
+    "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Super Jumbos/CALACATTA NILE.png)",
     "borrowedFrom": ""
-   }
+   },
+   "images": [
+    {
+     "file": "bloomstones--calacatta-nile.webp",
+     "status": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Super Jumbos/CALACATTA NILE.png)",
+     "borrowedFrom": "",
+     "kind": "slab"
+    }
+   ],
+   "aliases": [
+    "CALACATTA NILE"
+   ]
   },
   {
    "id": "bloomstones--calacatta-oro",
@@ -7847,7 +8283,9 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "discontinued": true,
+   "discontinuedNote": "Absent from Bloomstones' July/Aug 2026 lists; Chad Gage 26/08/2026: discontinued ('small amounts of stock but not pushing'). Removed from the price book (PLR-20260825-01)."
   },
   {
    "id": "bloomstones--calacatta-ragno",
@@ -7886,7 +8324,9 @@
      "source": "https://static.wixstatic.com/media/fcef59_9fc92be617c54d89991f81a7ea93bde8~mv2.jpg",
      "borrowedFrom": ""
     }
-   ]
+   ],
+   "discontinued": true,
+   "discontinuedNote": "Absent from Bloomstones' July/Aug 2026 lists; Chad Gage 26/08/2026: discontinued ('small amounts of stock but not pushing'). Removed from the price book (PLR-20260825-01)."
   },
   {
    "id": "bloomstones--calacatta-royale",
@@ -7935,6 +8375,13 @@
      "borrowedFrom": "",
      "scale": "true",
      "kind": "slab"
+    },
+    {
+     "file": "bloomstones--calacatta-vena--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Calacatta Vena/Calacatta Vena.jpg)",
+     "borrowedFrom": ""
     }
    ]
   },
@@ -8025,6 +8472,34 @@
      "kind": "closeup",
      "source": "https://static.wixstatic.com/media/e9822b_ca2deab4ef4a432a9c0e9a3c85ba350e~mv2.jpg",
      "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--carrara-dove--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Carrara Dove/Carrara Dove.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--carrara-dove--closeup4.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Carrara Dove/Carrara Dove Close Up 1.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--carrara-dove--closeup5.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Carrara Dove/Carrara Dove Close Up 2.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--carrara-dove--closeup6.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Carrara Dove/Carrara Dove Close Up 3.JPG)",
+     "borrowedFrom": ""
     }
    ]
   },
@@ -8078,6 +8553,34 @@
      "kind": "closeup",
      "source": "https://static.wixstatic.com/media/3e3672_e6c1a02a55814537a7be7c2f641a0e89~mv2.jpg",
      "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--carrara-extra--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Carrara Extra/Carrara Extra.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--carrara-extra--closeup4.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Carrara Extra/Carrara Extra Close up 1.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--carrara-extra--closeup5.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Carrara Extra/Carrara Extra Close up 2.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--carrara-extra--closeup6.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Carrara Extra/Carrara Extra Close up 3.JPG)",
+     "borrowedFrom": ""
     }
    ]
   },
@@ -8110,6 +8613,27 @@
      "borrowedFrom": "",
      "scale": "true",
      "kind": "slab"
+    },
+    {
+     "file": "bloomstones--carrara-glacier--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Carrara Glacier/Carrara Glacier.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--carrara-glacier--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Carrara Glacier/Carrara Glacier Full Slab.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--carrara-glacier--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Carrara Glacier/Carrara Glacier Close up.jpeg)",
+     "borrowedFrom": ""
     }
    ]
   },
@@ -8126,11 +8650,23 @@
    ],
    "productUrl": "",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "bloomstones--carrara-gold.webp",
+    "status": "slab",
+    "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Super Jumbos/CARRARA GOLD.jpg)",
     "borrowedFrom": ""
-   }
+   },
+   "images": [
+    {
+     "file": "bloomstones--carrara-gold.webp",
+     "status": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Super Jumbos/CARRARA GOLD.jpg)",
+     "borrowedFrom": "",
+     "kind": "slab"
+    }
+   ],
+   "aliases": [
+    "CARRARA GOLD"
+   ]
   },
   {
    "id": "bloomstones--carrara-luni",
@@ -8186,7 +8722,9 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "discontinued": true,
+   "discontinuedNote": "Absent from Bloomstones' July/Aug 2026 lists; Chad Gage 26/08/2026: discontinued ('small amounts of stock but not pushing'). Removed from the price book (PLR-20260825-01)."
   },
   {
    "id": "bloomstones--copa-black",
@@ -8281,6 +8819,13 @@
      "kind": "closeup",
      "source": "https://static.wixstatic.com/media/fcef59_f63bebeec73849eeaff609e2ee8890c1~mv2.jpeg",
      "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--crema-ice--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Crema Ice/Crema Ice.jpg)",
+     "borrowedFrom": ""
     }
    ]
   },
@@ -8358,7 +8903,9 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "discontinued": true,
+   "discontinuedNote": "Absent from Bloomstones' July/Aug 2026 lists; Chad Gage 26/08/2026: discontinued ('small amounts of stock but not pushing'). Removed from the price book (PLR-20260825-01)."
   },
   {
    "id": "bloomstones--crystallo-pink",
@@ -8465,6 +9012,13 @@
      "borrowedFrom": "",
      "scale": "true",
      "kind": "slab"
+    },
+    {
+     "file": "bloomstones--danube--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Danube/Danube.jpg)",
+     "borrowedFrom": ""
     }
    ]
   },
@@ -8497,6 +9051,13 @@
      "borrowedFrom": "",
      "scale": "true",
      "kind": "slab"
+    },
+    {
+     "file": "bloomstones--dublin--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Dublin/Dublin.jpg)",
+     "borrowedFrom": ""
     }
    ]
   },
@@ -8599,7 +9160,9 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "discontinued": true,
+   "discontinuedNote": "Absent from Bloomstones' July/Aug 2026 lists; Chad Gage 26/08/2026: discontinued ('small amounts of stock but not pushing'). Removed from the price book (PLR-20260825-01)."
   },
   {
    "id": "bloomstones--everest",
@@ -8657,8 +9220,45 @@
      "kind": "closeup",
      "source": "https://static.wixstatic.com/media/e9822b_ac116540028140b7a9ffbd43aa99689f~mv2.jpg",
      "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--everest--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Everest/Everest Full Slab.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--everest--closeup5.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Everest/Everest Close Up 2.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--everest--closeup6.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Everest/Everest Close Up 3.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--everest--closeup7.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Everest/Everest Close Up 4.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--everest--closeup8.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Everest/Everest Close Up 6.JPG)",
+     "borrowedFrom": ""
     }
-   ]
+   ],
+   "discontinued": true,
+   "discontinuedNote": "Absent from Bloomstones' July/Aug 2026 lists; Chad Gage 26/08/2026: discontinued ('small amounts of stock but not pushing'). Removed from the price book (PLR-20260825-01)."
   },
   {
    "id": "bloomstones--excalibur",
@@ -8787,11 +9387,34 @@
    ],
    "productUrl": "",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "bloomstones--glacial-rift.webp",
+    "status": "slab",
+    "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Glacial Rift/Glacial Rift Full Slab.JPG)",
     "borrowedFrom": ""
-   }
+   },
+   "images": [
+    {
+     "file": "bloomstones--glacial-rift.webp",
+     "status": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Glacial Rift/Glacial Rift Full Slab.JPG)",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--glacial-rift--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Glacial Rift/Glacial Rift Close up 1.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--glacial-rift--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Glacial Rift/Glacial Rift Close up 2.JPG)",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "bloomstones--gold-cream",
@@ -8879,6 +9502,27 @@
      "kind": "closeup",
      "source": "https://static.wixstatic.com/media/e9822b_d4094c53cb754fb2b7a359a346e3df8c~mv2.jpg",
      "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--grigio-sparkle-dark--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Grigio Sparkle Dark/Grigio Sparkle Dark Full Slab.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--grigio-sparkle-dark--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Grigio Sparkle Dark/Grigio Sparkle Dark.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--grigio-sparkle-dark--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Grigio Sparkle Dark/Grigio Sparkle Dark Close Up.jpg)",
+     "borrowedFrom": ""
     }
    ]
   },
@@ -8931,6 +9575,41 @@
      "status": "closeup",
      "kind": "closeup",
      "source": "https://static.wixstatic.com/media/e9822b_c38ac64bbbb943c1a809bdf03809e331~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--grigio-sparkle-light--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Grigio Sparkle Light/Grigio Sparkle Light Full Slab)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--grigio-sparkle-light--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Grigio Sparkle Light/Grigio Sparkle Light.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--grigio-sparkle-light--closeup4.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Grigio Sparkle Light/Grigio Sparkle Light Close Up 2 .jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--grigio-sparkle-light--closeup5.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Grigio Sparkle Light/Grigio Sparkle Light Close Up 3.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--grigio-sparkle-light--closeup6.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Grigio Sparkle Light/Grigio Sparkle Light Close up.jpg)",
      "borrowedFrom": ""
     }
    ]
@@ -9108,6 +9787,27 @@
      "status": "closeup",
      "kind": "closeup",
      "source": "https://static.wixstatic.com/media/e9822b_f750d14106f94ee4b360ac0886fc1310~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--kasha--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Kasha/Kasha Full Slab.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--kasha--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Kasha/Kasha.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--kasha--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Kasha/Kasha Close Up.jpg)",
      "borrowedFrom": ""
     }
    ]
@@ -9315,6 +10015,20 @@
      "kind": "closeup",
      "source": "https://static.wixstatic.com/media/e9822b_c2e05ef08d6246e3ab5611d9ef77c9aa~mv2.jpg",
      "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--lincoln--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Lincoln/Lincoln Full Slab.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--lincoln--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Lincoln/Lincoln Close Up.JPG)",
+     "borrowedFrom": ""
     }
    ]
   },
@@ -9346,8 +10060,24 @@
      "borrowedFrom": "",
      "scale": "approx",
      "kind": "slab"
+    },
+    {
+     "file": "bloomstones--liquid-black--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Liquid Black/Liquid Black Full Slab.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--liquid-black--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Liquid Black/Liquid Black Close Up.jpg)",
+     "borrowedFrom": ""
     }
-   ]
+   ],
+   "discontinued": true,
+   "discontinuedNote": "Absent from Bloomstones' July/Aug 2026 lists; Chad Gage 26/08/2026: discontinued ('small amounts of stock but not pushing'). Removed from the price book (PLR-20260825-01)."
   },
   {
    "id": "bloomstones--liquid-grey",
@@ -9384,8 +10114,24 @@
      "kind": "closeup",
      "source": "https://static.wixstatic.com/media/fcef59_2ed497433b4543bebc1443a3e494f4bc~mv2.jpg",
      "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--liquid-grey--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Liquid Grey/Liquid Grey Full Slab.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--liquid-grey--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Liquid Grey/Liquid Grey Close up.jpg)",
+     "borrowedFrom": ""
     }
-   ]
+   ],
+   "discontinued": true,
+   "discontinuedNote": "Absent from Bloomstones' July/Aug 2026 lists; Chad Gage 26/08/2026: discontinued ('small amounts of stock but not pushing'). Removed from the price book (PLR-20260825-01)."
   },
   {
    "id": "bloomstones--luxury-white",
@@ -9522,6 +10268,13 @@
      "borrowedFrom": "",
      "scale": "true",
      "kind": "slab"
+    },
+    {
+     "file": "bloomstones--milano-grey--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Milano Grey/Milano Grey.jpg)",
+     "borrowedFrom": ""
     }
    ]
   },
@@ -9592,6 +10345,13 @@
      "borrowedFrom": "",
      "scale": "approx",
      "kind": "slab"
+    },
+    {
+     "file": "bloomstones--morganton--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Morganton/Morganton.jpg)",
+     "borrowedFrom": ""
     }
    ]
   },
@@ -9720,6 +10480,27 @@
      "kind": "closeup",
      "source": "https://static.wixstatic.com/media/e9822b_9a061aea602246e9b703bce6da1ca1c5~mv2.jpg",
      "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--nero-sparkle--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Nero Sparkle/Nero Sparkle Full Slab.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--nero-sparkle--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Nero Sparkle/Nero Sparkle Close Up 1.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--nero-sparkle--closeup4.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Nero Sparkle/Nero Sparkle Close Up 2.JPG)",
+     "borrowedFrom": ""
     }
    ]
   },
@@ -9752,6 +10533,13 @@
      "borrowedFrom": "",
      "scale": "approx",
      "kind": "slab"
+    },
+    {
+     "file": "bloomstones--nevada--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Nevada/Nevada.jpg)",
+     "borrowedFrom": ""
     }
    ]
   },
@@ -9784,6 +10572,27 @@
      "borrowedFrom": "",
      "scale": "true",
      "kind": "slab"
+    },
+    {
+     "file": "bloomstones--new-carrara--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/New Carrara/New Carrara Full Slab.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--new-carrara--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/New Carrara/New Carrara Close Up 2.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--new-carrara--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/New Carrara/New Carrara Close up 1.jpg)",
+     "borrowedFrom": ""
     }
    ]
   },
@@ -9890,7 +10699,9 @@
      "scale": "true",
      "kind": "slab"
     }
-   ]
+   ],
+   "discontinued": true,
+   "discontinuedNote": "Absent from Bloomstones' July/Aug 2026 lists; Chad Gage 26/08/2026: discontinued ('small amounts of stock but not pushing'). Removed from the price book (PLR-20260825-01)."
   },
   {
    "id": "bloomstones--oro-extra",
@@ -9927,6 +10738,13 @@
      "status": "closeup",
      "kind": "closeup",
      "source": "https://static.wixstatic.com/media/3e3672_6d5cac586b9c4496803fbc9df1d42eb0~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--oro-extra--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Oro Extra/Oro Extra.jpg)",
      "borrowedFrom": ""
     }
    ]
@@ -10036,7 +10854,17 @@
      "borrowedFrom": "",
      "scale": "approx",
      "kind": "slab"
+    },
+    {
+     "file": "bloomstones--perla-gold--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Perla Gold Honed/Perla Gold.jpg)",
+     "borrowedFrom": ""
     }
+   ],
+   "aliases": [
+    "Perla Gold Honed"
    ]
   },
   {
@@ -10068,6 +10896,34 @@
      "borrowedFrom": "",
      "scale": "approx",
      "kind": "slab"
+    },
+    {
+     "file": "bloomstones--perola--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Perola/Perola Full Slab.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--perola--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Perola/Perola Close up 1.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--perola--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Perola/Perola Close up 2.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--perola--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Perola/Perola Close up 3.JPG)",
+     "borrowedFrom": ""
     }
    ]
   },
@@ -10351,6 +11207,13 @@
      "kind": "closeup",
      "source": "https://static.wixstatic.com/media/e9822b_01f15067dbf84542b53e2ae64668f5bd~mv2.jpg",
      "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--red-sparkle--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Red Sparkle/Red Sparkle Full Slab.jpg)",
+     "borrowedFrom": ""
     }
    ]
   },
@@ -10486,6 +11349,41 @@
      "kind": "closeup",
      "source": "https://static.wixstatic.com/media/e9822b_6ee9e7b199944f1d9e8da03da05d8d8a~mv2.jpg",
      "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--snowdon--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Snowdon/Snowdon Full Slab.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--snowdon--closeup5.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Snowdon/Snowdon Close Up 1.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--snowdon--closeup6.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Snowdon/Snowdon Close Up 2.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--snowdon--closeup7.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Snowdon/Snowdon Close Up 4.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--snowdon--closeup8.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Snowdon/Snowdon Close up 3.JPG)",
+     "borrowedFrom": ""
     }
    ]
   },
@@ -10568,6 +11466,34 @@
      "borrowedFrom": "",
      "scale": "true",
      "kind": "slab"
+    },
+    {
+     "file": "bloomstones--statuario-gold--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Statuario Gold/Statuario Gold Full Slab.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--statuario-gold--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Statuario Gold/Statuario Gold C lose up 2.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--statuario-gold--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Statuario Gold/Statuario Gold Close up 1.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--statuario-gold--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Statuario Gold/Statuario Gold Fitted.jpg)",
+     "borrowedFrom": ""
     }
    ]
   },
@@ -10631,6 +11557,27 @@
      "status": "closeup",
      "kind": "closeup",
      "source": "https://static.wixstatic.com/media/e9822b_e45a664915374b5dbab6c21a7d6b7bfc~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--statuario-premium--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Statuario Premium/Statuario Premium Full Slab.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--statuario-premium--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Statuario Premium/Statuario PremiuM Close up 1.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--statuario-premium--closeup4.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Statuario Premium/Statuario Premium Close Up 2.JPG)",
      "borrowedFrom": ""
     }
    ]
@@ -10769,7 +11716,26 @@
     "status": "slab",
     "source": "onedrive-brands-folder",
     "borrowedFrom": ""
-   }
+   },
+   "images": [
+    {
+     "file": "bloomstones--taj-mahal-printed-quartz.webp",
+     "status": "slab",
+     "source": "onedrive-brands-folder",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--taj-mahal-printed-quartz--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Super Jumbos/TAJ MAHAL.jpg)",
+     "borrowedFrom": ""
+    }
+   ],
+   "aliases": [
+    "TAJ MAHAL"
+   ]
   },
   {
    "id": "bloomstones--taj-velvet-cascade",
@@ -10784,11 +11750,23 @@
    ],
    "productUrl": "",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "bloomstones--taj-velvet-cascade.webp",
+    "status": "slab",
+    "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Super Jumbos/TAJ VELVELET.jpg)",
     "borrowedFrom": ""
-   }
+   },
+   "images": [
+    {
+     "file": "bloomstones--taj-velvet-cascade.webp",
+     "status": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Super Jumbos/TAJ VELVELET.jpg)",
+     "borrowedFrom": "",
+     "kind": "slab"
+    }
+   ],
+   "aliases": [
+    "TAJ VELVELET"
+   ]
   },
   {
    "id": "bloomstones--titan-gold",
@@ -10820,7 +11798,9 @@
      "scale": "true",
      "kind": "slab"
     }
-   ]
+   ],
+   "discontinued": true,
+   "discontinuedNote": "Absent from Bloomstones' July/Aug 2026 lists; Chad Gage 26/08/2026: discontinued ('small amounts of stock but not pushing'). Removed from the price book (PLR-20260825-01)."
   },
   {
    "id": "bloomstones--titanium",
@@ -10941,11 +11921,23 @@
    ],
    "productUrl": "",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "bloomstones--venus-gold.webp",
+    "status": "slab",
+    "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Super Jumbos/VENUS GOLD.jpg)",
     "borrowedFrom": ""
-   }
+   },
+   "images": [
+    {
+     "file": "bloomstones--venus-gold.webp",
+     "status": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Super Jumbos/VENUS GOLD.jpg)",
+     "borrowedFrom": "",
+     "kind": "slab"
+    }
+   ],
+   "aliases": [
+    "VENUS GOLD"
+   ]
   },
   {
    "id": "bloomstones--via-lactea",
@@ -11013,7 +12005,39 @@
      "borrowedFrom": "",
      "scale": "true",
      "kind": "slab"
+    },
+    {
+     "file": "bloomstones--viola--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Viola Leathered/Viola Leathrered Close up 1.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--viola--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Viola Leathered/Viola Leathrered Close up 2.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--viola--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Viola Leathered/Viola Leathrered Close up 3.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--viola--room1.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Viola Leathered/Viola Leathered Full Slab.jpg)",
+     "borrowedFrom": ""
     }
+   ],
+   "aliases": [
+    "Viola Leathered",
+    "Viola Polished"
    ]
   },
   {
@@ -11097,6 +12121,34 @@
      "status": "closeup",
      "kind": "closeup",
      "source": "https://static.wixstatic.com/media/3e3672_8d08729c6fcf4df78dc0531059aada30~mv2.jpg",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--windermere--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Windermere/Windermere Full Slab.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--windermere--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Windermere/Windermere Close up 1.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--windermere--closeup4.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Windermere/Windermere Close up 2.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--windermere--closeup5.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Windermere/Windermere Close up 3.JPG)",
      "borrowedFrom": ""
     }
    ]
@@ -46836,7 +47888,9 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "discontinued": true,
+   "discontinuedNote": "Not a Bloomstones product - Chad Gage 26/08/2026: 'a different company uses Luxe as their name too'. Removed from the price book (PLR-20260826-01)."
   },
   {
    "id": "luxestone--astral-white",
@@ -46855,7 +47909,9 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "discontinued": true,
+   "discontinuedNote": "Not a Bloomstones product - Chad Gage 26/08/2026: 'a different company uses Luxe as their name too'. Removed from the price book (PLR-20260826-01)."
   },
   {
    "id": "luxestone--avalanche",
@@ -46874,7 +47930,9 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "discontinued": true,
+   "discontinuedNote": "Not a Bloomstones product - Chad Gage 26/08/2026: 'a different company uses Luxe as their name too'. Removed from the price book (PLR-20260826-01)."
   },
   {
    "id": "luxestone--bianco-gold",
@@ -46893,7 +47951,9 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "discontinued": true,
+   "discontinuedNote": "Not a Bloomstones product - Chad Gage 26/08/2026: 'a different company uses Luxe as their name too'. Removed from the price book (PLR-20260826-01)."
   },
   {
    "id": "luxestone--black-mirror",
@@ -46912,7 +47972,9 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "discontinued": true,
+   "discontinuedNote": "Not a Bloomstones product - Chad Gage 26/08/2026: 'a different company uses Luxe as their name too'. Removed from the price book (PLR-20260826-01)."
   },
   {
    "id": "luxestone--cairo",
@@ -46931,7 +47993,9 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "discontinued": true,
+   "discontinuedNote": "Not a Bloomstones product - Chad Gage 26/08/2026: 'a different company uses Luxe as their name too'. Removed from the price book (PLR-20260826-01)."
   },
   {
    "id": "luxestone--calacatta-borghini",
@@ -46949,7 +48013,9 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "discontinued": true,
+   "discontinuedNote": "Not a Bloomstones product - Chad Gage 26/08/2026: 'a different company uses Luxe as their name too'. Removed from the price book (PLR-20260826-01)."
   },
   {
    "id": "luxestone--calacatta-oro",
@@ -46968,7 +48034,9 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "discontinued": true,
+   "discontinuedNote": "Not a Bloomstones product - Chad Gage 26/08/2026: 'a different company uses Luxe as their name too'. Removed from the price book (PLR-20260826-01)."
   },
   {
    "id": "luxestone--calacatta-serrone",
@@ -46987,7 +48055,9 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "discontinued": true,
+   "discontinuedNote": "Not a Bloomstones product - Chad Gage 26/08/2026: 'a different company uses Luxe as their name too'. Removed from the price book (PLR-20260826-01)."
   },
   {
    "id": "luxestone--carbon",
@@ -47006,7 +48076,9 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "discontinued": true,
+   "discontinuedNote": "Not a Bloomstones product - Chad Gage 26/08/2026: 'a different company uses Luxe as their name too'. Removed from the price book (PLR-20260826-01)."
   },
   {
    "id": "luxestone--carrara",
@@ -47025,7 +48097,9 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "discontinued": true,
+   "discontinuedNote": "Not a Bloomstones product - Chad Gage 26/08/2026: 'a different company uses Luxe as their name too'. Removed from the price book (PLR-20260826-01)."
   },
   {
    "id": "luxestone--glacier",
@@ -47043,7 +48117,9 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "discontinued": true,
+   "discontinuedNote": "Not a Bloomstones product - Chad Gage 26/08/2026: 'a different company uses Luxe as their name too'. Removed from the price book (PLR-20260826-01)."
   },
   {
    "id": "luxestone--grey-mirror",
@@ -47062,7 +48138,9 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "discontinued": true,
+   "discontinuedNote": "Not a Bloomstones product - Chad Gage 26/08/2026: 'a different company uses Luxe as their name too'. Removed from the price book (PLR-20260826-01)."
   },
   {
    "id": "luxestone--irini",
@@ -47081,7 +48159,9 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "discontinued": true,
+   "discontinuedNote": "Not a Bloomstones product - Chad Gage 26/08/2026: 'a different company uses Luxe as their name too'. Removed from the price book (PLR-20260826-01)."
   },
   {
    "id": "luxestone--noir-gold",
@@ -47100,7 +48180,9 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "discontinued": true,
+   "discontinuedNote": "Not a Bloomstones product - Chad Gage 26/08/2026: 'a different company uses Luxe as their name too'. Removed from the price book (PLR-20260826-01)."
   },
   {
    "id": "luxestone--polar-white",
@@ -47119,7 +48201,9 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "discontinued": true,
+   "discontinuedNote": "Not a Bloomstones product - Chad Gage 26/08/2026: 'a different company uses Luxe as their name too'. Removed from the price book (PLR-20260826-01)."
   },
   {
    "id": "luxestone--sahara-waves",
@@ -47138,7 +48222,9 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "discontinued": true,
+   "discontinuedNote": "Not a Bloomstones product - Chad Gage 26/08/2026: 'a different company uses Luxe as their name too'. Removed from the price book (PLR-20260826-01)."
   },
   {
    "id": "luxestone--super-white",
@@ -47157,7 +48243,9 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "discontinued": true,
+   "discontinuedNote": "Not a Bloomstones product - Chad Gage 26/08/2026: 'a different company uses Luxe as their name too'. Removed from the price book (PLR-20260826-01)."
   },
   {
    "id": "luxestone--superior-calacatta",
@@ -47176,7 +48264,9 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "discontinued": true,
+   "discontinuedNote": "Not a Bloomstones product - Chad Gage 26/08/2026: 'a different company uses Luxe as their name too'. Removed from the price book (PLR-20260826-01)."
   },
   {
    "id": "luxestone--taj-mahal",
@@ -47195,7 +48285,9 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "discontinued": true,
+   "discontinuedNote": "Not a Bloomstones product - Chad Gage 26/08/2026: 'a different company uses Luxe as their name too'. Removed from the price book (PLR-20260826-01)."
   },
   {
    "id": "luxestone--white-mirror",
@@ -47214,7 +48306,9 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "discontinued": true,
+   "discontinuedNote": "Not a Bloomstones product - Chad Gage 26/08/2026: 'a different company uses Luxe as their name too'. Removed from the price book (PLR-20260826-01)."
   },
   {
    "id": "luxestone--white-shimmer",
@@ -47233,7 +48327,9 @@
     "status": "missing",
     "source": "",
     "borrowedFrom": ""
-   }
+   },
+   "discontinued": true,
+   "discontinuedNote": "Not a Bloomstones product - Chad Gage 26/08/2026: 'a different company uses Luxe as their name too'. Removed from the price book (PLR-20260826-01)."
   },
   {
    "id": "neolith--abu-dhabi-white",
@@ -80554,6 +81650,13 @@
      "borrowedFrom": "",
      "scale": "true",
      "kind": "slab"
+    },
+    {
+     "file": "bloomstones--calacatta-verde--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Luxe Surfaces/Calacatta Verde/Calacatta Verde.jpg)",
+     "borrowedFrom": ""
     }
    ]
   },
@@ -80623,7 +81726,38 @@
      "borrowedFrom": "",
      "scale": "true",
      "kind": "slab"
+    },
+    {
+     "file": "bloomstones--vagli-leathered--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Vagli Leathered/Vagli Leathered Full Slab.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--vagli-leathered--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Vagli Leathered/Vagli Close up 1.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--vagli-leathered--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Vagli Leathered/Vagli Leathered Close up 2.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--vagli-leathered--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Vagli Leathered/Vaglie Close up 3.jpg)",
+     "borrowedFrom": ""
     }
+   ],
+   "aliases": [
+    "Vagli Leathered"
    ]
   },
   {
@@ -87630,6 +88764,80 @@
    },
    "slabSizes": "12mm: 3200x1600 / 20mm: 3200x1600",
    "details": "B-Stone Techlam · Sintered Stone · 3D Textured finish. Inspired by the timeless beauty of natural limestone, this textured surface offers warmth, simplicity and enduring style."
+  },
+  {
+   "id": "bloomstones--arabescato-storm",
+   "supplier": "Bloomstones",
+   "colour": "Arabescato Storm",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "",
+   "image": {
+    "file": "bloomstones--arabescato-storm.webp",
+    "status": "slab",
+    "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Arabescato Storm/Arabescato Storm.jpg)",
+    "borrowedFrom": ""
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished · Luxe range (price book only, not on bloomstoneslondon.com)",
+   "images": [
+    {
+     "file": "bloomstones--arabescato-storm.webp",
+     "status": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Arabescato Storm/Arabescato Storm.jpg)",
+     "borrowedFrom": "",
+     "kind": "slab"
+    }
+   ]
+  },
+  {
+   "id": "bloomstones--valencia-gold",
+   "supplier": "Bloomstones",
+   "colour": "Valencia Gold",
+   "material": "Quartz",
+   "naturalStone": false,
+   "illustrationOnly": false,
+   "thicknesses": [
+    20,
+    30
+   ],
+   "productUrl": "",
+   "image": {
+    "file": "bloomstones--valencia-gold.webp",
+    "status": "slab",
+    "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Valencia Gold/Valencia Gold.jpg)",
+    "borrowedFrom": ""
+   },
+   "slabSizes": "20mm: 3230x1630 / 30mm: 3230x1630",
+   "details": "Bloomstones · Quartz · Polished · Luxe range (price book only, not on bloomstoneslondon.com)",
+   "images": [
+    {
+     "file": "bloomstones--valencia-gold.webp",
+     "status": "slab",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Valencia Gold/Valencia Gold.jpg)",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "bloomstones--valencia-gold--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Valencia Gold/Valencia Gold Close up 1.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "bloomstones--valencia-gold--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Chad Gage, Bloomstones London — Smash file 2026-08-26 (Valencia Gold/Valencia Gold Close up 2.JPG)",
+     "borrowedFrom": ""
+    }
+   ]
   }
  ]
 }
