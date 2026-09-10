@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-26T16:55:37Z",
+ "generated": "2026-09-10T17:31:04Z",
  "slabs": [
   {
    "id": "akg-surfaces--adira-bronze",
@@ -54153,7 +54153,38 @@
      "kind": "room",
      "source": "https://picassosurfaces.co.uk/product/annapurna/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--annapurna--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Annapurna/Annapurna.png)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--annapurna--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Annapurna/Annapurna .jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--annapurna--alt3.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Annapurna/Annapurna on rack.JPEG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--annapurna--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Annapurna/Annapurna.JPEG)",
+     "borrowedFrom": ""
     }
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -54197,7 +54228,31 @@
      "kind": "room",
      "source": "https://picassosurfaces.co.uk/product/aqua-gold/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--aqua-gold--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Aqua Gold/Aqua Gold.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--aqua-gold--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Aqua Gold/AQUA GOLD rack.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--aqua-gold--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Aqua Gold/Aqua Gold Kitchen.png)",
+     "borrowedFrom": ""
     }
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -54241,7 +54296,31 @@
      "kind": "room",
      "source": "https://picassosurfaces.co.uk/product/arabescato-corchia/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--arabescato-corchia--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Arabescato Corchia/Arabescato Corchia.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--arabescato-corchia--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Arabescato Corchia/Arabescato Corchia rack.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--arabescato-corchia--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Arabescato Corchia/Arabescato Corchia Kitchen.png)",
+     "borrowedFrom": ""
     }
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -54285,7 +54364,35 @@
      "kind": "room",
      "source": "https://picassosurfaces.co.uk/product/arabescato-creme/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--arabescato-creme--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Arabescato Creme Matte/Arabescato Creme Matte Finish .jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--arabescato-creme--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Arabescato Crème Polished/Arabescato Creme.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--arabescato-creme--alt3.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Arabescato Creme Matte/ARABESCATO CREME rack.JPG)",
+     "borrowedFrom": ""
     }
+   ],
+   "aliases": [
+    "Arabescato Creme Matte",
+    "Arabescato Crème Polished"
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -54336,7 +54443,52 @@
      "kind": "room",
      "source": "https://picassosurfaces.co.uk/product/arctic-storm/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--arctic-storm--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Arctic Storm/Arctic Storm.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--arctic-storm--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Arctic Storm/Arctic Storm.jpeg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--arctic-storm--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Arctic Storm/Arctic Storm Island.jpeg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--arctic-storm--room5.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Arctic Storm/Arctic Storm worktop.jpeg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--arctic-storm--room6.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Arctic Storm/Arctic storm Kitchen.jpeg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--arctic-storm--room7.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Arctic Storm/ARCTIC STORM INSTALL/Arctic Storm (1).jpg)",
+     "borrowedFrom": ""
     }
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -54373,7 +54525,17 @@
      "kind": "closeup",
      "source": "https://picassosurfaces.co.uk/product/aspen/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--aspen--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Aspen/Aspen.jpg)",
+     "borrowedFrom": ""
     }
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -54410,7 +54572,24 @@
      "kind": "closeup",
      "source": "https://picassosurfaces.co.uk/product/aspen-gold/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--aspen-gold--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Aspen Gold/Aspen Gold.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--aspen-gold--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Aspen Gold/Aspen Gold(1).jpg)",
+     "borrowedFrom": ""
     }
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -54482,7 +54661,45 @@
      "kind": "room",
      "source": "https://www.picassostones.com/calacatta-gold-5",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--calacatta-gold--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Carrara Gold/Calacatta Gold.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--calacatta-gold--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Carrara Gold/Calacatta Gold Detail.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--calacatta-gold--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Carrara Gold/Calacatta gold install 2.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--calacatta-gold--room5.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Carrara Gold/Calacatta gold install 3.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--calacatta-gold--room6.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Carrara Gold/Calacatta gold install.jpg)",
+     "borrowedFrom": ""
     }
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -54526,7 +54743,31 @@
      "kind": "room",
      "source": "https://picassosurfaces.co.uk/product/calacatta-oro/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--calacatta-oro--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Calacatta Oro/Calacatta Oro HQ.jpeg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--calacatta-oro--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Calacatta Oro/Calacatta Oro rack.JPEG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--calacatta-oro--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Calacatta Oro/Calacatta Oro install .JPEG)",
+     "borrowedFrom": ""
     }
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -54603,7 +54844,17 @@
      "kind": "closeup",
      "source": "https://picassosurfaces.co.uk/product/carrara-ice/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--carrara-ice-shimmer--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Carrara Ice (Shimmer)/Carrara Ice.jpg)",
+     "borrowedFrom": ""
     }
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -54654,7 +54905,52 @@
      "kind": "room",
      "source": "https://picassosurfaces.co.uk/product/carrara-neo/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--carrara-neo--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Carrara Neo/Carrara Neo  (2).jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--carrara-neo--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Carrara Neo/Carrara Neo  Detail.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--carrara-neo--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Carrara Neo/Carrara Neo Install (1).jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--carrara-neo--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Carrara Neo/Carrara Neo Install (2).jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--carrara-neo--room5.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Carrara Neo/Carrara Neo Install (3).jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--carrara-neo--room6.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Carrara Neo/Carrara Neo Install (4).jpg)",
+     "borrowedFrom": ""
     }
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -54698,7 +54994,17 @@
      "kind": "room",
      "source": "https://picassosurfaces.co.uk/product/carrara-white/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--carrara-white--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Carrara White/Carrara White kitchen.jpg)",
+     "borrowedFrom": ""
     }
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -54742,7 +55048,52 @@
      "kind": "room",
      "source": "https://picassosurfaces.co.uk/product/cashmere/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--cashmere--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Cashmere/Cashmere slab.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--cashmere--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Cashmere/Cashmere racking.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--cashmere--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Cashmere/Cashmere (3).jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--cashmere--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Cashmere/Cashmere (4).jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--cashmere--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Cashmere/Cashmere (5).jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--cashmere--room5.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Cashmere/Cashmere (6).jpg)",
+     "borrowedFrom": ""
     }
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -54793,7 +55144,73 @@
      "kind": "room",
      "source": "https://picassosurfaces.co.uk/product/celestial-gold/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--celestial-gold--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Celestial Gold/Celestial Gold.jpeg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--celestial-gold--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Celestial Gold/Celestail Gold High Q.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--celestial-gold--alt3.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Celestial Gold/Celestial Gold rack.jpeg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--celestial-gold--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Celestial Gold/Celestial Gold Detail (1).jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--celestial-gold--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Celestial Gold/Celestial Gold Detail (2).jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--celestial-gold--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Celestial Gold/CELESTIAL GOLD INSTALL/Celestial Gold (1).jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--celestial-gold--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Celestial Gold/CELESTIAL GOLD INSTALL/Celestial Gold (3).jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--celestial-gold--room5.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Celestial Gold/CELESTIAL GOLD INSTALL/Celestial Gold island.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--celestial-gold--room6.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Celestial Gold/CELESTIAL GOLD INSTALL/Celestial Gold.jpg)",
+     "borrowedFrom": ""
     }
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -54830,7 +55247,52 @@
      "kind": "room",
      "source": "https://www.picassostones.com/celestial-grey-7",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--celestial-grey--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Celestial Grey/Celestial Grey.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--celestial-grey--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Celestial Grey/Celestial Grey rack.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--celestial-grey--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Celestial Grey/Celestial Grey 1.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--celestial-grey--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Celestial Grey/Celestial Grey 2.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--celestial-grey--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Celestial Grey/Celestial Grey Table top.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--celestial-grey--room5.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Celestial Grey/Celestial Grey install.jpg)",
+     "borrowedFrom": ""
     }
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -54881,7 +55343,52 @@
      "kind": "room",
      "source": "https://picassosurfaces.co.uk/product/celestial-white/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--celestial-white--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Celestial White/Celestial White.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--celestial-white--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Celestial White/Celestial White rack.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--celestial-white--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Celestial White/Celestial White 1.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--celestial-white--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Celestial White/Celestial White 2.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--celestial-white--room5.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Celestial White/Celestial White Kitchen.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--celestial-white--room6.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Celestial White/Celestial White island.jpg)",
+     "borrowedFrom": ""
     }
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -54925,7 +55432,42 @@
      "kind": "room",
      "source": "https://picassosurfaces.co.uk/product/crema-royal/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--crema-royal--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Royal Cream Polished/Royal Creme Polished.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--crema-royal--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Royal Creme Matte/Royal Creme Matte.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--crema-royal--alt3.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Royal Cream Polished/Royal Creme rack.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--crema-royal--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Royal Cream Polished/Royal creme Kitchen.png)",
+     "borrowedFrom": ""
     }
+   ],
+   "aliases": [
+    "Royal Cream Polished",
+    "Royal Creme Matte"
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -54969,7 +55511,45 @@
      "kind": "room",
      "source": "https://picassosurfaces.co.uk/product/cristallo/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--cristallo--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Cristallo/Cristallo- (2).jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--cristallo--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Cristallo/CRISTALLO.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--cristallo--alt3.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Cristallo/CRISTALLO BACK LIT.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--cristallo--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Cristallo/Cristallo- (1).jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--cristallo--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Cristallo/Cristallo- (3).jpg)",
+     "borrowedFrom": ""
     }
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -54991,7 +55571,26 @@
     "borrowedFrom": ""
    },
    "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
-   "details": "A pristine white canvas elegantly traced with flowing veins of warm gold and soft grey. The contrast between its luminous background and delicate linear patterning creates a sense of effortless movement, reminiscent of fine Calacatta marble. Finish: Polished."
+   "details": "A pristine white canvas elegantly traced with flowing veins of warm gold and soft grey. The contrast between its luminous background and delicate linear patterning creates a sense of effortless movement, reminiscent of fine Calacatta marble. Finish: Polished.",
+   "images": [
+    {
+     "file": "picasso-surfaces--erebus.webp",
+     "status": "slab",
+     "source": "https://picassosurfaces.co.uk/product/erebus/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--erebus--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Erebus/Erebus .JPG)",
+     "borrowedFrom": ""
+    }
+   ],
+   "suppliers": [
+    "Quantum Stone"
+   ]
   },
   {
    "id": "picasso-surfaces--golden-storm",
@@ -55034,7 +55633,31 @@
      "kind": "room",
      "source": "https://picassosurfaces.co.uk/product/golden-storm/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--golden-storm--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Golden Storm/Golden Storm 1 (2).jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--golden-storm--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Golden Storm/Golden Storm.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--golden-storm--alt3.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Golden Storm/Golden Storm.jpeg)",
+     "borrowedFrom": ""
     }
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -55088,7 +55711,66 @@
      "kind": "room",
      "source": "https://picassosurfaces.co.uk/product/golden-thunder/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--golden-thunder--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Golden Thunder/Golden Thunder HIGH Q (3).jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--golden-thunder--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Golden Thunder/Golden Thunder.jpeg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--golden-thunder--alt3.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Golden Thunder/Golden Thunder HIGH Q (1).jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--golden-thunder--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Golden Thunder/Golden Thunder HIGH Q Detail (2).jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--golden-thunder--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Golden Thunder/Golden Thunder Table.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--golden-thunder--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Golden Thunder/Golden Thunder worktop.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--golden-thunder--room5.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Golden Thunder/Golden thunder Kitchen.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--golden-thunder--room6.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Golden Thunder/Golden thunder New_kitchen.PNG)",
+     "borrowedFrom": ""
     }
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -55123,13 +55805,32 @@
    ],
    "productUrl": "https://www.picassostones.com/mirror-series/dark-grey-mirror-2",
    "image": {
-    "file": "picasso-surfaces--grey-mirror.webp",
+    "file": "picasso-surfaces--grey-mirror--carl.webp",
     "status": "slab",
-    "source": "https://www.picassostones.com/mirror-series/dark-grey-mirror-2",
+    "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Grey Mirror/Grey Mirror.jpg)",
     "borrowedFrom": ""
    },
    "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
-   "details": "Picasso · Mirror Series · Polished"
+   "details": "Picasso · Mirror Series · Polished",
+   "images": [
+    {
+     "file": "picasso-surfaces--grey-mirror--carl.webp",
+     "status": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Grey Mirror/Grey Mirror.jpg)",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--grey-mirror.webp",
+     "status": "slab",
+     "source": "https://www.picassostones.com/mirror-series/dark-grey-mirror-2",
+     "borrowedFrom": "",
+     "kind": "slab"
+    }
+   ],
+   "suppliers": [
+    "Quantum Stone"
+   ]
   },
   {
    "id": "picasso-surfaces--himalyan-pink-onyx",
@@ -55175,7 +55876,31 @@
      "kind": "room",
      "source": "https://picassosurfaces.co.uk/product/himalayan-pink-onyx/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--himalyan-pink-onyx--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Himalyan Pink Onyx/Himalayan Pink Onyx.jpeg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--himalyan-pink-onyx--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Himalyan Pink Onyx/Himalayan Pink Onyx .jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--himalyan-pink-onyx--alt3.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Himalyan Pink Onyx/Himalayan Pink Onyx back lit.jpg)",
+     "borrowedFrom": ""
     }
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -55222,7 +55947,31 @@
      "kind": "room",
      "source": "https://picassosurfaces.co.uk/product/jade-galcia/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--jade-glacia--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Jade Glacia/Jade Galicia.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--jade-glacia--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Jade Glacia/JADE GLACIA rack.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--jade-glacia--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Jade Glacia/Application of  JADE GLACIA.png)",
+     "borrowedFrom": ""
     }
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -55273,7 +56022,73 @@
      "kind": "room",
      "source": "https://picassosurfaces.co.uk/product/moonlight/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--moonlight--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Moonlight/Moonlight.jpeg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--moonlight--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Moonlight/Moonlight High Q.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--moonlight--alt3.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Moonlight/Moonlight rack.jpeg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--moonlight--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Moonlight/Moonlight Detail (1).jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--moonlight--closeup3.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Moonlight/Moonlight Detail (2).jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--moonlight--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Moonlight/MOONLIGHT INSTALL/Moonlight Island.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--moonlight--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Moonlight/MOONLIGHT INSTALL/Moonlight Kitchen.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--moonlight--room5.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Moonlight/MOONLIGHT INSTALL/Moonlight Worktop.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--moonlight--room6.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Moonlight/MOONLIGHT INSTALL/moonlight.jpg)",
+     "borrowedFrom": ""
     }
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -55310,7 +56125,17 @@
      "kind": "closeup",
      "source": "https://picassosurfaces.co.uk/product/nacorado/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--nacorado--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Nacorado/Nacorado high Q.jpg)",
+     "borrowedFrom": ""
     }
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -55354,7 +56179,38 @@
      "kind": "room",
      "source": "https://picassosurfaces.co.uk/product/opal-royale/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--opal-royale--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Opal Royale/OPAL ROYALE.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--opal-royale--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Opal Royale/Opal Royale.png)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--opal-royale--alt3.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Opal Royale/OPAL ROYALE rack.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--opal-royale--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Opal Royale/Application image of OPAL ROYALE.png)",
+     "borrowedFrom": ""
     }
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -55398,7 +56254,38 @@
      "kind": "room",
      "source": "https://picassosurfaces.co.uk/product/orella/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--orella--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Orella/Orella.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--orella--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Orella/Orella (2).jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--orella--alt3.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Orella/Orella 1.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--orella--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Orella/Orella (1).jpg)",
+     "borrowedFrom": ""
     }
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -55442,7 +56329,31 @@
      "kind": "room",
      "source": "https://picassosurfaces.co.uk/product/patagonia/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--patagonia--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Patagonia/Patagonia  (3).JPEG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--patagonia--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Patagonia/Patagonia  (1).JPEG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--patagonia--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Patagonia/Patagonia  (2).JPEG)",
+     "borrowedFrom": ""
     }
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -55486,7 +56397,31 @@
      "kind": "room",
      "source": "https://picassosurfaces.co.uk/product/pearla/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--pearla--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Pearla/Pearla.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--pearla--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Pearla/Pearla (1).jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--pearla--alt3.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Pearla/Pearla (2).jpg)",
+     "borrowedFrom": ""
     }
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -55523,7 +56458,20 @@
      "kind": "closeup",
      "source": "https://picassosurfaces.co.uk/product/snowdale/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--snowdale--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Snowdale (White shimmer)/Snowdale.jpg)",
+     "borrowedFrom": ""
     }
+   ],
+   "aliases": [
+    "Snowdale (White shimmer)"
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -55567,7 +56515,31 @@
      "kind": "room",
      "source": "https://picassosurfaces.co.uk/product/solarius/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--solarius--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Solarius/Solarius.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--solarius--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Solarius/Solarius  (2).jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--solarius--room2.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Solarius/Solarius  (1).jpg)",
+     "borrowedFrom": ""
     }
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -55618,7 +56590,69 @@
      "kind": "room",
      "source": "https://picassosurfaces.co.uk/product/sunlight/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--sunlight--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Sunlight/Sunlight  full slab.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--sunlight--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Sunlight/Sunlight polished.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--sunlight--alt3.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Sunlight Matte/Sunlight  Matte.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--sunlight--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Sunlight/Sunlight Detail.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--sunlight--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Sunlight/Sunlight Island.jpeg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--sunlight--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Sunlight/Sunlight Kitchen.jpeg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--sunlight--room5.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Sunlight/Sunlight Worktop.jpeg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--sunlight--room6.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Sunlight/SUNLIGHT INSTALL/Sunlight (1).jpg)",
+     "borrowedFrom": ""
     }
+   ],
+   "aliases": [
+    "Sunlight Matte"
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -55656,6 +56690,9 @@
      "source": "https://picassosurfaces.co.uk/product/super-white/",
      "borrowedFrom": ""
     }
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -55699,7 +56736,34 @@
      "kind": "room",
      "source": "https://picassosurfaces.co.uk/product/taj-honey-onyx/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--taj-honey-onyx--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Taj Onyx/TAJ ONYX.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--taj-honey-onyx--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Taj Onyx/Taj Honey Onyx-G655-3.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--taj-honey-onyx--alt3.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Taj Onyx/Taj Honey Onyx.jpg)",
+     "borrowedFrom": ""
     }
+   ],
+   "aliases": [
+    "Taj Onyx"
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -55743,7 +56807,63 @@
      "kind": "room",
      "source": "https://picassosurfaces.co.uk/product/taj-mahal-extra/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--taj-mahal-extra--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Taj Mahal Extra Matte/Taj Mahal Extra Matte.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--taj-mahal-extra--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Taj Mahal Extra Polished/Taj Mahal Extra High Q (2).jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--taj-mahal-extra--alt3.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Taj Mahal Extra Polished/Taj Mahal Extra.JPG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--taj-mahal-extra--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Taj Mahal Extra Polished/Taj Mahal Extra High Q DETAIL (1).jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--taj-mahal-extra--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Taj Mahal Extra Matte/Taj Mahal Extra install (1).JPEG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--taj-mahal-extra--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Taj Mahal Extra Matte/Taj Mahal Extra install (2).JPEG)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--taj-mahal-extra--room5.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Taj Mahal Extra Matte/Taj Mahal Extra install (3).JPEG)",
+     "borrowedFrom": ""
     }
+   ],
+   "aliases": [
+    "Taj Mahal Extra Matte",
+    "Taj Mahal Extra Polished"
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -55821,7 +56941,23 @@
    "suppliers": [
     "Quantum Stone"
    ],
-   "details": "Picasso Surfaces via Quantum Stone UK · soft ivory base with delicate golden veining"
+   "details": "Picasso Surfaces via Quantum Stone UK · soft ivory base with delicate golden veining",
+   "images": [
+    {
+     "file": "picasso-surfaces--tuscan.webp",
+     "status": "slab",
+     "source": "https://quantumstone.co.uk/product/tuscan/",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--tuscan--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Tuscan/Tuscan Delicato.JPG)",
+     "borrowedFrom": ""
+    }
+   ]
   },
   {
    "id": "picasso-surfaces--verde-onyx",
@@ -55864,7 +57000,31 @@
      "kind": "room",
      "source": "https://picassosurfaces.co.uk/product/verde-onyx/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--verde-onyx--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Verde Onyx/Verde Onyx.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--verde-onyx--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Verde Onyx/Verde Onyx-G665-2.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--verde-onyx--alt3.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Verde Onyx/Verde Onyx (1).jpg)",
+     "borrowedFrom": ""
     }
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -55899,11 +57059,51 @@
    ],
    "productUrl": "",
    "image": {
-    "file": "",
-    "status": "missing",
-    "source": "",
+    "file": "picasso-surfaces--viola.webp",
+    "status": "slab",
+    "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Viola/fd0e26b84272509f57183d75ac6fd414.JPG)",
     "borrowedFrom": ""
-   }
+   },
+   "images": [
+    {
+     "file": "picasso-surfaces--viola.webp",
+     "status": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Viola/fd0e26b84272509f57183d75ac6fd414.JPG)",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--viola--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Viola/Viola  (3).jpeg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--viola--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Viola/Viola  (2).jpeg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--viola--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Viola/Viola  (1).jpeg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--viola--closeup2.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (Viola/Viola  (4).jpeg)",
+     "borrowedFrom": ""
+    }
+   ],
+   "suppliers": [
+    "Quantum Stone"
+   ]
   },
   {
    "id": "picasso-surfaces--white-lake",
@@ -55939,7 +57139,69 @@
      "kind": "room",
      "source": "https://picassosurfaces.co.uk/product/white-lake/",
      "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--white-lake--alt1.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (White Lake/White Lake Polished.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--white-lake--alt2.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (White Lake Matte/White Lake Matte .jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--white-lake--alt3.webp",
+     "status": "slab",
+     "kind": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (White Lake/White Lake High Q (1).jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--white-lake--closeup1.webp",
+     "status": "closeup",
+     "kind": "closeup",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (White Lake/White Lake High Q Detail.jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--white-lake--room3.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (White Lake/White Lake island.jpeg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--white-lake--room4.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (White Lake/White Lake kitchen.jpeg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--white-lake--room5.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (White Lake/Whitelake install (1).jpg)",
+     "borrowedFrom": ""
+    },
+    {
+     "file": "picasso-surfaces--white-lake--room6.webp",
+     "status": "representative",
+     "kind": "room",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (White Lake/Whitelake install (2).jpg)",
+     "borrowedFrom": ""
     }
+   ],
+   "aliases": [
+    "White Lake Matte"
+   ],
+   "suppliers": [
+    "Quantum Stone"
    ]
   },
   {
@@ -55955,13 +57217,32 @@
    ],
    "productUrl": "https://www.picassostones.com/mirror-series/white-mirror-2",
    "image": {
-    "file": "picasso-surfaces--white-mirror.webp",
+    "file": "picasso-surfaces--white-mirror--carl.webp",
     "status": "slab",
-    "source": "picassostones.com",
+    "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (White Mirror/White Mirror.jpg)",
     "borrowedFrom": ""
    },
    "slabSizes": "20mm: 3200x1600 / 30mm: 3200x1600",
-   "details": "Picasso · Mirror Series · Polished"
+   "details": "Picasso · Mirror Series · Polished",
+   "images": [
+    {
+     "file": "picasso-surfaces--white-mirror--carl.webp",
+     "status": "slab",
+     "source": "Carl Kimpton, Quantum Stone UK — Google Drive photo folder 2026-09-10 (White Mirror/White Mirror.jpg)",
+     "borrowedFrom": "",
+     "kind": "slab"
+    },
+    {
+     "file": "picasso-surfaces--white-mirror.webp",
+     "status": "slab",
+     "source": "picassostones.com",
+     "borrowedFrom": "",
+     "kind": "slab"
+    }
+   ],
+   "suppliers": [
+    "Quantum Stone"
+   ]
   },
   {
    "id": "quartz-hub--arabescatta-oro",
